@@ -1,5 +1,4 @@
-- Introduction
-  - [Brief]()
+- [Introduction]()
   - [Term 1](/t1)
   - [Term 2](/t2)
 - Arch
