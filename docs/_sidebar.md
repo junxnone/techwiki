@@ -1,4 +1,4 @@
-- Install
+- [Install](./Install)
 - Desktop
 - [Tools](./Tools)
 - Samba
