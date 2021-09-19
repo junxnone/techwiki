@@ -2,12 +2,16 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-19T10:17:03Z`
+Update Date | `2021-09-19T10:24:55Z`
 ---
 # Reference
 - [linux-command](https://github.com/einverne/linux-command)
 - [搜索](https://wangchujiang.com/linux-command/)
 - [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+
+# Summary
+
+- [List Hardware info](./List_Hardware_info)
 
 # 实用命令
 
