@@ -2,13 +2,13 @@
 Title | Install
 -- | --
 Create Date | `2021-09-19T10:21:17Z`
-Update Date | `2021-09-19T14:52:36Z`
+Update Date | `2021-09-19T15:07:04Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 
 ---
 - [Install Ubuntu OS]
 - [Install Google Pinyin](./Ubuntu_install_google_pinyin)
-- [Install Vi](./)
+- [Install Vi](./Vi)
 - [Setup Remote Desktop](./Ubuntu_Remote_Desktop)
 - [Auto mount disk](./Ubuntu_auto_mount_disk)
 - [Install Gcc](./Ubuntu_Install_GCC)
