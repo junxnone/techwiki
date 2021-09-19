@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-19T10:24:55Z`
+Update Date | `2021-09-19T10:26:00Z`
 ---
 # Reference
 - [linux-command](https://github.com/einverne/linux-command)
@@ -12,6 +12,7 @@ Update Date | `2021-09-19T10:24:55Z`
 # Summary
 
 - [List Hardware info](./List_Hardware_info)
+- [Linux date](./Linux_date)
 
 # 实用命令
 
