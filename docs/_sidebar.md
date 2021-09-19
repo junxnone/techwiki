@@ -1,6 +1,6 @@
 - Install
 - Desktop
-- Tools
+- [Tools](./Tools)
 - Samba
 - Docker
 - Proxy
