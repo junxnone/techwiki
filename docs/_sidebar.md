@@ -1,5 +1,5 @@
 - [Install](./Install)
-- Desktop
+- [Desktop](Linux_Desktop)
 - [Tools](./Tools)
 - Samba
 - Docker
