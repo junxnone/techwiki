@@ -1,13 +1,15 @@
 ---
 Title | Ubuntu Install Steam
 -- | --
-Create Date | `2021-09-19T10:19:39Z`
-Update Date | `2021-09-19T10:19:39Z`
+Create Date | `2021-03-02T12:27:32Z`
+Update Date | `2021-09-19T14:09:46Z`
+Edit link | [here](https://github.com/junxnone/linuxwiki/issues/4)
+
 ---
 # Reference
 - [How to install Steam on Ubuntu 20.04 Focal Fossa Linux](https://linuxconfig.org/how-to-install-steam-on-ubuntu-20-04-focal-fossa-linux)
 
-# Install
+# Install Steam
 
 - **N.B. Install 32bit  Nvidia GPU Driver**
 
