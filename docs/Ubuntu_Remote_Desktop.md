@@ -1,14 +1,18 @@
 ---
 Title | Ubuntu Remote Desktop
 -- | --
-Create Date | `2021-09-19T14:05:56Z`
-Update Date | `2021-09-19T14:05:56Z`
+Create Date | `2021-01-06T03:05:58Z`
+Update Date | `2021-09-19T14:08:14Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/11)
 
 ---
 # Reference
 - [Issues with xRDP and Ubuntu 18.04.2 – How to fix it](http://c-nergy.be/blog/?p=13390)
 - [配置 VNC](https://www.mobibrw.com/2019/19379)
+
+# Brief
+- xrdp 方式 windows 访问 Linux
+- VNC 通用方式访问
 
 # xrdp
 
