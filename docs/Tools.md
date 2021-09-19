@@ -2,7 +2,9 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-19T10:28:53Z`
+Update Date | `2021-09-19T12:02:57Z`
+Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
+
 ---
 # Reference
 - [linux-command](https://github.com/einverne/linux-command)
@@ -16,7 +18,7 @@ Update Date | `2021-09-19T10:28:53Z`
 - [Linux show boot info](./Linux_show_boot_info)
 
 
-# 实用命令
+# 实用工具
 
 Command | Description
 -- | --
@@ -29,7 +31,7 @@ pv | pv  file1 > file1.copy (显示copy进度)
 cal | 打印日历
 time | `time ./your_app` 计算执行时间
 
-# 好玩的命令
+# 好玩的工具
 
 Command | Description
 -- | --
