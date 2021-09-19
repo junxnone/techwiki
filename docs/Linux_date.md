@@ -1,8 +1,8 @@
 ---
 Title | Linux date
 -- | --
-Create Date | `2021-09-19T10:25:34Z`
-Update Date | `2021-09-19T10:25:34Z`
+Create Date | `2019-08-01T05:38:13Z`
+Update Date | `2021-09-19T10:34:58Z`
 ---
 # Reference
 
@@ -83,6 +83,7 @@ $ date -d "-1185 day"
 > ±n day/month/year
 
 -  校正时区和时间
+
 ```
 $ tzselect
 Please identify a location so that time zone rules can be set correctly.
@@ -157,12 +158,16 @@ Tue Nov  5 10:46:52 CST 2019
 > CST = China Standard Time UT+8:00
 
 - 如果时间不对，设置时间
+
 ```
 sudo date -s 14:00:00
 ```
+
 - 使用 google http 时间 更新系统时间 - [`ntp` 不同通过 `proxy`]
+
 ```
 sudo date -s "$(wget -S  "http://www.google.com/" 2>&1 | grep -E '^[[:space:]]*[dD]ate:' | sed 's/^[[:space:]]*[dD]ate:[[:space:]]*//' | head -1l | awk '{print $1, $3, $2,  $5 ,"GMT", $4 }' | sed 's/,//')"
 ```
+
 # 使用ntp时间
 
