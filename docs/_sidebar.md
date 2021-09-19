@@ -5,3 +5,4 @@
 - Docker
 - Proxy
 - OS
+- Shell
