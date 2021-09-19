@@ -1,14 +1,15 @@
 ---
 Title | Tools
 -- | --
-Create Date | `2021-09-19T10:10:16Z`
-Update Date | `2021-09-19T10:10:16Z`
+Create Date | `2019-04-12T07:23:06Z`
+Update Date | `2021-09-19T10:15:11Z`
 ---
 # Reference
 - [linux-command](https://github.com/einverne/linux-command)
 - [搜索](https://wangchujiang.com/linux-command/)
 - [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 # 实用命令
+
 Command | Description
 -- | --
 du -h | 统计文件夹占用空间大小
@@ -19,7 +20,9 @@ xargs | find . -name *.txt \| xargs cat
 pv | pv  file1 > file1.copy (显示copy进度)
 cal | 打印日历
 time | `time ./your_app` 计算执行时间
+
 # 好玩的命令
+
 Command | Description
 -- | --
 sl | 跑火车
