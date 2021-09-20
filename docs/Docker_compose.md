@@ -1,8 +1,8 @@
 ---
 Title | Docker compose
 -- | --
-Create Date | `2021-09-20T10:25:29Z`
-Update Date | `2021-09-20T10:25:29Z`
+Create Date | `2018-09-06T16:19:34Z`
+Update Date | `2021-09-20T10:47:06Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/42)
 
 ---
@@ -15,12 +15,18 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/42)
 
 # Brief
 
+- [Install](#Install)
+- [UseCase](#usecase)
+- [Examples](#examples)
 
 Compose 是一个用户定义和运行多个容器的 Docker 应用程序。在 Compose 中你可以使用 YAML 文件来配置你的应用服务。然后，只需要一个简单的命令，就可以创建并启动你配置的所有服务。
 
 1. 在 Dockfile 中定义你的应用环境，使其可以在任何地方复制。
 2. 在 docker-compose.yml 中定义组成应用程序的服务，以便它们可以在隔离的环境中一起运行。
 3. 最后，运行dcoker-compose up，Compose 将启动并运行整个应用程序。
+
+
+
 
 # Install 
 ## 二进制安装
