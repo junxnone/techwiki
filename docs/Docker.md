@@ -2,7 +2,7 @@
 Title | Docker
 -- | --
 Create Date | `2018-09-06T16:18:38Z`
-Update Date | `2021-09-20T10:20:48Z`
+Update Date | `2021-09-20T10:21:22Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/39)
 
 ---
@@ -18,7 +18,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/39)
 
 # Brief
 - Install docker
-- Docker Setup
+- Docker Usecase/Setup proxy/mirror
 - [Docker Network](./Docker_Network)
 - [Docker GUI](./Docker_GUI)
 - [Docker compose](./Docker_compose)
