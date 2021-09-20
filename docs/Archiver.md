@@ -1,8 +1,8 @@
 ---
 Title | Archiver
 -- | --
-Create Date | `2021-09-20T03:38:55Z`
-Update Date | `2021-09-20T03:38:55Z`
+Create Date | `2020-06-24T03:00:54Z`
+Update Date | `2021-09-20T04:00:49Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/22)
 
 ---
@@ -29,7 +29,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/22)
 
 用法 | command
 -- | --
-压缩 | `zip -q -r data.zip data/
+压缩 | `zip -q -r data.zip data/`
 解压  | `unzip data.zip`<br>`unzip data.zip -d tmp`
 
 - zip
