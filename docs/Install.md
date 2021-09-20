@@ -2,11 +2,12 @@
 Title | Install
 -- | --
 Create Date | `2021-09-19T10:21:17Z`
-Update Date | `2021-09-19T15:07:04Z`
+Update Date | `2021-09-20T12:16:32Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 
 ---
 - [Install Ubuntu OS]
+- [Ubuntu Server Install Desktop](./Ubuntu_server_Install_desktop)
 - [Install Google Pinyin](./Ubuntu_install_google_pinyin)
 - [Install Vi](./Vi)
 - [Setup Remote Desktop](./Ubuntu_Remote_Desktop)
