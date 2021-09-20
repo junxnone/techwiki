@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-20T04:53:02Z`
+Update Date | `2021-09-20T06:50:49Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -20,6 +20,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 - [Linux Network Port Tools](./Linux_Network_Port_Tools)
 - [Network Performance Tools](./Network_Performance_Tools)
 - [压缩解压工具](./Archiver)
+- [Linux Download Tools](./Linux_Download_Tools)
 - [Linux Task Schedule Tools](./Linux_Task_Schedule_Tools)
 - [tmux](./tmux)
 - [rsync](./rsync)
