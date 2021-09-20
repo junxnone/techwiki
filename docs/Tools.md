@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-20T06:50:49Z`
+Update Date | `2021-09-20T07:35:24Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -24,7 +24,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 - [Linux Task Schedule Tools](./Linux_Task_Schedule_Tools)
 - [tmux](./tmux)
 - [rsync](./rsync)
-
+- [shuf](./Linux_shuf)
 
 # 实用工具
 
