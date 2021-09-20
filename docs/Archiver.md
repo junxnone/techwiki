@@ -2,7 +2,7 @@
 Title | Archiver
 -- | --
 Create Date | `2020-06-24T03:00:54Z`
-Update Date | `2021-09-20T04:00:49Z`
+Update Date | `2021-09-20T04:13:08Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/22)
 
 ---
@@ -13,7 +13,12 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/22)
 - 7z
 - rar/unrar
 
-# tar - `tar.gz` - `tar.bz2`
+# tar
+
+- *.tar
+- *.tar.gz
+- *.tar.bz2
+
 
 用法 | command
 -- | --
