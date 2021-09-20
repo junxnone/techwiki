@@ -2,7 +2,7 @@
 Title | Install
 -- | --
 Create Date | `2021-09-19T10:21:17Z`
-Update Date | `2021-09-20T12:49:23Z`
+Update Date | `2021-09-20T12:59:34Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 
 ---
@@ -18,4 +18,4 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 - [Ubuntu Change Kernel Version](./Ubuntu_Change_Kernel_Version)
 ## Issues
 - [Ubuntu Desktop Display Issue](./Ubuntu_Desktop_Display_Issue)
-
+- [Ubuntu forget password](Ubuntu_forget_password)
