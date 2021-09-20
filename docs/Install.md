@@ -2,7 +2,7 @@
 Title | Install
 -- | --
 Create Date | `2021-09-19T10:21:17Z`
-Update Date | `2021-09-20T12:23:01Z`
+Update Date | `2021-09-20T12:26:17Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 
 ---
@@ -15,3 +15,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 - [Install Gcc](./Ubuntu_Install_GCC)
 - [Ubuntu Install Steam](./Ubuntu_Install_Steam)
 - [Linux Setup hostname](./Linux_Setup_hostname)
+
+## Issues
+- [Ubuntu Desktop Display Issue](./Ubuntu_Desktop_Display_Issue)
+
