@@ -2,10 +2,12 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-20T07:35:24Z`
+Update Date | `2021-09-20T08:02:54Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
+[TOC]
+
 # Reference
 - [linux-command](https://github.com/einverne/linux-command)
 - [搜索](https://wangchujiang.com/linux-command/)
