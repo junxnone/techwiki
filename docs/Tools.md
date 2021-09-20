@@ -2,11 +2,10 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-20T08:11:26Z`
+Update Date | `2021-09-20T11:50:15Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
-
 # Reference
 - [linux-command](https://github.com/einverne/linux-command)
 - [搜索](https://wangchujiang.com/linux-command/)
@@ -26,6 +25,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 - [tmux](./tmux)
 - [rsync](./rsync)
 - [shuf](./Linux_shuf)
+- [putty](./putty)
 
 # 实用工具
 
