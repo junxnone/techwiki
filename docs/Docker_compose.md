@@ -2,7 +2,7 @@
 Title | Docker compose
 -- | --
 Create Date | `2018-09-06T16:19:34Z`
-Update Date | `2021-09-20T10:47:06Z`
+Update Date | `2021-09-20T10:48:05Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/42)
 
 ---
@@ -59,6 +59,15 @@ Usecase | cmd
 -- | --
 Start | `docker-compose up -d`
 Stop | `docker-compose down`
+
+- **docker-compose 共享目录**
+
+```
+ volumes:
+      - $PWD/:/test/
+```
+> 把当前目录共享到container中/test 下，需要重现`docker-compose up` 才能工作。
+
 
 # Examples
 ## Web
@@ -150,11 +159,4 @@ $ docker-compose up
 ```
 then, the service is avaliable at : http://0.0.0.0:5000/
 
-# docker-compose 共享目录
-
-```
- volumes:
-      - $PWD/:/test/
-```
-> 把当前目录共享到container中/test 下，需要重现`docker-compose up` 才能工作。
 
