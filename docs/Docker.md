@@ -2,7 +2,7 @@
 Title | Docker
 -- | --
 Create Date | `2018-09-06T16:18:38Z`
-Update Date | `2021-09-20T10:21:22Z`
+Update Date | `2021-09-20T10:42:09Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/39)
 
 ---
@@ -17,8 +17,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/39)
 - [Dokcer使用总结（Dockerfile、Compose、Swarm）](https://www.cnblogs.com/wyt007/p/11154156.html)
 
 # Brief
-- Install docker
-- Docker Usecase/Setup proxy/mirror
+- [Install docker](#install-docker)
+- [Docker Usecase/Setup proxy/mirror](#usecase)
 - [Docker Network](./Docker_Network)
 - [Docker GUI](./Docker_GUI)
 - [Docker compose](./Docker_compose)
