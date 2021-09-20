@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-20T12:15:18Z`
+Update Date | `2021-09-20T12:36:02Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -22,6 +22,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 - [压缩解压工具](./Archiver)
 - [Linux Download Tools](./Linux_Download_Tools)
 - [Linux Task Schedule Tools](./Linux_Task_Schedule_Tools)
+- [Linux File Compare Tools](./Linux_File_Compare_Tools)
 - [tmux](./tmux)
 - [rsync](./rsync)
 - [shuf](./Linux_shuf)
