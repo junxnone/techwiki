@@ -2,7 +2,7 @@
 Title | Markdown Table
 -- | --
 Create Date | `2021-09-22T10:07:37Z`
-Update Date | `2021-09-22T10:12:37Z`
+Update Date | `2021-09-22T10:22:03Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/162)
 
 ---
@@ -20,14 +20,17 @@ C1 | C2 | C3
 > table 中忽略 `|` 使用 `\|`
 
 - **单行 Table**
+
 ```
 T1 | T2 | T3
 -- | -- | --
 ```
+
 T1 | T2 | T3
 -- | -- | --
 
 - **单列 Table**
+
 ```
 T1 |
 -- |
@@ -41,34 +44,40 @@ T2 |
 T3 |
 
 - **Table with task list**
+
 ```
 T1 | T2 | T3
 -- | -- | --
 C1 | C2 | C3
 C4 | <ul><li>- [ ] Task 1</li></ul> |<ul><li>- [ ] Task 2</li></ul>
 ```
+
 T1 | T2 | T3
 -- | -- | --
 C1 | C2 | C3
 C4 | <ul><li>- [ ] Task 1</li></ul> |<ul><li>- [ ] Task 2</li></ul>
 
 - **Table list 添加缩进**
+
 ```
 T1 | T2 | T3
 -- | -- | --
 C1 | C2 | C3
 C4 |   |<ul><li>[ ] Task 2<ul><li> Task 2.1</li></ul></li></ul>
 ```
+
 T1 | T2 | T3
 -- | -- | --
 C1 | C2 | C3
 C4 |  |<ul><li>[ ] Task 2<ul><li> Task 2.1</li></ul></li></ul>
 
 - **Table 中换行**
+
 ```
 T1 | T2<br>T3<br>T4
 -- | --
 ```
+
 T1 | T2<br>T3<br>T4
 -- | --
 
