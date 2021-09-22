@@ -1,8 +1,8 @@
 ---
 Title | Ubuntu users create and setup
 -- | --
-Create Date | `2021-09-22T05:51:53Z`
-Update Date | `2021-09-22T05:51:53Z`
+Create Date | `2018-12-01T13:58:08Z`
+Update Date | `2021-09-22T06:58:10Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/94)
 
 ---
@@ -30,6 +30,16 @@ vi /etc/sudoers
 添加如下内容：
 ```
 gpu ALL=(ALL:ALL) ALL
+```
+
+- 为用户 `newuser` 添加 `sudo` 权限
+
+```
+sudo usermod -a -G sudo newuser
+```
+- 为用户 `newuser` 移除 `sudo` 权限
+```
+sudo deluser newuser sudo
 ```
 
 ## Issues 
