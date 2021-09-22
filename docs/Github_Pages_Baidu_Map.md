@@ -1,8 +1,8 @@
 ---
 Title | Github Pages Baidu Map
 -- | --
-Create Date | `2021-09-22T09:17:37Z`
-Update Date | `2021-09-22T09:17:37Z`
+Create Date | `2021-02-09T09:21:30Z`
+Update Date | `2021-09-22T09:22:49Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/150)
 
 ---
@@ -39,3 +39,7 @@ UC | APIv Support(1.0/2.0/3.0) |  Description | Link
 19 | api2 |路书| [uc](https://junxnone.github.io/bdmap/uc/19api2)
 20 | api2 |read geojson file| [uc](https://junxnone.github.io/bdmap/uc/geopoint)
 21 | | 从 geojson 中构建多点移动轨迹 | 
+
+
+
+- [baidu map develop to gitee](./baidu_map_develop_to_gitee)
