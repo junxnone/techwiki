@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-22T07:11:10Z`
+Update Date | `2021-09-22T07:14:20Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -14,14 +14,10 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 # Summary
 
-- [List Hardware info](./List_Hardware_info)
 - [Linux date](./Linux_date)
 - [Linux show boot info](./Linux_show_boot_info)
 - [Linux Network Port Tools](./Linux_Network_Port_Tools)
-- [Network Performance Tools](./Network_Performance_Tools)
-- [Linux Task manage tools](./Linux_Task_manage_tools)
 - [压缩解压工具](./Archiver)
-- [Linux Disk monitor](./Linux_Disk_monitor)
 - [Linux Download Tools](./Linux_Download_Tools)
 - [Linux Task Schedule Tools](./Linux_Task_Schedule_Tools)
 - [Linux File Compare Tools](./Linux_File_Compare_Tools)
@@ -39,7 +35,6 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 - [syncthing](./syncthing)
 - [rename](./rename)
 - [history](./Linux_cmd_history)
-- [xorg-intel-gpu-tools](./xorg_intel_gpu_tools)
 - [update-alternatives](./update_alternatives)
 - [APT 用法](./Ubuntu_APT)
 - [taskset](./Linux_taskset)
@@ -53,6 +48,11 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 # Performance Monitor Tools
 - [netdata](./netdata)
+- [xorg-intel-gpu-tools](./xorg_intel_gpu_tools)
+- [Linux Disk monitor](./Linux_Disk_monitor)
+- [Network Performance Tools](./Network_Performance_Tools)
+- [List Hardware info](./List_Hardware_info)
+- [Linux Task manage tools](./Linux_Task_manage_tools)
 
 
 
