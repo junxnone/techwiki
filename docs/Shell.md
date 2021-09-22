@@ -2,7 +2,7 @@
 Title | Shell
 -- | --
 Create Date | `2018-11-29T11:55:17Z`
-Update Date | `2021-09-22T01:53:47Z`
+Update Date | `2021-09-22T01:58:46Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/23)
 
 ---
@@ -22,7 +22,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/23)
   - while
   - for
 - 控制
-  - if
+  - [if](./Shell_if)
   - [case](./Shell_case)
 - 文件读写
 - [注释](./Shell_comment)
