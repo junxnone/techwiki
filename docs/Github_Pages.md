@@ -2,11 +2,14 @@
 Title | Github Pages
 -- | --
 Create Date | `2021-09-22T09:13:08Z`
-Update Date | `2021-09-22T09:17:24Z`
+Update Date | `2021-09-22T09:18:14Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/146)
 
 ---
 - [Github Pages Readme Stats](./Github_Pages_Readme_Stats)
+
+## Blog
+- [Github Pages Mirror](./Github Pages Mirror)
 
 ## Timeline
 - [Github Pages timeline markline](./Github_Pages_timeline_markline)
