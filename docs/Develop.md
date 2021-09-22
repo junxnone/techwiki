@@ -2,7 +2,7 @@
 Title | Develop
 -- | --
 Create Date | `2021-09-20T07:37:05Z`
-Update Date | `2021-09-22T07:53:53Z`
+Update Date | `2021-09-22T09:08:59Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
 
 ---
@@ -17,4 +17,5 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
     - [Github actions](./Github_actions)
   - [Gitlab](./Gitlab)
 - [mosquitto](./mosquitto)
+- [Jupyter](./Jupyter)
 - [JupyterHub](./JupyterHub)
