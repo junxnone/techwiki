@@ -2,7 +2,7 @@
 Title | Markdown Image
 -- | --
 Create Date | `2021-09-22T10:09:29Z`
-Update Date | `2021-09-22T10:20:56Z`
+Update Date | `2021-09-22T10:21:19Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/163)
 
 ---
@@ -12,6 +12,9 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/163)
 ```
 <img src="https://raw.githubusercontent.com/junxnone/conv_arithmetic/master/gif/no_padding_strides_transposed.gif" alt="alt text" width="50%" height="50%">
 ```
+
+## 显示为不同比例的图片
+
 
 50% | <img src="https://raw.githubusercontent.com/junxnone/conv_arithmetic/master/gif/no_padding_strides_transposed.gif" alt="alt text" width="50%" height="50%">
 -- | --
