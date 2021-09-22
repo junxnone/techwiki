@@ -2,7 +2,7 @@
 Title | Shell
 -- | --
 Create Date | `2018-11-29T11:55:17Z`
-Update Date | `2021-09-22T01:51:37Z`
+Update Date | `2021-09-22T01:51:50Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/23)
 
 ---
@@ -26,7 +26,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/23)
   - case
 - 文件读写
 - [注释](./Shell_comment)
-- [添加参数](./Shell arguments)
+- [添加参数](./Shell_arguments)
 
 # 各种各样的 Shell 
 
