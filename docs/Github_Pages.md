@@ -2,7 +2,7 @@
 Title | Github Pages
 -- | --
 Create Date | `2021-09-22T09:13:08Z`
-Update Date | `2021-09-22T09:16:01Z`
+Update Date | `2021-09-22T09:17:24Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/146)
 
 ---
@@ -14,3 +14,4 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/146)
 
 ## Map
 - [Github Pages geojson map](./Github_Pages_geojson_map)
+- [Github Pages Baidu Map](./Github_Pages_Baidu_Map)
