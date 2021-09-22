@@ -2,7 +2,7 @@
 Title | Install
 -- | --
 Create Date | `2021-09-19T10:21:17Z`
-Update Date | `2021-09-22T07:23:59Z`
+Update Date | `2021-09-22T07:51:15Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 
 ---
@@ -20,7 +20,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 - [Ubuntu upgrade](./Ubuntu_upgrade)
 - [Ubuntu users create and setup](./Ubuntu_users_create_and_setup)
 - [Samba](./Linux_Samba)
-
+- [Ubuntu Install OpenCL](./Ubuntu_Install_OpenCL)
 
 
 ## Issues
