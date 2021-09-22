@@ -2,7 +2,7 @@
 Title | Shell
 -- | --
 Create Date | `2018-11-29T11:55:17Z`
-Update Date | `2021-09-22T02:19:04Z`
+Update Date | `2021-09-22T07:47:25Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/23)
 
 ---
@@ -24,7 +24,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/23)
 - 控制
   - [if](./Shell_if)
   - [case](./Shell_case)
-- 文件读写
+- [文件读写](./Shell_read_file)
 - [注释](./Shell_comment)
 - [添加参数](./Shell_arguments)
 - [Shell 执行结果检查](./Shell_exec_error_check)
