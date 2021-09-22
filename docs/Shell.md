@@ -2,7 +2,7 @@
 Title | Shell
 -- | --
 Create Date | `2018-11-29T11:55:17Z`
-Update Date | `2021-09-22T01:58:46Z`
+Update Date | `2021-09-22T02:00:29Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/23)
 
 ---
@@ -17,7 +17,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/23)
 # Brief
 
 - 变量
-- 函数
+- [函数](./Shell_Function)
 - 循环
   - while
   - for
