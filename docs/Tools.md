@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-22T01:20:37Z`
+Update Date | `2021-09-22T01:47:13Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -29,6 +29,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 - [awk](./Linux_awk)
 - [mediainfo](./mediainfo )
 - [watch](./Ubuntu_watch)
+- [snap](./Ubuntu_snap)
+
 
 # 实用工具
 
