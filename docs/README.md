@@ -2,17 +2,16 @@
 Title | README
 -- | --
 Create Date | `2021-09-20T04:26:20Z`
-Update Date | `2021-09-22T06:16:00Z`
+Update Date | `2021-09-22T09:26:21Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/28)
 
 ---
-This is a Linux Wiki.
-
 `Le vent se lève, ‌‍‍‌‍​‌‌‍​‍‌‌‌‌​‌‌‍‍‍​‌‍‍‍‍​‌‍‍‍‍​‌‍‍‌‍​‌‌‍​‍‍‌‌‌​‌‌‍‍‍​‌‌‌‍‍​‌‍‍‍‍​‌‍‍‌‍​‌‌‍​‌‌‌‌‍​‌‌‍‌​‍‌‌‌‌​‍‍‍‍‍​‍‍‍​‍‌​‌​‌‌‌​‌‌‌‌​‌‌‍il faut tenter de vivre.`
 
-# Unix History
+This is a Linux Wiki.
 
-![11](https://github.com/junxnone/tech-io/raw/master/Unix_history-simple.svg)
+- 使用 Github Issue 创建维护词条
+- 使用 Github action 自动转换 Issue commit 到 docs markdown 文档
 
 
 
