@@ -2,7 +2,7 @@
 Title | Install
 -- | --
 Create Date | `2021-09-19T10:21:17Z`
-Update Date | `2021-09-22T05:11:25Z`
+Update Date | `2021-09-22T05:27:37Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 
 ---
@@ -24,5 +24,6 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 - [Ubuntu Desktop Display Issue](./Ubuntu_Desktop_Display_Issue)
 - [Ubuntu forget password](./Ubuntu_forget_password)
 - [ubuntu frone headphone not working](ubuntu_frone_headphone_not_working)
+- [Ubuntu USB headphone no sound](./Ubuntu_USB_headphone_no_sound)
 - [Cannot find bashrc](./Cannot_find_bashrc)
 - [Download google drive files without browser](./Download_google_drive_files_without_browser)
