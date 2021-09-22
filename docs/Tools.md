@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-22T06:06:35Z`
+Update Date | `2021-09-22T06:11:12Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -39,6 +39,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 - [history](./Linux_cmd_history)
 - [xorg-intel-gpu-tools](./xorg_intel_gpu_tools)
 - [update-alternatives](./update_alternatives)
+- [APT 用法](./Ubuntu_APT)
 
 # 实用工具
 
