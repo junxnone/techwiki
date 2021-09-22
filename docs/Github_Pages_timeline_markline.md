@@ -1,8 +1,8 @@
 ---
 Title | Github Pages timeline markline
 -- | --
-Create Date | `2021-09-22T09:15:02Z`
-Update Date | `2021-09-22T09:15:02Z`
+Create Date | `2021-02-07T11:41:15Z`
+Update Date | `2021-09-22T09:15:20Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/148)
 
 ---
@@ -10,7 +10,9 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/148)
 - [code](https://github.com/hotoo/markline)
 
 # Brief
+
 ## ~~Install~~
+
 > 可以不用安装, 直接使用 [template](https://github.com/hotoo/markline/tree/master/template)
 ```
 sudo apt install npm
