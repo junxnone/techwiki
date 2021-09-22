@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-22T07:32:22Z`
+Update Date | `2021-09-22T08:30:26Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -11,6 +11,19 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 - [搜索](https://wangchujiang.com/linux-command/)
 - [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 
+# 实用工具
+
+Command | Description
+-- | --
+du -h | 统计文件夹占用空间大小
+tree | 文件树浏览工具
+[tmux](./tmux) | 后台终端工具
+[rsync](./rsync) | 文件同步工具
+meld | 文件比较工具 GUI
+xargs | find . -name *.txt \| xargs cat 
+pv | pv  file1 > file1.copy (显示copy进度)
+cal | 打印日历
+time | `time ./your_app` 计算执行时间
 
 # Summary
 
@@ -63,18 +76,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 
 
-# 实用工具
 
-Command | Description
--- | --
-du -h | 统计文件夹占用空间大小
-tree | 显示文件树
-tmux | 后台终端工具
-meld | 文件比较工具 GUI
-xargs | find . -name *.txt \| xargs cat 
-pv | pv  file1 > file1.copy (显示copy进度)
-cal | 打印日历
-time | `time ./your_app` 计算执行时间
 
 # 好玩的工具
 
