@@ -1,13 +1,13 @@
 ---
 Title | MarkDown github emoji
 -- | --
-Create Date | `2021-09-22T09:52:00Z`
-Update Date | `2021-09-22T09:52:00Z`
+Create Date | `2020-06-19T09:57:28Z`
+Update Date | `2021-09-22T09:52:44Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/159)
 
 ---
 # Reference 
-- [ ] [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+- [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
 # Brief
 ## 常用 emoji
