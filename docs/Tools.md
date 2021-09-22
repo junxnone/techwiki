@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-22T06:24:29Z`
+Update Date | `2021-09-22T06:26:46Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -44,7 +44,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 - [taskset](./Linux_taskset)
 - [Linux ln](./Linux_ln)
 - [grep](./Linux_grep)
-
+- [bc](./Linux_bc)
 
 # 实用工具
 
