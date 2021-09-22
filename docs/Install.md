@@ -2,7 +2,7 @@
 Title | Install
 -- | --
 Create Date | `2021-09-19T10:21:17Z`
-Update Date | `2021-09-22T06:45:32Z`
+Update Date | `2021-09-22T06:47:54Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 
 ---
@@ -19,6 +19,9 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 - [Windows SSH Client](./Windows_SSH_Client)
 - [Ubuntu upgrade](./Ubuntu_upgrade)
 - [Ubuntu users create and setup](./Ubuntu_users_create_and_setup)
+- [Samba](./Linux_Samba)
+
+
 
 ## Issues
 - [Ubuntu Desktop Display Issue](./Ubuntu_Desktop_Display_Issue)
