@@ -1,9 +1,9 @@
 ---
 Title | netdata 
 -- | --
-Create Date | `2021-09-22T07:10:09Z`
-Update Date | `2021-09-22T07:10:09Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/121)
+Create Date | `2021-09-22T07:11:36Z`
+Update Date | `2021-09-22T07:11:36Z`
+Edit link | [here](https://github.com/junxnone/linuxwiki/issues/122)
 
 ---
 # Reference
