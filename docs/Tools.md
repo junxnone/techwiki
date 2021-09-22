@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-22T06:12:53Z`
+Update Date | `2021-09-22T06:15:01Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -41,7 +41,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 - [update-alternatives](./update_alternatives)
 - [APT 用法](./Ubuntu_APT)
 - [taskset](./Linux_taskset)
-
+- [Linux ln](./Linux_ln)
 # 实用工具
 
 Command | Description
