@@ -2,11 +2,10 @@
 Title | Markdown Text
 -- | --
 Create Date | `2021-09-22T10:02:45Z`
-Update Date | `2021-09-22T10:02:45Z`
+Update Date | `2021-09-22T10:10:43Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/160)
 
 ---
-
 - 居中对齐
 
 ```
@@ -40,4 +39,12 @@ Text Line<sub>subscript</sub>
 \* \` \|
 ```
 \* \` \|
+
+
+- **Code 引用**
+
+Github issues markdown 引用 code
+只能是本repo的code
+例如
+https://github.com/junxnone/wiki/blob/cbdf0ee17452e221607ae78b5e1ecb5af546cf94/index.04eb6053.js#L5-L7
 
