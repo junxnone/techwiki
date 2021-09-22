@@ -2,7 +2,7 @@
 Title | Markdown Text
 -- | --
 Create Date | `2021-09-22T10:02:45Z`
-Update Date | `2021-09-22T10:14:19Z`
+Update Date | `2021-09-22T10:15:16Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/160)
 
 ---
@@ -91,3 +91,33 @@ Code
 ```
 <kbd>ctrl</kbd> + <kbd>c</kbd>
 
+
+- **Text Color**
+ 
+```
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15` 红
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015` 黄 
+- ![#1589F0](https://placehold.it/50x15/1589F0/000000?text=+) `#1589F0` 蓝
+- ![#1589F0](https://placehold.it/100x50/1589F0/000000?text=1589F0) 
+```
+
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15` 红
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015` 黄 
+- ![#1589F0](https://placehold.it/50x15/1589F0/000000?text=+) `#1589F0` 蓝
+- ![#1589F0](https://placehold.it/100x50/1589F0/000000?text=1589F0) 
+
+````
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
+````
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
