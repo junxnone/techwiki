@@ -2,7 +2,7 @@
 - [Desktop](Linux_Desktop)
 - [Tools](./Tools)
 - [Docker](./Docker)
-- Proxy
+- [Proxy](./Proxy)
 - [OS](./OS)
 - [Shell](./Shell)
 - [Develop](./Develop)
