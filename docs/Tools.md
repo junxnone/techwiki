@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-22T05:16:54Z`
+Update Date | `2021-09-22T05:20:14Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -35,6 +35,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 - [kill](./Linux_kill)
 - [tree](./Linux_tree)
 - [syncthing](./syncthing)
+- [rename](./rename)
+
 
 # 实用工具
 
