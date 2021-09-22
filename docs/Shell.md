@@ -2,7 +2,7 @@
 Title | Shell
 -- | --
 Create Date | `2018-11-29T11:55:17Z`
-Update Date | `2021-09-22T02:00:29Z`
+Update Date | `2021-09-22T02:03:00Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/23)
 
 ---
@@ -48,18 +48,18 @@ Elvish |
 
 
 
-# Shell Tools
+# Shell 常用工具
 
 - awk
 - wc
 - grep
 - sed
 
+
+
 # Tips
 
-- `echo` 不换行输出
-
-```
-echo -n "xxx"
-```
+Tips | cmd
+-- | --
+ `echo` 不换行输出 `echo -n "xxx"`
 
