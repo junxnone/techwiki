@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-22T05:26:15Z`
+Update Date | `2021-09-22T05:54:35Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -37,6 +37,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 - [syncthing](./syncthing)
 - [rename](./rename)
 - [history](./Linux_cmd_history)
+- [xorg-intel-gpu-tools](./xorg_intel_gpu_tools)
 
 # 实用工具
 
