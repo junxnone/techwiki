@@ -2,7 +2,7 @@
 Title | Install
 -- | --
 Create Date | `2021-09-19T10:21:17Z`
-Update Date | `2021-09-22T02:47:38Z`
+Update Date | `2021-09-22T05:11:25Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 
 ---
@@ -17,7 +17,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 - [Linux Setup hostname](./Linux_Setup_hostname)
 - [Ubuntu Change Kernel Version](./Ubuntu_Change_Kernel_Version)
 - [Windows SSH Client](./Windows_SSH_Client)
-
+- [Ubuntu upgrade](./Ubuntu_upgrade)
 
 
 ## Issues
