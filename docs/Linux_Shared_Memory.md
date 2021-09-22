@@ -1,8 +1,8 @@
 ---
 Title | Linux Shared Memory
 -- | --
-Create Date | `2021-09-22T06:02:09Z`
-Update Date | `2021-09-22T06:02:09Z`
+Create Date | `2021-01-12T06:59:46Z`
+Update Date | `2021-09-22T06:02:32Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/98)
 
 ---
@@ -14,6 +14,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/98)
 - 基于POSIX mmap文件映射实现共享内存
 - 通过memfd_create()和fd跨进程共享实现共享内存
 - 多媒体、图形领域广泛使用的基于dma-buf的共享内存
+
 ## POSIX API
 
 API | Description
@@ -22,6 +23,7 @@ shm_open() |
 mmap () 
 
 ## SYS V API
+
 API | Description
 -- | --
 shm_open() | 
