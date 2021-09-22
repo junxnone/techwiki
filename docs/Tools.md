@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-22T06:15:01Z`
+Update Date | `2021-09-22T06:17:54Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -19,6 +19,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 - [Linux show boot info](./Linux_show_boot_info)
 - [Linux Network Port Tools](./Linux_Network_Port_Tools)
 - [Network Performance Tools](./Network_Performance_Tools)
+- [Linux Task manage tools](./Linux_Task_manage_tools)
 - [压缩解压工具](./Archiver)
 - [Linux Download Tools](./Linux_Download_Tools)
 - [Linux Task Schedule Tools](./Linux_Task_Schedule_Tools)
@@ -42,6 +43,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 - [APT 用法](./Ubuntu_APT)
 - [taskset](./Linux_taskset)
 - [Linux ln](./Linux_ln)
+
 # 实用工具
 
 Command | Description
