@@ -1,7 +1,6 @@
 - [Install](./Install)
 - [Desktop](Linux_Desktop)
 - [Tools](./Tools)
-- Samba
 - [Docker](./Docker)
 - Proxy
 - [OS](./OS)
