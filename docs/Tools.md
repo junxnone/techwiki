@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-22T06:26:46Z`
+Update Date | `2021-09-22T06:28:41Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -45,6 +45,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 - [Linux ln](./Linux_ln)
 - [grep](./Linux_grep)
 - [bc](./Linux_bc)
+- [tr](./Linux_tr)
 
 # 实用工具
 
