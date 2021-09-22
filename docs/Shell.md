@@ -2,7 +2,7 @@
 Title | Shell
 -- | --
 Create Date | `2018-11-29T11:55:17Z`
-Update Date | `2021-09-22T02:04:16Z`
+Update Date | `2021-09-22T02:08:10Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/23)
 
 ---
@@ -30,6 +30,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/23)
 
 ## Examples
 - [shell + mediainfo 统计 video 帧数](./Shell_mediainfo_summary_video_total_frames)
+- [Shell 执行结果检查](./Shell_exec_error_check)
 
 ## 各种各样的 Shell 
 
