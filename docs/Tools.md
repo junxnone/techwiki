@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-22T07:28:01Z`
+Update Date | `2021-09-22T07:29:26Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -46,6 +46,9 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 - [ls](./Linux_ls)
 - [find](./Linux_find)
 - [Ubuntu json tools](./Ubuntu_json_tools)
+- [Linux ulimit](./Linux_ulimit)
+
+
 
 # Performance Monitor Tools
 - [netdata](./netdata)
