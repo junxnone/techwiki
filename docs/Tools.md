@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-22T02:33:45Z`
+Update Date | `2021-09-22T02:40:59Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -32,7 +32,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 - [snap](./Ubuntu_snap)
 - [sort](./Linux_sort)
 - [shell 查看图片](./Linux_image2string)
-
+- [kill](./Linux_kill)
 
 
 # 实用工具
