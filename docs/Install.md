@@ -2,7 +2,7 @@
 Title | Install
 -- | --
 Create Date | `2021-09-19T10:21:17Z`
-Update Date | `2021-09-22T01:20:21Z`
+Update Date | `2021-09-22T02:47:38Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 
 ---
@@ -25,3 +25,4 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 - [Ubuntu forget password](./Ubuntu_forget_password)
 - [ubuntu frone headphone not working](ubuntu_frone_headphone_not_working)
 - [Cannot find bashrc](./Cannot_find_bashrc)
+- [Download google drive files without browser](./Download_google_drive_files_without_browser)
