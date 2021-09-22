@@ -2,7 +2,7 @@
 Title | Install
 -- | --
 Create Date | `2021-09-19T10:21:17Z`
-Update Date | `2021-09-20T13:32:12Z`
+Update Date | `2021-09-22T01:20:21Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 
 ---
@@ -16,6 +16,10 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 - [Ubuntu Install Steam](./Ubuntu_Install_Steam)
 - [Linux Setup hostname](./Linux_Setup_hostname)
 - [Ubuntu Change Kernel Version](./Ubuntu_Change_Kernel_Version)
+- [Windows SSH Client](./Windows_SSH_Client)
+
+
+
 ## Issues
 - [Ubuntu Desktop Display Issue](./Ubuntu_Desktop_Display_Issue)
 - [Ubuntu forget password](./Ubuntu_forget_password)
