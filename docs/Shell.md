@@ -2,7 +2,7 @@
 Title | Shell
 -- | --
 Create Date | `2018-11-29T11:55:17Z`
-Update Date | `2021-09-22T02:03:00Z`
+Update Date | `2021-09-22T02:04:16Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/23)
 
 ---
@@ -28,7 +28,10 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/23)
 - [注释](./Shell_comment)
 - [添加参数](./Shell_arguments)
 
-# 各种各样的 Shell 
+## Examples
+- [shell + mediainfo 统计 video 帧数](./Shell_mediainfo_summary_video_total_frames)
+
+## 各种各样的 Shell 
 
 Shell Name | Author | Description
 -- | -- | --
@@ -48,7 +51,7 @@ Elvish |
 
 
 
-# Shell 常用工具
+## Shell 常用工具
 
 - awk
 - wc
@@ -57,7 +60,7 @@ Elvish |
 
 
 
-# Tips
+## Tips
 
 Tips | cmd
 -- | --
