@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-20T13:22:04Z`
+Update Date | `2021-09-22T01:20:37Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -26,7 +26,6 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 - [tmux](./tmux)
 - [rsync](./rsync)
 - [shuf](./Linux_shuf)
-- [putty](./putty)
 - [awk](./Linux_awk)
 - [mediainfo](./mediainfo )
 - [watch](./Ubuntu_watch)
