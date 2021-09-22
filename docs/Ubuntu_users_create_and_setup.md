@@ -2,7 +2,7 @@
 Title | Ubuntu users create and setup
 -- | --
 Create Date | `2018-12-01T13:58:08Z`
-Update Date | `2021-09-22T06:58:10Z`
+Update Date | `2021-09-22T07:34:54Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/94)
 
 ---
@@ -10,7 +10,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/94)
 - [Ubuntu 16.04下添加新用户](https://www.linuxidc.com/Linux/2017-04/142690.htm)
 
 # Brief
-
+- [adduser vs useradd](./adduser_vs_useradd)
 
 ## UseCase
 
