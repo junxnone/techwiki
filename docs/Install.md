@@ -2,7 +2,7 @@
 Title | Install
 -- | --
 Create Date | `2021-09-19T10:21:17Z`
-Update Date | `2021-09-22T07:03:55Z`
+Update Date | `2021-09-22T07:23:59Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 
 ---
@@ -32,3 +32,4 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 - [Download google drive files without browser](./Download_google_drive_files_without_browser)
 - [Ubuntu ssh work unstable](./Ubuntu_ssh_work_unstable)
 - [Ubuntu Disk Larger than 2TB](./Ubuntu_Disk_Larger_than_2TB)
+- [Ubuntu thinclient_drives cannot access](./Ubuntu_thinclient_drives_cannot_access)
