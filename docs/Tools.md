@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-22T07:14:20Z`
+Update Date | `2021-09-22T07:20:09Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -53,7 +53,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 - [Network Performance Tools](./Network_Performance_Tools)
 - [List Hardware info](./List_Hardware_info)
 - [Linux Task manage tools](./Linux_Task_manage_tools)
-
+- [intel-telemetry-tool](./intel_telemetry_tool)
 
 
 # 实用工具
