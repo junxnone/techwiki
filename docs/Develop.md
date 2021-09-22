@@ -2,7 +2,7 @@
 Title | Develop
 -- | --
 Create Date | `2021-09-20T07:37:05Z`
-Update Date | `2021-09-22T02:42:07Z`
+Update Date | `2021-09-22T05:09:25Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
 
 ---
@@ -10,5 +10,6 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
 - [make](./Make)
 - [Python virtualenv](./Python_virtualenv)
 - [virtualenvwrapper](./virtualenvwrapper)
+- [conda](./conda)
 - [Git](./Git)
 - [mosquitto](./mosquitto)
