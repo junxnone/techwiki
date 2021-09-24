@@ -2,7 +2,7 @@
 Title | Parallel Computing
 -- | --
 Create Date | `2021-09-24T03:42:54Z`
-Update Date | `2021-09-24T08:48:02Z`
+Update Date | `2021-09-24T08:48:33Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/166)
 
 ---
@@ -44,7 +44,7 @@ Application Programming | - Low-level, processor-centric model<br>- Programmer m
 
 ![Inkedchrome_k49UtilsYB_LI](https://user-images.githubusercontent.com/2216970/134641857-12563821-6c02-4628-986e-d656c8f76b82.jpg)
 
-- 当后一条指令需要用到前一条指令的寄存器时会填充 `NOP` 指令
+- 当后一条指令需要用到前一条指令的寄存器时会填充 `NOP` 指令, 以等到前一条指令 `commit`
 
 
 ### History of CPU
