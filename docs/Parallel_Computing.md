@@ -2,7 +2,7 @@
 Title | Parallel Computing
 -- | --
 Create Date | `2021-09-24T03:42:54Z`
-Update Date | `2021-09-24T08:48:33Z`
+Update Date | `2021-09-24T08:52:12Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/166)
 
 ---
@@ -42,9 +42,9 @@ Application Programming | - Low-level, processor-centric model<br>- Programmer m
 - **Execute** – perform the necessary operations
 - **Commit** – write the results back to registers / memory
 
-![Inkedchrome_k49UtilsYB_LI](https://user-images.githubusercontent.com/2216970/134641857-12563821-6c02-4628-986e-d656c8f76b82.jpg)
-
-- 当后一条指令需要用到前一条指令的寄存器时会填充 `NOP` 指令, 以等到前一条指令 `commit`
+![Inkedchrome_k49UtilsYB_LI](https://user-images.githubusercontent.com/2216970/134641857-12563821-6c02-4628-986e-d656c8f76b82.jpg) | Pipeline
+-- | --
+![Inkedchrome_lKvXLJsrqG_LI](https://user-images.githubusercontent.com/2216970/134646854-ac0014f9-d3e9-4263-a6a2-a0c652f192b3.jpg) | 当后一条指令需要用到前一条指令的寄存器时会填充 `NOP` 指令, 以等到前一条指令 `commit`
 
 
 ### History of CPU
