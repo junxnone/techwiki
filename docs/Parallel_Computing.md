@@ -2,7 +2,7 @@
 Title | Parallel Computing
 -- | --
 Create Date | `2021-09-24T03:42:54Z`
-Update Date | `2021-09-24T06:45:33Z`
+Update Date | `2021-09-24T07:11:25Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/166)
 
 ---
@@ -29,9 +29,14 @@ VS | SuperComputers | Cloud System(Data Center Clusters)
 Run-Time System | - Minimal<br>- 静态调度 | - 高可靠性<br>- 动态调度
 Application Programming | - Low-level, processor-centric model<br>- Programmer manages resources | - High level, data-centric model<br>- Let run-time system manage resources
 
+## Hardware
+- CPU
+- GPU
+- FPGA
+- VPU
 
+### History of CPU
 
-## History
 - 1970s 超级计算机用于科学计算
 - 1990s 数据库/Web服务/交易
 - 2004 CPU 频率升级到达技术瓶颈
