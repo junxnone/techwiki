@@ -2,7 +2,7 @@
 Title | Parallel Computing
 -- | --
 Create Date | `2021-09-24T03:42:54Z`
-Update Date | `2021-09-24T06:39:33Z`
+Update Date | `2021-09-24T06:45:33Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/166)
 
 ---
@@ -13,10 +13,10 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/166)
 # Brief
 - ILP - `instruction-level parallelism`
 - CPI - `Cycles Per Instruction`
+- `Fast` != `Efficient`
 - 限制
   - 多处理器通信的消耗
   - 多处理器任务均衡
-  - 
 
 
 
