@@ -2,7 +2,7 @@
 Title | Parallel Computing
 -- | --
 Create Date | `2021-09-24T03:42:54Z`
-Update Date | `2021-09-24T05:49:40Z`
+Update Date | `2021-09-24T06:08:55Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/166)
 
 ---
@@ -13,6 +13,17 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/166)
 # Brief
 - ILP - `instruction-level parallelism`
 - CPI - `Cycles Per Instruction`
+
+## `SuperComputer` VS `Cloud System`(Data Center)
+
+C | SuperComputers | Cloud System(Data Center Clusters)
+-- | -- | --
+Target Applications | Few, Big tasks | Many small tasks
+Hardware | Customized<br>Optimized for reliability<br>Low latency interconnect | Consumer grade<br>Optimized for low cost<br> Throughput-optimized interconnect
+Run-Time System | Minimal<br>Static scheduling | Provides reliability<br>Dynamic allocation
+Application Programming | Low-level, processor-centric model<br>Programmer manages resources | High level, data-centric model<br>Let run-time system manage resources
+
+
 
 ## History
 - 1970s 超级计算机用于科学计算
