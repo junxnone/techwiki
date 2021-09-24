@@ -2,7 +2,7 @@
 Title | Parallel Computing
 -- | --
 Create Date | `2021-09-24T03:42:54Z`
-Update Date | `2021-09-24T06:08:55Z`
+Update Date | `2021-09-24T06:12:44Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/166)
 
 ---
@@ -16,11 +16,11 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/166)
 
 ## `SuperComputer` VS `Cloud System`(Data Center)
 
-C | SuperComputers | Cloud System(Data Center Clusters)
+VS | SuperComputers | Cloud System(Data Center Clusters)
 -- | -- | --
-Target Applications | Few, Big tasks | Many small tasks
-Hardware | Customized<br>Optimized for reliability<br>Low latency interconnect | Consumer grade<br>Optimized for low cost<br> Throughput-optimized interconnect
-Run-Time System | Minimal<br>Static scheduling | Provides reliability<br>Dynamic allocation
+目标应用 | Few, Big tasks | Many small tasks
+硬件 | - 定制化<br>- 高可靠性<br>- 低延迟连接 | - 消费级<br>- 低成本<br>- 吞吐量优化连接
+Run-Time System | Minimal<br>- 静态调度 | Provides reliability<br>- 动态调度
 Application Programming | Low-level, processor-centric model<br>Programmer manages resources | High level, data-centric model<br>Let run-time system manage resources
 
 
