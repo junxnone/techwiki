@@ -2,7 +2,7 @@
 Title | Parallel Computing
 -- | --
 Create Date | `2021-09-24T03:42:54Z`
-Update Date | `2021-09-24T07:11:25Z`
+Update Date | `2021-09-24T07:45:35Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/166)
 
 ---
@@ -34,6 +34,14 @@ Application Programming | - Low-level, processor-centric model<br>- Programmer m
 - GPU
 - FPGA
 - VPU
+
+### CPU Execute Instruction
+
+- 1. **Fetch** – get the next instruction from memory
+- 2. **Decode** – figure out what to do & read inputs
+- 3. **Execute** – perform the necessary operations
+- 4. **Commit** – write the results back to registers / memory
+
 
 ### History of CPU
 
