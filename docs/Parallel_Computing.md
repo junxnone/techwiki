@@ -2,7 +2,7 @@
 Title | Parallel Computing
 -- | --
 Create Date | `2021-09-24T03:42:54Z`
-Update Date | `2021-09-24T05:49:22Z`
+Update Date | `2021-09-24T05:49:40Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/166)
 
 ---
@@ -21,7 +21,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/166)
 - 2019 云计算
 
 
-Microprocessor Trend Data |
+[Microprocessor Trend Data](https://github.com/karlrupp/microprocessor-trend-data) |
 -- |
 ![image](https://user-images.githubusercontent.com/2216970/134624585-0f72cb55-a779-4615-ab14-3f5dfa8e3bf1.png)
 
