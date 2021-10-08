@@ -1,8 +1,8 @@
 ---
 Title | Ubuntu install google pinyin
 -- | --
-Create Date | `2021-09-19T14:03:43Z`
-Update Date | `2021-09-19T14:03:43Z`
+Create Date | `2019-09-23T06:39:22Z`
+Update Date | `2021-10-08T05:54:02Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/10)
 
 ---
@@ -17,7 +17,7 @@ Steps | Commands
 -- | --
 1 | `sudo apt install -y fcitx`
 2 | `im-config`<br> 选择 `fcitx`
-3 | Reboot OS
+3 | Logout and Login(or reboot OS)
 4 | `sudo apt install -y fcitx-googlepinyin`
 5 | `fcitx-config-gtk3`
 6 | <kbd> + </kbd>
@@ -35,15 +35,15 @@ sudo apt install -y fcitx-googlepinyin
 
 ## Setup
 
-Settings -> Region & Language -> Manage Installed Languages 
--> Install/Remove Languages [ select Chinese (simplified) / Chinese (traditional) ] 
--> Keyboard input method system [select  fcitx] 
--> Apply System wide
--> restart the OS
--> Fcitx Config Tool
--> <kbd> + </kbd>
--> unselect `Only show current language`
--> search google pinyin  & add
+Settings -> Region & Language -> Manage Installed Languages  
+-> Install/Remove Languages [ select Chinese (simplified) / Chinese (traditional) ]   
+-> Keyboard input method system [select  fcitx]   
+-> Apply System wide  
+-> logout and login(or restart the OS)
+-> Fcitx Config Tool  
+-> <kbd> + </kbd>  
+-> unselect `Only show current language`  
+-> search google pinyin  & add  
 
 **现在可以愉快的输入中文了**
 
