@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-09-23T03:33:41Z`
+Update Date | `2021-10-09T03:39:04Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -49,6 +49,7 @@ time | `time ./your_app` 计算执行时间
 [snap](./Ubuntu_snap)
 [APT 用法](./Ubuntu_APT) | Ubuntu 包管理
 [taskset](./Linux_taskset) | 进程管理
+[chrt](/Linux_chrt) | 进程实时性管理
 [Linux ulimit](./Linux_ulimit) | 多用户资源管理
 [update-alternatives](./update_alternatives) | 软件版本管理
 [Linux Network Port Tools](./Linux_Network_Port_Tools) | 端口管理
