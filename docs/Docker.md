@@ -2,7 +2,7 @@
 Title | Docker
 -- | --
 Create Date | `2018-09-06T16:18:38Z`
-Update Date | `2021-10-11T08:14:59Z`
+Update Date | `2021-10-11T08:16:25Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/39)
 
 ---
@@ -118,7 +118,7 @@ Environment="HTTP_PROXY=http://127.0.0.1:8123"
 Environment="HTTPS_PROXY=http://127.0.0.1:8123"
 ```
 
-# Setup docker Mirrors
+## Mirrors Setup
 
 ```
 sudo vi /etc/docker/daemon.json
