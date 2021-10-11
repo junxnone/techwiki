@@ -2,7 +2,7 @@
 Title | Docker
 -- | --
 Create Date | `2018-09-06T16:18:38Z`
-Update Date | `2021-10-11T08:19:05Z`
+Update Date | `2021-10-11T08:19:34Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/39)
 
 ---
@@ -118,7 +118,9 @@ Environment="HTTP_PROXY=http://127.0.0.1:8123"
 Environment="HTTPS_PROXY=http://127.0.0.1:8123"
 ```
 
-- Proxy & Mirror 配置完后都要重新加载配置文件和重启 docker 生效 `sudo systemctl daemon-reload` & `sudo systemctl restart docker`
+- Proxy & Mirror 配置完后都要重新加载配置文件和重启 docker 生效
+  - `sudo systemctl daemon-reload`
+  - `sudo systemctl restart docker`
 
 ## Mirrors Setup
 
