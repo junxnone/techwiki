@@ -2,12 +2,12 @@
 Title | Install
 -- | --
 Create Date | `2021-09-19T10:21:17Z`
-Update Date | `2021-10-11T03:24:36Z`
+Update Date | `2021-10-11T03:46:40Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 
 ---
 - [Install Ubuntu OS]
-- [Setup openssh-server]
+- [Setup openssh-server](/Setup_openssh_server)
 - [Ubuntu Server Install Desktop](./Ubuntu_server_Install_desktop)
 - [Install Google Pinyin](./Ubuntu_install_google_pinyin)
 - [Install Vi](./Vi)
