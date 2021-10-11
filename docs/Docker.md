@@ -2,7 +2,7 @@
 Title | Docker
 -- | --
 Create Date | `2018-09-06T16:18:38Z`
-Update Date | `2021-09-22T03:37:33Z`
+Update Date | `2021-10-11T08:14:59Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/39)
 
 ---
@@ -127,6 +127,13 @@ sudo vi /etc/docker/daemon.json
 {
  "registry-mirrors": ["https://registry.docker-cn.com"]
 }
+```
+- **mirrors**
+  - USTC Mirror : `https://docker.mirrors.ustc.edu.cn`
+- 如果碰到如下问题可以更换 mirror 试试
+
+```
+toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
 ```
 
 ## docker容器的自启动
