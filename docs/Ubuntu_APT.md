@@ -1,8 +1,8 @@
 ---
 Title | Ubuntu APT
 -- | --
-Create Date | `2021-09-22T06:10:26Z`
-Update Date | `2021-09-22T06:10:26Z`
+Create Date | `2020-06-03T03:19:10Z`
+Update Date | `2021-10-11T01:40:46Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/101)
 
 ---
@@ -34,8 +34,10 @@ Usecase | cmd
 -- | --
 Update the source list | `apt update`
 Install Package | `apt install xxx`
-Remove Package | `apt remove xxx`
 Search Package | `apt search xxx`
+清除软件配置文件 | `apt purge xxx`
+删除软件(会保留配置文件) | `apt remove xxx`
+删除软件相关所有文件 | `apt-get remove --purge xxx`
 
 
 ## Examples
