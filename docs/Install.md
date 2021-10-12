@@ -2,7 +2,7 @@
 Title | Install
 -- | --
 Create Date | `2021-09-19T10:21:17Z`
-Update Date | `2021-10-11T03:46:40Z`
+Update Date | `2021-10-12T15:27:24Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 
 ---
@@ -22,7 +22,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 - [Ubuntu users create and setup](./Ubuntu_users_create_and_setup)
 - [Samba](./Linux_Samba)
 - [Ubuntu Install OpenCL](./Ubuntu_Install_OpenCL)
-
+- [CentOS Install Desktop](/CentOS_Install_Desktop)
 
 ## Issues
 - [Ubuntu Desktop Display Issue](./Ubuntu_Desktop_Display_Issue)
