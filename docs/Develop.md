@@ -2,7 +2,7 @@
 Title | Develop
 -- | --
 Create Date | `2021-09-20T07:37:05Z`
-Update Date | `2021-10-12T14:27:58Z`
+Update Date | `2021-10-12T14:38:45Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
 
 ---
@@ -31,13 +31,13 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
 
 ## 版本管理
 - [Git](./Git)
-  - Github
-    - [Github backup](./Github_backup)
-    - [Github actions](./Github_actions)
-    - [Github Token](./Github_Token)
-    - [Github Pages](./Github_Pages)
-    - [Github Chrome extensions](./Github_Chrome_extensions)
-  - [Gitlab](./Gitlab)
+- Github
+  - [Github backup](./Github_backup)
+  - [Github actions](./Github_actions)
+  - [Github Token](./Github_Token)
+  - [Github Pages](./Github_Pages)
+  - [Github Chrome extensions](./Github_Chrome_extensions)
+- [Gitlab](./Gitlab)
 
 # Others
 - [Open Source License](./Open_Source_License)
