@@ -2,7 +2,7 @@
 Title | pkg-config
 -- | --
 Create Date | `2021-10-13T03:36:37Z`
-Update Date | `2021-10-13T03:42:17Z`
+Update Date | `2021-10-13T03:43:56Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/176)
 
 ---
@@ -56,6 +56,10 @@ Application Options:
 ```
 ## UseCase
 
+Usecase | CMD
+-- | --
+查看链接信息 | `pkg-config [package-name] --libs`
+查看预处理和编译 Flags | `pkg-config [package-name] --cflags`
 
 
 ## `*.pc` 文件信息
