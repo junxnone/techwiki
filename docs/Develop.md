@@ -2,7 +2,7 @@
 Title | Develop
 -- | --
 Create Date | `2021-09-20T07:37:05Z`
-Update Date | `2021-10-13T03:12:24Z`
+Update Date | `2021-10-13T03:37:11Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
 
 ---
@@ -19,7 +19,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
 - 编译工具
   - [cmake](./cmake)
   - [make](./Make)
-  - [pkg-config]()
+  - [pkg-config](/pkg_config)
 - C
 - C++
 - Python
