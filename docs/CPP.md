@@ -1,8 +1,8 @@
 ---
 Title | CPP
 -- | --
-Create Date | `2021-10-13T15:57:04Z`
-Update Date | `2021-10-13T15:57:04Z`
+Create Date | `2021-07-27T02:33:13Z`
+Update Date | `2021-10-13T15:57:27Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/179)
 
 ---
@@ -10,6 +10,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/179)
 - [C++ 常用库](https://segmentfault.com/a/1190000011483340)
 
 # Brief
+- [Vector](/CPP_Vector)
+
 
 ## 常用C++ 库
 
