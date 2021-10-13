@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-10-09T03:39:04Z`
+Update Date | `2021-10-13T15:18:24Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -20,6 +20,7 @@ Tools | Descriptoin
 [rename](./rename) | 文件重命名工具
 [shuf](./Linux_shuf) | 随机取内容
 [sort](./Linux_sort) | 排序
+[scp](/scp) | copy 远程文件/到远程
 [grep](./Linux_grep) | 查找
 [mediainfo](./mediainfo) | 多媒体信息
 [rsync](./rsync) | 文件同步工具
