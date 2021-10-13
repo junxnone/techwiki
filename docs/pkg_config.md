@@ -2,7 +2,7 @@
 Title | pkg-config
 -- | --
 Create Date | `2021-10-13T03:36:37Z`
-Update Date | `2021-10-13T03:36:37Z`
+Update Date | `2021-10-13T03:41:08Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/176)
 
 ---
@@ -12,4 +12,12 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/176)
 
 # Brief
 - pkg-config - `用于获取库相关信息(头文件/库)`
+
+
+## UseCase
+
+
+
+## `*.pc` 文件信息
+
 
