@@ -2,7 +2,7 @@
 Title | CPP
 -- | --
 Create Date | `2021-07-27T02:33:13Z`
-Update Date | `2021-10-13T15:57:27Z`
+Update Date | `2021-10-13T15:59:48Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/179)
 
 ---
@@ -11,12 +11,9 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/179)
 
 # Brief
 - [Vector](/CPP_Vector)
-
-
-## 常用C++ 库
-
-- [C++ Standard Library](https://github.com/junxnone/tech-io/issues/1001)
-- [STL - Standard Template Library](https://github.com/junxnone/tech-io/issues/1002)
+- **常用C++ 库**
+  - [C++ Standard Library](CPP_Standard_Library)
+  - [STL - Standard Template Library](/CPP_Standard_Template_Library)
 
 # Trend
 
