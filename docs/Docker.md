@@ -2,7 +2,7 @@
 Title | Docker
 -- | --
 Create Date | `2018-09-06T16:18:38Z`
-Update Date | `2021-10-11T08:19:34Z`
+Update Date | `2021-10-15T03:58:11Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/39)
 
 ---
@@ -122,6 +122,7 @@ Environment="HTTPS_PROXY=http://127.0.0.1:8123"
   - `sudo systemctl daemon-reload`
   - `sudo systemctl restart docker`
 
+
 ## Mirrors Setup
 
 ```
@@ -135,6 +136,8 @@ sudo vi /etc/docker/daemon.json
 - **mirrors**
   - USTC Mirror : `https://docker.mirrors.ustc.edu.cn`
 - 如果碰到如下问题可以更换 mirror 试试
+- **Yocto**
+  - Yocto 环境下 docker build 不能获取 `apt update`： 需要配置 `DNS`
 
 ```
 toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
