@@ -1,8 +1,8 @@
 ---
 Title | Linux Task manage tools
 -- | --
-Create Date | `2021-09-22T06:18:02Z`
-Update Date | `2021-09-22T06:18:02Z`
+Create Date | `2019-12-27T07:36:55Z`
+Update Date | `2021-10-18T02:45:19Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/104)
 
 ---
@@ -10,7 +10,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/104)
 - [linux top命令VIRT,RES,SHR,DATA的含义](https://javawind.net/p131)
 
 # Brief
-- top
+- [top](/Linux_Tools_top)
 - htop
 
 # Terms
