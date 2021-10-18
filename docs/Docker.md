@@ -2,7 +2,7 @@
 Title | Docker
 -- | --
 Create Date | `2018-09-06T16:18:38Z`
-Update Date | `2021-10-15T03:58:32Z`
+Update Date | `2021-10-18T02:57:24Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/39)
 
 ---
@@ -73,7 +73,7 @@ Save docker image | `docker save -o my_ubuntu_v3.tar runoob/ubuntu:v3`
 Import docker image | `docker import  my_ubuntu_v3.tar runoob/ubuntu:v4`
 Load docker image | `sudo docker load -i hmi.tar`
 Run in bash | `docker exec -it docker_name bash`
-删除 `none` 镜像 | docker rmi -f  \`docker images \| grep '<none>' \| awk '{print $3}\`
+删除 `none` 镜像 | docker rmi -f  \`docker images \| grep 'none' \| awk '{print $3}'\`
 
 
 ## Proxy setup
