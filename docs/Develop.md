@@ -2,7 +2,7 @@
 Title | Develop
 -- | --
 Create Date | `2021-09-20T07:37:05Z`
-Update Date | `2021-10-16T04:26:39Z`
+Update Date | `2021-10-19T15:44:56Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
 
 ---
@@ -49,4 +49,4 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
 - [开发版本号相关](/Version)
 - [mosquitto](./mosquitto)
 - [代码浏览工具 opengrok](/Tools_opengrok)
-
+- [Yocto](/Yocto)
