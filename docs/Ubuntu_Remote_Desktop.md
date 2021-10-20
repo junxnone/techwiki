@@ -2,13 +2,15 @@
 Title | Ubuntu Remote Desktop
 -- | --
 Create Date | `2021-01-06T03:05:58Z`
-Update Date | `2021-09-22T07:07:03Z`
+Update Date | `2021-10-20T02:35:43Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/11)
 
 ---
 # Reference
 - [Issues with xRDP and Ubuntu 18.04.2 – How to fix it](http://c-nergy.be/blog/?p=13390)
 - [配置 VNC](https://www.mobibrw.com/2019/19379)
+- [xRDP Installation Script](https://c-nergy.be/repository.html)
+
 
 # Brief
 - xrdp 方式 windows 访问 Linux
@@ -25,6 +27,8 @@ unzip Std-Xrdp-Install-0.5.3.zip
 sudo chmod +x Std-Xrdp-Install-0.5.3.sh
 ./Std-Xrdp-Install-0.5.3.sh
 ```
+
+> 0.5.3 only working with Ubuntu 18.04, Download the [New Version](https://c-nergy.be/repository.html)
 
 - 卸载 xrdp
 
