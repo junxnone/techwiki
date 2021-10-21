@@ -2,10 +2,15 @@
 Title | Linux Tools xset
 -- | --
 Create Date | `2021-10-21T08:02:21Z`
-Update Date | `2021-10-21T09:02:51Z`
+Update Date | `2021-10-21T09:54:22Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/187)
 
 ---
+
+# Brief
+-  用于设置显示选项
+
+
 # UseCase
 
 Usecase | cmd
