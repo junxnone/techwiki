@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-10-13T15:18:24Z`
+Update Date | `2021-10-21T09:52:04Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -54,7 +54,7 @@ time | `time ./your_app` 计算执行时间
 [Linux ulimit](./Linux_ulimit) | 多用户资源管理
 [update-alternatives](./update_alternatives) | 软件版本管理
 [Linux Network Port Tools](./Linux_Network_Port_Tools) | 端口管理
-
+[xset](/Linux_Tools_xset) | 屏幕休眠管理
 
 # Performance Monitor Tools
 - [netdata](./netdata)
