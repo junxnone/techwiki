@@ -2,13 +2,13 @@
 Title | Linux Tools xset
 -- | --
 Create Date | `2021-10-21T08:02:21Z`
-Update Date | `2021-10-21T09:55:22Z`
+Update Date | `2021-10-21T16:12:18Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/187)
 
 ---
 # Brief
 -  用于设置显示选项
-
+- reboot 后重置
 
 # UseCase
 
