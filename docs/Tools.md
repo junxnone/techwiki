@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-10-21T09:52:04Z`
+Update Date | `2021-10-23T11:01:48Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -43,7 +43,7 @@ Tools | Description
 du -h | 统计文件夹占用空间大小
 [tmux](./tmux) | 后台终端工具
 pv | pv  file1 > file1.copy (显示copy进度)
-cal | 打印日历
+[cal](/Linux_Tools_cal) | 打印日历
 time | `time ./your_app` 计算执行时间
 [kill](./Linux_kill) | 进程管理
 [date](./Linux_date) | 系统时间管理
