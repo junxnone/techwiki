@@ -2,7 +2,7 @@
 Title | Jupyter
 -- | --
 Create Date | `2018-09-25T07:48:41Z`
-Update Date | `2021-10-24T02:42:27Z`
+Update Date | `2021-10-25T02:13:00Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/143)
 
 ---
@@ -21,13 +21,15 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/143)
 - jupyter - web 端 开发工具
 - 支持语言
   - python
-  - C++ - [xeus-cling](https://github.com/jupyter-xeus/xeus-cling)
+  - [C++](/jupyter_cpp)
 - [Jupyter use local package](./Jupyter_use_local_package)
 - [Jupyter show image dynamic](./Jupyter_show_image_dynamic)
 - [Jupyter Issues](./Jupyter_Issues)
 - [Jupyter Extensions](./Jupyter_Extensions)
 - [Jupyter docker image](./Jupyter_docker_image)
 - [Jupyter Arch](./Jupyter_Arch)
+- [Jupyrwe Kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
+
 
 ## Install with pip
 
