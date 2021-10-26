@@ -1,8 +1,8 @@
 ---
 Title | cmake
 -- | --
-Create Date | `2021-09-22T01:09:36Z`
-Update Date | `2021-09-22T01:09:36Z`
+Create Date | `2018-09-02T08:05:59Z`
+Update Date | `2021-10-26T02:24:42Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 
 ---
@@ -12,8 +12,9 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 - [Ubuntu16.04下安装Cmake-3.8.2](https://blog.csdn.net/l1216766050/article/details/77513045)
 
 # Brief
+- [Install](./cmake_install)
 - [Usecase](./cmake_usecase)
-- [Install](./camke_install)
+
 
 
 
