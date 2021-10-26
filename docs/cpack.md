@@ -2,7 +2,7 @@
 Title | cpack
 -- | --
 Create Date | `2021-10-26T02:34:17Z`
-Update Date | `2021-10-26T02:40:57Z`
+Update Date | `2021-10-26T05:57:02Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/190)
 
 ---
@@ -27,12 +27,27 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/190)
   - TZ (Tar Compress compression)
   - ZIP (ZIP file format)
 
+
+
+Windows | Cygwin | Linux/UNIX | Mac OS X
+-- | -- | -- | --
+NSIS | CYGWIN_BINARY | DEB | PACKAGEMAKER
+ZIP | SOURCE_CYGWIN | RPM | DRAGANDROP
+SOURCE_ZIP |   | STGZ | BUNDLE
+  |   | TBZ2 | OSXX11
+  |   | TGZ |  
+  |   | TZ |  
+  |   | SOURCE_TGZ |  
+  |   | SOURCE_TZ
+
+
+
 ![image](https://user-images.githubusercontent.com/2216970/138799118-45ae1e3f-6919-4281-a1bb-9d703ae8ebd7.png)
 
 
 ## 添加 script
 
-preinst：安装前脚本文件
-postinst：安装后脚本文件
-prerm：卸载前文件
-postrm：卸载后文件
+- preinst：安装前脚本文件
+- postinst：安装后脚本文件
+- prerm：卸载前文件
+- postrm：卸载后文件
