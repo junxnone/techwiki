@@ -2,7 +2,7 @@
 Title | cpack
 -- | --
 Create Date | `2021-10-26T02:34:17Z`
-Update Date | `2021-10-26T06:07:35Z`
+Update Date | `2021-10-26T06:07:52Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/190)
 
 ---
@@ -40,6 +40,8 @@ SOURCE_ZIP |   | STGZ | BUNDLE
   |   | SOURCE_TGZ |  
   |   | SOURCE_TZ
 
+
+## Cpack workflow
 
 ![image](https://user-images.githubusercontent.com/2216970/138818457-67ebdd3c-7f66-48a4-a592-430cbc780ba3.png)
 
