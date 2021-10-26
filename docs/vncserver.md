@@ -1,8 +1,8 @@
 ---
 Title | vncserver
 -- | --
-Create Date | `2021-09-22T07:07:15Z`
-Update Date | `2021-09-22T07:07:15Z`
+Create Date | `2019-01-14T05:35:17Z`
+Update Date | `2021-10-26T09:02:59Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/120)
 
 ---
@@ -40,7 +40,7 @@ gnome-terminal &
 
 ### 打开一个server 1920 x 1080
 ```
-vnc server -geometry 1920x1080
+vnc4server -geometry 1920x1080
 ```
 ## Connect
 - 使用 `vncviewer` 连接 IP:Port  `xxx.xxx.xx.xxx:n`
