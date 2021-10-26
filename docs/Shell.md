@@ -2,7 +2,7 @@
 Title | Shell
 -- | --
 Create Date | `2018-11-29T11:55:17Z`
-Update Date | `2021-09-22T07:47:25Z`
+Update Date | `2021-10-26T12:25:47Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/23)
 
 ---
@@ -11,7 +11,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/23)
 - [Shell 教程](http://www.runoob.com/linux/linux-shell.html)
 - [Shell脚本书写规范](https://www.cnblogs.com/thatsit/p/shell-jiao-ben-shu-xie-gui-fan.html)
 - [12个最好的免费开源Linux Shell](https://www.cnblogs.com/rainy0426/articles/12805710.html)
-
+- [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 
 
 # Brief
