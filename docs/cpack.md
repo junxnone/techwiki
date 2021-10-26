@@ -2,7 +2,7 @@
 Title | cpack
 -- | --
 Create Date | `2021-10-26T02:34:17Z`
-Update Date | `2021-10-26T05:57:02Z`
+Update Date | `2021-10-26T06:07:35Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/190)
 
 ---
@@ -41,8 +41,8 @@ SOURCE_ZIP |   | STGZ | BUNDLE
   |   | SOURCE_TZ
 
 
+![image](https://user-images.githubusercontent.com/2216970/138818457-67ebdd3c-7f66-48a4-a592-430cbc780ba3.png)
 
-![image](https://user-images.githubusercontent.com/2216970/138799118-45ae1e3f-6919-4281-a1bb-9d703ae8ebd7.png)
 
 
 ## 添加 script
