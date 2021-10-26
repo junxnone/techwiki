@@ -1,8 +1,8 @@
 ---
 Title | cmake usecase
 -- | --
-Create Date | `2021-09-22T01:09:45Z`
-Update Date | `2021-09-22T01:09:45Z`
+Create Date | `2021-07-15T06:05:14Z`
+Update Date | `2021-10-26T01:49:12Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/65)
 
 ---
@@ -17,8 +17,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/65)
 ---
 - Files 
   - CMakeLists.txt
-  - <script>.cmake
-  - <module>.cmake
+  - `<script>.cmake`
+  - `<module>.cmake`
 
 ## Variables
 
