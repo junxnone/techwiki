@@ -2,7 +2,7 @@
 Title | cmake
 -- | --
 Create Date | `2018-09-02T08:05:59Z`
-Update Date | `2021-10-26T05:51:07Z`
+Update Date | `2021-10-26T06:01:44Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 
 ---
@@ -20,8 +20,18 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 - [cpack](/cpack)
 - [ccmake]
 
+
+## Support languages
+
+![image](https://user-images.githubusercontent.com/2216970/138817820-b2abb50a-36c4-41ac-8d78-f7c0dcc40167.png)
+
+
+
+## Cmake workflow
+
 ![image](https://user-images.githubusercontent.com/2216970/138798860-7ac0c8bb-116f-40d9-b6b3-78ed006e385c.png)
 
+![image](https://user-images.githubusercontent.com/2216970/138817345-ab0f7e70-594c-4b37-b6b8-222384dea085.png)
 
 # Issues
 - **cmake generate `VS2019` Solution with `Intel Compiler` solution**
