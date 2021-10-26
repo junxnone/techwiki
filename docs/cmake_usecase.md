@@ -2,7 +2,7 @@
 Title | cmake usecase
 -- | --
 Create Date | `2021-07-15T06:05:14Z`
-Update Date | `2021-10-26T01:54:25Z`
+Update Date | `2021-10-26T02:21:59Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/65)
 
 ---
@@ -21,6 +21,10 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/65)
   - `<module>.cmake`
 
 ## Variables
+- VAR
+- 引用变量: `${VAR}`
+- set()
+
 
 ## BuildSystem
 
@@ -40,5 +44,13 @@ Func | Description
 `add_executable(demo demo.cpp)` | 生成可执行文件
 `add_library(common STATIC util.cpp)` | 生成静态库
 `add_library(common SHARED util.cpp)` | 生成动态库/共享库
+`aux_source_directory(dir VAR)` | 添加目录`dir` 下的所有源码到变量 `VAR`
+`add_definitions()`
+`add_subdirectory()`
+`find_library()` | 查找到指定的预编译库
+`find_package()` | 
+`include_directories()` | 设置包含目录
+`target_link_libraries()` | 设置需要链接的库
+`set(VAR xxx)`<br>`set(VAR ${VAR} XXX)` | 设置变量值<br>追加值
 
 
