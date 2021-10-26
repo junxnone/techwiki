@@ -2,7 +2,7 @@
 Title | Ubuntu Remote Desktop
 -- | --
 Create Date | `2021-01-06T03:05:58Z`
-Update Date | `2021-10-26T09:03:22Z`
+Update Date | `2021-10-26T09:07:32Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/11)
 
 ---
@@ -16,7 +16,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/11)
 
 # Brief
 - xrdp 方式 windows 访问 Linux
-- VNC 通用方式访问
+- [VNC](/VNC) 通用方式访问
 - [vncserver](./vncserver)
 
 # xrdp
