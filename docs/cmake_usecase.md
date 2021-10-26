@@ -2,7 +2,7 @@
 Title | cmake usecase
 -- | --
 Create Date | `2021-07-15T06:05:14Z`
-Update Date | `2021-10-26T02:21:59Z`
+Update Date | `2021-10-26T02:53:27Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/65)
 
 ---
@@ -24,7 +24,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/65)
 - VAR
 - 引用变量: `${VAR}`
 - set()
-
+- 预定义变量
 
 ## BuildSystem
 
@@ -54,3 +54,17 @@ Func | Description
 `set(VAR xxx)`<br>`set(VAR ${VAR} XXX)` | 设置变量值<br>追加值
 
 
+## 条件控制
+- `if..elseif..else...endif`
+- `while...endwhile`
+- `foreach..endforeach`
+- `not`
+- AND/OR/DEFINED - 变量
+- EXISTS/IS_NEWER_THAN/IS_DIRECTORY - 文件
+- LESS/GREATER/EQUAL - 数字比较
+- STRLESS/STRGREATER/STREQUAL - 字母比较
+- MATCHES - pattern regex
+
+
+## log 打印信息
+- `message`
