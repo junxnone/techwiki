@@ -2,7 +2,7 @@
 Title | Ubuntu Remote Desktop
 -- | --
 Create Date | `2021-01-06T03:05:58Z`
-Update Date | `2021-10-26T09:00:12Z`
+Update Date | `2021-10-26T09:03:22Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/11)
 
 ---
@@ -12,7 +12,6 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/11)
 - [xRDP Installation Script](https://c-nergy.be/repository.html)
 - [realvnc](https://www.realvnc.com/en/connect/download/viewer/)
 - [TightVNC](https://www.tightvnc.com/download-old.php)
-- [vnc简介](https://github.com/levinit/itnotes/blob/main/vnc.md)
 
 
 # Brief
