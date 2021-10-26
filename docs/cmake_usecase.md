@@ -2,12 +2,14 @@
 Title | cmake usecase
 -- | --
 Create Date | `2021-07-15T06:05:14Z`
-Update Date | `2021-10-26T02:53:27Z`
+Update Date | `2021-10-26T05:25:53Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/65)
 
 ---
 # Reference
 - [wiki](https://gitlab.kitware.com/cmake/community/-/wikis/home)
+- [Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+
 
 # Brief
 - command-line mode
