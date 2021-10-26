@@ -2,7 +2,7 @@
 Title | VNC
 -- | --
 Create Date | `2021-10-26T09:06:55Z`
-Update Date | `2021-10-26T09:06:55Z`
+Update Date | `2021-10-26T12:17:46Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/191)
 
 ---
@@ -14,6 +14,19 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/191)
 # Brief
 - VNC - Virtual Network Computing/Virtual Network Console - 图形桌面共享系统
 - VNC 由AT&T 的剑桥研究实验室开发，可实现远程图像显示和控制。
+- Tools
+  - TightVNC
+  - TigerVNC
+  - TurboVNC
+  - RemoteVNC
+  - RealVNC
+  - vino/vinagre
+  - x11vnc
 
+# UseCase
 
+Usecase | cmd
+-- | --
+启动 vncserver |  `vncserver :1 -geometry 1920x1080 -depth 24`
+查看 启动的 server | `ps -ef |grep vnc`
 
