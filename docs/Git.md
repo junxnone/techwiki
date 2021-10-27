@@ -2,7 +2,7 @@
 Title | Git
 -- | --
 Create Date | `2018-12-14T07:40:51Z`
-Update Date | `2021-10-12T14:37:51Z`
+Update Date | `2021-10-27T07:55:33Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/62)
 
 ---
@@ -18,6 +18,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/62)
 - [Git branch](./Git_branch)
 - [Git Tag](./Git_tag)
 - [Git pre-commit](./Git_precommit)
+- [Git archieve]
+
 
 # Issues
 - [Git 移除 stage 错误添加的文件](./Git_remove_file_from_stage)
