@@ -2,7 +2,7 @@
 Title | Develop
 -- | --
 Create Date | `2021-09-20T07:37:05Z`
-Update Date | `2021-10-28T07:48:06Z`
+Update Date | `2021-10-28T07:56:57Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
 
 ---
@@ -21,6 +21,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
   - [pkg-config](/pkg_config)
 - C
 - [C++](/CPP)
+- [DPC++](/DPCPP)
 - Python
   - [Python virtualenv](./Python_virtualenv)
   - [virtualenvwrapper](./virtualenvwrapper)
