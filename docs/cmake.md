@@ -2,7 +2,7 @@
 Title | cmake
 -- | --
 Create Date | `2018-09-02T08:05:59Z`
-Update Date | `2021-10-28T07:19:15Z`
+Update Date | `2021-10-28T07:33:31Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 
 ---
@@ -22,10 +22,20 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 - [ccmake]
 - [cmake-gui]
 
-## Support languages
+## Supported languages
+- C/C++/CUDA/HIP/OBJC/OBJC++
 
 ![image](https://user-images.githubusercontent.com/2216970/138817820-b2abb50a-36c4-41ac-8d78-f7c0dcc40167.png)
 
+
+## [Supported Compilers](https://cmake.org/cmake/help/git-master/manual/cmake-compile-features.7.html#supported-compilers)
+
+- AppleClang: Apple Clang for Xcode versions 4.4+.
+- Clang: Clang compiler versions 2.9+.
+- GNU: GNU compiler versions 4.4+.
+- MSVC: Microsoft Visual Studio versions 2010+.
+- SunPro: Oracle SolarisStudio versions 12.4+.
+- Intel: Intel compiler versions 12.1+.
 
 
 ## Cmake workflow
