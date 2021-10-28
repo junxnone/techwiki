@@ -2,15 +2,13 @@
 Title | cmake usecase
 -- | --
 Create Date | `2021-07-15T06:05:14Z`
-Update Date | `2021-10-28T04:26:36Z`
+Update Date | `2021-10-28T05:57:01Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/65)
 
 ---
 # Reference
 - [wiki](https://gitlab.kitware.com/cmake/community/-/wikis/home)
 - [Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
-- [cmake 预定义变量](https://cmake.org/cmake/help/latest/manual/cmake-variables.7.html)
-- [cmake 预定义语法/函数/宏](https://cmake.org/cmake/help/latest/manual/cmake-commands.7.html)
 
 
 # Brief
