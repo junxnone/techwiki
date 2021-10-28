@@ -2,13 +2,15 @@
 Title | cmake usecase
 -- | --
 Create Date | `2021-07-15T06:05:14Z`
-Update Date | `2021-10-28T03:48:33Z`
+Update Date | `2021-10-28T03:58:13Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/65)
 
 ---
 # Reference
 - [wiki](https://gitlab.kitware.com/cmake/community/-/wikis/home)
 - [Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+- [cmake 预定义变量](https://cmake.org/cmake/help/latest/manual/cmake-variables.7.html)
+- [cmake 预定义语法/函数/宏](https://cmake.org/cmake/help/latest/manual/cmake-commands.7.html)
 
 
 # Brief
@@ -46,14 +48,21 @@ project(demo VERSION <major>[.<minor>[.<patch>[.<tweak>]]])
 ## Variables
 - VAR
 - 引用变量: `${VAR}`
-- set()
+- set()/unset()
 - 预定义变量
+
+
+常用预定义变量 | 描述
+-- | --
+PROJECT_NAME | 项目名称
+CMAKE_INSTALL_PREFIX | 安装位置
+
 
 ## BuildSystem
 
-## Usecase
+## CMDLine Usecase
 
-Description | args
+Description | CMDLine args `cmake [xxx]`
 -- | --
 指定安装位置 | `-D CMAKE_INSTALL_PREFIX=/your/install/path`
 
