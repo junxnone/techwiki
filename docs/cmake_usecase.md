@@ -2,7 +2,7 @@
 Title | cmake usecase
 -- | --
 Create Date | `2021-07-15T06:05:14Z`
-Update Date | `2021-10-26T05:25:53Z`
+Update Date | `2021-10-28T03:48:33Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/65)
 
 ---
@@ -21,6 +21,27 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/65)
   - CMakeLists.txt
   - `<script>.cmake`
   - `<module>.cmake`
+
+
+## Pipeline
+
+- 简单demo
+
+```
+cmake_minimum_required (VERSION 2.6)
+project(demo)
+add_executable(demo demo.cxx)
+```
+
+- 设置版本号
+
+```
+set(PROJECT_VERSION 1.0.1.1)
+```
+```
+project(demo VERSION <major>[.<minor>[.<patch>[.<tweak>]]])
+```
+
 
 ## Variables
 - VAR
