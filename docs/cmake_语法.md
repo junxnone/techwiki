@@ -2,7 +2,7 @@
 Title | cmake 语法
 -- | --
 Create Date | `2021-10-28T04:25:32Z`
-Update Date | `2021-10-28T05:57:09Z`
+Update Date | `2021-10-28T07:01:42Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 
 ---
@@ -12,8 +12,18 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 - [cmake 预定义变量](https://cmake.org/cmake/help/latest/manual/cmake-variables.7.html)
 - [cmake 预定义语法/函数/宏](https://cmake.org/cmake/help/latest/manual/cmake-commands.7.html)
 
+# Brief
+- 变量
+- string
+- 条件控制
+- 宏-函数
+- 文件
+- 项目
+- 库
+- 编译器
 
-## Variables
+
+## 变量
 - VAR
 - 引用变量: `${VAR}`
 - set()/unset()
@@ -24,6 +34,16 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 -- | --
 PROJECT_NAME | 项目名称
 CMAKE_INSTALL_PREFIX | 安装位置
+
+## string
+
+Operations | Pattern | Description
+-- | -- | --
+FIND |  `string(FIND <string> <substring> <out-var> [...])`
+REPLACE | `string(REPLACE <match-string> <replace-string> <out-var> <input>...)`
+REGEX MATCH | `string(REGEX MATCH <match-regex> <out-var> <input>...)`
+REGEX MATCHALL | `string(REGEX MATCHALL <match-regex> <out-var> <input>...)`
+REGEX REPLACE | `string(REGEX REPLACE <match-regex> <replace-expr> <out-var> <input>...)`
 
 
 
