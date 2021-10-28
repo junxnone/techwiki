@@ -2,7 +2,7 @@
 Title | Develop
 -- | --
 Create Date | `2021-09-20T07:37:05Z`
-Update Date | `2021-10-19T15:44:56Z`
+Update Date | `2021-10-28T07:48:06Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
 
 ---
@@ -15,7 +15,6 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
 
 ## 编程
 - [编译器](/Compiler)
-  - [GCC](/GCC)
 - 编译工具
   - [cmake](./cmake)
   - [make](./Make)
