@@ -2,7 +2,7 @@
 Title | cmake
 -- | --
 Create Date | `2018-09-02T08:05:59Z`
-Update Date | `2021-10-28T04:24:29Z`
+Update Date | `2021-10-28T07:19:15Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 
 ---
@@ -20,7 +20,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 - [ctest]
 - [cpack](/cpack)
 - [ccmake]
-
+- [cmake-gui]
 
 ## Support languages
 
