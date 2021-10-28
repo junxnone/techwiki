@@ -1,8 +1,8 @@
 ---
 Title | Compiler
 -- | --
-Create Date | `2021-10-12T14:21:15Z`
-Update Date | `2021-10-12T14:21:15Z`
+Create Date | `2021-06-01T07:22:07Z`
+Update Date | `2021-10-28T07:44:34Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/169)
 
 ---
@@ -19,7 +19,7 @@ Name | Description | OS
 -- | -- | --
 [GCC](/GCC) | GNU Compiler Collection - 开源软件常用的编译器 | Linux
 MSVC | 微软开发的编译器 | Windows
-ICC | Intel C++ Compiler Hardware 优化 | Linux/Windows
+[ICC](/Intel_Compiler) | Intel C++ Compiler Hardware 优化 | Linux/Windows
 Clang | LLVM - Low Level Virtual Machine 编译器  | OS X
 BCC | Borland C++ 退出历史？？？
 
