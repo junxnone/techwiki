@@ -2,16 +2,10 @@
 Title | Develop
 -- | --
 Create Date | `2021-09-20T07:37:05Z`
-Update Date | `2021-10-28T08:01:00Z`
+Update Date | `2021-10-29T06:38:39Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
 
 ---
-# 开发模式 & 语言
-
-- [Parallel Computing](/Parallel_Computing)
-- [Markdown](./Markdown)
-
-
 
 ## 编程
 - [编译器](/Compiler)
@@ -22,7 +16,9 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
   - [ninja]
 - C
 - [C++](/CPP)
-- [DPC++](/DPCPP)
+- [Parallel Computing - 并行计算](/Parallel_Computing)
+  - [DPC++](/DPCPP)
+  - [SYCL](/SYCL)
 - Python
   - [Python virtualenv](./Python_virtualenv)
   - [virtualenvwrapper](./virtualenvwrapper)
@@ -45,7 +41,10 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
   - [Github 代码浏览工具 Source Graph](/Sourcegraph)
 - [Gitlab](./Gitlab)
 
-# Others
+## Docs
+- [Markdown](./Markdown)
+
+## Others
 - [Open Source License](./Open_Source_License)
 - [开发版本号相关](/Version)
 - [mosquitto](./mosquitto)
