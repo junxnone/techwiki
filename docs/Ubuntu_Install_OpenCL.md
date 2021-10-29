@@ -1,18 +1,16 @@
 ---
 Title | Ubuntu Install OpenCL
 -- | --
-Create Date | `2021-09-22T07:51:21Z`
-Update Date | `2021-09-22T07:51:21Z`
+Create Date | `2020-03-18T08:05:25Z`
+Update Date | `2021-10-29T07:56:51Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/135)
 
 ---
 # Reference
 - [intel compute-runtime release](https://github.com/intel/compute-runtime/releases)
 
-# Brief
-- OpenCL
 
-## Install
+## Install on Ubuntu
 
 ```
 wget https://github.com/intel/compute-runtime/releases/download/20.10.16087/intel-gmmlib_19.4.1_amd64.deb
