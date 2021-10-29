@@ -2,7 +2,7 @@
 Title | DPCPP
 -- | --
 Create Date | `2021-10-28T08:00:47Z`
-Update Date | `2021-10-29T06:47:27Z`
+Update Date | `2021-10-29T06:51:14Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 
 ---
@@ -18,4 +18,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 - 数据并行编程/异构编程
 - C++ 标准 > `C++17`
 - [SYCL](/SYCL)
-- 
+
+name | Description
+-- | --
+CUDA | - Low-level<br>- Separate source for device code<br>- Device code only
+`DPC++(SYCL)`/OpenMP | - Higher-level<br>- Single source<br>- Host  and Device code
