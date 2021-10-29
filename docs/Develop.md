@@ -2,11 +2,10 @@
 Title | Develop
 -- | --
 Create Date | `2021-09-20T07:37:05Z`
-Update Date | `2021-10-29T06:38:39Z`
+Update Date | `2021-10-29T07:38:16Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
 
 ---
-
 ## 编程
 - [编译器](/Compiler)
 - 编译工具
@@ -19,6 +18,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
 - [Parallel Computing - 并行计算](/Parallel_Computing)
   - [DPC++](/DPCPP)
   - [SYCL](/SYCL)
+- [OneAP](/OneAPI)
 - Python
   - [Python virtualenv](./Python_virtualenv)
   - [virtualenvwrapper](./virtualenvwrapper)
