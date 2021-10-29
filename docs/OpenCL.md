@@ -1,8 +1,8 @@
 ---
 Title | OpenCL
 -- | --
-Create Date | `2021-10-29T08:03:31Z`
-Update Date | `2021-10-29T08:03:31Z`
+Create Date | `2021-01-25T07:01:15Z`
+Update Date | `2021-10-29T08:22:54Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/198)
 
 ---
@@ -11,6 +11,9 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/198)
 - [OpenCL简介](https://blog.csdn.net/XianBT/article/details/18914273)
 - [组织官网](http://www.khronos.org/)
 - [OpenCL 官网](https://www.khronos.org/opencl/)
+- [OpenCL Guide](https://github.com/KhronosGroup/OpenCL-Guide)
+- [OpenCL Resource](https://www.khronos.org/opencl/resources)
+
 
 # Brief
 - OpenCL - Open Computing Language - 开放计算机语言
@@ -18,6 +21,12 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/198)
 - 定义了API，硬件底层实现由各公司实现 (Intel/NVIDIA/AMD)
 - `OpenCL ICD` - `Installable Client Driver Loader` 加载 `Vendor ICDs`
 - [OpenCL Install](/OpenCL_Install)
+- **一些实现**
+  - [Intel(R) Graphics Compute Runtime for OpenCL](https://github.com/intel/compute-runtime)
+  - [AMD ROCm](https://rocmdocs.amd.com/en/latest/)
+  - [TI OpenCL-DSP](https://downloads.ti.com/mctools/esd/docs/opencl/index.html)
+  - [POCL -  Portable Computing Language](http://portablecl.org/)
+  - [NVIDIA OpenCL SDK](https://developer.nvidia.com/opencl) - 非开源
 
 ## Low level Parallel Programing
 
