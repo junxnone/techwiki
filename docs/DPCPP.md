@@ -2,7 +2,7 @@
 Title | DPCPP
 -- | --
 Create Date | `2021-10-28T08:00:47Z`
-Update Date | `2021-10-29T07:00:18Z`
+Update Date | `2021-10-29T07:34:38Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 
 ---
@@ -13,6 +13,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 - [SYCL 1.2.1 spec](https://www.khronos.org/registry/SYCL/specs/sycl-1.2.1.pdf)
 - [DPCPP API](https://intel.github.io/llvm-docs/doxygen/index.html)
 - [Level Zero](https://dgpu-docs.intel.com/technologies/level-zero.html)
+- [DPCPP Reference](https://oneapi-src.github.io/DPCPP_Reference/index.html)
+
 
 # Brief
 - **DPC++** - `oneAPI Data Parallel C++` - Intel
