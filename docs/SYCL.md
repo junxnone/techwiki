@@ -2,7 +2,7 @@
 Title | SYCL
 -- | --
 Create Date | `2021-07-29T01:50:29Z`
-Update Date | `2021-10-28T09:02:38Z`
+Update Date | `2021-10-29T06:01:38Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 
 ---
@@ -10,6 +10,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 - [SYCL](https://www.khronos.org/sycl/)
 - [SYCL - Specification](https://www.khronos.org/registry/SYCL/specs/sycl-2020/html/sycl-2020.html#introduction)
 - [SYCL - Reference](https://sycl.readthedocs.io/en/latest/)
+- [sycl.tech](https://sycl.tech/learn/)
+
 
 # Brief
 - [SYCL Concepts](/SYCL_Concepts)
