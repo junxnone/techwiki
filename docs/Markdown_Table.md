@@ -2,7 +2,7 @@
 Title | Markdown Table
 -- | --
 Create Date | `2021-09-22T10:07:37Z`
-Update Date | `2021-10-30T05:16:25Z`
+Update Date | `2021-10-30T05:16:48Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/162)
 
 ---
@@ -110,7 +110,7 @@ T1 | T2<br>T3<br>T4
   </tr>
 </table>
 
-- **html tag `table/tr/td/pre**
+- **html table tag `table/tr/td/pre`**
 
 <table style="width:100%; table-layout:fixed;">
   <tr>
