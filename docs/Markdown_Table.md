@@ -2,7 +2,7 @@
 Title | Markdown Table
 -- | --
 Create Date | `2021-09-22T10:07:37Z`
-Update Date | `2021-09-22T10:22:03Z`
+Update Date | `2021-10-30T05:15:36Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/162)
 
 ---
@@ -110,3 +110,44 @@ T1 | T2<br>T3<br>T4
   </tr>
 </table>
 
+
+<table style="width:100%; table-layout:fixed;">
+  <tr>
+  <td>
+<pre>
+int poly(int *coef, int terms, int x) {
+  int power = 1;
+  int value = 0;
+  for (int j = 0; j < terms; j++) {
+    value += coef[j] * power;
+    power *= x;
+  }
+  return value;
+}
+</pre>
+</td>
+<td>
+<pre>
+poly:
+  cmp r1, #0
+  ble .L4
+  push {r4, r5}
+  mov r3, r0
+  add r1, r0, r1, lsl #2
+  movs r4, #1
+  movs r0, #0
+.L3:
+  ldr r5, [r3], #4
+  cmp r1, r3
+  mla r0, r4, r5, r0
+  mul r4, r2, r4
+  bne .L3
+  pop {r4, r5}
+  bx lr
+.L4:
+  movs r0, #0
+  bx lr
+</pre>
+</td>
+</tr>
+</table>
