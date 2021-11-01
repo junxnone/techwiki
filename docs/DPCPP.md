@@ -2,7 +2,7 @@
 Title | DPCPP
 -- | --
 Create Date | `2021-10-28T08:00:47Z`
-Update Date | `2021-10-29T07:34:38Z`
+Update Date | `2021-11-01T03:03:12Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 
 ---
@@ -23,8 +23,13 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 - C++ 标准 > `C++17`
 - [SYCL](/SYCL)
 
+
+## Arch
+
+
 ![image](https://user-images.githubusercontent.com/2216970/139390103-c0653884-e220-4509-a5da-acdc1514fdca.png)
 
+## VS CUDA
 
 name | Description
 -- | --
