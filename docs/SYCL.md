@@ -2,7 +2,7 @@
 Title | SYCL
 -- | --
 Create Date | `2021-07-29T01:50:29Z`
-Update Date | `2021-11-02T08:20:04Z`
+Update Date | `2021-11-02T08:32:31Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 
 ---
@@ -25,7 +25,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
   - [TriSYCL - Xilinx](https://github.com/triSYCL/triSYCL)
   - [hipSYCL - Heidelberg University](https://github.com/illuhad/hipSYCL)
   - neoSYCL - Tohoku
-
+- 一些使用 SYCL 的库
+  - Eigen
 
 
 ## SYCL 定位
