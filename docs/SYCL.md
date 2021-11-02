@@ -2,7 +2,7 @@
 Title | SYCL
 -- | --
 Create Date | `2021-07-29T01:50:29Z`
-Update Date | `2021-11-02T08:16:30Z`
+Update Date | `2021-11-02T08:17:21Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 
 ---
@@ -20,11 +20,21 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 - 使用 OpenCL backend
 - [SYCL Concepts](/SYCL_Concepts)
 - SYCL 标准的一些实现
-- [DPCPP - Intel](https://github.com/intel/llvm)
-- [ComputeCpp - codeplay](https://github.com/codeplaysoftware/computecpp-sdk)
-- [TriSYCL - Xilinx](https://github.com/triSYCL/triSYCL)
-- [hipSYCL - Heidelberg University](https://github.com/illuhad/hipSYCL)
-- neoSYCL - Tohoku
+  - [DPCPP - Intel](https://github.com/intel/llvm)
+  - [ComputeCpp - codeplay](https://github.com/codeplaysoftware/computecpp-sdk)
+  - [TriSYCL - Xilinx](https://github.com/triSYCL/triSYCL)
+  - [hipSYCL - Heidelberg University](https://github.com/illuhad/hipSYCL)
+  - neoSYCL - Tohoku
+
+
+
+## SYCL 定位
+![image](https://user-images.githubusercontent.com/2216970/127418990-8e05f4ee-c310-4648-b4e6-f7a3cc83fae1.png)
+
+## SYCL 实现
+
+
+![image](https://user-images.githubusercontent.com/2216970/127419004-037235d4-8a43-47b6-bf3f-73a1d81fea30.png)
 
 
 ## VS OpenCL
@@ -38,14 +48,6 @@ OpenCL | - Low-Level<br> - Host + Device Code
 - SYCL是高级单一源 C ++ 领域特定的嵌入式语言
 
 ![image](https://user-images.githubusercontent.com/2216970/127421283-39437ea0-bc47-4736-8f23-4fde10aa56ec.png)
-
-## SYCL 定位
-![image](https://user-images.githubusercontent.com/2216970/127418990-8e05f4ee-c310-4648-b4e6-f7a3cc83fae1.png)
-
-## SYCL 实现
-
-
-![image](https://user-images.githubusercontent.com/2216970/127419004-037235d4-8a43-47b6-bf3f-73a1d81fea30.png)
 
 # UseCase
 
