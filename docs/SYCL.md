@@ -2,7 +2,7 @@
 Title | SYCL
 -- | --
 Create Date | `2021-07-29T01:50:29Z`
-Update Date | `2021-11-02T07:27:30Z`
+Update Date | `2021-11-02T07:49:39Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 
 ---
@@ -18,7 +18,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 
 ## vs OpenCL
 - OpenCL是低级非单一源API
-- SYCL是高级单一源C ++领域特定的嵌入式语言
+- SYCL是高级单一源C ++领域特定的嵌入式语言, 使用 OpenCL 作为 Backend
 
 ![image](https://user-images.githubusercontent.com/2216970/127421283-39437ea0-bc47-4736-8f23-4fde10aa56ec.png)
 
