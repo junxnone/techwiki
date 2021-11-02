@@ -2,7 +2,7 @@
 Title | DPCPP
 -- | --
 Create Date | `2021-10-28T08:00:47Z`
-Update Date | `2021-11-01T03:03:12Z`
+Update Date | `2021-11-02T08:22:49Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 
 ---
@@ -18,10 +18,12 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 
 # Brief
 - **DPC++** - `oneAPI Data Parallel C++` - Intel
--  = `ISO C++` + `SYCL standard` + `extensions`
 - 数据并行编程/异构编程
 - C++ 标准 > `C++17`
-- [SYCL](/SYCL)
+-  = `ISO C++` + `SYCL standard` + `extensions`
+- 实现了 [SYCL](/SYCL) 接口
+  - 使用 [OpenCL](/OpenCL) 后端加速 Intel CPU/iGPU/FPGAs
+  - 使用 `CUDA+PTX` 后端加速 Nvidia GPUs
 
 
 ## Arch
