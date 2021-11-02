@@ -2,7 +2,7 @@
 Title | CPP
 -- | --
 Create Date | `2021-07-27T02:33:13Z`
-Update Date | `2021-10-13T15:59:48Z`
+Update Date | `2021-11-02T08:49:36Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/179)
 
 ---
@@ -27,3 +27,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/179)
 - 2014 C++14 release
 - 2017 C++17
 - 2020 C++20 release
+
+
+![image](https://user-images.githubusercontent.com/2216970/139814836-3ef04a37-d213-4dae-a8f3-e21037700d48.png)
+
