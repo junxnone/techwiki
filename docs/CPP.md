@@ -2,12 +2,14 @@
 Title | CPP
 -- | --
 Create Date | `2021-07-27T02:33:13Z`
-Update Date | `2021-11-02T08:49:36Z`
+Update Date | `2021-11-02T08:50:13Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/179)
 
 ---
 # Reference
 - [C++ 常用库](https://segmentfault.com/a/1190000011483340)
+- [isocpp std status](https://isocpp.org/std/status)
+
 
 # Brief
 - [Vector](/CPP_Vector)
