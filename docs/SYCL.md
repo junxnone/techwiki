@@ -2,7 +2,7 @@
 Title | SYCL
 -- | --
 Create Date | `2021-07-29T01:50:29Z`
-Update Date | `2021-11-02T08:33:53Z`
+Update Date | `2021-11-02T09:59:16Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 
 ---
@@ -12,7 +12,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 - [SYCL - Reference](https://sycl.readthedocs.io/en/latest/)
 - [sycl.tech](https://sycl.tech/learn/)
 - [A Comparative Study of SYCL, OpenCL, and OpenMP](https://www.researchgate.net/publication/312964923_A_Comparative_Study_of_SYCL_OpenCL_and_OpenMP)
-
+- [Investigation of the OpenCL SYCL Programming Model](https://static.epcc.ed.ac.uk/dissertations/hpc-msc/2013-2014/Investigation%20of%20the%20OpenCL%20SYCL%20Programming%20Model.pdf)
 
 
 # Brief
