@@ -2,7 +2,7 @@
 Title | SYCL
 -- | --
 Create Date | `2021-07-29T01:50:29Z`
-Update Date | `2021-11-02T08:32:31Z`
+Update Date | `2021-11-02T08:33:53Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 
 ---
@@ -26,7 +26,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
   - [hipSYCL - Heidelberg University](https://github.com/illuhad/hipSYCL)
   - neoSYCL - Tohoku
 - 一些使用 SYCL 的库
-  - Eigen
+  - Eigen (基于 ComputeCpp)
 
 
 ## SYCL 定位
