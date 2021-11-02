@@ -2,7 +2,7 @@
 Title | OpenCL
 -- | --
 Create Date | `2021-01-25T07:01:15Z`
-Update Date | `2021-10-29T08:22:54Z`
+Update Date | `2021-11-02T08:04:00Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/198)
 
 ---
@@ -27,6 +27,16 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/198)
   - [TI OpenCL-DSP](https://downloads.ti.com/mctools/esd/docs/opencl/index.html)
   - [POCL -  Portable Computing Language](http://portablecl.org/)
   - [NVIDIA OpenCL SDK](https://developer.nvidia.com/opencl) - 非开源
+- 使用 OpenCL 作为后端的 语言/库
+  - Caffe
+  - SYCL
+  - OpenCV
+  - OpenACC
+  - Tensorflow
+  - Halide
+  - C++ AMP
+  - ...
+
 
 ## Low level Parallel Programing
 
