@@ -2,7 +2,7 @@
 Title | SYCL
 -- | --
 Create Date | `2021-07-29T01:50:29Z`
-Update Date | `2021-11-02T08:15:14Z`
+Update Date | `2021-11-02T08:16:30Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 
 ---
@@ -16,9 +16,16 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 
 
 # Brief
-- SYCL - High-Level C++ 抽象层
+- SYCL - High-Level C++ 抽象层 - 一个标准
 - 使用 OpenCL backend
 - [SYCL Concepts](/SYCL_Concepts)
+- SYCL 标准的一些实现
+- [DPCPP - Intel](https://github.com/intel/llvm)
+- [ComputeCpp - codeplay](https://github.com/codeplaysoftware/computecpp-sdk)
+- [TriSYCL - Xilinx](https://github.com/triSYCL/triSYCL)
+- [hipSYCL - Heidelberg University](https://github.com/illuhad/hipSYCL)
+- neoSYCL - Tohoku
+
 
 ## VS OpenCL
 
@@ -36,11 +43,7 @@ OpenCL | - Low-Level<br> - Host + Device Code
 ![image](https://user-images.githubusercontent.com/2216970/127418990-8e05f4ee-c310-4648-b4e6-f7a3cc83fae1.png)
 
 ## SYCL 实现
-- [DPCPP - Intel](https://github.com/intel/llvm)
-- [ComputeCpp - codeplay](https://github.com/codeplaysoftware/computecpp-sdk)
-- [TriSYCL - Xilinx](https://github.com/triSYCL/triSYCL)
-- [hipSYCL - Heidelberg University](https://github.com/illuhad/hipSYCL)
-- neoSYCL - Tohoku
+
 
 ![image](https://user-images.githubusercontent.com/2216970/127419004-037235d4-8a43-47b6-bf3f-73a1d81fea30.png)
 
