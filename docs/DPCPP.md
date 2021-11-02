@@ -2,7 +2,7 @@
 Title | DPCPP
 -- | --
 Create Date | `2021-10-28T08:00:47Z`
-Update Date | `2021-11-02T08:22:49Z`
+Update Date | `2021-11-02T09:29:21Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 
 ---
@@ -14,7 +14,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 - [DPCPP API](https://intel.github.io/llvm-docs/doxygen/index.html)
 - [Level Zero](https://dgpu-docs.intel.com/technologies/level-zero.html)
 - [DPCPP Reference](https://oneapi-src.github.io/DPCPP_Reference/index.html)
-
+- [training - intel](https://techdecoded.intel.io/quickhits/overview-of-oneapi-dpc-programming)
 
 # Brief
 - **DPC++** - `oneAPI Data Parallel C++` - Intel
