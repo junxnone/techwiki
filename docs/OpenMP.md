@@ -2,7 +2,7 @@
 Title | OpenMP
 -- | --
 Create Date | `2021-05-20T03:29:59Z`
-Update Date | `2021-11-03T16:41:49Z`
+Update Date | `2021-11-03T16:43:30Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 
 ---
@@ -79,5 +79,4 @@ reduction | 对于各个线程私有的变量，在并行区结束时通过某�
 - single
 - task
 
-[OpenMP SIMD](/OpenMP_SIMD.md ':include')
 
