@@ -2,13 +2,14 @@
 Title | OpenMP SIMD
 -- | --
 Create Date | `2021-11-03T02:35:24Z`
-Update Date | `2021-11-03T02:53:52Z`
+Update Date | `2021-11-03T03:04:34Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/203)
 
 ---
-
 # Reference
 - [SIMD Directives](https://www.openmp.org/spec-html/5.0/openmpsu42.html)
+- [openmp simd 扩展 - msvc](https://docs.microsoft.com/zh-cn/cpp/parallel/openmp/openmp-simd?view=msvc-160)
+
 
 # Brief
 
