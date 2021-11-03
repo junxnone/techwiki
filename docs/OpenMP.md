@@ -2,7 +2,7 @@
 Title | OpenMP
 -- | --
 Create Date | `2021-05-20T03:29:59Z`
-Update Date | `2021-11-03T05:25:40Z`
+Update Date | `2021-11-03T06:34:41Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 
 ---
@@ -31,7 +31,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 - [OpenMP API](/OpenMP_API)
 - [OpenMP - 绑核](/OpenMP_Bind_Core)
 - [OpenMP SIMD](/OpenMP_SIMD)
-
+- [OpenMP Offload](/OpenMP_Offload)
 
 # UseCase
 
