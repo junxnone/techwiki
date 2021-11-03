@@ -2,7 +2,7 @@
 Title | OpenMP
 -- | --
 Create Date | `2021-05-20T03:29:59Z`
-Update Date | `2021-11-03T08:06:24Z`
+Update Date | `2021-11-03T16:25:43Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 
 ---
@@ -32,7 +32,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 - 支持 UMA/NUMA
 - [OpenMP API](/OpenMP_API)
 - [OpenMP - 绑核](/OpenMP_Bind_Core)
-- [OpenMP SIMD](/OpenMP_SIMD)
+- [OpenMP SIMD](/OpenMP_SIMD ':include')
 - [OpenMP Offload](/OpenMP_Offload)
 - [OpenMP ICV(Internal Control Variables)]()
 
