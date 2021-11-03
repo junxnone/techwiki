@@ -15,7 +15,10 @@
   window.$docsify = {
     search: {
         placeholder: '搜索',
-        noData: "无结果"
+        noData: "无结果",
+        depth: 4,
+        maxAge: 86400000,
+        paths: 'auto'
     },
     alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
