@@ -1,8 +1,8 @@
 ---
 Title | OpenMP
 -- | --
-Create Date | `2021-11-02T09:51:25Z`
-Update Date | `2021-11-02T09:51:25Z`
+Create Date | `2021-05-20T03:29:59Z`
+Update Date | `2021-11-03T02:35:55Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 
 ---
@@ -28,7 +28,9 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 - 默认并行线程数为CPU核数
 - 支持 UMA/NUMA
 - [OpenMP API](/OpenMP_API)
-- [OpenMP - 绑核](OpenMP_Bind_Core)
+- [OpenMP - 绑核](/OpenMP_Bind_Core)
+- [OpenMP SIMD](/OpenMP_SIMD)
+
 
 # UseCase
 
