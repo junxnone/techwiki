@@ -2,7 +2,7 @@
 Title | OpenMP Offload
 -- | --
 Create Date | `2021-11-03T05:56:24Z`
-Update Date | `2021-11-03T07:44:57Z`
+Update Date | `2021-11-03T07:54:32Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/204)
 
 ---
@@ -28,6 +28,13 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/204)
     }
 }
 ...// More Sequential Host Code
+```
+
+```
+export OMP_TARGET_OFFLOAD={"MANDATORY" | "DISABLED" | "DEFAULT" }
+- MANDATORY:  run on GPU
+- DISABLED: run on CPU
+- DEFAULT GPU --> Fall back to CPU
 ```
 
 
