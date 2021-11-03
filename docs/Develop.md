@@ -2,7 +2,7 @@
 Title | Develop
 -- | --
 Create Date | `2021-09-20T07:37:05Z`
-Update Date | `2021-11-02T09:52:19Z`
+Update Date | `2021-11-03T02:31:20Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
 
 ---
@@ -20,6 +20,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
   - [SYCL](/SYCL)
   - [OpenCL](/OpenCL)
   - [OpenMP](/OpenMP)
+  - [OpenMPI](/OpenMPI)
 - [OneAP](/OneAPI)
 - Python
   - [Python virtualenv](./Python_virtualenv)
