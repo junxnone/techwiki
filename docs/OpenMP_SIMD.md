@@ -2,7 +2,7 @@
 Title | OpenMP SIMD
 -- | --
 Create Date | `2021-11-03T02:35:24Z`
-Update Date | `2021-11-03T03:04:34Z`
+Update Date | `2021-11-03T03:11:55Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/203)
 
 ---
@@ -30,5 +30,5 @@ nontemporal(list)
 private(list) 
 lastprivate([ lastprivate-modifier:] list) 
 reduction([ reduction-modifier,]reduction-identifier : list) 
-collapse(n) 
+collapse(n) | 把多层循环拆解(n - 拆解层数)
 order(concurrent)
