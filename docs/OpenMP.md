@@ -2,7 +2,7 @@
 Title | OpenMP
 -- | --
 Create Date | `2021-05-20T03:29:59Z`
-Update Date | `2021-11-03T16:25:43Z`
+Update Date | `2021-11-03T16:39:53Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 
 ---
@@ -32,7 +32,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 - 支持 UMA/NUMA
 - [OpenMP API](/OpenMP_API)
 - [OpenMP - 绑核](/OpenMP_Bind_Core)
-- [OpenMP SIMD](/OpenMP_SIMD ':include')
+- [OpenMP SIMD](/OpenMP_SIMD)
 - [OpenMP Offload](/OpenMP_Offload)
 - [OpenMP ICV(Internal Control Variables)]()
 
@@ -78,3 +78,6 @@ reduction | 对于各个线程私有的变量，在并行区结束时通过某�
 ```
 - single
 - task
+
+[README](/README.md ':include')
+
