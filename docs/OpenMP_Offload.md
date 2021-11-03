@@ -2,7 +2,7 @@
 Title | OpenMP Offload
 -- | --
 Create Date | `2021-11-03T05:56:24Z`
-Update Date | `2021-11-03T08:10:56Z`
+Update Date | `2021-11-03T08:17:08Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/204)
 
 ---
@@ -42,8 +42,12 @@ export OMP_TARGET_OFFLOAD={"MANDATORY" | "DISABLED" | "DEFAULT" }
 API | Description
 -- | --
 `omp_get_default_device()` | 返回默认的 `Target Device`
+`omp_set_default_device()` | 设置默认的 `Target Device`
 `omp_get_num_devices()` | 返回 `Target Device` 的数量
 `omp_get_device_num()` | 返回当前 `thread` 执行的 `Device Number`
+`omp_is_initial_device()` | 返回当前 `thread` 是否执行在 `Host Device`
+`omp_get_initial_device()` | 返回 `Host Device` 的 `Device Number`
+
 
 ###  Compiler Option
 
