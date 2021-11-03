@@ -2,21 +2,22 @@
 Title | OpenMP
 -- | --
 Create Date | `2021-05-20T03:29:59Z`
-Update Date | `2021-11-03T02:35:55Z`
+Update Date | `2021-11-03T05:25:40Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 
 ---
 # Reference
-- [C/C++ openMP并发编程](https://blog.csdn.net/qq_30024069/article/details/93355022)
+- [OpenMP API Specification](https://www.openmp.org/spec-html/5.1/openmp.html)
 - [OpenMP Reference Guide](https://www.openmp.org/resources/refguides/)
-- [OpenMP学习笔记](https://blog.csdn.net/qq_40379678/article/details/107788716)
 - [OpenMP Compilers & Tools](https://www.openmp.org/resources/openmp-compilers-tools/)
 - [OpenMP sample code](https://github.com/OpenMP/Examples/tree/main/sources)
+- [OpenMP学习笔记](https://blog.csdn.net/qq_40379678/article/details/107788716)
 - [并行计算 - 华东师范大学 ](http://math.ecnu.edu.cn/~jypan/Teaching/ParaComp/) 
   - [lect04_OpenMP01_C.pdf](https://github.com/junxnone/tech-io/files/6613360/lect04_OpenMP01_C.pdf)
   - [lect04_OpenMP02_C.pdf](https://github.com/junxnone/tech-io/files/6613361/lect04_OpenMP02_C.pdf)
   - [lect04_OpenMP03_C.pdf](https://github.com/junxnone/tech-io/files/6613363/lect04_OpenMP03_C.pdf)
 - [OpenMP并行编程.pdf -  中科院计算机网络信息中心](https://github.com/junxnone/tech-io/files/6986206/OpenMP.pdf)
+- [C/C++ openMP并发编程](https://blog.csdn.net/qq_30024069/article/details/93355022)
 
 
 # Brief
