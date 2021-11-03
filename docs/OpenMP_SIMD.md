@@ -2,7 +2,7 @@
 Title | OpenMP SIMD
 -- | --
 Create Date | `2021-11-03T02:35:24Z`
-Update Date | `2021-11-03T03:11:55Z`
+Update Date | `2021-11-03T11:04:31Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/203)
 
 ---
@@ -12,7 +12,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/203)
 
 
 # Brief
-
+- OpenMP 使用 SIMD 优化
 
 ```
 #pragma omp simd [clause[ [,] clause] ... ] new-line 
