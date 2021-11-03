@@ -2,7 +2,7 @@
 Title | OpenMP Offload
 -- | --
 Create Date | `2021-11-03T05:56:24Z`
-Update Date | `2021-11-03T06:08:43Z`
+Update Date | `2021-11-03T06:09:42Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/204)
 
 ---
@@ -13,7 +13,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/204)
 
 
 # Brief
-
+- OpenMP 支持 Device Code 在 Intel/AMD/NVIDIA GPU 上运行
 
 ###  Compiler Option
 
