@@ -2,7 +2,7 @@
 Title | Linux Tools script
 -- | --
 Create Date | `2021-11-04T08:32:12Z`
-Update Date | `2021-11-04T08:52:11Z`
+Update Date | `2021-11-04T08:54:56Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/205)
 
 ---
@@ -11,6 +11,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/205)
 
 
 # Brief
+
 - `script` 记录终端执行命令的历史
 - `scriptreplay` 播放 `script` 记录的数据
 
@@ -60,13 +61,19 @@ Usecase | cmd
 静默方式运行 | `script -q`
 
 
-- 可以使用 `scriptreplay` 回放的格式
+- 记录可以使用 `scriptreplay` 回放的格式
+
 ```
 $ script -t 2>cmd.time -a cmd.his
 ...
 run some command
 ...
 $ exit
+```
+
+- 播放 `script` 记录的文件
+
+```
 $ scriptreplay cmd.time cmd.his
 ```
 
