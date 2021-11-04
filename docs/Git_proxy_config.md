@@ -1,36 +1,29 @@
 ---
 Title | Git proxy config
 -- | --
-Create Date | `2021-09-20T13:35:32Z`
-Update Date | `2021-09-20T13:35:32Z`
+Create Date | `2018-12-10T06:05:14Z`
+Update Date | `2021-11-04T15:30:09Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/57)
 
 ---
-# Install connect-proxy
+## SSH proxy setting with `connect-proxy`
+
+- Install `connect-proxy`
 
 ```
 sudo apt-get install connect-proxy
 ```
 
-#  set git-proxy shell script
+- setup `~/.ssh/ocnfig`, add the following section
 
 ```
-sudo vi /usr/local/bin/git-proxy
-```
-```
-#!/bin/bash
-echo $1 | grep "\.someurl\.com$" > /dev/null 2>&1
-if [ $?  -eq 0 ]; then
-    connect-proxy $0
-else
-    connect-proxy -S xxx.com:1080 $@
-fi
-```
-```
-sudo chmod a+x /usr/local/bin/git-proxy
+host github.com
+
+ProxyCommand connect -a none -S proxy_ip:proxy_port(1080) %h %p
 ```
 
-# Config gitProxy 
+
+## Config gitProxy 
 
 ```
 git config --global core.gitProxy git-proxy
