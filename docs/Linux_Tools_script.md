@@ -2,7 +2,7 @@
 Title | Linux Tools script
 -- | --
 Create Date | `2021-11-04T08:32:12Z`
-Update Date | `2021-11-04T08:32:12Z`
+Update Date | `2021-11-04T08:42:58Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/205)
 
 ---
@@ -40,4 +40,15 @@ Usecase | cmd
 开始记录 | `script`
 保存记录到某个文件 | `script your/log/file`
 停止记录 | `exit`
+静默方式运行 | `script -q`
 
+
+- 可以使用 `scriptreplay` 回放的格式
+```
+$ script -t 2>cmd.time cmd.his
+...
+run some command
+...
+$ exit
+$ scriptreplay cmd.time cmd.his
+```
