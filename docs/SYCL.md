@@ -2,11 +2,11 @@
 Title | SYCL
 -- | --
 Create Date | `2021-07-29T01:50:29Z`
-Update Date | `2021-11-02T09:59:16Z`
+Update Date | `2021-11-04T15:11:42Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 
 ---
-# Reference
+## Reference
 - [SYCL](https://www.khronos.org/sycl/)
 - [SYCL - Specification](https://www.khronos.org/registry/SYCL/specs/sycl-2020/html/sycl-2020.html#introduction)
 - [SYCL - Reference](https://sycl.readthedocs.io/en/latest/)
@@ -15,7 +15,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 - [Investigation of the OpenCL SYCL Programming Model](https://static.epcc.ed.ac.uk/dissertations/hpc-msc/2013-2014/Investigation%20of%20the%20OpenCL%20SYCL%20Programming%20Model.pdf)
 
 
-# Brief
+## Brief
 - SYCL - High-Level C++ 抽象层 - 一个标准
 - 可以使用 OpenCL backend，也可以用其他库作为后端 (CUDA/OpenMP/OpenCL+PTX/CUDA+PTX)
 - [SYCL Concepts](/SYCL_Concepts)
