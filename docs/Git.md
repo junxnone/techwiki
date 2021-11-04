@@ -2,7 +2,7 @@
 Title | Git
 -- | --
 Create Date | `2018-12-14T07:40:51Z`
-Update Date | `2021-10-27T07:55:33Z`
+Update Date | `2021-11-04T15:30:59Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/62)
 
 ---
@@ -13,7 +13,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/62)
 # Brief
 
 - [Git config](./Git_config)
-- [Git proxy config](./Git_proxy_config)
+- [Git proxy](./Git_proxy_config)
 - [Git submodule](./Git_submodule)
 - [Git branch](./Git_branch)
 - [Git Tag](./Git_tag)
