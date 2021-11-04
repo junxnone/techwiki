@@ -6,5 +6,37 @@
 - [OS](./OS)
 - [Shell](./Shell)
 - [Develop](./Develop)
+  - 编译器
+  - 开发工具
+    - Cmake
+    - Make
+    - pkg-config
+    - ninja
+    - Jupyter
+    - JupyterLab
+    - JupyterHub
+    - conda
+    - virtualenv
+    - OneAPI
+  - 编程语言
+    - C
+    - C++
+    - Python
+    - Shell
+  - 网咯编程
+    - Socket
+  - 并行计算
+    - DPC++
+    - SYCL
+    - OpenMP
+    - OpenCL
+    - OpenMPI
+  - 版本管理
+    - Git
+    - Github
+    - Gitlab
+  - Github Page
+  - 开发文档
+    - Markdown 
 - [Others](./Others)
 
