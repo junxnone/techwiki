@@ -2,7 +2,7 @@
 Title | Linux Tools script
 -- | --
 Create Date | `2021-11-04T08:32:12Z`
-Update Date | `2021-11-04T08:42:58Z`
+Update Date | `2021-11-04T08:43:50Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/205)
 
 ---
@@ -45,7 +45,7 @@ Usecase | cmd
 
 - 可以使用 `scriptreplay` 回放的格式
 ```
-$ script -t 2>cmd.time cmd.his
+$ script -t 2>cmd.time -a cmd.his
 ...
 run some command
 ...
