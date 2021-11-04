@@ -2,7 +2,7 @@
 Title | Linux Tools script
 -- | --
 Create Date | `2021-11-04T08:32:12Z`
-Update Date | `2021-11-04T08:43:50Z`
+Update Date | `2021-11-04T08:49:41Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/205)
 
 ---
@@ -39,7 +39,7 @@ Usecase | cmd
 -- | --
 开始记录 | `script`
 保存记录到某个文件 | `script your/log/file`
-停止记录 | `exit`
+停止记录 | `exit` <br><kbd>Ctrl</kbd>+<kbd>D</kbd>
 静默方式运行 | `script -q`
 
 
