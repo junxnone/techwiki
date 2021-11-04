@@ -2,7 +2,7 @@
 Title | Github Pages docsify
 -- | --
 Create Date | `2021-11-04T09:13:20Z`
-Update Date | `2021-11-04T09:13:20Z`
+Update Date | `2021-11-04T10:05:06Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/206)
 
 ---
@@ -25,5 +25,6 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/206)
 - dark theme 切换按钮
 - wikilink
 - sidebar 折叠
+- gittalk
 
 
