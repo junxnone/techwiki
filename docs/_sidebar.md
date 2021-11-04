@@ -1,42 +1,49 @@
 - [Install](./Install)
 - [Desktop](Linux_Desktop)
 - [Tools](./Tools)
-- [Docker](./Docker)
 - [Proxy](./Proxy)
 - [OS](./OS)
-- [Shell](./Shell)
 - [Develop](./Develop)
-  - 编译器
+  - [编译器](/Compiler)
   - 开发工具
-    - Cmake
-    - Make
-    - pkg-config
+    - [cmake](./cmake)
+    - [make](./Make)
+    - [pkg-config](/pkg_config)
     - ninja
-    - Jupyter
-    - JupyterLab
-    - JupyterHub
-    - conda
-    - virtualenv
-    - OneAPI
+    - [Jupyter](./Jupyter)
+      - [JupyterLab](./JupyterLab)
+      - [JupyterHub](./JupyterHub)
+    - [conda](./conda)
+    - [Python virtualenv](./Python_virtualenv)
+    - [OneAPI](/OneAPI)
   - 编程语言
     - C
-    - C++
+    - [C++](/CPP)
     - Python
-    - Shell
+    - [Shell](./Shell)
   - 网咯编程
-    - Socket
+    - [Socket](/Socket)
+      - [Socket 函数](/Socket_Function)
   - 并行计算
-    - DPC++
-    - SYCL
-    - OpenMP
-    - OpenCL
-    - OpenMPI
+    - [DPC++](/DPCPP)
+    - [SYCL](/SYCL)
+    - [OpenMP](/OpenMP)
+    - [OpenCL](/OpenCL)
+    - [OpenMPI](/OpenMPI)
+  - 虚拟化
+    - [Docker](./Docker)
+    - KVM
   - 版本管理
-    - Git
+    - [Git](./Git)
     - Github
-    - Gitlab
-  - Github Page
+      - [Github backup](./Github_backup)
+      - [Github actions](./Github_actions)
+      - [Github Token](./Github_Token)
+      - [Github Pages](./Github_Pages)
+      - [Github Chrome extensions](./Github_Chrome_extensions)
+      - [Github 代码浏览工具 Source Graph](/Sourcegraph)
+    - [Gitlab](./Gitlab)
   - 开发文档
-    - Markdown 
+    - [Markdown](./Markdown)
 - [Others](./Others)
 
