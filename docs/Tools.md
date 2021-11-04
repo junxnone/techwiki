@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-10-23T11:01:48Z`
+Update Date | `2021-11-04T08:32:59Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -55,6 +55,9 @@ time | `time ./your_app` 计算执行时间
 [update-alternatives](./update_alternatives) | 软件版本管理
 [Linux Network Port Tools](./Linux_Network_Port_Tools) | 端口管理
 [xset](/Linux_Tools_xset) | 屏幕休眠管理
+[script](/Linux_Tools_script) | 终端 log 记录
+
+
 
 # Performance Monitor Tools
 - [netdata](./netdata)
