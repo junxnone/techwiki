@@ -2,7 +2,7 @@
 Title | Linux Tools script
 -- | --
 Create Date | `2021-11-04T08:32:12Z`
-Update Date | `2021-11-04T08:49:41Z`
+Update Date | `2021-11-04T08:52:11Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/205)
 
 ---
@@ -11,7 +11,9 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/205)
 
 
 # Brief
-- 记录终端执行命令的历史
+- `script` 记录终端执行命令的历史
+- `scriptreplay` 播放 `script` 记录的数据
+
 
 ```
 Usage:
@@ -33,6 +35,21 @@ Options:
 ```
 
 
+```
+Usage:
+ scriptreplay [-t] timingfile [typescript] [divisor]
+
+Play back terminal typescripts, using timing information.
+
+Options:
+ -t, --timing <file>     script timing output file
+ -s, --typescript <file> script terminal session output file
+ -d, --divisor <num>     speed up or slow down execution with time divisor
+ -m, --maxdelay <num>    wait at most this many seconds between updates
+ -h, --help              display this help
+ -V, --version           display version
+```
+
 ## UseCase
 
 Usecase | cmd
@@ -52,3 +69,5 @@ run some command
 $ exit
 $ scriptreplay cmd.time cmd.his
 ```
+
+
