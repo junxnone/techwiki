@@ -1,11 +1,16 @@
 ---
 Title | Python virtualenv
 -- | --
-Create Date | `2021-09-20T12:21:30Z`
-Update Date | `2021-09-20T12:21:30Z`
+Create Date | `2018-11-25T09:53:47Z`
+Update Date | `2021-11-04T09:51:46Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/46)
 
 ---
+
+# Brief
+- 用于创建独立的 python 虚拟环境, 隔离 host python 环境
+- 一般使用 [[virtualenvwrapper]] 管理虚拟环境
+
 # Install
 
 Install from | cmd
