@@ -1,17 +1,16 @@
 ---
 Title | Ubuntu shadowsocks
 -- | --
-Create Date | `2021-09-22T06:56:57Z`
-Update Date | `2021-09-22T06:56:57Z`
+Create Date | `2019-06-29T08:35:42Z`
+Update Date | `2021-11-05T02:51:16Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/117)
 
 ---
-
-# Reference
+## Reference
 - [shadowsocks readme](https://github.com/shadowsocks/shadowsocks/tree/master#install)
 - [ShadowsocksR服务端伪装成 正常网站流量，以更好的欺骗流量匹配](https://doubibackup.com/hi10k-7p-5.html)
 
-# Brief
+## Brief
 - shadowsocks - F**K the GFW
 
 ## Install
