@@ -2,7 +2,7 @@
 Title | OpenMP
 -- | --
 Create Date | `2021-05-20T03:29:59Z`
-Update Date | `2021-11-05T08:11:59Z`
+Update Date | `2021-11-05T08:20:19Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 
 ---
@@ -23,7 +23,11 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 - [HPC.NRW OpenMP Online Tutorial](https://hpc-wiki.info/hpc/OpenMP_in_Small_Bites)
 
 ## Brief
-
+- OpenMP 是一个写 `shared memory parallel` 应用的规范
+- 定义了一些 `[编译指令/API/环境变量]`
+- 具体实现由编译器实现, 不同厂家的编译器对 OpenMP 的支持不一样
+  - MSVC 目前只支持 2.0 & 部分 4.0 feature (SIMD)(`@20211105`)
+  - ICC/GCC 目前支持 4.5 & 部分 5.x (`@20211105`)
 - OpenMP采用fork-join（分叉-合并）并行执行模式
 - 线程遇到并行结构时，就会创建由其自身及其它一些线程组成的线程组
   - 主线程
