@@ -2,7 +2,7 @@
 Title | OpenMP
 -- | --
 Create Date | `2021-05-20T03:29:59Z`
-Update Date | `2021-11-05T08:38:39Z`
+Update Date | `2021-11-05T08:49:01Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 
 ---
@@ -38,12 +38,23 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
   - 主线程
   - 从线程
 - 默认并行线程数为CPU核数
-- 支持 UMA/NUMA
 - [OpenMP API](/OpenMP_API)
 - [OpenMP - 绑核](/OpenMP_Bind_Core)
 - [OpenMP SIMD](/OpenMP_SIMD)
 - [OpenMP Offload](/OpenMP_Offload)
 - [OpenMP ICV(Internal Control Variables)]()
+
+## Shared Memory Model
+- OpenMP 是为 多核/多处理器 共享内存的机器设计的
+- 支持 UMA/NUMA - `Uniform Memory Access` / `Non-Uniform Memory Access`
+
+UMA | NUMA
+-- | --
+![image](https://user-images.githubusercontent.com/2216970/140483477-716ad3cc-12a6-49f5-ad7a-08b364c39d9c.png) | ![image](https://user-images.githubusercontent.com/2216970/140483485-14c6cc24-5b70-486f-83ca-cb26f930357e.png)
+
+
+
+
 
 
 ## UseCase
