@@ -2,7 +2,7 @@
 Title | OpenMP
 -- | --
 Create Date | `2021-05-20T03:29:59Z`
-Update Date | `2021-11-05T09:33:43Z`
+Update Date | `2021-11-05T09:35:30Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 
 ---
@@ -39,6 +39,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 - [OpenMP Offload](/OpenMP_Offload)
 - [OpenMP ICV(Internal Control Variables)]()
 - [OpenMP Usecase](/OpenMP_Usecase)
+- [OpenMP 变量](/OpenMP_变量)
+
 
 ## Shared Memory Model
 - OpenMP 是为 多核/多处理器 共享内存的机器设计的
@@ -63,26 +65,6 @@ UMA | NUMA
 
 
 ![image](https://user-images.githubusercontent.com/2216970/140487406-7592b0dc-671e-4ecf-b788-9abb84b2185f.png)
-
-
-
-
-### 对变量的声明
-
-Keyword | Description
--- | --
-private | 其列出来的变量对于线程私有
-firstprivate |  `private` + 对于线程局部存储的变量，其初值是进入并行区之前的值
-lastprivate | `private` + 并行区里的值在最后会赋值给并行区前面的变量
-default | 自定义一个并行区的默认的变量的作用范围
-shared |其列出来的变量对于所有线程共享(**默认值**)
-reduction | 对于各个线程私有的变量，在并行区结束时通过某种运算归一
-
-
-
-
-### 常用方法
-
 
 
 ## History
