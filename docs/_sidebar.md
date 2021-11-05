@@ -32,7 +32,7 @@
   - 网咯编程
     - [Socket](/Socket)
       - [Socket 函数](/Socket_Function)
-  - 并行计算
+  - [[并行计算]]
     - [DPC++](/DPCPP)
     - [SYCL](/SYCL)
     - [OpenMP](/OpenMP)
