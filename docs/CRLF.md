@@ -1,15 +1,15 @@
 ---
 Title | CRLF
 -- | --
-Create Date | `2021-09-20T06:45:06Z`
-Update Date | `2021-09-20T06:45:06Z`
+Create Date | `2020-04-23T09:44:34Z`
+Update Date | `2021-11-05T03:09:50Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/34)
 
 ---
-# Reference
+## Reference
 - [tofrodos - ubuntu](http://manpages.ubuntu.com/manpages/focal/man1/fromdos.1.html)
 
-# Brief
+## Brief
 
 - CR - Carriage-Return - 回车 - `ASCII 13` - `\r`
 - LF -  Line-Feed - 换行 -  `ASCII 10` - `\n`
@@ -21,7 +21,7 @@ Linux/Unix | LF
 < Mac OS 9 | CR
 \> Mac OS X | LF
  
-# Tools
+## Tools
 
 - tofrodos 
 
@@ -51,7 +51,7 @@ vim -b your_file
 
 > `^M` 结尾 的为 `CRLF`
 
-# History
+## History
 
 打字机按键 | 行为
 -- | --
