@@ -2,7 +2,7 @@
 Title | OpenMP
 -- | --
 Create Date | `2021-05-20T03:29:59Z`
-Update Date | `2021-11-05T09:35:30Z`
+Update Date | `2021-11-05T09:37:30Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 
 ---
@@ -19,7 +19,6 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 - [OpenMP并行编程.pdf -  中科院计算机网络信息中心](https://github.com/junxnone/tech-io/files/6986206/OpenMP.pdf)
 - [C/C++ openMP并发编程](https://blog.csdn.net/qq_30024069/article/details/93355022)
 - [OpenMP Training video](https://www.youtube.com/watch?v=nE-xN4Bf8XI&list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG)
-- [OpenMP Internal Control Variables](https://www.openmp.org/spec-html/5.0/openmpse13.html)
 - [HPC.NRW OpenMP Online Tutorial](https://hpc-wiki.info/hpc/OpenMP_in_Small_Bites)
 - [OpenMP Tutorial - Lawrence Livermore National Laboratory](https://hpc.llnl.gov/tuts/openMP/)
 
@@ -34,13 +33,11 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
   - MSVC 目前只支持 2.0 & 部分 4.0 feature (SIMD)(`@20211105`)
   - ICC/GCC 目前支持 4.5 & 部分 5.x (`@20211105`)
 - [OpenMP API](/OpenMP_API)
+- [OpenMP Usecase](/OpenMP_Usecase)
+- [OpenMP 变量](/OpenMP_变量)
 - [OpenMP 绑核](/OpenMP_Bind_Core)
 - [OpenMP SIMD](/OpenMP_SIMD)
 - [OpenMP Offload](/OpenMP_Offload)
-- [OpenMP ICV(Internal Control Variables)]()
-- [OpenMP Usecase](/OpenMP_Usecase)
-- [OpenMP 变量](/OpenMP_变量)
-
 
 ## Shared Memory Model
 - OpenMP 是为 多核/多处理器 共享内存的机器设计的
