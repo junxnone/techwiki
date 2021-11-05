@@ -2,7 +2,7 @@
 Title | OpenMP
 -- | --
 Create Date | `2021-05-20T03:29:59Z`
-Update Date | `2021-11-05T08:22:14Z`
+Update Date | `2021-11-05T08:38:39Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 
 ---
@@ -21,6 +21,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 - [OpenMP Training video](https://www.youtube.com/watch?v=nE-xN4Bf8XI&list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG)
 - [OpenMP Internal Control Variables](https://www.openmp.org/spec-html/5.0/openmpse13.html)
 - [HPC.NRW OpenMP Online Tutorial](https://hpc-wiki.info/hpc/OpenMP_in_Small_Bites)
+- [OpenMP Tutorial - Lawrence Livermore National Laboratory](https://hpc.llnl.gov/tuts/openMP/)
+
 
 ## Brief
 - OpenMP 是一个写 `shared memory parallel` 应用的规范
