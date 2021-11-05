@@ -2,6 +2,8 @@
 - [Desktop](Linux_Desktop)
 - [Tools](./Tools)
 - [Proxy](./Proxy)
+  - [V2Ray](./V2Ray)
+  - [shadowsocks](./Ubuntu_shadowsocks)
 - [OS](./OS)
 - [Develop](./Develop)
   - [编译器](/Compiler)
