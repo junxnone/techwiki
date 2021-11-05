@@ -2,7 +2,7 @@
 Title | OpenMP
 -- | --
 Create Date | `2021-05-20T03:29:59Z`
-Update Date | `2021-11-05T08:55:03Z`
+Update Date | `2021-11-05T09:17:27Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 
 ---
@@ -59,8 +59,12 @@ UMA | NUMA
   - 2 master thread 创建 parallel threads - **[Fork]**
   - 3 parallel threads 执行完, 同步并结束 - **[Join]**
  
-
 ![image](https://user-images.githubusercontent.com/2216970/140483578-8f910ba7-dce8-4824-a844-7958db63228c.png)
+
+
+## Memory Model
+- 每个 Thread 都有共享内存和私有内存
+
 
 
 
