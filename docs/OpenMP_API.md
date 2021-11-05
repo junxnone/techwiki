@@ -1,16 +1,16 @@
 ---
 Title | OpenMP API
 -- | --
-Create Date | `2021-11-02T09:51:29Z`
-Update Date | `2021-11-02T09:51:29Z`
+Create Date | `2021-08-07T03:56:52Z`
+Update Date | `2021-11-05T06:27:12Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/200)
 
 ---
-# Reference
+## Reference
 - [OMP 函数](https://docs.microsoft.com/zh-cn/cpp/parallel/openmp/reference/openmp-functions?view=msvc-160)
 - [OpenMP-API-Specification-5.0](https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5.0.pdf)
 
-# Brief
+## Brief
 - API 分类
   - 环境设定获取
   - 锁定
