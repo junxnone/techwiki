@@ -2,7 +2,7 @@
 Title | Linux Desktop
 -- | --
 Create Date | `2021-01-13T08:56:37Z`
-Update Date | `2021-11-05T03:07:25Z`
+Update Date | `2021-11-05T03:08:52Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/5)
 
 ---
@@ -21,7 +21,9 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/5)
   - LXDE
   - Cinnamon
 
----
+## Arch
+- `X Server` + `X Client` + `X Protocol`
+
 
 ![image](https://user-images.githubusercontent.com/2216970/104534251-e5eec380-564e-11eb-91d4-54dcae3d464b.png)
 ![image](https://user-images.githubusercontent.com/2216970/104535015-4d594300-5650-11eb-8265-7287c567ef04.png)
