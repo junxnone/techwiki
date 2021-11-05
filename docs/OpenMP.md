@@ -2,7 +2,7 @@
 Title | OpenMP
 -- | --
 Create Date | `2021-05-20T03:29:59Z`
-Update Date | `2021-11-05T09:21:00Z`
+Update Date | `2021-11-05T09:33:43Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 
 ---
@@ -38,6 +38,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 - [OpenMP SIMD](/OpenMP_SIMD)
 - [OpenMP Offload](/OpenMP_Offload)
 - [OpenMP ICV(Internal Control Variables)]()
+- [OpenMP Usecase](/OpenMP_Usecase)
 
 ## Shared Memory Model
 - OpenMP 是为 多核/多处理器 共享内存的机器设计的
@@ -65,16 +66,6 @@ UMA | NUMA
 
 
 
-## UseCase
-
-- 头文件
-```
-include <omp.h>
-```
-- 格式
-```
-#pragma omp <编译关键字> [ 子句[ [,] 子句]…… ]
-```
 
 ### 对变量的声明
 
@@ -92,20 +83,7 @@ reduction | 对于各个线程私有的变量，在并行区结束时通过某�
 
 ### 常用方法
 
-- for
-```
-#pragma omp parallel
-#pragma omp for
-```
-```
-#pragma omp parallel for
-```
-- sections
-```
-#pragma omp parallel sections
-```
-- single
-- task
+
 
 ## History
 
