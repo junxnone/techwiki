@@ -5,6 +5,11 @@
   - [V2Ray](./V2Ray)
   - [shadowsocks](./Ubuntu_shadowsocks)
 - [OS](./OS)
+  - [File System](./OS_File_System)
+  - [POSIX VS SystemV](./POSIX_VS_SystemV)
+  - [Linux IPC](./Linux_IPC)
+  - [Linux PAM](./Linux_PAM)
+  - [Linux OS 文件系统](./Linux_OS_FS_Arch)
 - [Develop](./Develop)
   - [编译器](/Compiler)
   - 开发工具
