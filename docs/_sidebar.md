@@ -17,6 +17,7 @@
     - [make](./Make)
     - [pkg-config](/pkg_config)
     - ninja
+    - meson
     - [Jupyter](./Jupyter)
       - [JupyterLab](./JupyterLab)
       - [JupyterHub](./JupyterHub)
