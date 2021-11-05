@@ -1,12 +1,12 @@
 ---
 Title | V2Ray
 -- | --
-Create Date | `2021-09-22T09:39:49Z`
-Update Date | `2021-09-22T09:39:49Z`
+Create Date | `2019-07-03T15:39:39Z`
+Update Date | `2021-11-05T02:51:31Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/157)
 
 ---
-# Reference
+## Reference
 - [v2ray](https://www.v2ray.com/)
 - [v2ray - release](https://github.com/v2ray/v2ray-core/releases)
 - [V2Ray 跟 Shadowsocks 有什么区别](http://blog.whiterabbitxyj.com/2018/08/31/V2Ray/)
@@ -16,7 +16,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/157)
 - [配置生成器](https://intmainreturn0.com/v2ray-config-gen/)
 - [Config - rules](https://github.com/PaPerseller/chn-iplist/blob/master/v2ray-config_rule.json)
 
-# Brief
+## Brief
 
 ![image](https://user-images.githubusercontent.com/2216970/60764693-ec4ac980-a0c0-11e9-8bbe-09abbdfa105b.png)
 
@@ -30,10 +30,10 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/157)
 - Socks
 - VMess
 
-# Install
-## Windows 和 Mac OS 安装方式
+## Install
+### Windows 和 Mac OS 安装方式
 通过上述方式下载的压缩包，解压之后可看到 v2ray 或 v2ray.exe。直接运行即可。
-## Linux
+### Linux
 **自动安装脚本**
 
 ```
