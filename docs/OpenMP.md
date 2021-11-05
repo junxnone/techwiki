@@ -2,7 +2,7 @@
 Title | OpenMP
 -- | --
 Create Date | `2021-05-20T03:29:59Z`
-Update Date | `2021-11-05T08:54:28Z`
+Update Date | `2021-11-05T08:55:03Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 
 ---
@@ -55,10 +55,9 @@ UMA | NUMA
 
 ## Fork-Join Model
 - Steps
-  - 1 master thread 顺序执行
-  - 2 达到 `parallel region`
-  - 3 master thread 创建 parallel threads - **[Fork]**
-  - 4 parallel threads 执行完, 同步并结束 - **[Join]**
+  - 1 master thread 顺序执行到 `parallel region`
+  - 2 master thread 创建 parallel threads - **[Fork]**
+  - 3 parallel threads 执行完, 同步并结束 - **[Join]**
  
 
 ![image](https://user-images.githubusercontent.com/2216970/140483578-8f910ba7-dce8-4824-a844-7958db63228c.png)
