@@ -2,11 +2,11 @@
 Title | OpenMP
 -- | --
 Create Date | `2021-05-20T03:29:59Z`
-Update Date | `2021-11-03T18:05:12Z`
+Update Date | `2021-11-05T05:40:15Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 
 ---
-# Reference
+## Reference
 - [OpenMP API Specification](https://www.openmp.org/spec-html/5.1/openmp.html)
 - [OpenMP Reference Guide](https://www.openmp.org/resources/refguides/)
 - [OpenMP Compilers & Tools](https://www.openmp.org/resources/openmp-compilers-tools/)
@@ -22,7 +22,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 - [OpenMP Internal Control Variables](https://www.openmp.org/spec-html/5.0/openmpse13.html)
 
 
-# Brief
+## Brief
 
 - OpenMP采用fork-join（分叉-合并）并行执行模式
 - 线程遇到并行结构时，就会创建由其自身及其它一些线程组成的线程组
@@ -37,7 +37,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 - [OpenMP ICV(Internal Control Variables)]()
 
 
-# UseCase
+## UseCase
 
 - 头文件
 ```
@@ -48,7 +48,7 @@ include <omp.h>
 #pragma omp <编译关键字> [ 子句[ [,] 子句]…… ]
 ```
 
-## 对变量的声明
+### 对变量的声明
 
 Keyword | Description
 -- | --
@@ -62,7 +62,7 @@ reduction | 对于各个线程私有的变量，在并行区结束时通过某�
 
 
 
-## 常用方法
+### 常用方法
 
 - for
 ```
