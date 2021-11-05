@@ -2,7 +2,7 @@
 Title | OpenMP
 -- | --
 Create Date | `2021-05-20T03:29:59Z`
-Update Date | `2021-11-05T09:17:27Z`
+Update Date | `2021-11-05T09:18:12Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 
 ---
@@ -66,6 +66,7 @@ UMA | NUMA
 - 每个 Thread 都有共享内存和私有内存
 
 
+![image](https://user-images.githubusercontent.com/2216970/140487406-7592b0dc-671e-4ecf-b788-9abb84b2185f.png)
 
 
 
