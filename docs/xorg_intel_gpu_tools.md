@@ -1,12 +1,11 @@
 ---
 Title | xorg-intel-gpu-tools
 -- | --
-Create Date | `2021-09-22T05:53:46Z`
-Update Date | `2021-09-22T05:53:46Z`
+Create Date | `2018-09-28T06:21:47Z`
+Update Date | `2021-11-05T06:59:17Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/95)
 
 ---
-
 # Reference 
 - [xorg-intel-gpu-tools](https://github.com/freedesktop/xorg-intel-gpu-tools)
 
@@ -18,7 +17,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/95)
 - **Dependence Install**
 
 ```
-sudo apt install -y libprocps-dev libkmod-dev libunwind-dev libdw-dev libudev-dev
+sudo apt install -y libprocps-dev libkmod-dev libunwind-dev libdw-dev libudev-dev liboping-dev libjson-c-dev
 ```
 
 - **Build from source**
