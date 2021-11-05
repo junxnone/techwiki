@@ -2,7 +2,7 @@
 Title | Linux Desktop
 -- | --
 Create Date | `2021-01-13T08:56:37Z`
-Update Date | `2021-11-05T03:05:06Z`
+Update Date | `2021-11-05T03:06:27Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/5)
 
 ---
@@ -26,7 +26,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/5)
 - Cinnamon
             
 
-## History
+## [Linux Desktop History](https://junxnone.github.io/wht/tech/linuxdesktop/)
 
 ## Xorg
 - 1984~ MIT&DEC - X Window
