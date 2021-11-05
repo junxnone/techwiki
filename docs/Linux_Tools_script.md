@@ -2,15 +2,15 @@
 Title | Linux Tools script
 -- | --
 Create Date | `2021-11-04T08:32:12Z`
-Update Date | `2021-11-04T08:54:56Z`
+Update Date | `2021-11-05T02:50:11Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/205)
 
 ---
-# Reference
+## Reference
 - [【Linux学习 】Linux使用Script命令来记录并回放终端会话](https://blog.csdn.net/ouyang_peng/article/details/78818492)
 
 
-# Brief
+## Brief
 
 - `script` 记录终端执行命令的历史
 - `scriptreplay` 播放 `script` 记录的数据
