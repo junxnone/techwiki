@@ -2,7 +2,7 @@
 Title | OpenMP API
 -- | --
 Create Date | `2021-08-07T03:56:52Z`
-Update Date | `2021-11-05T06:27:12Z`
+Update Date | `2021-11-05T06:27:55Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/200)
 
 ---
@@ -16,7 +16,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/200)
   - 锁定
   - 计时
 
-## 环境锁定获取
+## 环境变量获取
 
 函数 | 描述
 -- | --
