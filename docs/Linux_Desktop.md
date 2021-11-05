@@ -2,13 +2,15 @@
 Title | Linux Desktop
 -- | --
 Create Date | `2021-01-13T08:56:37Z`
-Update Date | `2021-09-19T10:20:16Z`
+Update Date | `2021-11-05T03:05:06Z`
+Edit link | [here](https://github.com/junxnone/linuxwiki/issues/5)
+
 ---
-# Reference
+## Reference
 - [Linux终端/图形界面与桌面环境](https://www.biaodianfu.com/linux-desktop-environment.html#%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2%E4%B8%8E%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83)
 - [思维导图](https://naotu.baidu.com/file/0ae1d056daa54e513cc80721dcab3e8a)
 
-# Brief
+## Brief
 
 ![image](https://user-images.githubusercontent.com/2216970/104534251-e5eec380-564e-11eb-91d4-54dcae3d464b.png)
 ![image](https://user-images.githubusercontent.com/2216970/104535015-4d594300-5650-11eb-8265-7287c567ef04.png)
@@ -24,7 +26,7 @@ Update Date | `2021-09-19T10:20:16Z`
 - Cinnamon
             
 
-# History
+## History
 
 ## Xorg
 - 1984~ MIT&DEC - X Window
