@@ -2,7 +2,7 @@
 Title | OpenMP
 -- | --
 Create Date | `2021-05-20T03:29:59Z`
-Update Date | `2021-11-05T08:08:42Z`
+Update Date | `2021-11-05T08:11:59Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 
 ---
@@ -78,5 +78,19 @@ reduction | 对于各个线程私有的变量，在并行区结束时通过某�
 ```
 - single
 - task
+
+## History
+
+- 1997 OpenMP 1.0 for FORTRAN
+- 1998 OpenMP 1.0 for C and C++
+- 1999 OpenMP 1.1 for FORTRAN
+- 2000 OpenMP 2.0 for FORTRAN
+- 2002 OpenMP 2.0 for C and C++
+- 2005 OpenMP 2.5 now includes both programming languages.
+- 05/2008 OpenMP 3.0
+- 07/2011 OpenMP 3.1
+- 07/2013 OpenMP 4.0
+- 11/2015 OpenMP 4.5
+- 11/2018 OpenMP 5.0
 
 
