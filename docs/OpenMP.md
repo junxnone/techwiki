@@ -2,7 +2,7 @@
 Title | OpenMP
 -- | --
 Create Date | `2021-05-20T03:29:59Z`
-Update Date | `2021-11-05T05:40:15Z`
+Update Date | `2021-11-05T08:08:42Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 
 ---
@@ -20,7 +20,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 - [C/C++ openMP并发编程](https://blog.csdn.net/qq_30024069/article/details/93355022)
 - [OpenMP Training video](https://www.youtube.com/watch?v=nE-xN4Bf8XI&list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG)
 - [OpenMP Internal Control Variables](https://www.openmp.org/spec-html/5.0/openmpse13.html)
-
+- [HPC.NRW OpenMP Online Tutorial](https://hpc-wiki.info/hpc/OpenMP_in_Small_Bites)
 
 ## Brief
 
