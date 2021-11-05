@@ -2,7 +2,7 @@
 Title | Linux Desktop
 -- | --
 Create Date | `2021-01-13T08:56:37Z`
-Update Date | `2021-11-05T03:06:27Z`
+Update Date | `2021-11-05T03:07:25Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/5)
 
 ---
@@ -11,22 +11,26 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/5)
 - [思维导图](https://naotu.baidu.com/file/0ae1d056daa54e513cc80721dcab3e8a)
 
 ## Brief
+- [Linux Desktop History](https://junxnone.github.io/wht/tech/linuxdesktop/)
+- 不同的桌面种类
+  - GNOME
+  - KDE
+  - xface
+  - Unity
+  - MATE
+  - LXDE
+  - Cinnamon
+
+---
 
 ![image](https://user-images.githubusercontent.com/2216970/104534251-e5eec380-564e-11eb-91d4-54dcae3d464b.png)
 ![image](https://user-images.githubusercontent.com/2216970/104535015-4d594300-5650-11eb-8265-7287c567ef04.png)
 
----
 
-- GNOME
-- KDE
-- xface
-- Unity
-- MATE
-- LXDE
-- Cinnamon
+
+
             
 
-## [Linux Desktop History](https://junxnone.github.io/wht/tech/linuxdesktop/)
 
 ## Xorg
 - 1984~ MIT&DEC - X Window
