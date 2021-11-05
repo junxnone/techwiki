@@ -2,11 +2,12 @@
 Title | OpenMP 变量
 -- | --
 Create Date | `2021-11-05T09:34:58Z`
-Update Date | `2021-11-05T09:34:58Z`
+Update Date | `2021-11-05T09:37:36Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/209)
 
 ---
 ## Reference
+- [OpenMP Internal Control Variables](https://www.openmp.org/spec-html/5.0/openmpse13.html)
 
 
 ## 对变量的声明
@@ -20,4 +21,5 @@ default | 自定义一个并行区的默认的变量的作用范围
 shared |其列出来的变量对于所有线程共享(**默认值**)
 reduction | 对于各个线程私有的变量，在并行区结束时通过某种运算归一
 
+## 环境变量 ICV(Internal Control Variables)
 
