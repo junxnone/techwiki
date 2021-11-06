@@ -2,7 +2,7 @@
 Title | OpenMP 变量
 -- | --
 Create Date | `2021-11-05T09:34:58Z`
-Update Date | `2021-11-05T09:37:36Z`
+Update Date | `2021-11-06T17:53:15Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/209)
 
 ---
@@ -22,4 +22,16 @@ shared |其列出来的变量对于所有线程共享(**默认值**)
 reduction | 对于各个线程私有的变量，在并行区结束时通过某种运算归一
 
 ## 环境变量 ICV(Internal Control Variables)
+
+
+环境变量 | Description
+-- | --
+OMP_SCHEDULE | 指定调度方式<br>static/dynamic/guided/auto
+OMP_NUM_THREADS | 指定线程数 [1,N]
+OMP_DYNAMIC | 动态设定 `dyn-var` ICV [TRUE/FALSE]
+OMP_PROC_BIND | thread affinity policy<br>`bind-var` ICV [TRUE/FALSE, master, close, spread]
+
+
+
+
 
