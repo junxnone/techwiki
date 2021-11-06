@@ -2,7 +2,7 @@
 Title | OpenMP
 -- | --
 Create Date | `2021-05-20T03:29:59Z`
-Update Date | `2021-11-06T18:02:16Z`
+Update Date | `2021-11-06T19:59:41Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 
 ---
@@ -22,7 +22,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 - [HPC.NRW OpenMP Online Tutorial](https://hpc-wiki.info/hpc/OpenMP_in_Small_Bites)
 - [OpenMP Tutorial - Lawrence Livermore National Laboratory](https://hpc.llnl.gov/tuts/openMP/)
 - [Oracle_OpenMP_4.0_Guide.pdf](https://github.com/junxnone/linuxwiki/files/7490883/Oracle_OpenMP_4.0_Guide.pdf)
-
+- [Portable_Shared_Memory_Parallel_Programming.pdf](https://github.com/junxnone/linuxwiki/files/7491145/Portable_Shared_Memory_Parallel_Programming.pdf)
 
 ## Brief
 - OpenMP 是一个写 `shared memory parallel` 应用的规范
