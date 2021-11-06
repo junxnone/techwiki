@@ -2,7 +2,7 @@
 Title | OpenMP 变量
 -- | --
 Create Date | `2021-11-05T09:34:58Z`
-Update Date | `2021-11-06T17:53:15Z`
+Update Date | `2021-11-06T18:29:50Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/209)
 
 ---
@@ -30,7 +30,7 @@ OMP_SCHEDULE | 指定调度方式<br>static/dynamic/guided/auto
 OMP_NUM_THREADS | 指定线程数 [1,N]
 OMP_DYNAMIC | 动态设定 `dyn-var` ICV [TRUE/FALSE]
 OMP_PROC_BIND | thread affinity policy<br>`bind-var` ICV [TRUE/FALSE, master, close, spread]
-
+OMP_NESTED | 是否嵌套
 
 
 
