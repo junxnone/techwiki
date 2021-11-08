@@ -2,7 +2,7 @@
 Title | OpenMP Offload
 -- | --
 Create Date | `2021-11-03T05:56:24Z`
-Update Date | `2021-11-08T05:45:30Z`
+Update Date | `2021-11-08T06:00:48Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/204)
 
 ---
@@ -58,6 +58,25 @@ Compiler Option | Description
 `-fopenmp-targets=amdgcn-amd-amdhsa` | AMD AOMP
 `-mp=gpu -gpu=cc70` | NVIDIA HPC
 
-### VS DPCPP(SYCL)
+
+## GPU & OpenMP
+
+
+OpenMP | GPU Hardware
+-- | --
+SIMD | SIMD Lane (Channel)
+Thread | SIMD Thread mapped to an EU
+Team | Group of threads mapped to a Subslice
+League | Multiple Teams mapped to a GPU
+
+
+
+![image](https://user-images.githubusercontent.com/2216970/140691673-3961eabe-ea6a-4069-ba64-5d9b9214d6e9.png)
+
+
+
+
+
+## `OpenMP Offload` VS DPCPP(SYCL)
 - OpenMP 适合迁移 `C/Fortran` 应用
 - DPCPP(SYCL) 适合迁移 CUDA/OpenCL 应用
