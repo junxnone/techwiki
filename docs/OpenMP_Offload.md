@@ -2,7 +2,7 @@
 Title | OpenMP Offload
 -- | --
 Create Date | `2021-11-03T05:56:24Z`
-Update Date | `2021-11-08T06:36:30Z`
+Update Date | `2021-11-08T07:34:27Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/204)
 
 ---
@@ -72,6 +72,9 @@ Compiler Option | Description
 ![image](https://user-images.githubusercontent.com/2216970/140691673-3961eabe-ea6a-4069-ba64-5d9b9214d6e9.png)
 
 ### OpenMP Map to GPU
+- ` #pragma omp teams num_teams(8) thread_limit(16)`
+  - `num_teams`: 限制 team 个数 
+  - `thread_limit`: 限制 team 中的 threads 数量
 
 OpenMP | GPU Hardware
 -- | --
@@ -79,6 +82,8 @@ SIMD | SIMD Lane (Channel)
 Thread | SIMD Thread mapped to an EU
 Team | Group of threads mapped to a Subslice
 League | Multiple Teams mapped to a GPU
+
+
 
 
 ### Example
