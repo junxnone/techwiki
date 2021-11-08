@@ -2,7 +2,7 @@
 Title | OpenMP Offload
 -- | --
 Create Date | `2021-11-03T05:56:24Z`
-Update Date | `2021-11-08T06:05:59Z`
+Update Date | `2021-11-08T06:24:01Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/204)
 
 ---
@@ -76,6 +76,22 @@ Thread | SIMD Thread mapped to an EU
 Team | Group of threads mapped to a Subslice
 League | Multiple Teams mapped to a GPU
 
+
+### Example
+
+```
+#pragma omp target teams distribute parallel for simd
+```
+
+- **target**: 在 `target device` 上执行
+- **teams**: 创建多个 `teams(master threads)` (此处为 4 个)
+- **distrubute**: 分发 `loop iterations` 到 `teams(master thread)` (此处为每个team 32 iterations)
+- **parallel**: 为每个 `team(master thread)` 创建 threads (此处每个 team 4 个 threads)
+- **for**: 分发 iterations 到 `team threads` (32 iterations --> 4 team threads)
+- **simd**:  指定 执行 SIMD Instructions
+
+
+![image](https://user-images.githubusercontent.com/2216970/140693287-594cfec5-e422-4920-a224-b3f9ad199c00.png)
 
 
 
