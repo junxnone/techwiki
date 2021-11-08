@@ -2,7 +2,7 @@
 Title | OpenMP Offload
 -- | --
 Create Date | `2021-11-03T05:56:24Z`
-Update Date | `2021-11-08T06:34:16Z`
+Update Date | `2021-11-08T06:36:30Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/204)
 
 ---
@@ -64,6 +64,10 @@ Compiler Option | Description
 
 
 ### iGPU Arch
+- 每个 GPU 包含多个 `Slice`
+- 每个 `Slice` 包含多个 `SubSlice`
+- 每个 `SubSlice` 包含多个 `EU`
+- 每个 `EU` 包含多个 `SIMD ALUs`
 
 ![image](https://user-images.githubusercontent.com/2216970/140691673-3961eabe-ea6a-4069-ba64-5d9b9214d6e9.png)
 
