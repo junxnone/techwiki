@@ -2,7 +2,7 @@
 Title | OpenMP Offload
 -- | --
 Create Date | `2021-11-03T05:56:24Z`
-Update Date | `2021-11-08T06:24:01Z`
+Update Date | `2021-11-08T06:34:16Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/204)
 
 ---
@@ -94,6 +94,31 @@ League | Multiple Teams mapped to a GPU
 ![image](https://user-images.githubusercontent.com/2216970/140693287-594cfec5-e422-4920-a224-b3f9ad199c00.png)
 
 
+## Asynchronous Offloading
+- `#pragma omp target nowait` 
+- `#pragma omp taskwait`
+
+
+### Example
+- `#pragma omp target map(to:b,c,d) map(from:a) nowait`: Asyn Run on Target Device (iGPU)
+- `#pragma omp task`: Run other task on CPU
+- `#pragma omp taskwait`: Synchronization
+
+```
+#pragma omp target map(to:b,c,d) map(from:a) nowait
+{
+    #pragma omp teams distribute parallel for simd
+    for (i=0; i<500; i++) {
+        a[i] = b[i] * c + d;
+    }
+}
+
+#pragma omp task
+    other_work();
+
+#pragma omp taskwait
+    a0 = a[0];
+```
 
 
 ## `OpenMP Offload` VS DPCPP(SYCL)
