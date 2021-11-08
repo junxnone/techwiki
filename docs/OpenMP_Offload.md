@@ -2,7 +2,7 @@
 Title | OpenMP Offload
 -- | --
 Create Date | `2021-11-03T05:56:24Z`
-Update Date | `2021-11-05T06:26:29Z`
+Update Date | `2021-11-08T05:45:30Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/204)
 
 ---
@@ -11,7 +11,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/204)
 - [Get Started with OpenMP* Offload to GPU for the Intel® oneAPI DPC++/C++ Compiler and Intel® Fortran Compiler](https://www.intel.com/content/www/us/en/develop/documentation/get-started-with-cpp-fortran-compiler-openmp/top.html)
 - [OpenMP offload compilers](https://github.com/ye-luo/openmp-target/wiki/OpenMP-offload-compilers)
 - [Introduction to oneAPI and OpenMP* Offload with C/C++](https://github.com/oneapi-src/oneAPI-samples/blob/master/DirectProgramming/C%2B%2B/Jupyter/OpenMP-offload-training/intro/intro.ipynb)
-
+- [Managing Device Data (C/C++)](https://github.com/oneapi-src/oneAPI-samples/blob/master/DirectProgramming/C%2B%2B/Jupyter/OpenMP-offload-training/datatransfer/datatransfer.ipynb)
+- [OpenMP* Device Parallelism (C/C++)](https://github.com/oneapi-src/oneAPI-samples/blob/master/DirectProgramming/C%2B%2B/Jupyter/OpenMP-offload-training/parallelism/parallelism.ipynb)
 
 ## Brief
 - OpenMP 支持 Device Code 在 Intel/AMD/NVIDIA GPU 上运行
