@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-11-10T10:23:17Z`
+Update Date | `2021-11-10T10:23:37Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -30,7 +30,7 @@ meld | 文件比较工具
 [tree](/Linux_tree) | 文件树浏览工具
 [ls](/Linux_ls) | 文件浏览
 [Linux ln](/Linux_ln) | 软硬链接
-[压缩解压工具](./Archiver) | tar zip 7z rar
+[压缩解压工具](/Archiver) | tar zip 7z rar
 [find](/Linux_find) | 文件查找
 [xargs](/Linux_xargs) | 内容分割
 [Ubuntu json tools](/Ubuntu_json_tools) | Json 操作
