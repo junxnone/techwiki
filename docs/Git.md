@@ -2,7 +2,7 @@
 Title | Git
 -- | --
 Create Date | `2018-12-14T07:40:51Z`
-Update Date | `2021-11-04T15:30:59Z`
+Update Date | `2021-11-10T10:26:45Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/62)
 
 ---
@@ -12,17 +12,17 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/62)
 
 # Brief
 
-- [Git config](./Git_config)
-- [Git proxy](./Git_proxy_config)
-- [Git submodule](./Git_submodule)
-- [Git branch](./Git_branch)
-- [Git Tag](./Git_tag)
-- [Git pre-commit](./Git_precommit)
+- [Git config](/Git_config)
+- [Git proxy](/Git_proxy_config)
+- [Git submodule](/Git_submodule)
+- [Git branch](/Git_branch)
+- [Git Tag](/Git_tag)
+- [Git pre-commit](/Git_precommit)
 - [Git archieve]
 
 
 # Issues
-- [Git 移除 stage 错误添加的文件](./Git_remove_file_from_stage)
+- [Git 移除 stage 错误添加的文件](/Git_remove_file_from_stage)
 - [No newline at end of file](/git_diff_no_newline_at_end_of_file)
 
 # TODO
