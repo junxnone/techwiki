@@ -45,7 +45,7 @@
     - [Docker](/Docker)
     - KVM
   - 版本管理
-    - [Git](./Git)
+    - [Git](/Git)
     - Github
       - [Github backup](/Github_backup)
       - [Github actions](/Github_actions)
