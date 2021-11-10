@@ -2,7 +2,7 @@
 Title | Markdown
 -- | --
 Create Date | `2018-11-22T09:13:38Z`
-Update Date | `2021-09-22T10:15:38Z`
+Update Date | `2021-11-10T10:29:01Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/158)
 
 ---
@@ -14,9 +14,9 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/158)
   - [excel2html - No-Cruft Excel to HTML Table Converter](http://pressbin.com/tools/excel_to_html_table/index.html)
 
 # Brief
-- [Markdown Text](./Markdown_Text)
-- [Markdown List](./Markdown_List)
-- [Markdown Table](./Markdown_Table)
-- [Markdown Image](./Markdown_Image)
+- [Markdown Text](/Markdown_Text)
+- [Markdown List](/Markdown_List)
+- [Markdown Table](/Markdown_Table)
+- [Markdown Image](/Markdown_Image)
 
 
