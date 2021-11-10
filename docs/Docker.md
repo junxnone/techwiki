@@ -2,7 +2,7 @@
 Title | Docker
 -- | --
 Create Date | `2018-09-06T16:18:38Z`
-Update Date | `2021-11-04T15:10:24Z`
+Update Date | `2021-11-10T10:26:11Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/39)
 
 ---
@@ -19,14 +19,14 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/39)
 ## Brief
 - [Install docker](#install-docker)
 - [Docker Usecase/Setup proxy/mirror](#usecase)
-- [Docker Network](./Docker_Network)
-- [Docker GUI](./Docker_GUI)
-- [Docker compose](./Docker_compose)
-- [Docker Dockerfile](./Docker_Dockerfile)
-- [Docker Volume](./Docker_Volume)
-- [Docker Tools](./Docker_Tools)
+- [Docker Network](/Docker_Network)
+- [Docker GUI](/Docker_GUI)
+- [Docker compose](/Docker_compose)
+- [Docker Dockerfile](/Docker_Dockerfile)
+- [Docker Volume](/Docker_Volume)
+- [Docker Tools](/Docker_Tools)
 - **Issues**
-  - [Docker move data to new storage location](./Docker_move_data_to_new_storage_location)
+  - [Docker move data to new storage location](/Docker_move_data_to_new_storage_location)
 
 
 ## Install Docker
