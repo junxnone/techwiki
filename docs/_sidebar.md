@@ -59,7 +59,7 @@
 - [Others](/Others)
 - [Hardware](/Hardware)
   - CPU
-  - Memory
+  - [Memory](/Memory)
   - Cache
   - [iGPU](/iGPU)
   - NVIDIA GPUs
