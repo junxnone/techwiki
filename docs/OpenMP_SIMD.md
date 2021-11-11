@@ -2,14 +2,14 @@
 Title | OpenMP SIMD
 -- | --
 Create Date | `2021-11-03T02:35:24Z`
-Update Date | `2021-11-03T11:04:31Z`
+Update Date | `2021-11-11T06:35:54Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/203)
 
 ---
 # Reference
 - [SIMD Directives](https://www.openmp.org/spec-html/5.0/openmpsu42.html)
 - [openmp simd 扩展 - msvc](https://docs.microsoft.com/zh-cn/cpp/parallel/openmp/openmp-simd?view=msvc-160)
-
+- [Introduction to the SIMD Data Layout Templates](https://www.intel.com/content/www/us/en/develop/documentation/cpp-compiler-developer-guide-and-reference/top/compiler-reference/libraries/introduction-to-the-simd-data-layout-templates.html)
 
 # Brief
 - OpenMP 使用 SIMD 优化
