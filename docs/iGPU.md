@@ -2,7 +2,7 @@
 Title | iGPU
 -- | --
 Create Date | `2021-11-10T17:21:22Z`
-Update Date | `2021-11-12T05:52:26Z`
+Update Date | `2021-11-12T05:53:05Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 
 ---
@@ -50,6 +50,11 @@ ls -al /dev/dri
 ```
 sudo lspci -v -s $(lspci | grep VGA | cut -d" " -f 1)
 ```
+```
+$ lspci |grep VGA
+00:02.0 VGA compatible controller: Intel Corporation Device 9a49 (rev 01)
+```
+
 
 > 9a49 mean `Intel® Iris® Xe Graphics`, others you can found [here](https://dgpu-docs.intel.com/devices/hardware-table.html)
 
