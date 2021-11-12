@@ -2,7 +2,7 @@
 Title | iGPU
 -- | --
 Create Date | `2021-11-10T17:21:22Z`
-Update Date | `2021-11-12T05:55:33Z`
+Update Date | `2021-11-12T05:56:53Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 
 ---
@@ -37,8 +37,8 @@ Intel Iris Xe (Gen12) | 7 | 16 | 6 | 672 | 5376
 
 
 
-
-## 查看 Device
+## UseCase
+### 查看 iGPU info
 
 ```
 inxi -G
@@ -59,15 +59,16 @@ $ lspci |grep VGA
 > 9a49 mean `Intel® Iris® Xe Graphics`, others you can found [here](https://dgpu-docs.intel.com/devices/hardware-table.html)
 
 
-## 查看使用率
+### 查看 iGPU 使用率
 
 ```
 sudo apt install intel-gpu-tools
 sudo intel_gpu_top
 ```
 
+## Issues
 
-## Ubuntu Access iGPU
+### Ubuntu Cannot Access iGPU
 
 - 非 root 用户无法访问 iGPU
 
