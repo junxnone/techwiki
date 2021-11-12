@@ -2,12 +2,14 @@
 Title | iGPU
 -- | --
 Create Date | `2021-11-10T17:21:22Z`
-Update Date | `2021-11-12T03:58:09Z`
+Update Date | `2021-11-12T05:52:26Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 
 ---
 ## Reference
 - [Intel® Processors with Integrated Graphics](https://www.intel.com/content/www/us/en/develop/documentation/oneapi-gpu-optimization-guide/top/gen-arch.html)
+- [Intel® graphics processor table](https://dgpu-docs.intel.com/devices/hardware-table.html)
+
 
 ## Brief
 - Slice/SubSlice/EU/ALU
@@ -49,7 +51,7 @@ ls -al /dev/dri
 sudo lspci -v -s $(lspci | grep VGA | cut -d" " -f 1)
 ```
 
-
+> 9a49 mean `Intel® Iris® Xe Graphics`, others you can found [here](https://dgpu-docs.intel.com/devices/hardware-table.html)
 
 
 ## 查看使用率
