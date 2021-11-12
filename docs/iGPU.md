@@ -2,14 +2,14 @@
 Title | iGPU
 -- | --
 Create Date | `2021-11-10T17:21:22Z`
-Update Date | `2021-11-12T05:53:05Z`
+Update Date | `2021-11-12T05:55:33Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 
 ---
 ## Reference
 - [Intel® Processors with Integrated Graphics](https://www.intel.com/content/www/us/en/develop/documentation/oneapi-gpu-optimization-guide/top/gen-arch.html)
 - [Intel® graphics processor table](https://dgpu-docs.intel.com/devices/hardware-table.html)
-
+- [Install Ubuntu Drivers](https://dgpu-docs.intel.com/installation-guides/ubuntu/ubuntu-focal.html)
 
 ## Brief
 - Slice/SubSlice/EU/ALU
