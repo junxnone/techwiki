@@ -2,7 +2,7 @@
 Title | iGPU
 -- | --
 Create Date | `2021-11-10T17:21:22Z`
-Update Date | `2021-11-13T13:17:46Z`
+Update Date | `2021-11-13T13:27:39Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 
 ---
@@ -53,6 +53,22 @@ Intel Iris Xe (Gen12) | 7 | 16 | 6 | 672 | 5376
 - SLM: 是在 Subslice 所有 `work-items` 内共享 `atomic data`
   - 如果 work-group 内包含同步操作, 需要分配在同一个 Subslice
 - `work-groups` < 16
+
+
+### ND-Range/work-group/sub-group/work-items
+
+
+![image](https://user-images.githubusercontent.com/2216970/141645331-c69a9cdb-ae77-40c5-83c4-182faaf7c234.png)
+
+
+
+Summary | EUs | Threads | Operations | Maximum Work Group Size | Maximum Work Groups
+-- | -- | -- | =-- | -- | --
+Each SubSlice | 16 |  7x16=112 | 112x8=896   | 512 | 16
+Total | 16x6=96  |  112x6=672 | 896x6=5376  | 512 |  16x6=96
+
+
+
 
 ## UseCase
 ### 查看 iGPU info
