@@ -2,7 +2,7 @@
 Title | iGPU
 -- | --
 Create Date | `2021-11-10T17:21:22Z`
-Update Date | `2021-11-13T12:47:36Z`
+Update Date | `2021-11-13T13:16:42Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 
 ---
@@ -10,6 +10,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 - [Intel® Processors with Integrated Graphics](https://www.intel.com/content/www/us/en/develop/documentation/oneapi-gpu-optimization-guide/top/gen-arch.html)
 - [Intel® graphics processor table](https://dgpu-docs.intel.com/devices/hardware-table.html)
 - [Install Ubuntu Drivers](https://dgpu-docs.intel.com/installation-guides/ubuntu/ubuntu-focal.html)
+- [Shared Local Memory](https://www.intel.com/content/www/us/en/develop/documentation/oneapi-gpu-optimization-guide/top/kernels/slm.html)
+
 
 ## Brief
 - Slice/SubSlice/EU/ALU
@@ -40,7 +42,16 @@ Intel Iris Xe (Gen12) | 7 | 16 | 6 | 672 | 5376
 - `Total Threads = SubSlices x EUs x Threads`
 - `Total Operations = Total Threads x SIMD Width`
 
-
+### Subslice & SLM 
+- `Instruction Cache`
+- `Local Thread Dispatcher`
+- `Read-Only Texture/Image Sampler` - 64B/Cycle
+- `Dataport` - 64B/Cycle
+- SLM  - `Shared Local Memory` - 64KB/Subslice
+- 每个 Subslice 执行的 `work-items` = `Eus x Threads x SIMD Width`
+- SLM: 是在 Subslice 所有 `work-items` 内共享 `atomic data`
+  - 如果 work-group 内包含同步操作, 需要分配在同一个 Subslice
+- `work-groups` < 16
 
 ## UseCase
 ### 查看 iGPU info
