@@ -2,7 +2,7 @@
 Title | iGPU
 -- | --
 Create Date | `2021-11-10T17:21:22Z`
-Update Date | `2021-11-12T05:56:53Z`
+Update Date | `2021-11-13T12:47:36Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 
 ---
@@ -34,6 +34,11 @@ Gen9 (BDW) | 7 | 8 | 3 | 168 | 1344
 Intel Iris Xe (Gen11) | 7 | 8 | 8 | 448 | 3584
 Intel Iris Xe (Gen12) | 7 | 16 | 6 | 672 | 5376
 
+- 每个 EU 包含两个 ALU
+- 每个 ALU 可以执行 4xFP32/8xFP16
+- 每个 EU 可以执行 8xFP32
+- `Total Threads = SubSlices x EUs x Threads`
+- `Total Operations = Total Threads x SIMD Width`
 
 
 
