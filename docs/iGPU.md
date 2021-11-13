@@ -2,7 +2,7 @@
 Title | iGPU
 -- | --
 Create Date | `2021-11-10T17:21:22Z`
-Update Date | `2021-11-13T13:16:42Z`
+Update Date | `2021-11-13T13:17:46Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 
 ---
@@ -11,6 +11,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 - [Intel® graphics processor table](https://dgpu-docs.intel.com/devices/hardware-table.html)
 - [Install Ubuntu Drivers](https://dgpu-docs.intel.com/installation-guides/ubuntu/ubuntu-focal.html)
 - [Shared Local Memory](https://www.intel.com/content/www/us/en/develop/documentation/oneapi-gpu-optimization-guide/top/kernels/slm.html)
+- [DPC++ Thread Hierarchy and Mapping](https://www.intel.com/content/www/us/en/develop/documentation/oneapi-gpu-optimization-guide/top/thread-mapping.html)
 
 
 ## Brief
