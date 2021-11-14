@@ -2,7 +2,7 @@
 Title | Github Pages
 -- | --
 Create Date | `2021-09-22T09:13:08Z`
-Update Date | `2021-11-11T15:00:11Z`
+Update Date | `2021-11-14T13:24:59Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/146)
 
 ---
@@ -22,11 +22,6 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/146)
 - [Github Pages Baidu Map](./Github_Pages_Baidu_Map)
 
 
-## jupyter notebook
-
-- [nbviewr.js](https://kokes.github.io/nbviewer.js/viewer.html) [[repo](https://github.com/kokes/nbviewer.js/)]
-- [使用 nbviewer.js 渲染的 GitHub page - 课程资源](https://github.com/UIUC-iSchool-DataViz/is445_AOUAOG_fall2021) [[网站](https://uiuc-ischool-dataviz.github.io/is445_AOUAOG_fall2021/)]
-- [使用 nbviewer.js 渲染的 GitHub page - 个人笔记](https://github.com/nagexiucai/MLA/)
 
 ## 有趣的工具
 
@@ -51,3 +46,12 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/146)
 ### Mindmap Tools
 - https://github.com/dundalek/markmap
 - https://github.com/gera2ld/markmap 
+
+### jupyter notebook
+
+- [nbviewr.js](https://kokes.github.io/nbviewer.js/viewer.html) [[repo](https://github.com/kokes/nbviewer.js/)]
+- [使用 nbviewer.js 渲染的 GitHub page - 课程资源](https://github.com/UIUC-iSchool-DataViz/is445_AOUAOG_fall2021) [[网站](https://uiuc-ischool-dataviz.github.io/is445_AOUAOG_fall2021/)]
+- [使用 nbviewer.js 渲染的 GitHub page - 个人笔记](https://github.com/nagexiucai/MLA/)
+
+### Knowledge Graph
+- [A knowledge graph for Chinese cookbook](https://github.com/ngl567/CookBook-KG)
