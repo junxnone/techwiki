@@ -1,7 +1,7 @@
 - [Install](/Install)
 - [Desktop](/Linux_Desktop)
 - [Tools](/Tools)
-- Proxy
+- [Proxy](/Proxy)
   - [V2Ray](/V2Ray)
   - [shadowsocks](/Ubuntu_shadowsocks)
 - [OS](/OS)
