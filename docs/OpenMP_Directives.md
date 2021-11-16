@@ -2,7 +2,7 @@
 Title | OpenMP Directives
 -- | --
 Create Date | `2021-11-16T03:37:52Z`
-Update Date | `2021-11-16T03:37:52Z`
+Update Date | `2021-11-16T03:43:47Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/218)
 
 ---
@@ -18,6 +18,11 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/218)
 
 
 ### Format
+- 使用 `#pragma omp` 开头
+
+```
+#pragma omp directive-name [clause[ [,] clause] ... ] new-line
+```
 
 ### 常用编译指令
 
@@ -25,6 +30,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/218)
 Name | Description
 -- | --
 parallel
+for 
 teams
 simd
 target
