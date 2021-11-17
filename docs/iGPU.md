@@ -2,7 +2,7 @@
 Title | iGPU
 -- | --
 Create Date | `2021-11-10T17:21:22Z`
-Update Date | `2021-11-14T14:50:07Z`
+Update Date | `2021-11-17T04:08:07Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 
 ---
@@ -60,7 +60,8 @@ Intel Iris Xe (Gen12) | 7 | 16 | 6 | 672 | 5376
 
 
 ![image](https://user-images.githubusercontent.com/2216970/141645331-c69a9cdb-ae77-40c5-83c4-182faaf7c234.png)
-
+-- |
+![image](https://user-images.githubusercontent.com/2216970/142132985-86a8e414-1596-4378-9069-d8609d0f329f.png)
 
 
 Summary | EUs | Threads | Operations | Maximum Work Group Size | Maximum Work Groups
