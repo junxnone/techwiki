@@ -2,7 +2,7 @@
 Title | iGPU
 -- | --
 Create Date | `2021-11-10T17:21:22Z`
-Update Date | `2021-11-17T06:43:24Z`
+Update Date | `2021-11-17T06:48:47Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 
 ---
@@ -59,7 +59,8 @@ Intel Iris Xe (Gen12) | 7 | 16 | 6 | 672 | 5376
 ### Memory
 - CPU & GPU 共享物理内存(zero-copy)
 - L1 & L2 Sampler caches
-
+- L3 Cache(64Byte/Cycle)
+  - SLM (16 banks & 4Byte 细粒度)
 
 ![image](https://user-images.githubusercontent.com/2216970/142145319-8f1a584c-cd1d-4bbb-9a17-b1a50c15843c.png)
 
