@@ -2,7 +2,7 @@
 Title | iGPU
 -- | --
 Create Date | `2021-11-10T17:21:22Z`
-Update Date | `2021-11-18T08:39:42Z`
+Update Date | `2021-11-18T15:44:38Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 
 ---
@@ -127,4 +127,16 @@ sudo usermod -aG video $UserName
 
 - Utilization : 时间维度上的统计计算资源
 - Occupancy: 空间维度上统计计算资源占用情况
+
+
+
+
+Work-items | Group Size | Threads | SubSlice Utilization | SubSlice Occupancy
+-- | -- | -- | -- | --
+64x64x128 = 524288    | (R=1) 128 | 16 | 16/112 = 14% | 128 x 7 / 112 x 8 = 100% with 7 work-groups
+64x64x128 = 524288    | (R=2) 128 x 2| 2 x 16 | 32/112 = 28.6% | 128 x 2 x 3 / 112 x 8 = 86% with 3 work-groups
+64x64x128 = 524288    | (R=3) 128 x 3| 3 x 16 | 48/112 = 42.9% | 128 x 3 x 2 / 112 x  8 = 86% with 2 work-groups
+64x64x128 = 524288    | (R=4) 128 x 4| 4 x 16 | 64/112 = 57%  | 128 x4 / 112 x8 = 57% maximum
+64x64x128 = 524288    | (R>4) 640+ |   |   | Fail to launch
+
 
