@@ -2,7 +2,7 @@
 Title | OpenCL
 -- | --
 Create Date | `2021-01-25T07:01:15Z`
-Update Date | `2021-11-02T08:04:00Z`
+Update Date | `2021-11-18T02:20:51Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/198)
 
 ---
@@ -13,7 +13,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/198)
 - [OpenCL 官网](https://www.khronos.org/opencl/)
 - [OpenCL Guide](https://github.com/KhronosGroup/OpenCL-Guide)
 - [OpenCL Resource](https://www.khronos.org/opencl/resources)
-
+- [OpenCL 2.0 异构计算 [第三版] （Heterogeneous Computing with OpenCL 2.0）](https://www.bookstack.cn/books/Heterogeneous-Computing-with-OpenCL-2.0)
 
 # Brief
 - OpenCL - Open Computing Language - 开放计算机语言
