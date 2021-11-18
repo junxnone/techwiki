@@ -2,7 +2,7 @@
 Title | OpenMP
 -- | --
 Create Date | `2021-05-20T03:29:59Z`
-Update Date | `2021-11-16T03:34:05Z`
+Update Date | `2021-11-18T08:04:06Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 
 ---
@@ -40,7 +40,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/199)
 - [OpenMP SIMD](/OpenMP_SIMD)
 - [OpenMP Offload](/OpenMP_Offload)
 - [OpenMP Directives](OpenMP_Directives)
-
+- [OpenMP Task](/OpenMP_Task)
 
 ## Shared Memory Model
 - OpenMP 是为 多核/多处理器 共享内存的机器设计的
