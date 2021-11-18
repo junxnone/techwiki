@@ -2,7 +2,7 @@
 Title | iGPU
 -- | --
 Create Date | `2021-11-10T17:21:22Z`
-Update Date | `2021-11-17T07:09:12Z`
+Update Date | `2021-11-18T08:39:42Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 
 ---
@@ -121,3 +121,10 @@ sudo intel_gpu_top
 ```
 sudo usermod -aG video $UserName
 ```
+
+
+###  GPU 利用率 (Utilization) 和占用率 (Occupancy)
+
+- Utilization : 时间维度上的统计计算资源
+- Occupancy: 空间维度上统计计算资源占用情况
+
