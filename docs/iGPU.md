@@ -2,7 +2,7 @@
 Title | iGPU
 -- | --
 Create Date | `2021-11-10T17:21:22Z`
-Update Date | `2021-11-19T01:28:35Z`
+Update Date | `2021-11-19T01:29:11Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 
 ---
@@ -67,7 +67,7 @@ Intel Iris Xe (Gen12) | 7 | 16 | 6 | 672 | 5376
 
 
 ### ND-Range/work-group/sub-group/work-items
-- `work-items` 对应 operations
+- `work-items` 分配到 operations
 - `sub-group` 分配到 threads
 - `work-group` 受 hardware 限制 (Iris Xe 每个 subslice 最多 16个，最多 512 个  `work-items`)
 
