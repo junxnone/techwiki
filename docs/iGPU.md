@@ -2,7 +2,7 @@
 Title | iGPU
 -- | --
 Create Date | `2021-11-10T17:21:22Z`
-Update Date | `2021-11-19T01:34:15Z`
+Update Date | `2021-11-19T01:38:48Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 
 ---
@@ -61,6 +61,7 @@ Intel Iris Xe (Gen12) | 7 | 16 | 6 | 672 | 5376
 - L1 & L2 Sampler caches
 - L3 Cache(64Byte/Cycle)
   - SLM (16 banks & 4Byte 细粒度)
+  - SLM 的设计目的: 高带宽/低延迟 work-items 之间共享数据
 
 
 ![image](https://user-images.githubusercontent.com/2216970/142150859-40a9a152-c17f-4e0c-b9ff-0fcb2548dc08.png)
