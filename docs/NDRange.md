@@ -2,7 +2,7 @@
 Title | NDRange
 -- | --
 Create Date | `2021-11-19T01:12:36Z`
-Update Date | `2021-11-19T01:12:36Z`
+Update Date | `2021-11-19T01:13:06Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/221)
 
 ---
@@ -26,4 +26,6 @@ Three Dim | ![image](https://user-images.githubusercontent.com/2216970/142524937
 
 
 ## Work on GPU
+
+![image](https://user-images.githubusercontent.com/2216970/142132985-86a8e414-1596-4378-9069-d8609d0f329f.png)
 
