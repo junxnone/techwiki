@@ -2,7 +2,7 @@
 Title | conda
 -- | --
 Create Date | `2020-01-10T08:28:17Z`
-Update Date | `2021-11-22T06:22:57Z`
+Update Date | `2021-11-22T06:31:38Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/88)
 
 ---
@@ -42,7 +42,7 @@ Export | `conda env export> env.yml`
 Import | `conda env create -f env.yml`
 **Package 管理** | 
 Search | `conda search tensorflow-gpu`
-Install | `conda install tensorflow-gpu`<br>`conda install tensorflow-gpu=x.x.x`<br>`conda install --yes --file requirements.txt`
+Install | `conda install tensorflow-gpu`<br>`conda install tensorflow-gpu=x.x.x`<br>`conda install --yes --file requirements.txt` <br>安装不在 conda 仓库中的 package `pip3 install your_package`
 List All | `conda list`
 Remove | `conda remove your_envs your_packages`
 Export | `conda list -e > requirements.txt`
