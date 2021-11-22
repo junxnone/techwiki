@@ -1,8 +1,8 @@
 ---
 Title | conda
 -- | --
-Create Date | `2021-09-22T05:08:38Z`
-Update Date | `2021-09-22T05:08:38Z`
+Create Date | `2020-01-10T08:28:17Z`
+Update Date | `2021-11-22T06:22:57Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/88)
 
 ---
@@ -38,7 +38,7 @@ Exit  | `conda deactivate`
 List All | `conda env list`<br>`conda info --envs`
 Remove | `conda remove -n your_envs --all`
 Copy| `conda create -n new_envs --clone old_envs`
-Export | `source activate your_envs`<br>`conda env export> env.yml`
+Export | `conda env export> env.yml`
 Import | `conda env create -f env.yml`
 **Package 管理** | 
 Search | `conda search tensorflow-gpu`
