@@ -2,11 +2,11 @@
 Title | conda
 -- | --
 Create Date | `2020-01-10T08:28:17Z`
-Update Date | `2021-11-22T06:31:38Z`
+Update Date | `2021-11-22T07:00:16Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/88)
 
 ---
-# Reference
+## Reference
 - [conda docs](https://docs.conda.io/projects/conda/en/latest/index.html#)
 - [miniconda docs](https://docs.conda.io/en/latest/miniconda.html)
 - [Anaconda Documentation](https://docs.anaconda.com/)
@@ -14,7 +14,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/88)
 - [anaconda conda切换成国内源](https://blog.csdn.net/qq_24056913/article/details/88068362)
 - [conda 常用命令](https://docs.conda.io/projects/conda/en/latest/commands.html#conda-general-commands)
 
-# Brief
+## Brief
 
 - conda 包和环境管理系统
 
@@ -24,7 +24,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/88)
 miniconda | includes only conda, Python, the packages they depend on, and a small number of other useful packages, including pip, zlib and a few others. 
 anaconda  | conda + 基础 + 常用的 packages
 
-# Use Case 
+## Use Case 
 
 
 UseCasse | Command
@@ -49,7 +49,7 @@ Export | `conda list -e > requirements.txt`
 环境管理 |
 
 
-# Others Config
+## Others Config
 
 - 源/channel 更换
 
@@ -89,7 +89,7 @@ proxy_servers:
 ```
 
 
-# Tips
+## Tips
 
 - conda 会自动安装 cuda & cudnn 依赖
 - 当使用 `conda` 环境下的 `cuda` `cudnn` 编译 `darknet`时，需要更改 `Makefile` 中的 `-L cudnn` 路径
