@@ -1,8 +1,10 @@
 ---
 Title | List Hardware info
 -- | --
-Create Date | `2021-09-19T10:23:58Z`
-Update Date | `2021-09-19T10:23:58Z`
+Create Date | `2019-02-20T04:32:30Z`
+Update Date | `2021-11-24T02:05:02Z`
+Edit link | [here](https://github.com/junxnone/linuxwiki/issues/7)
+
 ---
 # Reference
 - [ ] [在Linux上查询物理机信息-不用去拆机器了](https://www.cnblogs.com/operationhome/p/12486702.html)
@@ -100,7 +102,7 @@ lsusb
 # inxi
 ```
 inxi -F
-System:    Host: iottrainserver Kernel: 4.15.0-64-generic x86_64 bits: 64 Console: tty 10
+System:    Host: xxxx Kernel: 4.15.0-64-generic x86_64 bits: 64 Console: tty 10
            Distro: Ubuntu 18.04.2 LTS
 Machine:   Device: server System: Dell product: PowerEdge T630 serial: N/A
            Mobo: Dell model: 0NT78X v: A10 serial: N/A BIOS: Dell v: 2.8.0 date: 05/23/2018
