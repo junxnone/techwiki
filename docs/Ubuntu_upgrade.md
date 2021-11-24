@@ -2,7 +2,7 @@
 Title | Ubuntu upgrade
 -- | --
 Create Date | `2019-09-04T05:07:55Z`
-Update Date | `2021-11-24T05:35:52Z`
+Update Date | `2021-11-24T05:36:38Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/89)
 
 ---
@@ -30,6 +30,7 @@ Your python3 install is corrupted. Please fix the '/usr/bin/python3' symlink.
 ```
 
 ## Upgrade Mnior Version
+- `20.04.01` --> `20.04.03`
 
 ```
 sudo apt update
