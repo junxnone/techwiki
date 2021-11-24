@@ -1,16 +1,15 @@
 ---
 Title | Ubuntu upgrade
 -- | --
-Create Date | `2021-09-22T05:10:58Z`
-Update Date | `2021-09-22T05:10:58Z`
+Create Date | `2019-09-04T05:07:55Z`
+Update Date | `2021-11-24T05:35:52Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/89)
 
 ---
-
-# Brief
+## Brief
 - 升级 `Ubuntu 16.04` 到 `18.04`
 
-## Steps
+## Upgrade Major Version
 - **1 先更新当前的16.04**
 ```
 sudo apt update && sudo apt dist-upgrade && sudo apt autoremove
@@ -28,4 +27,11 @@ sudo do-release-upgrade -d
 **如果 python 链接为 python3,则会出现如下报错，重新链接回 python2.7 即可**
 ```
 Your python3 install is corrupted. Please fix the '/usr/bin/python3' symlink.
+```
+
+## Upgrade Mnior Version
+
+```
+sudo apt update
+sudo apt upgrade
 ```
