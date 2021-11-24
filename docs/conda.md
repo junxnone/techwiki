@@ -2,7 +2,7 @@
 Title | conda
 -- | --
 Create Date | `2020-01-10T08:28:17Z`
-Update Date | `2021-11-22T07:00:16Z`
+Update Date | `2021-11-24T03:26:36Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/88)
 
 ---
@@ -30,6 +30,7 @@ anaconda  | conda + 基础 + 常用的 packages
 UseCasse | Command
 -- | --
 Install | [Download the Install Package](https://docs.conda.io/en/latest/miniconda.html#linux-installers)<br>`bash Anaconda-latest-Linux-x86_64.sh` <br>`bash Miniconda3-latest-Linux-x86_64.sh`
+不进入base | `conda config --set auto_activate_base false`
 查看 conda 信息 | `conda info`
 **虚拟环境 管理** | 
 Create  | `conda create -n your_envs`
