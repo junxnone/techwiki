@@ -2,7 +2,7 @@
 Title | Jupyter
 -- | --
 Create Date | `2018-09-25T07:48:41Z`
-Update Date | `2021-10-25T02:13:00Z`
+Update Date | `2021-11-25T06:17:46Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/143)
 
 ---
@@ -29,7 +29,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/143)
 - [Jupyter docker image](./Jupyter_docker_image)
 - [Jupyter Arch](./Jupyter_Arch)
 - [Jupyrwe Kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
-
+- [Jupyter Magic Commands]
 
 ## Install with pip
 
