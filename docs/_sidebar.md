@@ -31,7 +31,7 @@
   - 编程语言
     - C
     - [C++](/CPP)
-    - Python
+    - [Python](/Python)
     - [Shell](/Shell)
   - 网咯编程
     - [Socket](/Socket)
