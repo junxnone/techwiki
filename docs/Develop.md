@@ -2,7 +2,7 @@
 Title | Develop
 -- | --
 Create Date | `2021-09-20T07:37:05Z`
-Update Date | `2021-11-19T03:37:57Z`
+Update Date | `2021-11-29T06:17:46Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
 
 ---
@@ -23,34 +23,35 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/38)
   - [OpenMPI](/OpenMPI)
 - [OneAPI](/OneAPI)
 - Python
-  - [Python virtualenv](./Python_virtualenv)
-  - [virtualenvwrapper](./virtualenvwrapper)
-  - [conda](./conda)
-  - [Jupyter](./Jupyter)
-  - [JupyterLab](./JupyterLab)
-  - [JupyterHub](./JupyterHub)
+  - [Python virtualenv](/Python_virtualenv)
+  - [virtualenvwrapper](/virtualenvwrapper)
+  - [conda](/conda)
+  - [Jupyter](/Jupyter)
+  - [JupyterLab](/JupyterLab)
+  - [JupyterHub](/JupyterHub)
 - 网络编程
   - [Socket](/Socket)
     - [Socket 函数](/Socket_Function)
 
 ## 版本管理
-- [Git](./Git)
+- [Git](/Git)
 - Github
-  - [Github backup](./Github_backup)
-  - [Github actions](./Github_actions)
-  - [Github Token](./Github_Token)
-  - [Github Pages](./Github_Pages)
-  - [Github Chrome extensions](./Github_Chrome_extensions)
+  - [Github backup](/Github_backup)
+  - [Github actions](/Github_actions)
+  - [Github Token](/Github_Token)
+  - [Github Pages](/Github_Pages)
+  - [Github Chrome extensions](/Github_Chrome_extensions)
   - [Github 代码浏览工具 Source Graph](/Sourcegraph)
-- [Gitlab](./Gitlab)
+- [Gitlab](/Gitlab)
 
 ## Docs
-- [Markdown](./Markdown)
+- [Markdown](/Markdown)
+- [YAML](/YAML)
 
 ## Others
-- [Open Source License](./Open_Source_License)
+- [Open Source License](/Open_Source_License)
 - [开发版本号相关](/Version)
-- [mosquitto](./mosquitto)
+- [mosquitto](/mosquitto)
 - [代码浏览工具 opengrok](/Tools_opengrok)
 - [Yocto](/Yocto)
 - [Visual Studio](/Visual_Studio)
