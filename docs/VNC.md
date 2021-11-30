@@ -2,7 +2,7 @@
 Title | VNC
 -- | --
 Create Date | `2021-10-26T09:06:55Z`
-Update Date | `2021-10-27T03:11:06Z`
+Update Date | `2021-11-30T08:30:54Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/191)
 
 ---
@@ -32,5 +32,6 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/191)
 Usecase | cmd
 -- | --
 启动 vncserver |  `vncserver :1 -geometry 1920x1080 -depth 24`
-查看 启动的 server | `ps -ef |grep vnc`
+查看 启动的 server | `ps -ef \|grep vnc`
+kill server | `vncserver -kill :1`
 
