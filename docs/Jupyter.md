@@ -2,7 +2,7 @@
 Title | Jupyter
 -- | --
 Create Date | `2018-09-25T07:48:41Z`
-Update Date | `2021-11-25T06:17:46Z`
+Update Date | `2021-12-06T02:46:16Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/143)
 
 ---
@@ -67,9 +67,17 @@ Execute Time | 显示运行的时间
 jupytext | 同步保存 py 文件
 
 
-# Tips
-## 查看方法帮助
+## Tips
+### 查看方法帮助
 1 方法后面添加 `?` <br> `cv2.resize?` | ![image](https://user-images.githubusercontent.com/2216970/70609679-2a828100-1c3d-11ea-8d1a-ebb16f050037.png)
 -- | --
 2 <kbd>Shift</kbd> + <kbd>Tab</kbd> | ![image](https://user-images.githubusercontent.com/2216970/70609869-84834680-1c3d-11ea-9673-b634a7cb9caf.png)
 
+
+### Magic Command
+
+cmd | Description
+-- | --
+%time | 当前**行**的代码运行一次所花费的时间
+%%time | 当前**cell**的代码运行一次所花费的时间
+%timeit | 执行一个语句100，000次(默认情况下)，然后给出运行最快3次的平均值<br> -n N 指定执行次数
