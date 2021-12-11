@@ -2,7 +2,7 @@
 Title | DPCPP
 -- | --
 Create Date | `2021-10-28T08:00:47Z`
-Update Date | `2021-12-11T06:09:09Z`
+Update Date | `2021-12-11T06:28:47Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 
 ---
@@ -37,6 +37,11 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 ![image](https://user-images.githubusercontent.com/2216970/145666271-385828ff-8393-40e3-9605-03bbe52767a1.png)
 
 ![image](https://user-images.githubusercontent.com/2216970/145666277-1df7f586-32af-4152-8efa-83d0c293aebf.png)
+
+
+### Compiler Arch
+
+![image](https://user-images.githubusercontent.com/2216970/145666824-bba9f275-e0a0-4325-9056-569c0c966803.png)
 
 
 ## DPCPP VS OPENCL/CUDA/HIP
