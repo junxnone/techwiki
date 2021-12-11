@@ -1,4 +1,4 @@
-- [Install](/Install)
+- [Linux & Tools Install](/Install)
 - [Desktop](/Linux_Desktop)
 - [Tools](/Tools)
 - [Networks]()
