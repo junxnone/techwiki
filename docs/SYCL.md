@@ -2,7 +2,7 @@
 Title | SYCL
 -- | --
 Create Date | `2021-07-29T01:50:29Z`
-Update Date | `2021-11-04T15:11:42Z`
+Update Date | `2021-12-11T07:30:42Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 
 ---
@@ -30,15 +30,15 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 
 
 ## SYCL 定位
+
 ![image](https://user-images.githubusercontent.com/2216970/127418990-8e05f4ee-c310-4648-b4e6-f7a3cc83fae1.png)
 
 ## SYCL 实现
 
-
 ![image](https://user-images.githubusercontent.com/2216970/127419004-037235d4-8a43-47b6-bf3f-73a1d81fea30.png)
 
 
-## VS OpenCL
+## SYCL VS OpenCL
 
 Name | Description
 -- | --
@@ -50,5 +50,4 @@ OpenCL | - Low-Level<br> - Host + Device Code
 
 ![image](https://user-images.githubusercontent.com/2216970/127421283-39437ea0-bc47-4736-8f23-4fde10aa56ec.png)
 
-# UseCase
 
