@@ -2,7 +2,7 @@
 Title | DPCPP
 -- | --
 Create Date | `2021-10-28T08:00:47Z`
-Update Date | `2021-12-11T06:06:48Z`
+Update Date | `2021-12-11T06:09:09Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 
 ---
@@ -31,6 +31,13 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 
 
 ![image](https://user-images.githubusercontent.com/2216970/139390103-c0653884-e220-4509-a5da-acdc1514fdca.png)
+
+### DPCPP Runtime
+
+![image](https://user-images.githubusercontent.com/2216970/145666271-385828ff-8393-40e3-9605-03bbe52767a1.png)
+
+![image](https://user-images.githubusercontent.com/2216970/145666277-1df7f586-32af-4152-8efa-83d0c293aebf.png)
+
 
 ## DPCPP VS OPENCL/CUDA/HIP
 
