@@ -2,7 +2,7 @@
 Title | DPCPP
 -- | --
 Create Date | `2021-10-28T08:00:47Z`
-Update Date | `2021-12-11T06:02:07Z`
+Update Date | `2021-12-11T06:02:31Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 
 ---
@@ -31,9 +31,9 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 
 ![image](https://user-images.githubusercontent.com/2216970/139390103-c0653884-e220-4509-a5da-acdc1514fdca.png)
 
-## DPCPP VS CUDA
+## DPCPP VS OPENCL/CUDA
 
 name | Description
 -- | --
-CUDA | - Low-level<br>- Separate source for device code<br>- Device code only
+OPENCL/CUDA | - Low-level<br>- Separate source for device code<br>- Device code only
 `DPC++(SYCL)`/OpenMP | - Higher-level<br>- Single source<br>- Host  and Device code
