@@ -1,6 +1,6 @@
 - [Linux & Tools Install](/Install)
-- [Desktop](/Linux_Desktop)
-- [Tools](/Tools)
+- [Linux Desktop](/Linux_Desktop)
+- [LInux Tools](/Tools)
 - [Networks]()
   - [Proxy](/Proxy)
     - [V2Ray](/V2Ray)
