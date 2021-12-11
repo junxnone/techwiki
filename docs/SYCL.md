@@ -2,7 +2,7 @@
 Title | SYCL
 -- | --
 Create Date | `2021-07-29T01:50:29Z`
-Update Date | `2021-12-11T07:31:16Z`
+Update Date | `2021-12-11T07:32:11Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 
 ---
@@ -19,6 +19,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 - SYCL - High-Level C++ 抽象层 - 一个标准
 - 可以使用 OpenCL backend，也可以用其他库作为后端 (CUDA/OpenMP/OpenCL+PTX/CUDA+PTX)
 - [SYCL Concepts](/SYCL_Concepts)
+- [SPIR](/SPIR)
 - SYCL 标准的一些实现
   - [DPCPP - Intel](https://github.com/intel/llvm)
   - [ComputeCpp - codeplay](https://github.com/codeplaysoftware/computecpp-sdk)
