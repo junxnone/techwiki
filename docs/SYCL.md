@@ -2,7 +2,7 @@
 Title | SYCL
 -- | --
 Create Date | `2021-07-29T01:50:29Z`
-Update Date | `2021-12-11T07:30:42Z`
+Update Date | `2021-12-11T07:31:16Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 
 ---
@@ -45,8 +45,6 @@ Name | Description
 SYCL | - High-Level<br> - 单一文件<br> - 编译为 SPIR
 OpenCL | - Low-Level<br> - Host + Device Code
 
-- OpenCL是低级非单一源API
-- SYCL是高级单一源 C ++ 领域特定的嵌入式语言
 
 ![image](https://user-images.githubusercontent.com/2216970/127421283-39437ea0-bc47-4736-8f23-4fde10aa56ec.png)
 
