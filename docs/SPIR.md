@@ -2,7 +2,7 @@
 Title | SPIR
 -- | --
 Create Date | `2021-07-29T02:23:07Z`
-Update Date | `2021-12-11T07:56:39Z`
+Update Date | `2021-12-11T07:56:52Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/230)
 
 ---
@@ -38,7 +38,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/230)
 
 - 2012/8 SPIR 1.0
 - 2014/1 SPIR 1.2
-- 2014/6 SPIR 2.0- 
+- 2014/6 SPIR 2.0
 - 2021/1 SPIR-V 1.5
 
 
