@@ -2,7 +2,7 @@
 Title | SPIR
 -- | --
 Create Date | `2021-07-29T02:23:07Z`
-Update Date | `2021-12-11T07:31:51Z`
+Update Date | `2021-12-11T07:38:21Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/230)
 
 ---
@@ -31,8 +31,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/230)
 
 ## OpenCL to SPIR-V
 
-![image](https://user-images.githubusercontent.com/2216970/145668355-99220899-d0b5-4f85-b959-e2a0dfbab464.png)
-
+![image](https://user-images.githubusercontent.com/2216970/145668355-99220899-d0b5-4f85-b959-e2a0dfbab464.png) | ![image](https://user-images.githubusercontent.com/2216970/145668679-6a980e3b-a52b-4d9d-ae1b-5c3539935260.png)
+-- | --
 
 ## History
 
