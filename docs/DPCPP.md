@@ -2,7 +2,7 @@
 Title | DPCPP
 -- | --
 Create Date | `2021-10-28T08:00:47Z`
-Update Date | `2021-12-11T06:04:41Z`
+Update Date | `2021-12-11T06:06:13Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 
 ---
@@ -11,7 +11,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 - [oneAPI DPC++ Compiler documentation](https://intel.github.io/llvm-docs/GetStartedGuide.html)
 - [Intel Data Parallel C++ (and SYCL 2020) Tutorial](https://github.com/jeffhammond/dpcpp-tutorial)
 - [SYCL 1.2.1 spec](https://www.khronos.org/registry/SYCL/specs/sycl-1.2.1.pdf)
-- [DPCPP API](https://intel.github.io/llvm-docs/doxygen/index.html)
+- [DPCPP API](https://intel.github.io/llvm-docs/doxygen/index.html) [[Intel llvm Implementaion]](https://github.com/intel/llvm/tree/sycl/)
 - [Level Zero](https://dgpu-docs.intel.com/technologies/level-zero.html)
 - [DPCPP Reference](https://oneapi-src.github.io/DPCPP_Reference/index.html)
 - [training - intel](https://techdecoded.intel.io/quickhits/overview-of-oneapi-dpc-programming)
@@ -35,5 +35,5 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 
 name | Description
 -- | --
-OPENCL/CUDAHIP | - Low-level<br>- Separate source for device code<br>- Device code only
+OPENCL/CUDA/HIP | - Low-level<br>- Separate source for device code<br>- Device code only
 `DPC++(SYCL)`/OpenMP | - Higher-level<br>- Single source<br>- Host  and Device code
