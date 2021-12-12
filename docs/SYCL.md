@@ -2,7 +2,7 @@
 Title | SYCL
 -- | --
 Create Date | `2021-07-29T01:50:29Z`
-Update Date | `2021-12-11T07:32:11Z`
+Update Date | `2021-12-12T03:36:31Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 
 ---
@@ -35,6 +35,12 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 ![image](https://user-images.githubusercontent.com/2216970/127418990-8e05f4ee-c310-4648-b4e6-f7a3cc83fae1.png)
 
 ## SYCL 实现
+- DPCPP - intel
+- ComputeCpp - codeplay
+- triSYCL - XILINX
+- hipSYCL - AMD
+- neoSYCL - Tomoku
+
 
 ![image](https://user-images.githubusercontent.com/2216970/127419004-037235d4-8a43-47b6-bf3f-73a1d81fea30.png)
 
