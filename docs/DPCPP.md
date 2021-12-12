@@ -2,7 +2,7 @@
 Title | DPCPP
 -- | --
 Create Date | `2021-10-28T08:00:47Z`
-Update Date | `2021-12-11T06:28:47Z`
+Update Date | `2021-12-12T03:15:47Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 
 ---
@@ -25,7 +25,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 - 实现了 [SYCL](/SYCL) 接口
   - 使用 [OpenCL](/OpenCL) 后端加速 Intel CPU/iGPU/FPGAs
   - 使用 `CUDA+PTX` 后端加速 Nvidia GPUs
-
+- [Level Zero](/Level_Zero)
 
 ## Arch
 
