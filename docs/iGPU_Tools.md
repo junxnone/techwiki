@@ -2,15 +2,15 @@
 Title | iGPU Tools
 -- | --
 Create Date | `2021-12-13T11:35:31Z`
-Update Date | `2021-12-13T11:37:44Z`
+Update Date | `2021-12-13T11:38:47Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/234)
 
 ---
-
 ## Brief
 - inxi
 - lspci
 - intel_gpu_top
+- [Intel® GPU Occupancy Calculator](https://oneapi-src.github.io/oneAPI-samples/Tools/GPU-Occupancy-Calculator/index.html)
 
 ### 查看 iGPU info
 
