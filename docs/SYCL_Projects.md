@@ -2,7 +2,7 @@
 Title | SYCL Projects
 -- | --
 Create Date | `2021-12-13T03:17:48Z`
-Update Date | `2021-12-13T03:27:55Z`
+Update Date | `2021-12-13T03:33:31Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/232)
 
 ---
@@ -13,6 +13,13 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/232)
 ## Brief
 - 一些使用 SYCL 的库
   - Eigen (基于 ComputeCpp)
+
+
+## Frameworks
+
+Name | Code | Docs | Description
+-- | -- | -- | --
+dpctl - Intel | [[Code](https://github.com/IntelPython/dpctl)] | [[Docs](https://intelpython.github.io/dpctl/latest/index.html)] | python + sycl 编程
 
 ## Benchmarks
 
