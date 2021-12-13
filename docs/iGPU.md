@@ -2,7 +2,7 @@
 Title | iGPU
 -- | --
 Create Date | `2021-11-10T17:21:22Z`
-Update Date | `2021-12-13T11:18:55Z`
+Update Date | `2021-12-13T11:33:14Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 
 ---
@@ -73,7 +73,7 @@ Intel Iris Xe (Gen12) | 7 | 16 | 6 | 672 | 5376
 - DPCPP 获取 SLM Info - `q.get_device().get_info<sycl::info::device::local_mem_size>()`
 - **Bank Conflicts**
   - 依赖于 Device
-  - 64 Byte = 16 Bank x 4 Byte(32-bit)
+  - **Bank(Cache line)** - 64 Byte = 16 Bank x 4 Byte(32-bit)
   - 同时访问一个 Bank 的不同地址会引起 `Bank conflicts`, 硬件限制会导致串行访问
 
 
