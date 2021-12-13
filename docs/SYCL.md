@@ -2,7 +2,7 @@
 Title | SYCL
 -- | --
 Create Date | `2021-07-29T01:50:29Z`
-Update Date | `2021-12-13T02:44:59Z`
+Update Date | `2021-12-13T03:19:22Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 
 ---
@@ -16,8 +16,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 
 
 ## Brief
-- SYCL - High-Level C++ 抽象层 - 一个标准
-- 可以使用 OpenCL backend，也可以用其他库作为后端 (CUDA/OpenMP/OpenCL+PTX/CUDA+PTX)
+- SYCL - High-Level C++ 抽象层 - 一个标准, 可以使用 OpenCL backend 运行，也可以用其他库作为后端 (CUDA/OpenMP/OpenCL+PTX/CUDA+PTX)
 - [SYCL Concepts](/SYCL_Concepts)
 - [SPIR](/SPIR)
 - SYCL 标准的一些实现
@@ -26,9 +25,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
   - [TriSYCL - Xilinx](https://github.com/triSYCL/triSYCL)
   - [hipSYCL - Heidelberg University](https://github.com/illuhad/hipSYCL)
   - neoSYCL - Tohoku
-- 一些使用 SYCL 的库
-  - Eigen (基于 ComputeCpp)
-
+- [SYCL Projects](/SYCL_Projects)
 
 ## SYCL 定位
 
