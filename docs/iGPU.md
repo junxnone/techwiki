@@ -2,7 +2,7 @@
 Title | iGPU
 -- | --
 Create Date | `2021-11-10T17:21:22Z`
-Update Date | `2021-12-13T11:36:30Z`
+Update Date | `2021-12-13T11:53:31Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 
 ---
@@ -70,7 +70,7 @@ Intel Iris Xe (Gen12) | 7 | 16 | 6 | 672 | 5376
 #### Shared Local Memory
 - 通过 Global Memory 共享数据和通信效率较低，所以 SLM 出现了
 - SLM 的设计目的: 高带宽/低延迟 work-items 之间共享数据
-- SLM (16 banks & 4Byte 细粒度)
+- Read & Write /Cycle = 64 Byte = 16 x 4 Byte
 - DPCPP 获取 SLM Info - `q.get_device().get_info<sycl::info::device::local_mem_size>()`
 - **Bank Conflicts**
   - 依赖于 Device
