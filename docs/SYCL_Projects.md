@@ -2,7 +2,7 @@
 Title | SYCL Projects
 -- | --
 Create Date | `2021-12-13T03:17:48Z`
-Update Date | `2021-12-13T03:17:48Z`
+Update Date | `2021-12-13T03:18:34Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/232)
 
 ---
@@ -11,6 +11,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/232)
 
 
 ## Brief
+- 一些使用 SYCL 的库
+  - Eigen (基于 ComputeCpp)
 
 ## Benchmarks
 
