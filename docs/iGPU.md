@@ -2,7 +2,7 @@
 Title | iGPU
 -- | --
 Create Date | `2021-11-10T17:21:22Z`
-Update Date | `2021-12-13T11:53:31Z`
+Update Date | `2021-12-13T11:58:10Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 
 ---
@@ -72,7 +72,7 @@ Intel Iris Xe (Gen12) | 7 | 16 | 6 | 672 | 5376
 - SLM 的设计目的: 高带宽/低延迟 work-items 之间共享数据
 - Read & Write /Cycle = 64 Byte = 16 x 4 Byte
 - DPCPP 获取 SLM Info - `q.get_device().get_info<sycl::info::device::local_mem_size>()`
-- **Bank Conflicts**
+- **Bank Conflicts** [[CUDA SHARED MEMORY - Bank Conflict](https://www.cnblogs.com/1024incn/p/4605502.html)]
   - 依赖于 Device
   - **Bank(Cache line)** - 64 Byte = 16 Bank x 4 Byte(32-bit)
   - 同时访问一个 Bank 的不同地址会引起 `Bank conflicts`, 硬件限制会导致串行访问
