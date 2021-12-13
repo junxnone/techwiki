@@ -2,7 +2,7 @@
 Title | iGPU
 -- | --
 Create Date | `2021-11-10T17:21:22Z`
-Update Date | `2021-12-13T11:33:14Z`
+Update Date | `2021-12-13T11:36:30Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 
 ---
@@ -19,7 +19,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 ## Brief
 - Slice/SubSlice/EU/ALU
 - GRF - `general-purpose registers`
-
+- [iGPU Tools](/iGPU_Tools)
+- [iGPU Issues](/iGPU_Issues)
 
 
 ## Arch
@@ -99,52 +100,10 @@ Total | 16x6=96  |  112x6=672 | 896x6=5376  | 512 |  16x6=96
 
 
 
-## UseCase
-### 查看 iGPU info
-
-```
-inxi -G
-```
-```
-ls -al /dev/dri
-```
-
-```
-sudo lspci -v -s $(lspci | grep VGA | cut -d" " -f 1)
-```
-```
-$ lspci |grep VGA
-00:02.0 VGA compatible controller: Intel Corporation Device 9a49 (rev 01)
-```
-
-
-> 9a49 mean `Intel® Iris® Xe Graphics`, others you can found [here](https://dgpu-docs.intel.com/devices/hardware-table.html)
-
-
-### 查看 iGPU 使用率
-
-```
-sudo apt install intel-gpu-tools
-sudo intel_gpu_top
-```
-
-## Issues
-
-### Ubuntu Cannot Access iGPU
-
-- 非 root 用户无法访问 iGPU
-
-```
-sudo usermod -aG video $UserName
-```
-
-
 ###  GPU 利用率 (Utilization) 和占用率 (Occupancy)
 
 - Utilization : 时间维度上的统计计算资源
 - Occupancy: 空间维度上统计计算资源占用情况
-
-
 
 
 Work-items | Group Size | Threads | SubSlice Utilization | SubSlice Occupancy
