@@ -2,7 +2,7 @@
 Title | SYCL
 -- | --
 Create Date | `2021-07-29T01:50:29Z`
-Update Date | `2021-12-12T03:36:31Z`
+Update Date | `2021-12-13T02:35:46Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/194)
 
 ---
@@ -54,5 +54,15 @@ OpenCL | - Low-Level<br> - Host + Device Code
 
 
 ![image](https://user-images.githubusercontent.com/2216970/127421283-39437ea0-bc47-4736-8f23-4fde10aa56ec.png)
+
+
+## History
+
+- 2015 SYCL 1.2 [C++ 11 & 14/OpenCL 2.1]
+- 2017 SYCL 1.2.1 [C++ 11 &  14 & 17/OpenCL 2.2]
+- 2020 SYCL 2020 [C++ 17 & 20 /OpenCL 3.0]
+
+
+![image](https://user-images.githubusercontent.com/2216970/145743651-05a778c8-193f-4672-8ba1-7aefbf5719ef.png)
 
 
