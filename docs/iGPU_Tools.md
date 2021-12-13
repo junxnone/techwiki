@@ -2,14 +2,15 @@
 Title | iGPU Tools
 -- | --
 Create Date | `2021-12-13T11:35:31Z`
-Update Date | `2021-12-13T11:35:31Z`
+Update Date | `2021-12-13T11:37:44Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/234)
 
 ---
 
-
 ## Brief
-
+- inxi
+- lspci
+- intel_gpu_top
 
 ### 查看 iGPU info
 
