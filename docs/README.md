@@ -1,7 +1,7 @@
 ---
 Title | README
 -- | --
-Update Date | `2021-12-14T01:34:54Z`
+Update Date | `2021-12-14T01:41:15Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/28)
 
 ---
@@ -11,8 +11,6 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/28)
 -- | --
 
 This is a Linux Wiki.  Supported By the [Template Wiki](https://junxnone.github.io/twiki/#/)
-
-
 
 
 [Index](_sidebar.md ':include')
