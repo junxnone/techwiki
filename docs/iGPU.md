@@ -2,7 +2,7 @@
 Title | iGPU
 -- | --
 Create Date | `2021-11-10T17:21:22Z`
-Update Date | `2021-12-15T03:56:33Z`
+Update Date | `2021-12-15T06:19:06Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 
 ---
@@ -96,6 +96,10 @@ Total | 16x6=96  |  112x6=672 | 896x6=5376  | 512 |  16x6=96
 
 > Intel® Iris® Xe Graphics (TGL) GPU
 
+```
+There are 16 barrier registers per sub-slice, so no more than 16 work-groups can be executed simultaneously.
+The amount of shared local memory available per sub-slice (64KB). If for example a work-group requires 32KB of shared local memory, only 2 of those work-groups can run concurrently, regardless of work-group size.
+```
 
 
 ###  GPU 利用率 (Utilization) 和占用率 (Occupancy)
