@@ -2,7 +2,7 @@
 Title | Memory Optimizations
 -- | --
 Create Date | `2021-11-15T08:35:48Z`
-Update Date | `2021-12-15T06:00:23Z`
+Update Date | `2021-12-15T06:10:29Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/216)
 
 ---
@@ -129,4 +129,7 @@ struct {
 
 ### 线程共享内存
 
+### False Sharing
+
+![image](https://user-images.githubusercontent.com/2216970/146132953-0c21c3c2-18c1-4041-a452-0ed3f7c148a3.png)
 
