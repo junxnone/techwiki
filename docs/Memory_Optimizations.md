@@ -2,7 +2,7 @@
 Title | Memory Optimizations
 -- | --
 Create Date | `2021-11-15T08:35:48Z`
-Update Date | `2021-12-15T05:55:48Z`
+Update Date | `2021-12-15T06:00:23Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/216)
 
 ---
@@ -122,7 +122,8 @@ struct {
 ```
 > SOA 更有效的加载到 SIMD 寄存器
 
-
+![image](https://user-images.githubusercontent.com/2216970/146131857-2542a36c-1178-40db-a752-327ad01829bc.png)
+-- | 
 ![image](https://user-images.githubusercontent.com/2216970/146131330-67bb74e1-7a41-4beb-8195-5fbef76d9aca.png)
 
 
