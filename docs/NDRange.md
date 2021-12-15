@@ -2,14 +2,14 @@
 Title | NDRange
 -- | --
 Create Date | `2021-11-19T01:12:36Z`
-Update Date | `2021-12-15T03:58:39Z`
+Update Date | `2021-12-15T03:59:44Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/221)
 
 ---
 ## Reference
 - [One-Dimensional NDRange](https://www.xilinx.com/html_docs/xilinx2017_4/sdaccel_doc/ece1504034297316.html)
 - [DPC++ Thread Hierarchy and Mapping](https://www.intel.com/content/www/us/en/develop/documentation/oneapi-gpu-optimization-guide/top/thread-mapping.html)
-
+- [Mapping of oneAPI and DPC++ to CPUs, GPUs, and FPGAs](https://www.intel.com/content/www/us/en/developer/articles/technical/comparing-cpus-gpus-and-fpgas-for-oneapi.html?wapkw=NDRANGE#gs.ivap1r)
 
 
 ## Brief
