@@ -2,12 +2,23 @@
 Title | Loop Optimizations
 -- | --
 Create Date | `2021-12-14T07:42:33Z`
-Update Date | `2021-12-14T07:42:33Z`
+Update Date | `2021-12-15T02:38:19Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/235)
 
 ---
+## Reference
+- [HLS Loop Optimizations](https://learning.intel.com/developer/learn/course/external/view/elearning/242/hls-loop-optimizations-part-3-of-7)
 
 ## Brief
+- Loop Pipelining
+- Loop Unrolling
+
+
+## Loop Pipelining
+
+
+![image](https://user-images.githubusercontent.com/2216970/146112374-5301c59a-18fa-4005-852f-0db370354697.png)
+
 
 
 ## Loop Unrolling
