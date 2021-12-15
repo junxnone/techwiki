@@ -2,7 +2,7 @@
 Title | Memory Optimizations
 -- | --
 Create Date | `2021-11-15T08:35:48Z`
-Update Date | `2021-12-15T02:57:25Z`
+Update Date | `2021-12-15T05:55:48Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/216)
 
 ---
@@ -12,7 +12,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/216)
 - [Putting Your Data and Code in Order: Optimization and Memory – Part 1](https://www.intel.com/content/www/us/en/developer/articles/technical/putting-your-data-and-code-in-order-optimization-and-memory-part-1.html)
 - [Putting Your Data and Code in Order: Data and layout - Part 2](https://www.intel.com/content/www/us/en/developer/articles/training/putting-your-data-and-code-in-order-data-and-layout-part-2.html)
 - [Data Alignment to Assist Vectorization](https://www.intel.com/content/www/us/en/developer/articles/technical/data-alignment-to-assist-vectorization.html)
-
+- [AoSoA](https://github.com/ECP-copa/Cabana/wiki/AoSoA)
 
 ## Brief
 - 两个基本原则
@@ -121,6 +121,9 @@ struct {
 } MySoA ;
 ```
 > SOA 更有效的加载到 SIMD 寄存器
+
+
+![image](https://user-images.githubusercontent.com/2216970/146131330-67bb74e1-7a41-4beb-8195-5fbef76d9aca.png)
 
 
 ### 线程共享内存
