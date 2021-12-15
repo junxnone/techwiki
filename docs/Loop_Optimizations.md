@@ -2,7 +2,7 @@
 Title | Loop Optimizations
 -- | --
 Create Date | `2021-12-14T07:42:33Z`
-Update Date | `2021-12-15T02:38:19Z`
+Update Date | `2021-12-15T02:39:17Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/235)
 
 ---
@@ -17,6 +17,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/235)
 ## Loop Pipelining
 
 
+![image](https://user-images.githubusercontent.com/2216970/146112942-ece86f96-caec-4da2-9aa9-941399a8eae0.png)
+-- | 
 ![image](https://user-images.githubusercontent.com/2216970/146112374-5301c59a-18fa-4005-852f-0db370354697.png)
 
 
