@@ -2,7 +2,7 @@
 Title | NDRange
 -- | --
 Create Date | `2021-11-19T01:12:36Z`
-Update Date | `2021-11-19T01:13:06Z`
+Update Date | `2021-12-15T03:58:39Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/221)
 
 ---
@@ -25,7 +25,11 @@ Two Dim | ![image](https://user-images.githubusercontent.com/2216970/142524708-5
 Three Dim | ![image](https://user-images.githubusercontent.com/2216970/142524937-881aa871-d0f3-4c53-abd8-7ea59b4b3b49.png)
 
 
-## Work on GPU
+## NDRange Mapping to Hardware
 
-![image](https://user-images.githubusercontent.com/2216970/142132985-86a8e414-1596-4378-9069-d8609d0f329f.png)
+Devices | Mapping
+-- | --
+CPU | ![image](https://user-images.githubusercontent.com/2216970/146120540-25781497-6827-42df-804e-a7827c3ab93d.png)
+iGPU | ![image](https://user-images.githubusercontent.com/2216970/142132985-86a8e414-1596-4378-9069-d8609d0f329f.png)
+FPGA | ![image](https://user-images.githubusercontent.com/2216970/146120629-aef3232d-7d90-4930-96b5-0917e11d195a.png)
 
