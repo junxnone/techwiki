@@ -42,6 +42,8 @@
     - [OpenMP](/OpenMP)
     - [OpenCL](/OpenCL)
     - [OpenMPI](/OpenMPI)
+    - Concepts
+      - [NDRange](/NDRange)
   - 虚拟化
     - [Docker](/Docker)
     - KVM
