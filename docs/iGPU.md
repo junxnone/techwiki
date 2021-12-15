@@ -2,7 +2,7 @@
 Title | iGPU
 -- | --
 Create Date | `2021-11-10T17:21:22Z`
-Update Date | `2021-12-13T12:00:12Z`
+Update Date | `2021-12-15T03:55:30Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/212)
 
 ---
@@ -80,11 +80,10 @@ Intel Iris Xe (Gen12) | 7 | 16 | 6 | 672 | 5376
 
 
 
-### NDRange/work-group/sub-group/work-items
+### [[NDRange]] Mapping to iGPU
 - `work-items` 分配到 operations
 - `sub-group` 分配到 threads
 - `work-group` 受 hardware 限制 (Iris Xe 每个 subslice 最多 16个，最多 512 个  `work-items`)
-- [[NDRange]]
 
 ![image](https://user-images.githubusercontent.com/2216970/141645331-c69a9cdb-ae77-40c5-83c4-182faaf7c234.png)
 -- |
