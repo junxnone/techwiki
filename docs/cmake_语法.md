@@ -2,7 +2,7 @@
 Title | cmake 语法
 -- | --
 Create Date | `2021-10-28T04:25:32Z`
-Update Date | `2021-10-28T07:01:42Z`
+Update Date | `2021-12-20T07:34:16Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 
 ---
@@ -24,7 +24,20 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 
 
 ## 变量
-- VAR
+- 自定义变量
+
+WR | Examples
+-- | --
+写 | SET(VAR "/opt/xxx")
+读 | ${VAR}
+
+- 系统环境变量
+
+WR | Examples
+-- | --
+写 | SET(ENV{VAR} "/opt/xxx")
+读 | $ENV{VAR}
+
 - 引用变量: `${VAR}`
 - set()/unset()
 - 预定义变量
