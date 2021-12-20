@@ -2,7 +2,7 @@
 Title | cmake 语法
 -- | --
 Create Date | `2021-10-28T04:25:32Z`
-Update Date | `2021-12-20T07:34:58Z`
+Update Date | `2021-12-20T07:36:59Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 
 ---
@@ -21,7 +21,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 - 项目
 - 库
 - 编译器
-
+- **指令**大小写无关, **参数和变量**大小写相关
 
 ## 变量
 - 自定义变量
