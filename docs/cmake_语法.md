@@ -2,7 +2,7 @@
 Title | cmake 语法
 -- | --
 Create Date | `2021-10-28T04:25:32Z`
-Update Date | `2021-12-21T05:35:28Z`
+Update Date | `2021-12-21T05:42:21Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 
 ---
@@ -89,7 +89,7 @@ Func | Description
 
 Func | Description
 -- | --
-`INCLUDE_DIRECTORIES([AFTER|BEFORE] [SYSTEM] dir1 [dir2 ...])` | 添加头文件
+`INCLUDE_DIRECTORIES([AFTER\|BEFORE] [SYSTEM] dir1 [dir2 ...])` | 添加头文件
 `ADD_SUBDIRECTORIES([source dir] [bin dir] [exclude_from_all])` | 添加子目录(CMakeLists.txt & src)
 `find_library()` | 查找到指定的预编译库
 `target_link_libraries()` | 设置需要链接的库
