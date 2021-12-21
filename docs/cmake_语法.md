@@ -2,7 +2,7 @@
 Title | cmake 语法
 -- | --
 Create Date | `2021-10-28T04:25:32Z`
-Update Date | `2021-12-21T05:45:19Z`
+Update Date | `2021-12-21T05:46:47Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 
 ---
@@ -53,6 +53,7 @@ CMAKE_INSTALL_PREFIX | 安装位置
 - 比较/Hash
 - ... 详细见 [[cmake string](https://cmake.org/cmake/help/latest/command/string.html)]
 
+### 常用 string 操作
 
 Operations | Pattern | Description
 -- | -- | --
@@ -61,6 +62,10 @@ REPLACE | `string(REPLACE <match-string> <replace-string> <out-var> <input>...)`
 REGEX MATCH | `string(REGEX MATCH <match-regex> <out-var> <input>...)`
 REGEX MATCHALL | `string(REGEX MATCHALL <match-regex> <out-var> <input>...)`
 REGEX REPLACE | `string(REGEX REPLACE <match-regex> <replace-expr> <out-var> <input>...)`
+TOLOWER |
+TOUPPER |
+LENGTH |
+COMPARE |
 
 
 
