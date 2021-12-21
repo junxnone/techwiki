@@ -2,17 +2,17 @@
 Title | cmake 语法
 -- | --
 Create Date | `2021-10-28T04:25:32Z`
-Update Date | `2021-12-20T07:37:37Z`
+Update Date | `2021-12-21T05:35:28Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 
 ---
-# Reference
+## Reference
 
 - [string](https://cmake.org/cmake/help/latest/command/string.html)
 - [cmake 预定义变量](https://cmake.org/cmake/help/latest/manual/cmake-variables.7.html)
 - [cmake 预定义语法/函数/宏](https://cmake.org/cmake/help/latest/manual/cmake-commands.7.html)
 
-# Brief
+## Brief
 - 变量
 - string
 - 条件控制
@@ -80,17 +80,26 @@ REGEX REPLACE | `string(REGEX REPLACE <match-regex> <replace-expr> <out-var> <in
 Func | Description
 -- | --
 `cmake_minimum_required(VERSION 3.4.1)` |  只当 cmake 最小版本
+`aux_source_directory(dir VAR)` | 添加目录`dir` 下的所有源码到变量 `VAR`
+`add_definitions()`
+`find_package()` | 
+`set(VAR xxx)`<br>`set(VAR ${VAR} XXX)` | 设置变量值<br>追加值
+
+### 源相关 & 依赖
+
+Func | Description
+-- | --
+`INCLUDE_DIRECTORIES([AFTER|BEFORE] [SYSTEM] dir1 [dir2 ...])` | 添加头文件
+`ADD_SUBDIRECTORIES([source dir] [bin dir] [exclude_from_all])` | 添加子目录(CMakeLists.txt & src)
+`find_library()` | 查找到指定的预编译库
+`target_link_libraries()` | 设置需要链接的库
+
+
+### 目标相关
+
+Func | Description
+-- | --
 `project(demo)` | 设置项目名称
 `add_executable(demo demo.cpp)` | 生成可执行文件
 `add_library(common STATIC util.cpp)` | 生成静态库
 `add_library(common SHARED util.cpp)` | 生成动态库/共享库
-`aux_source_directory(dir VAR)` | 添加目录`dir` 下的所有源码到变量 `VAR`
-`add_definitions()`
-`add_subdirectory()`
-`find_library()` | 查找到指定的预编译库
-`find_package()` | 
-`include_directories()` | 设置包含目录
-`target_link_libraries()` | 设置需要链接的库
-`set(VAR xxx)`<br>`set(VAR ${VAR} XXX)` | 设置变量值<br>追加值
-
-
