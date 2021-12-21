@@ -2,7 +2,7 @@
 Title | cmake 语法
 -- | --
 Create Date | `2021-10-28T04:25:32Z`
-Update Date | `2021-12-21T05:46:47Z`
+Update Date | `2021-12-21T05:47:33Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 
 ---
@@ -62,10 +62,10 @@ REPLACE | `string(REPLACE <match-string> <replace-string> <out-var> <input>...)`
 REGEX MATCH | `string(REGEX MATCH <match-regex> <out-var> <input>...)`
 REGEX MATCHALL | `string(REGEX MATCHALL <match-regex> <out-var> <input>...)`
 REGEX REPLACE | `string(REGEX REPLACE <match-regex> <replace-expr> <out-var> <input>...)`
-TOLOWER |
-TOUPPER |
-LENGTH |
-COMPARE |
+TOLOWER | `string(TOLOWER <string> <out-var>)`
+TOUPPER | `string(TOUPPER <string> <out-var>)`
+LENGTH | `string(LENGTH <string> <out-var>)`
+COMPARE | `string(COMPARE <op> <string1> <string2> <out-var>)`
 
 
 
