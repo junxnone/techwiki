@@ -2,7 +2,7 @@
 Title | cmake 语法
 -- | --
 Create Date | `2021-10-28T04:25:32Z`
-Update Date | `2021-12-21T05:56:49Z`
+Update Date | `2021-12-21T06:04:00Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 
 ---
@@ -45,6 +45,9 @@ WR | Examples
 常用预定义变量 | 描述
 -- | --
 `PROJECT_NAME` | 项目名称
+`CMAKE_C_COMPILER` | C 编译器
+`CMAKE_CXX_COMPILER` | C++ 编译器
+`CMAKE_CXX_STANDARD` | C++ 标准
 `CMAKE_INSTALL_PREFIX` | 安装位置
 `CMAKE_MODULE_PATH` | 指定 CMake modules 查找路径 默认为空 (分号分隔的 list)
 
