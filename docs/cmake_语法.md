@@ -2,7 +2,7 @@
 Title | cmake 语法
 -- | --
 Create Date | `2021-10-28T04:25:32Z`
-Update Date | `2021-12-21T05:42:21Z`
+Update Date | `2021-12-21T05:44:38Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 
 ---
@@ -48,6 +48,11 @@ PROJECT_NAME | 项目名称
 CMAKE_INSTALL_PREFIX | 安装位置
 
 ## string
+- 查找/替换/正则匹配
+- 拼接/大小写替换/sub-string/...
+- 比较/Hash
+- ...
+
 
 Operations | Pattern | Description
 -- | -- | --
