@@ -2,7 +2,7 @@
 Title | pkg-config
 -- | --
 Create Date | `2021-10-13T03:36:37Z`
-Update Date | `2021-12-23T15:56:52Z`
+Update Date | `2021-12-23T15:57:16Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/176)
 
 ---
@@ -67,7 +67,7 @@ Usecase | CMD
 
 
 ```
-$ pkg-config opencv4 --libs --cflags
+$ pkg-config opencv4 --cflags --libs 
 
 -I/usr/include/opencv4/opencv -I/usr/include/opencv4 
 
