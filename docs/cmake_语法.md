@@ -2,7 +2,7 @@
 Title | cmake 语法
 -- | --
 Create Date | `2021-10-28T04:25:32Z`
-Update Date | `2021-12-21T06:04:00Z`
+Update Date | `2021-12-23T16:29:43Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 
 ---
@@ -116,5 +116,5 @@ Func | Description
 -- | --
 `project(demo)` | 设置项目名称
 `add_executable(demo demo.cpp)` | 生成可执行文件
-`add_library(common STATIC util.cpp)` | 生成静态库
-`add_library(common SHARED util.cpp)` | 生成动态库/共享库
+`add_library(common STATIC/SHARED  util.cpp)` | 生成静态库/动态库(默认是静态库)
+
