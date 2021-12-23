@@ -2,7 +2,7 @@
 Title | pkg-config
 -- | --
 Create Date | `2021-10-13T03:36:37Z`
-Update Date | `2021-12-23T15:57:16Z`
+Update Date | `2021-12-23T16:01:55Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/176)
 
 ---
@@ -64,6 +64,7 @@ Usecase | CMD
 -- | --
 查看链接信息 | `pkg-config [package-name] --libs`
 查看预处理和编译 Flags | `pkg-config [package-name] --cflags`
+查看 pkg-config 注册的模块信息 | `pkg-config –list-all`
 
 
 ```
@@ -100,4 +101,18 @@ Libs: -L${exec_prefix}/lib/x86_64-linux-gnu -lopencv_stitching -lopencv_aruco -l
 Libs.private: -ldl -lm -lpthread -lrt
 Cflags: -I${includedir_old} -I${includedir_new}
 ```
+
+选项 | 描述
+-- | --
+**Name** |  模块名称
+**Description** |  简单描述
+**URL** | 链接
+**Version** | 版本
+**Requires** | 依赖
+**Requires.private** | 私有以来
+**Conflicts** | 冲突模块
+**Cflags** | 头文件路径
+**Libs** | 库
+
+**Libs.private**
 
