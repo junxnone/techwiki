@@ -2,13 +2,13 @@
 Title | pkg-config
 -- | --
 Create Date | `2021-10-13T03:36:37Z`
-Update Date | `2021-12-23T16:01:55Z`
+Update Date | `2021-12-23T16:06:10Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/176)
 
 ---
 # Reference
 - [pkg-config 详解](https://blog.csdn.net/newchenxf/article/details/51750239)
-
+- [Guide to pkg-config](https://people.freedesktop.org/~dbn/pkg-config-guide.html)
 
 # Brief
 - pkg-config - `用于获取库相关信息(头文件/库)`
@@ -113,6 +113,5 @@ Cflags: -I${includedir_old} -I${includedir_new}
 **Conflicts** | 冲突模块
 **Cflags** | 头文件路径
 **Libs** | 库
-
-**Libs.private**
+**Libs.private** | 私有库
 
