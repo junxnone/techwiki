@@ -2,15 +2,17 @@
 Title | pkg-config
 -- | --
 Create Date | `2021-10-13T03:36:37Z`
-Update Date | `2021-12-23T16:06:10Z`
+Update Date | `2021-12-23T16:06:54Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/176)
 
 ---
-# Reference
-- [pkg-config 详解](https://blog.csdn.net/newchenxf/article/details/51750239)
+## Reference
 - [Guide to pkg-config](https://people.freedesktop.org/~dbn/pkg-config-guide.html)
+- [code](https://gitlab.freedesktop.org/pkg-config/pkg-config)
+- [pkg-config 详解](https://blog.csdn.net/newchenxf/article/details/51750239)
 
-# Brief
+
+## Brief
 - pkg-config - `用于获取库相关信息(头文件/库)`
 - 查询信息来源
   - /usr/lib/ 下的 `*.pc`
