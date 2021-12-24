@@ -2,7 +2,7 @@
 Title | Library Tools
 -- | --
 Create Date | `2021-12-22T07:48:41Z`
-Update Date | `2021-12-24T14:00:46Z`
+Update Date | `2021-12-24T14:03:31Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/236)
 
 ---
@@ -14,6 +14,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/236)
 ## Brief
 - Linux
   - ldd
+  - objdump
+  - readelf
 - Windows
   - [dumpbin](#dumpbin)
   - [lib](#lib)
