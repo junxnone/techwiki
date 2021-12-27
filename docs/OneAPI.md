@@ -1,8 +1,8 @@
 ---
 Title | OneAPI
 -- | --
-Create Date | `2021-10-29T07:37:40Z`
-Update Date | `2021-10-29T07:37:40Z`
+Create Date | `2021-06-23T06:24:28Z`
+Update Date | `2021-12-27T09:30:09Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/197)
 
 ---
@@ -19,7 +19,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/197)
 
 Name | Description
 -- | --
-oneDPL | DPC++ Library
+[oneDPL](/oneDPL) | DPC++ Library(Hight-Level API)
 oneDNN | Deep Neural Network Library
 oneCCL | Collective Communications Library
 Level Zero | low-level direct-to-metal interfaces
