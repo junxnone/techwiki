@@ -2,7 +2,7 @@
 Title | cmake usecase
 -- | --
 Create Date | `2021-07-15T06:05:14Z`
-Update Date | `2021-12-30T05:32:53Z`
+Update Date | `2021-12-30T07:12:27Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/65)
 
 ---
@@ -23,20 +23,23 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/65)
   - `<module>.cmake`
 
 
-## `CMakeLists.txt` UseCase
+## UseCase
 
-- 简单demo
+### 简单demo
 
 ```
-cmake_minimum_required (VERSION 2.6)
-project(demo)
-add_executable(demo demo.cxx)
+cmake_minimum_required (VERSION 2.6) # 兼容的 cmake  最小版本
+project(demo)  # 项目名称
+add_executable(demo demo.cxx) # 使用 demo.cxx 生成可执行文件 demo
 ```
 
 ### 设置版本号
 
 ```
-set(PROJECT_VERSION 1.0.1.1)
+set(PROJECT_VERSION 1.0.1.1) # 单独设置版本号
+```
+```
+project(Tutorial VERSION 1.0) # 设置项目名称时设置版本号
 ```
 ```
 project(demo VERSION <major>[.<minor>[.<patch>[.<tweak>]]])
