@@ -2,7 +2,7 @@
 Title | cmake 语法
 -- | --
 Create Date | `2021-10-28T04:25:32Z`
-Update Date | `2021-12-30T05:30:43Z`
+Update Date | `2021-12-30T05:31:00Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 
 ---
@@ -50,7 +50,7 @@ WR | Examples
 `CMAKE_CXX_STANDARD` | C++ 标准
 `CMAKE_INSTALL_PREFIX` | 安装位置
 `CMAKE_MODULE_PATH` | 指定 CMake modules 查找路径 默认为空 (分号分隔的 list)
-`WIN32` | **Windows**: `1` <br>**Linux**: False?None
+`WIN32` | **Windows**: `1` <br>**Linux**: `False?None`
 `CMAKE_SYSTEM_NAME` | **Windows**: `Windows` <br>**Linux**: `Linux`
 
 
