@@ -2,7 +2,7 @@
 Title | cmake usecase
 -- | --
 Create Date | `2021-07-15T06:05:14Z`
-Update Date | `2021-12-30T05:28:43Z`
+Update Date | `2021-12-30T05:32:53Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/65)
 
 ---
@@ -55,7 +55,11 @@ endif()
 if(${CMAKE_SYSTEM_NAME} STREQUAL "Windows")
 endif()
 ```
+### Windows 替换路径 `\` 为 `/`
 
+```
+string(REPLACE "\\" "/" NEW_PATH $ENV{OS_PATH})
+```
 
 ## CMDLine Usecase
 
