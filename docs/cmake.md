@@ -2,7 +2,7 @@
 Title | cmake
 -- | --
 Create Date | `2018-09-02T08:05:59Z`
-Update Date | `2021-12-30T06:58:22Z`
+Update Date | `2021-12-30T07:08:20Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 
 ---
@@ -12,6 +12,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 - [Ubuntu16.04下安装Cmake-3.8.2](https://blog.csdn.net/l1216766050/article/details/77513045)
 - [Mastering CMake](https://cmake.org/cmake/help/book/mastering-cmake/index.html)
 - [2016-09-27-CMake-tutorial.pdf](https://github.com/junxnone/linuxwiki/files/7415584/2016-09-27-CMake-tutorial.pdf)
+- [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+
 
 # Brief
 - [Install](./cmake_install)
