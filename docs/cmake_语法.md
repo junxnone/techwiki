@@ -2,7 +2,7 @@
 Title | cmake 语法
 -- | --
 Create Date | `2021-10-28T04:25:32Z`
-Update Date | `2021-12-30T05:31:00Z`
+Update Date | `2021-12-30T05:35:11Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 
 ---
@@ -41,6 +41,7 @@ WR | Examples
 - set()/unset()
 - 预定义变量
 
+### 常用预定义变量
 
 常用预定义变量 | 描述
 -- | --
