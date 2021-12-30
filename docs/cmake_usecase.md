@@ -2,7 +2,7 @@
 Title | cmake usecase
 -- | --
 Create Date | `2021-07-15T06:05:14Z`
-Update Date | `2021-10-28T05:57:01Z`
+Update Date | `2021-12-30T05:28:43Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/65)
 
 ---
@@ -33,7 +33,7 @@ project(demo)
 add_executable(demo demo.cxx)
 ```
 
-- 设置版本号
+### 设置版本号
 
 ```
 set(PROJECT_VERSION 1.0.1.1)
@@ -41,6 +41,21 @@ set(PROJECT_VERSION 1.0.1.1)
 ```
 project(demo VERSION <major>[.<minor>[.<patch>[.<tweak>]]])
 ```
+
+###  判断是否是 Windows 系统
+
+```
+if(WIN32)
+  xxx
+else()
+  xxx
+endif()
+```
+```
+if(${CMAKE_SYSTEM_NAME} STREQUAL "Windows")
+endif()
+```
+
 
 ## CMDLine Usecase
 
