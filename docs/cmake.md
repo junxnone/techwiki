@@ -2,7 +2,7 @@
 Title | cmake
 -- | --
 Create Date | `2018-09-02T08:05:59Z`
-Update Date | `2021-12-30T07:19:44Z`
+Update Date | `2021-12-30T07:46:47Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 
 ---
@@ -24,6 +24,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 - [cpack](/cpack)
 - [ccmake]
 - [cmake-gui]
+- [cmake Tutorial 分析](https://github.com/junxnone/CMake/issues/1)
+
 
 ## Supported languages
 - C/C++/CUDA/HIP/OBJC/OBJC++
