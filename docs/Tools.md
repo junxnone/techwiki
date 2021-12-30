@@ -2,16 +2,16 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-11-10T10:23:37Z`
+Update Date | `2021-12-30T02:41:49Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
-# Reference
+## Reference
 - [linux-command](https://github.com/einverne/linux-command)
 - [搜索](https://wangchujiang.com/linux-command/)
 - [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 
-# 文件/内容操作编辑工具
+## 文件/内容操作编辑工具
 
 Tools | Descriptoin
 -- | --
@@ -26,7 +26,7 @@ Tools | Descriptoin
 [rsync](/rsync) | 文件同步工具
 [syncthing](/syncthing) | 文件同步
 [Linux File Compare Tools](/Linux_File_Compare_Tools) | 文件比较工具
-meld | 文件比较工具
+[meld](/meld) | 文件比较工具
 [tree](/Linux_tree) | 文件树浏览工具
 [ls](/Linux_ls) | 文件浏览
 [Linux ln](/Linux_ln) | 软硬链接
@@ -36,7 +36,7 @@ meld | 文件比较工具
 [Ubuntu json tools](/Ubuntu_json_tools) | Json 操作
 
 
-# 系统管理工具
+## 系统管理工具
 
 Tools | Description
 -- | --
@@ -59,7 +59,7 @@ time | `time ./your_app` 计算执行时间
 
 
 
-# Performance Monitor Tools
+## Performance Monitor Tools
 - [netdata](/netdata)
 - [xorg-intel-gpu-tools](/xorg_intel_gpu_tools)
 - [Linux Disk monitor](/Linux_Disk_monitor)
@@ -70,7 +70,7 @@ time | `time ./your_app` 计算执行时间
 - [Linux sar](/Linux_sar)
 - [jobs](/Linux_jobs)
 
-# Others
+## Others
 
 - [Linux show boot info](/Linux_show_boot_info)
 - [Linux Download Tools](/Linux_Download_Tools)
@@ -84,7 +84,7 @@ time | `time ./your_app` 计算执行时间
 - [live555](/live555)
 - [OpenProject](/OpenProject)
 
-# 好玩的工具
+## 好玩的工具
 
 Command | Description
 -- | --
