@@ -2,7 +2,7 @@
 Title | cmake 语法
 -- | --
 Create Date | `2021-10-28T04:25:32Z`
-Update Date | `2021-12-30T05:35:11Z`
+Update Date | `2021-12-30T06:59:26Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 
 ---
@@ -13,7 +13,6 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 - [cmake 预定义语法/函数/宏](https://cmake.org/cmake/help/latest/manual/cmake-commands.7.html)
 
 ## Brief
-- 变量
 - string
 - 条件控制
 - 宏-函数
@@ -22,39 +21,6 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 - 库
 - 编译器
 - **指令**大小写无关, **参数和变量**大小写相关
-
-## 变量
-- 自定义变量
-
-WR | Examples
--- | --
-写 | `SET(VAR "/opt/xxx")`
-读 | `${VAR}`
-
-- 系统环境变量
-
-WR | Examples
--- | --
-写 | `SET(ENV{VAR} "/opt/xxx")`
-读 | `$ENV{VAR}`
-
-- set()/unset()
-- 预定义变量
-
-### 常用预定义变量
-
-常用预定义变量 | 描述
--- | --
-`PROJECT_NAME` | 项目名称
-`CMAKE_C_COMPILER` | C 编译器
-`CMAKE_CXX_COMPILER` | C++ 编译器
-`CMAKE_CXX_STANDARD` | C++ 标准
-`CMAKE_INSTALL_PREFIX` | 安装位置
-`CMAKE_MODULE_PATH` | 指定 CMake modules 查找路径 默认为空 (分号分隔的 list)
-`WIN32` | **Windows**: `1` <br>**Linux**: `False?None`
-`CMAKE_SYSTEM_NAME` | **Windows**: `Windows` <br>**Linux**: `Linux`
-
-
 
 ## string
 - 查找/替换/正则匹配
@@ -93,6 +59,9 @@ COMPARE | `string(COMPARE <op> <string1> <string2> <out-var>)`
 ## log 打印信息
 - `message`
 
+```
+message(STATUS "Your Message")
+```
 
 ## 常用语法
 
