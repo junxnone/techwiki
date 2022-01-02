@@ -2,7 +2,7 @@
 Title | cmake platforms
 -- | --
 Create Date | `2022-01-02T06:35:43Z`
-Update Date | `2022-01-02T06:39:41Z`
+Update Date | `2022-01-02T06:41:14Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/243)
 
 ---
@@ -49,6 +49,7 @@ message(STATUS "CMAKE_SYSTEM_NAME IS ${CMAKE_SYSTEM_NAME}")
 message(STATUS "CMAKE_SYSTEM_VERSION IS ${CMAKE_SYSTEM_VERSION}")
 message(STATUS "CMAKE_SYSTEM_PROCESSOR IS ${CMAKE_SYSTEM_PROCESSOR}")
 message(STATUS "CMAKE_HOST_SYSTEM_NAME IS ${CMAKE_HOST_SYSTEM_NAME}")
+message(STATUS "UNIX IS  ${UNIX}")
 ```
 
 ```
@@ -57,4 +58,5 @@ message(STATUS "CMAKE_HOST_SYSTEM_NAME IS ${CMAKE_HOST_SYSTEM_NAME}")
 -- CMAKE_SYSTEM_VERSION IS 5.11.0-40-generic
 -- CMAKE_SYSTEM_PROCESSOR IS x86_64
 -- CMAKE_HOST_SYSTEM_NAME IS Linux
+-- UNIX IS  1
 ```
