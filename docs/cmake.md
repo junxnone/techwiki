@@ -2,7 +2,7 @@
 Title | cmake
 -- | --
 Create Date | `2018-09-02T08:05:59Z`
-Update Date | `2022-01-02T06:45:47Z`
+Update Date | `2022-01-02T08:21:42Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 
 ---
@@ -21,6 +21,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
   - [cmake variables](/cmake_variables)
   - [cmake debug](/cmake_debug)
   - [cmake platforms](/cmake_platforms)
+  - [cmake target]
+  - [cmake dependency]
 - [Usecase](./cmake_usecase)
 - [ctest]
 - [cpack](/cpack)
