@@ -2,7 +2,7 @@
 Title | cmake platforms
 -- | --
 Create Date | `2022-01-02T06:35:43Z`
-Update Date | `2022-01-02T06:36:12Z`
+Update Date | `2022-01-02T06:39:41Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/243)
 
 ---
@@ -39,3 +39,22 @@ CMAKE_SYSTEM_NAME | Environments Where Seen
 `FreeBSD` | FreeBSD 
 `CrayLinuxEnvironment` | Cray supercomputers (Cray compiler) 
 `MSYS` | Windows (MSYS2 shell native GCC) 
+
+
+## Examples
+
+```
+message(STATUS "CMAKE_SYSTEM IS ${CMAKE_SYSTEM}")
+message(STATUS "CMAKE_SYSTEM_NAME IS ${CMAKE_SYSTEM_NAME}")
+message(STATUS "CMAKE_SYSTEM_VERSION IS ${CMAKE_SYSTEM_VERSION}")
+message(STATUS "CMAKE_SYSTEM_PROCESSOR IS ${CMAKE_SYSTEM_PROCESSOR}")
+message(STATUS "CMAKE_HOST_SYSTEM_NAME IS ${CMAKE_HOST_SYSTEM_NAME}")
+```
+
+```
+-- CMAKE_SYSTEM IS Linux-5.11.0-40-generic
+-- CMAKE_SYSTEM_NAME IS Linux
+-- CMAKE_SYSTEM_VERSION IS 5.11.0-40-generic
+-- CMAKE_SYSTEM_PROCESSOR IS x86_64
+-- CMAKE_HOST_SYSTEM_NAME IS Linux
+```
