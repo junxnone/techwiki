@@ -2,32 +2,36 @@
 Title | cpack
 -- | --
 Create Date | `2021-10-26T02:34:17Z`
-Update Date | `2022-01-02T04:42:46Z`
+Update Date | `2022-01-02T04:44:06Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/190)
 
 ---
-# Reference
+## Reference
 - [CPack 入门指南](https://zhuanlan.zhihu.com/p/141956373)
 - [cpack docs](https://cmake.org/cmake/help/latest/manual/cpack.1.html)
 
-# Breif
+## Breif
 - cpack - cmake 内置打包工具
-- **支持的打包格式**
-  - 7Z (7-Zip file format)
-  - **DEB (Debian packages)**
-  - External (CPack External packages)
-  - IFW (Qt Installer Framework)
-  - NSIS (Null Soft Installer)
-  - NSIS64 (Null Soft Installer (64-bit))
-  - NuGet (NuGet packages)
-  - **RPM (RPM packages)**
-  - STGZ (Self extracting Tar GZip compression
-  - TBZ2 (Tar GZip compression)
-  - TXZ (Tar XZ compression)
-  - TZ (Tar Compress compression)
-  - ZIP (ZIP file format)
 
 
+
+## Support Formats
+
+- 7Z (7-Zip file format)
+- **DEB (Debian packages)**
+- External (CPack External packages)
+- IFW (Qt Installer Framework)
+- NSIS (Null Soft Installer)
+- NSIS64 (Null Soft Installer (64-bit))
+- NuGet (NuGet packages)
+- **RPM (RPM packages)**
+- STGZ (Self extracting Tar GZip compression
+- TBZ2 (Tar GZip compression)
+- TXZ (Tar XZ compression)
+- TZ (Tar Compress compression)
+- ZIP (ZIP file format)
+
+### Formats on OS
 
 Windows | Cygwin | Linux/UNIX | Mac OS X
 -- | -- | -- | --
