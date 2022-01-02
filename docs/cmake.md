@@ -2,7 +2,7 @@
 Title | cmake
 -- | --
 Create Date | `2018-09-02T08:05:59Z`
-Update Date | `2022-01-02T04:30:50Z`
+Update Date | `2022-01-02T04:31:48Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 
 ---
@@ -46,8 +46,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 
 ### Supported Project Tools
 - [cmake 不同平台支持的工具](/cmake_generators)
-  - Linux(GNU make/Nijna)
-  - Windows()
+  - Linux(`GNU make`/Ninja)
+  - Windows(`Visual Studio`/nmake)
 
 ## Cmake workflow
 
