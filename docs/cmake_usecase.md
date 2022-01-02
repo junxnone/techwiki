@@ -2,7 +2,7 @@
 Title | cmake usecase
 -- | --
 Create Date | `2021-07-15T06:05:14Z`
-Update Date | `2021-12-30T10:32:44Z`
+Update Date | `2022-01-02T04:02:53Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/65)
 
 ---
@@ -63,6 +63,13 @@ endif()
 ```
 string(REPLACE "\\" "/" NEW_PATH $ENV{OS_PATH})
 ```
+
+### 添加源文件
+- 添加 math 子目录
+```
+add_subdirectory(xxx)
+```
+- 
 
 ## CMDLine Usecase
 
