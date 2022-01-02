@@ -2,7 +2,7 @@
 Title | cmake
 -- | --
 Create Date | `2018-09-02T08:05:59Z`
-Update Date | `2022-01-02T08:21:42Z`
+Update Date | `2022-01-02T08:29:11Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 
 ---
@@ -19,10 +19,13 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 - [Install](./cmake_install)
 - [`CMakeLists.txt` 语法](./cmake_语法)
   - [cmake variables](/cmake_variables)
+  - [cmake string]
+  - [cmake condition]
   - [cmake debug](/cmake_debug)
   - [cmake platforms](/cmake_platforms)
   - [cmake target]
   - [cmake dependency]
+  - [cmake interaction]
 - [Usecase](./cmake_usecase)
 - [ctest]
 - [cpack](/cpack)
