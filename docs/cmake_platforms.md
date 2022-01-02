@@ -2,7 +2,7 @@
 Title | cmake platforms
 -- | --
 Create Date | `2022-01-02T06:35:43Z`
-Update Date | `2022-01-02T06:45:14Z`
+Update Date | `2022-01-02T07:06:41Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/243)
 
 ---
@@ -77,6 +77,24 @@ message(STATUS "CMAKE_CXX_COMPILER_LOADED IS  ${CMAKE_CXX_COMPILER_LOADED}")
 -- CMAKE_CXX_COMPILER_VERSION IS  9.3.0
 -- CMAKE_C_COMPILER IS  /usr/bin/cc
 -- CMAKE_CXX_COMPILER IS  /usr/bin/c++
+-- CMAKE_C_COMPILER_LOADED IS  1
+-- CMAKE_CXX_COMPILER_LOADED IS  1
+```
+
+```
+-- CMAKE_SYSTEM IS Windows-10.0.19042
+-- CMAKE_SYSTEM_NAME IS Windows
+-- CMAKE_SYSTEM_VERSION IS 10.0.19042
+-- CMAKE_SYSTEM_PROCESSOR IS AMD64
+-- CMAKE_HOST_SYSTEM_NAME IS Windows
+-- UNIX IS
+-- WIN32 IS  1
+-- CMAKE_C_COMPILER_ID IS  MSVC
+-- CMAKE_CXX_COMPILER_ID IS  MSVC
+-- CMAKE_C_COMPILER_VERSION IS  19.28.29914.0
+-- CMAKE_CXX_COMPILER_VERSION IS  19.28.29914.0
+-- CMAKE_C_COMPILER IS  C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe
+-- CMAKE_CXX_COMPILER IS  C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe
 -- CMAKE_C_COMPILER_LOADED IS  1
 -- CMAKE_CXX_COMPILER_LOADED IS  1
 ```
