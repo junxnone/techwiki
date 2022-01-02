@@ -2,7 +2,7 @@
 Title | cmake platforms
 -- | --
 Create Date | `2022-01-02T06:35:43Z`
-Update Date | `2022-01-02T06:41:14Z`
+Update Date | `2022-01-02T06:42:33Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/243)
 
 ---
@@ -18,7 +18,11 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/243)
   - `CMAKE_SYSTEM_VERSION`
   - `CMAKE_SYSTEM_PROCESSOR`
   - `CMAKE_HOST_SYSTEM_NAME`
-
+- Compiler Checking
+  - `CMAKE_<LANG>_COMPILER_ID`
+  - `CMAKE_<LANG>_COMPILER_VERSION`
+  - `CMAKE_<LANG>_COMPILER`
+  - `CMAKE_<LANG>_COMPILER_LOADED`
 
 Platform Variables | Description
 -- | --
