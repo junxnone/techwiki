@@ -2,7 +2,7 @@
 Title | cmake 语法
 -- | --
 Create Date | `2021-10-28T04:25:32Z`
-Update Date | `2021-12-30T06:59:26Z`
+Update Date | `2022-01-02T04:19:07Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 
 ---
@@ -56,12 +56,7 @@ COMPARE | `string(COMPARE <op> <string1> <string2> <out-var>)`
 - MATCHES - pattern regex
 
 
-## log 打印信息
-- `message`
 
-```
-message(STATUS "Your Message")
-```
 
 ## 常用语法
 
