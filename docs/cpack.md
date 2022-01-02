@@ -2,7 +2,7 @@
 Title | cpack
 -- | --
 Create Date | `2021-10-26T02:34:17Z`
-Update Date | `2022-01-02T04:44:06Z`
+Update Date | `2022-01-02T04:45:06Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/190)
 
 ---
@@ -11,7 +11,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/190)
 - [cpack docs](https://cmake.org/cmake/help/latest/manual/cpack.1.html)
 
 ## Breif
-- cpack - cmake 内置打包工具
+- **cpack** - cmake 内置打包工具, 用于打包安装文件(可执行文件/库等)
 
 
 
