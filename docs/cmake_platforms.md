@@ -2,7 +2,7 @@
 Title | cmake platforms
 -- | --
 Create Date | `2022-01-02T06:35:43Z`
-Update Date | `2022-01-02T07:06:41Z`
+Update Date | `2022-01-02T07:07:16Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/243)
 
 ---
@@ -63,7 +63,7 @@ message(STATUS "CMAKE_CXX_COMPILER IS  ${CMAKE_CXX_COMPILER}")
 message(STATUS "CMAKE_C_COMPILER_LOADED IS  ${CMAKE_C_COMPILER_LOADED}")
 message(STATUS "CMAKE_CXX_COMPILER_LOADED IS  ${CMAKE_CXX_COMPILER_LOADED}")
 ```
-
+- **Linux**
 ```
 -- CMAKE_SYSTEM IS Linux-5.11.0-40-generic
 -- CMAKE_SYSTEM_NAME IS Linux
@@ -80,7 +80,7 @@ message(STATUS "CMAKE_CXX_COMPILER_LOADED IS  ${CMAKE_CXX_COMPILER_LOADED}")
 -- CMAKE_C_COMPILER_LOADED IS  1
 -- CMAKE_CXX_COMPILER_LOADED IS  1
 ```
-
+- **Windows**
 ```
 -- CMAKE_SYSTEM IS Windows-10.0.19042
 -- CMAKE_SYSTEM_NAME IS Windows
