@@ -2,7 +2,7 @@
 Title | cmake platforms
 -- | --
 Create Date | `2022-01-02T06:35:43Z`
-Update Date | `2022-01-02T06:35:43Z`
+Update Date | `2022-01-02T06:36:12Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/243)
 
 ---
@@ -30,7 +30,7 @@ Platform Variables | Description
 `CYGWIN` | is TRUE on Windows when using the *CygWin* version of cmake
 
 
-CMake System name | Environments Where Seen
+CMAKE_SYSTEM_NAME | Environments Where Seen
 -------|-------------------------
 `Windows` | Windows (Visual Studio, MinGW GCC) 
 `Darwin` | macOS/OS X (Clang, GCC) 
