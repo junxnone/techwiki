@@ -2,13 +2,13 @@
 Title | cpack
 -- | --
 Create Date | `2021-10-26T02:34:17Z`
-Update Date | `2021-10-26T06:07:52Z`
+Update Date | `2022-01-02T04:42:46Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/190)
 
 ---
 # Reference
 - [CPack 入门指南](https://zhuanlan.zhihu.com/p/141956373)
-
+- [cpack docs](https://cmake.org/cmake/help/latest/manual/cpack.1.html)
 
 # Breif
 - cpack - cmake 内置打包工具
