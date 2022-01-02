@@ -2,7 +2,7 @@
 Title | cmake
 -- | --
 Create Date | `2018-09-02T08:05:59Z`
-Update Date | `2022-01-02T04:31:48Z`
+Update Date | `2022-01-02T04:34:03Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 
 ---
@@ -45,9 +45,10 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 - Intel: Intel compiler versions 12.1+.
 
 ### Supported Project Tools
-- [cmake 不同平台支持的工具](/cmake_generators)
-  - Linux(`GNU make`/Ninja)
-  - Windows(`Visual Studio`/nmake)
+
+- Linux(`GNU make`/Ninja)
+- Windows(`Visual Studio`/nmake)
+- [Details](/cmake_generators)
 
 ## Cmake workflow
 
