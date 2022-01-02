@@ -2,7 +2,7 @@
 Title | cpack
 -- | --
 Create Date | `2021-10-26T02:34:17Z`
-Update Date | `2022-01-02T04:52:48Z`
+Update Date | `2022-01-02T04:56:11Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/190)
 
 ---
@@ -16,6 +16,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/190)
 - **cpack** - cmake 内置打包工具, 用于打包安装文件(可执行文件/库等)
 - 可以和 cmake 一起使用, 也可以单独使用
 - **CPack Package Generators**
+- 基于 [libarchive](https://github.com/libarchive/libarchive)
+
 
 ## Support Formats
 
