@@ -2,7 +2,7 @@
 Title | cmake usecase
 -- | --
 Create Date | `2021-07-15T06:05:14Z`
-Update Date | `2022-01-02T04:02:53Z`
+Update Date | `2022-01-02T04:26:35Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/65)
 
 ---
@@ -70,6 +70,15 @@ string(REPLACE "\\" "/" NEW_PATH $ENV{OS_PATH})
 add_subdirectory(xxx)
 ```
 - 
+
+###  Generate `VS2019` Solution with `Intel Compiler`
+
+```
+cmake -T "Intel C++ Compiler 2021" \
+-D CMAKE_C_COMPILER="C:/Program Files (x86)/Intel/oneAPI/compiler/2021.2.0/windows/bin/icx.exe" \
+-D CMAKE_CXX_COMPILER="C:/Program Files (x86)/Intel/oneAPI/compiler/2021.2.0/windows/bin/icx.exe" \
+..
+```
 
 ## CMDLine Usecase
 
