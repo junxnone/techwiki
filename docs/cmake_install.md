@@ -1,12 +1,15 @@
 ---
 Title | cmake install
 -- | --
-Create Date | `2021-09-22T01:09:49Z`
-Update Date | `2021-09-22T01:09:49Z`
+Create Date | `2021-07-15T06:06:27Z`
+Update Date | `2022-01-03T04:26:29Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/66)
 
 ---
-# Install for Linux
+## Reference
+- [Downloads](https://cmake.org/files/)
+ 
+## Install for Linux
 ## Ubuntu 16.04 Install cmake 3.21.1
 
 ```
@@ -24,7 +27,9 @@ source ~/.bashrc
 $ cmake --version
 cmake version 3.21.1
 ```
+
 ## Build from source code
+
 ```
 wget https://cmake.org/files/v3.16/cmake-3.16.9.tar.gz
 tar zvxf cmake-3.16.9.tar.gz
@@ -34,5 +39,7 @@ make
 sudo make install
 ```
 
-# Install for Windows
+
+## Install on Windows
+
 - download the [msi](https://cmake.org/download/) and install the package
