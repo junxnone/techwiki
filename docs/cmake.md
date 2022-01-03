@@ -2,7 +2,7 @@
 Title | cmake
 -- | --
 Create Date | `2018-09-02T08:05:59Z`
-Update Date | `2022-01-03T04:44:56Z`
+Update Date | `2022-01-03T04:48:18Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 
 ---
@@ -12,6 +12,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 - [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html) [[Tutorial Code](https://github.com/Kitware/CMake/tree/master/Help/guide/tutorial)]
 - [Supported Compilers](https://cmake.org/cmake/help/git-master/manual/cmake-compile-features.7.html#supported-compilers)
 - [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
+- [More Modern CMake](https://github.com/Bagira80/More-Modern-CMake)
+
 
 ## Brief
 - **Build-System Generator** - 编译系统生成器(Not a Build-System)
