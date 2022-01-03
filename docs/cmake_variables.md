@@ -2,12 +2,13 @@
 Title | cmake variables
 -- | --
 Create Date | `2021-12-30T06:57:59Z`
-Update Date | `2021-12-30T08:48:06Z`
+Update Date | `2022-01-03T05:55:43Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/240)
 
 ---
 ## Reference
 - [cmake 预定义变量](https://cmake.org/cmake/help/latest/manual/cmake-variables.7.html)
+- [Variables - CGold](https://cgold.readthedocs.io/en/latest/tutorials/variables.html)
 
 ## Brief
 - 自定义变量
