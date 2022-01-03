@@ -2,18 +2,16 @@
 Title | cmake
 -- | --
 Create Date | `2018-09-02T08:05:59Z`
-Update Date | `2022-01-02T08:41:36Z`
+Update Date | `2022-01-03T04:27:35Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 
 ---
 ## Reference
-- [CMake常用命令](https://www.jianshu.com/p/8909efe13308)
-- [Downloads](https://cmake.org/files/)
-- [Ubuntu16.04下安装Cmake-3.8.2](https://blog.csdn.net/l1216766050/article/details/77513045)
 - [Mastering CMake](https://cmake.org/cmake/help/book/mastering-cmake/index.html)
 - [2016-09-27-CMake-tutorial.pdf](https://github.com/junxnone/linuxwiki/files/7415584/2016-09-27-CMake-tutorial.pdf)
 - [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html) [[Tutorial Code](https://github.com/Kitware/CMake/tree/master/Help/guide/tutorial)]
 - [Supported Compilers](https://cmake.org/cmake/help/git-master/manual/cmake-compile-features.7.html#supported-compilers)
+- [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 
 ## Brief
 - [Install](./cmake_install)
