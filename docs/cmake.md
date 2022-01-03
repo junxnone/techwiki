@@ -2,7 +2,7 @@
 Title | cmake
 -- | --
 Create Date | `2018-09-02T08:05:59Z`
-Update Date | `2022-01-03T04:48:18Z`
+Update Date | `2022-01-03T04:52:57Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 
 ---
@@ -13,6 +13,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 - [Supported Compilers](https://cmake.org/cmake/help/git-master/manual/cmake-compile-features.7.html#supported-compilers)
 - [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 - [More Modern CMake](https://github.com/Bagira80/More-Modern-CMake)
+- [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook)
+- [Awesome CMake](https://github.com/onqtam/awesome-cmake)
 
 
 ## Brief
