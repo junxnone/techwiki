@@ -2,7 +2,7 @@
 Title | cmake
 -- | --
 Create Date | `2018-09-02T08:05:59Z`
-Update Date | `2022-01-03T05:25:40Z`
+Update Date | `2022-01-03T07:32:38Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 
 ---
@@ -16,6 +16,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 - [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook)
 - [Awesome CMake](https://github.com/onqtam/awesome-cmake)
 - [CGold: The Hitchhiker’s Guide to the CMake](https://cgold.readthedocs.io/en/latest/index.html)
+- [cmake-examples-Chinese](https://sfumecjf.github.io/cmake-examples-Chinese/)
+
 
 ## Brief
 - **Build-System Generator** - 编译系统生成器(Not a Build-System)
