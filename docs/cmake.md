@@ -2,7 +2,7 @@
 Title | cmake
 -- | --
 Create Date | `2018-09-02T08:05:59Z`
-Update Date | `2022-01-03T04:43:39Z`
+Update Date | `2022-01-03T04:44:56Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 
 ---
@@ -15,6 +15,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 
 ## Brief
 - **Build-System Generator** - 编译系统生成器(Not a Build-System)
+  - 跨平台(Linux/Windows/OSX...)
 - [Install](./cmake_install)
 - [`CMakeLists.txt` 语法](./cmake_语法)
   - [cmake variables](/cmake_variables)
