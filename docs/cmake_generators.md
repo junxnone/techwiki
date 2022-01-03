@@ -2,11 +2,32 @@
 Title | cmake generators
 -- | --
 Create Date | `2022-01-02T04:22:26Z`
-Update Date | `2022-01-02T04:22:26Z`
+Update Date | `2022-01-03T07:28:37Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/242)
 
 ---
+## Reference
 
+- [CMake Generator](https://cmake.org/cmake/help/latest/manual/cmake-generators.7.html)
+
+## Brief
+- Makefile Generators
+  - Borland
+  - MSYS
+  - MinGW
+  - NMake
+  - Unix
+  - Watcom WMake
+- Ninja Generators
+- IDE Build Tool generators
+  - Visual Studio
+  - Xcode
+  - CodeBlocks
+  - Eclipse CDT4
+  - Sublime Text2
+  - CodeLite
+  - Kate
+  - Green Hills MULTI
 
 ## Linux
 - GNU make
