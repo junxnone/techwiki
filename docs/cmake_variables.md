@@ -2,7 +2,7 @@
 Title | cmake variables
 -- | --
 Create Date | `2021-12-30T06:57:59Z`
-Update Date | `2022-01-03T05:55:43Z`
+Update Date | `2022-01-03T06:00:14Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/240)
 
 ---
@@ -14,6 +14,10 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/240)
 - 自定义变量
 - 预定义变量
 - 变量读写
+- 常规变量 & 缓存变量
+- 变量作用域
+- List
+- 系统环境变量
 
 ## 变量读写
 - 写命令 set()/unset()
