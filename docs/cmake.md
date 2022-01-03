@@ -2,7 +2,7 @@
 Title | cmake
 -- | --
 Create Date | `2018-09-02T08:05:59Z`
-Update Date | `2022-01-03T04:43:06Z`
+Update Date | `2022-01-03T04:43:39Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 
 ---
@@ -27,10 +27,11 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
   - [cmake interaction]
 - [Usecase](./cmake_usecase)
   - [cmake windows](/cmake_windows)
-- [ctest]
-- [cpack](/cpack)
-- [ccmake]
-- [cmake-gui]
+- **Tools** 
+  - [ctest]
+  - [cpack](/cpack)
+  - [ccmake]
+  - [cmake-gui]
 - [cmake Tutorial 分析](https://github.com/junxnone/CMake/issues/1)
 
 ## Supported
