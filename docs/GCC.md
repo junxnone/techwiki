@@ -2,7 +2,7 @@
 Title | GCC
 -- | --
 Create Date | `2021-07-21T05:45:57Z`
-Update Date | `2022-01-04T10:00:02Z`
+Update Date | `2022-01-04T10:12:48Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/170)
 
 ---
@@ -16,15 +16,14 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/170)
 
 - GCC - GNU Compiler Collection
 - **Supported Languages:** C/C++/Objective-C/Objective-C++/Go/Fortran
+- [GCC UseCase](/GCC_UseCase)
 
----
+## WorkFlow
+
 ![image](https://user-images.githubusercontent.com/2216970/126437354-5e2d6b43-8085-4bb4-ba83-e0d7738f9615.png)
 - AST - `abstract syntax tree`
 - SSA - `static single assignment`
 - RTL - `register-transfer language`
-
-## UseCase
-
 
 ## History
 
