@@ -2,7 +2,7 @@
 Title | GCC
 -- | --
 Create Date | `2021-07-21T05:45:57Z`
-Update Date | `2022-01-04T09:54:48Z`
+Update Date | `2022-01-04T09:56:42Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/170)
 
 ---
@@ -10,7 +10,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/170)
 - [gcc](https://gcc.gnu.org/) [[wiki](https://gcc.gnu.org/wiki)] [[GCC online documentation](https://gcc.gnu.org/onlinedocs/)]
 - [GNU C Compiler Internals/GNU C Compiler Architecture](https://en.wikibooks.org/wiki/GNU_C_Compiler_Internals/GNU_C_Compiler_Architecture)
 - [Language Standards Supported by GCC](https://gcc.gnu.org/onlinedocs/gcc/Standards.html#Go-Language)
-
+- [History Timeline](https://gcc.gnu.org/develop.html#timeline)
 
 ## Brief
 
@@ -26,7 +26,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/170)
 ## UseCase
 
 
-## History - [Timeline](https://gcc.gnu.org/develop.html#timeline)
+## History
 
 - 1985 Richard Stallman starts GCC as GNU C Compiler
 - 1991 GCC 1.x => GCC 2.x
