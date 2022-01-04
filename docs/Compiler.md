@@ -2,7 +2,7 @@
 Title | Compiler
 -- | --
 Create Date | `2021-06-01T07:22:07Z`
-Update Date | `2021-10-28T07:44:34Z`
+Update Date | `2022-01-04T09:27:21Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/169)
 
 ---
@@ -29,11 +29,11 @@ BCC | Borland C++ 退出历史？？？
 
 Name | Inputs | Outputs | GCC | ICC
 -- | -- | -- | -- | -- 
-预处理器 | 源代码 | 预处理的代码
-编译器 | ↑ | 汇编代码 | gcc/g++ | icl/icx/icc/icpc/icpx
-汇编器 | ↑ | 可重定位的机器代码 | as |
-链接器 | 库文件 + ↑ | 目标机器代码
-
+预处理器(Preprocessor) | 源代码 | 预处理的代码
+编译器(Compiler) | ↑ | 汇编代码 | gcc/g++ | icl/icx/icc/icpc/icpx
+汇编器(Assembler) | ↑ | 可重定位的机器代码 | as |
+链接器(Linker) | 库文件 + ↑ | 目标机器代码
+加载器(Loader) | 库文件 
 
 # Tools 
 
