@@ -2,7 +2,7 @@
 Title | Library
 -- | --
 Create Date | `2021-12-22T06:00:12Z`
-Update Date | `2021-12-24T14:01:06Z`
+Update Date | `2022-01-04T08:47:10Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 
 ---
@@ -10,6 +10,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 - [windows中静态库lib和动态dll的区别及使用方法](https://blog.csdn.net/dxzysk/article/details/66477147)
 
 ## Brief
+- 静态库/动态链接库/动态加载库
 - Linux (`*.a` & `*.so`)
 - Windows (`*.lib` & `*.dll`)
 
