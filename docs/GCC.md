@@ -2,7 +2,7 @@
 Title | GCC
 -- | --
 Create Date | `2021-07-21T05:45:57Z`
-Update Date | `2022-01-04T09:45:51Z`
+Update Date | `2022-01-04T09:54:48Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/170)
 
 ---
@@ -35,3 +35,6 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/170)
 - 2001 GCC 3.x
 - 2005 GCC 4.x then from 6 month to one year release
 - 2020 GCC11
+
+[gist: history timeline](https://gist.githubusercontent.com/junxnone/02e8a6a9e657bedb79f10639009b9e4d/raw/gcc_history_timeline.txt ':include :type=code')
+
