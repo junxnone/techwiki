@@ -2,7 +2,7 @@
 Title | GCC UseCase
 -- | --
 Create Date | `2022-01-04T09:21:20Z`
-Update Date | `2022-01-04T10:12:09Z`
+Update Date | `2022-01-04T10:32:56Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/245)
 
 ---
@@ -15,6 +15,10 @@ UseCase | Command
 执行到预编译 | `gcc -E demo.c`
 执行到汇编 | `gcc -S demo.c`
 执行到目标文件 | `gcc -C demo.c`
+生成可调试的版本 | `gcc -g demo.c`
+开启警告信息 | `gcc -Wall demo.c`
+链接库 `libxxx.a` 并包含头文件 | `gcc demo.c -L/path/to/lib -lxxx -I/path/to/include` 
+
 
 ### 架构相关
 - `-march`
