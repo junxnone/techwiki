@@ -2,7 +2,7 @@
 Title | GCC
 -- | --
 Create Date | `2021-07-21T05:45:57Z`
-Update Date | `2022-01-04T09:56:42Z`
+Update Date | `2022-01-04T09:59:33Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/170)
 
 ---
@@ -15,7 +15,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/170)
 ## Brief
 
 - GCC - GNU Compiler Collection
-- C/C++/Objective-C/Objective-C++/Go/Fortran
+- **Support Languages:** C/C++/Objective-C/Objective-C++/Go/Fortran
 
 ---
 ![image](https://user-images.githubusercontent.com/2216970/126437354-5e2d6b43-8085-4bb4-ba83-e0d7738f9615.png)
