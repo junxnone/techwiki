@@ -2,7 +2,7 @@
 Title | Library
 -- | --
 Create Date | `2021-12-22T06:00:12Z`
-Update Date | `2022-01-05T05:21:46Z`
+Update Date | `2022-01-05T05:22:03Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 
 ---
@@ -21,7 +21,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 库 | 优点 | 缺点
 -- | -- | --
 静态库 | 无依赖 | 占用空间大 
-动态库 | 占用空间少 <br> 更新库不需要重新编译应用
+共享库/动态库 | 占用空间少 <br> 更新库不需要重新编译应用
 
 ## Linux
 
