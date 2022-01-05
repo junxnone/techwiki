@@ -2,7 +2,7 @@
 Title | Library
 -- | --
 Create Date | `2021-12-22T06:00:12Z`
-Update Date | `2022-01-05T05:22:03Z`
+Update Date | `2022-01-05T05:25:35Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 
 ---
@@ -55,10 +55,10 @@ Status/库 | 静态库(`*.lib`) | 动态库 (`*.lib` & `*.dll`)
 
 
 ### 动态库
-- 显示链接 (`*.dll`) - `加载时动态链接`
-  - 必须链接导入库(`*.lib`)
-- 隐式链接 (`*.h` & `*.lib` & `*.dll`) - `运行时动态链接`
+- 显示链接 (`*.dll`) - `运行时动态链接`
   - `LoadLibrary()` & `LoadLibraryEx()`
+- 隐式链接 (`*.h` & `*.lib` & `*.dll`) - `加载时动态链接`
+  - 必须链接导入库(`*.lib`)
 
 #### 导出 DLL 函数
 - 函数关键字声明导出导入函数
