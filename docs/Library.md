@@ -2,7 +2,7 @@
 Title | Library
 -- | --
 Create Date | `2021-12-22T06:00:12Z`
-Update Date | `2022-01-05T05:25:35Z`
+Update Date | `2022-01-05T05:27:18Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 
 ---
@@ -83,6 +83,12 @@ Status/库 | 静态库(`*.lib`) | 动态库 (`*.lib` & `*.dll`)
 LIBRARY "sampleDLL"
 EXPORTS HelloWorld
 ```
+### dll 位置搜索顺序
+
+1. 应用程序文件夹
+2. 当前文件夹
+3. 系统Windows文件夹
+4. "Windows"文件夹
 
 
 ### Tools
