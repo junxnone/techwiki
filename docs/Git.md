@@ -2,7 +2,7 @@
 Title | Git
 -- | --
 Create Date | `2018-12-14T07:40:51Z`
-Update Date | `2021-11-10T10:26:45Z`
+Update Date | `2022-01-05T03:06:14Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/62)
 
 ---
@@ -18,7 +18,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/62)
 - [Git branch](/Git_branch)
 - [Git Tag](/Git_tag)
 - [Git pre-commit](/Git_precommit)
-- [Git archieve]
+- [Git archive](/Git_archive)
 
 
 # Issues
