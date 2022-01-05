@@ -2,7 +2,7 @@
 Title | Library
 -- | --
 Create Date | `2021-12-22T06:00:12Z`
-Update Date | `2022-01-05T03:42:11Z`
+Update Date | `2022-01-05T05:21:46Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 
 ---
@@ -12,11 +12,16 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 
 ## Brief
 - 静态库 - `*.o` 文件压缩打包集合
-- 动态链接库/动态加载库
+- 共享库/动态链接库/动态加载库
 - Linux (`*.a` & `*.so`)
 - Windows (`*.lib` & `*.dll`)
 - [Library Tools](/Library_Tools)
 
+
+库 | 优点 | 缺点
+-- | -- | --
+静态库 | 无依赖 | 占用空间大 
+动态库 | 占用空间少 <br> 更新库不需要重新编译应用
 
 ## Linux
 
