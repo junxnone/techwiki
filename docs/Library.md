@@ -2,7 +2,7 @@
 Title | Library
 -- | --
 Create Date | `2021-12-22T06:00:12Z`
-Update Date | `2022-01-05T03:35:05Z`
+Update Date | `2022-01-05T03:39:32Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 
 ---
@@ -15,12 +15,22 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 - 动态链接库/动态加载库
 - Linux (`*.a` & `*.so`)
 - Windows (`*.lib` & `*.dll`)
-
+- [Library Tools](/Library_Tools)
 
 
 ## Linux
-- **Tools**
-  - ldd
+
+### 静态库
+- **命名规则** - `lib[name].a`
+- **Steps**
+  - **生成 `*.o`** - `gcc/g++ -c code_file.c/cpp`
+  - **打包成 `*.a`** - `ar -crv lib[name].a code_file.o`
+
+### Tools
+- ldd
+- objdump
+- readelf
+- nm
 
 ## Windows
 - 静态库 (`*.lib`)  - 仅链接时使用
