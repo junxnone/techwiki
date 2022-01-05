@@ -2,7 +2,7 @@
 Title | Library
 -- | --
 Create Date | `2021-12-22T06:00:12Z`
-Update Date | `2022-01-05T03:27:58Z`
+Update Date | `2022-01-05T03:35:05Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 
 ---
@@ -11,9 +11,12 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 - [什么是 DLL](https://docs.microsoft.com/zh-cn/troubleshoot/windows-client/deployment/dynamic-link-library)
 
 ## Brief
-- 静态库/动态链接库/动态加载库
+- 静态库 - `*.o` 文件压缩打包集合
+- 动态链接库/动态加载库
 - Linux (`*.a` & `*.so`)
 - Windows (`*.lib` & `*.dll`)
+
+
 
 ## Linux
 - **Tools**
