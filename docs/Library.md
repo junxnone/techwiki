@@ -2,7 +2,7 @@
 Title | Library
 -- | --
 Create Date | `2021-12-22T06:00:12Z`
-Update Date | `2022-01-05T03:40:18Z`
+Update Date | `2022-01-05T03:42:11Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 
 ---
@@ -22,9 +22,11 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 
 ### 静态库
 - **命名规则** - `lib[name].a`
-- **Steps**
+- **生成**
   - **生成 `*.o`** - `gcc/g++ -c code_file.c/cpp`
   - **打包成 `*.a`** - `ar -crv lib[name].a code_file.o`
+- **使用** - `gcc/g++ main.cpp -L[/path/to/lib] -l[name]`
+
 
 
 ### 动态库
