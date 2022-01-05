@@ -2,7 +2,7 @@
 Title | Library
 -- | --
 Create Date | `2021-12-22T06:00:12Z`
-Update Date | `2022-01-05T06:39:26Z`
+Update Date | `2022-01-05T06:52:23Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 
 ---
@@ -10,7 +10,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 - [windows中静态库lib和动态dll的区别及使用方法](https://blog.csdn.net/dxzysk/article/details/66477147)
 - [什么是 DLL](https://docs.microsoft.com/zh-cn/troubleshoot/windows-client/deployment/dynamic-link-library)
 - [在 C++ 类中使用 dllimport 和 dllexport](https://docs.microsoft.com/zh-cn/cpp/cpp/using-dllimport-and-dllexport-in-cpp-classes?view=msvc-170)
-
+- [确定要使用的导出方法: ` .def ` & `__declspec(dllexport)`](https://docs.microsoft.com/zh-cn/cpp/build/determining-which-exporting-method-to-use?view=msvc-170)
 
 ## Brief
 - 静态库 - `*.o` 文件压缩打包集合
