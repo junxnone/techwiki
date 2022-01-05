@@ -2,7 +2,7 @@
 Title | Library
 -- | --
 Create Date | `2021-12-22T06:00:12Z`
-Update Date | `2022-01-05T03:39:32Z`
+Update Date | `2022-01-05T03:40:18Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 
 ---
@@ -26,6 +26,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
   - **生成 `*.o`** - `gcc/g++ -c code_file.c/cpp`
   - **打包成 `*.a`** - `ar -crv lib[name].a code_file.o`
 
+
+### 动态库
 ### Tools
 - ldd
 - objdump
@@ -36,9 +38,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 - 静态库 (`*.lib`)  - 仅链接时使用
 - 动态库 (`*.lib` & `*.dll`)
   -  **引入库文件 (`*.lib`)** - 包含 `*.dll` 文件导出的函数和变量的符号名, `*.dll` 文件中办好实际函数和数据
-- **Tools**: 
-  - dumpbin 
-  - lib
+
 
 Status/库 | 静态库(`*.lib`) | 动态库 (`*.lib` & `*.dll`)
 -- | -- | --
@@ -76,3 +76,9 @@ Status/库 | 静态库(`*.lib`) | 动态库 (`*.lib` & `*.dll`)
 LIBRARY "sampleDLL"
 EXPORTS HelloWorld
 ```
+
+
+### Tools
+
+- dumpbin 
+- lib
