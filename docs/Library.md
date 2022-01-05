@@ -2,7 +2,7 @@
 Title | Library
 -- | --
 Create Date | `2021-12-22T06:00:12Z`
-Update Date | `2022-01-05T03:10:22Z`
+Update Date | `2022-01-05T03:27:58Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 
 ---
@@ -36,5 +36,30 @@ Status/库 | 静态库(`*.lib`) | 动态库 (`*.lib` & `*.dll`)
 
 ### 动态库
 - 显示链接 (`*.dll`) - `加载时动态链接`
+  - 必须链接导入库(`*.lib`)
 - 隐式链接 (`*.h` & `*.lib` & `*.dll`) - `运行时动态链接`
   - `LoadLibrary()` & `LoadLibraryEx()`
+
+#### 导出 DLL 函数
+- 函数关键字声明导出导入函数
+
+```
+// File: SampleDLL.h
+//
+#ifndef INDLL_H
+    #define INDLL_H
+    #ifdef EXPORTING_DLL
+        extern __declspec(dllexport) void HelloWorld();
+    #else
+        extern __declspec(dllimport) void HelloWorld();
+    #endif
+#endif
+```
+
+- 模块定义文件声明导出的 DLL 函数
+```
+// SampleDLL.def
+//
+LIBRARY "sampleDLL"
+EXPORTS HelloWorld
+```
