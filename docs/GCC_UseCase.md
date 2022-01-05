@@ -2,7 +2,7 @@
 Title | GCC UseCase
 -- | --
 Create Date | `2022-01-04T09:21:20Z`
-Update Date | `2022-01-04T10:32:56Z`
+Update Date | `2022-01-05T06:41:37Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/245)
 
 ---
@@ -33,4 +33,6 @@ Option | Description
 `-O3` | `auto inlining`/`vectorizer`
 `-Os` | 优化代码大小
 
-
+### Others
+- `-fPIC - `Position-Independent Code` - 产生与位置无关代码
+  - 使用相对地址
