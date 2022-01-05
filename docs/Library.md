@@ -2,7 +2,7 @@
 Title | Library
 -- | --
 Create Date | `2021-12-22T06:00:12Z`
-Update Date | `2022-01-05T05:27:18Z`
+Update Date | `2022-01-05T05:28:15Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 
 ---
@@ -87,8 +87,8 @@ EXPORTS HelloWorld
 
 1. 应用程序文件夹
 2. 当前文件夹
-3. 系统Windows文件夹
-4. "Windows"文件夹
+3. 系统Windows文件夹 (`GetSystemDirectory 函数返回系统Windows的路径`)
+4. "Windows"文件夹 (`GetWindowsDirectory 函数返回文件夹Windows路径`)
 
 
 ### Tools
