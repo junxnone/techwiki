@@ -2,7 +2,7 @@
 Title | Library
 -- | --
 Create Date | `2021-12-22T06:00:12Z`
-Update Date | `2022-01-05T02:02:49Z`
+Update Date | `2022-01-05T02:09:19Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 
 ---
@@ -35,6 +35,6 @@ Status/库 | 静态库(`*.lib`) | 动态库 (`*.lib` & `*.dll`)
 
 
 ### 动态库
-- 显示链接 (`*.dll`)
-- 隐式链接 (`*.h` & `*.lib` & `*.dll`)
+- 显示链接 (`*.dll`) - `加载时动态链接`
+- 隐式链接 (`*.h` & `*.lib` & `*.dll`) - `运行时动态链接`
 
