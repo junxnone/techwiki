@@ -2,7 +2,7 @@
 Title | cmake 语法
 -- | --
 Create Date | `2021-10-28T04:25:32Z`
-Update Date | `2022-01-02T08:17:29Z`
+Update Date | `2022-01-06T08:16:51Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 
 ---
@@ -13,35 +13,12 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
 - [cmake 预定义语法/函数/宏](https://cmake.org/cmake/help/latest/manual/cmake-commands.7.html)
 
 ## Brief
-- string
 - 条件控制
 - 宏-函数
-- 文件
 - 项目
 - 库
 - 编译器
 - **指令**大小写无关, **参数和变量**大小写相关
-
-## string
-- 查找/替换/正则匹配
-- 拼接/大小写替换/sub-string/...
-- 比较/Hash
-- ... 详细见 [[cmake string](https://cmake.org/cmake/help/latest/command/string.html)]
-
-### 常用 string 操作
-
-Operations | Pattern | Description
--- | -- | --
-FIND |  `string(FIND <string> <substring> <out-var> [...])`
-REPLACE | `string(REPLACE <match-string> <replace-string> <out-var> <input>...)`
-REGEX MATCH | `string(REGEX MATCH <match-regex> <out-var> <input>...)`
-REGEX MATCHALL | `string(REGEX MATCHALL <match-regex> <out-var> <input>...)`
-REGEX REPLACE | `string(REGEX REPLACE <match-regex> <replace-expr> <out-var> <input>...)`
-TOLOWER | `string(TOLOWER <string> <out-var>)`
-TOUPPER | `string(TOUPPER <string> <out-var>)`
-LENGTH | `string(LENGTH <string> <out-var>)`
-COMPARE | `string(COMPARE <op> <string1> <string2> <out-var>)`
-
 
 
 ## 条件控制
@@ -54,8 +31,6 @@ COMPARE | `string(COMPARE <op> <string1> <string2> <out-var>)`
 - LESS/GREATER/EQUAL - 数字比较
 - STRLESS/STRGREATER/STREQUAL - 字母比较
 - MATCHES - pattern regex
-
-
 
 
 ## 常用语法
