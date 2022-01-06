@@ -2,7 +2,7 @@
 Title | cmake
 -- | --
 Create Date | `2018-09-02T08:05:59Z`
-Update Date | `2022-01-05T03:18:25Z`
+Update Date | `2022-01-06T07:48:34Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
 
 ---
@@ -32,7 +32,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/64)
   - [cmake target]
   - [cmake dependency]
   - [cmake interaction]
-  - [cmake install](/cmake_install)
+  - [cmake install files](/cmake_install_files)
 - [Usecase](./cmake_usecase)
   - [cmake windows](/cmake_windows)
 - **Tools** 
