@@ -2,7 +2,7 @@
 Title | PECOFF
 -- | --
 Create Date | `2022-01-06T03:18:02Z`
-Update Date | `2022-01-06T03:30:17Z`
+Update Date | `2022-01-06T03:47:51Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/248)
 
 ---
@@ -27,3 +27,34 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/248)
 - Optional Header(Image Only)
 
 ### Section Table
+
+
+Section Name | Content
+-- | --
+.bss | Uninitialized data (free format)
+.cormeta | CLR metadata that indicates that the object file contains managed code
+.data | Initialized data (free format)
+.debug$F | Generated FPO debug information (object only, x86 architecture only, and now obsolete)
+.debug$P | Precompiled debug types (object only)
+.debug$S | Debug symbols (object only)
+.debug$T | Debug types (object only)
+.drective | Linker options
+.edata | Export tables
+.idata | Import tables
+.idlsym | Includes registered SEH (image only) to support IDL attributes. For information, see “IDL Attributes” in “References” at the end of this specification.
+.pdata | Exception information
+.rdata | Read-only initialized data
+.reloc | Image relocations
+.rsrc | Resource directory
+.sbss | GP-relative uninitialized data (free format)
+.sdata | GP-relative initialized data (free format)
+.srdata | GP-relative read-only data (free format)
+.sxdata | Registered exception handler data (free format and x86/object only)
+.text | Executable code (free format)
+.tls | Thread-local storage (object only)
+.tls$ | Thread-local storage (object only)
+.vsdata | GP-relative initialized data (free format and for ARM, SH4, and Thumb architectures only)
+.xdata | Exception information (free format)
+
+
+
