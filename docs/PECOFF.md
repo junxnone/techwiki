@@ -2,7 +2,7 @@
 Title | PECOFF
 -- | --
 Create Date | `2022-01-06T03:18:02Z`
-Update Date | `2022-01-06T03:23:11Z`
+Update Date | `2022-01-06T03:30:17Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/248)
 
 ---
@@ -22,4 +22,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/248)
 
 ![image](https://user-images.githubusercontent.com/2216970/148322882-02ed8a6b-d4c4-48a1-bb9e-1bae0c26f5b6.png)
 
+### File Headers
+- COFF File Header(Object and Image)
+- Optional Header(Image Only)
 
+### Section Table
