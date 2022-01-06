@@ -2,7 +2,7 @@
 Title | cmake variables
 -- | --
 Create Date | `2021-12-30T06:57:59Z`
-Update Date | `2022-01-03T06:00:14Z`
+Update Date | `2022-01-06T06:24:10Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/240)
 
 ---
@@ -36,8 +36,8 @@ WR | 自定义变量读写 | 系统环境变量读写
 `CMAKE_C_COMPILER` | C 编译器
 `CMAKE_CXX_COMPILER` | C++ 编译器
 `CMAKE_CXX_STANDARD` | C++ 标准
-`CMAKE_INSTALL_PREFIX` | 安装位置
-`CMAKE_MODULE_PATH` | 指定 CMake modules 查找路径 默认为空 (分号分隔的 list)
+`CMAKE_INSTALL_PREFIX` | 安装位置 | **Unix Defaults**: `/usr/local` <br>**Windows Defaults**: `c:/Program Files/${PROJECT_NAME}`
+`CMAKE_MODULE_PATH` | 指定 CMake modules 查找路径 | 默认为空 (分号分隔的 list)
 `WIN32` | 是否是 Windows OS | **Windows**: `1` <br>**Linux**: `False?None`
 `CMAKE_SYSTEM_NAME` | OS Name | **Windows**: `Windows` <br>**Linux**: `Linux`
 `CMAKE_CURRENT_SOURCE_DIR` | 源码目录
