@@ -2,7 +2,7 @@
 Title | Library
 -- | --
 Create Date | `2021-12-22T06:00:12Z`
-Update Date | `2022-01-06T02:25:28Z`
+Update Date | `2022-01-06T03:18:40Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 
 ---
@@ -49,7 +49,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/237)
 - 静态库 (`*.lib`)  - 仅链接时使用
 - 动态库 (`*.lib` & `*.dll`)
   -  **引入库文件 (`*.lib`)** - 包含 `*.dll` 文件导出的函数和变量的符号名, `*.dll` 文件中办好实际函数和数据
-
+- 文件遵循 [[PECOFF]] 标准
 
 Status/库 | 静态库(`*.lib`) | 动态库 (`*.lib` & `*.dll`)
 -- | -- | --
