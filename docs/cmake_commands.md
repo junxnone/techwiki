@@ -2,7 +2,7 @@
 Title | cmake commands
 -- | --
 Create Date | `2022-01-06T08:16:00Z`
-Update Date | `2022-01-06T08:18:14Z`
+Update Date | `2022-01-06T08:21:10Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/249)
 
 ---
@@ -28,7 +28,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/249)
 - 比较/Hash
 - ... 详细见 [[cmake string](https://cmake.org/cmake/help/latest/command/string.html)]
 
-### 常用 string 操作
+#### 常用 string 操作
 
 Operations | Pattern | Description
 -- | -- | --
@@ -44,6 +44,8 @@ COMPARE | `string(COMPARE <op> <string1> <string2> <out-var>)`
 
 
 ### file
+- 读写/文件系统级别操作(查找/拷贝/移除/重命名/更改权限/...)/路径转换/打包/...
+
 
 ```
 Reading
