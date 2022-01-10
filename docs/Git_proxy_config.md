@@ -2,7 +2,7 @@
 Title | Git proxy config
 -- | --
 Create Date | `2018-12-10T06:05:14Z`
-Update Date | `2021-11-04T15:30:09Z`
+Update Date | `2022-01-10T03:38:14Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/57)
 
 ---
@@ -14,12 +14,11 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/57)
 sudo apt-get install connect-proxy
 ```
 
-- setup `~/.ssh/ocnfig`, add the following section
+- setup `~/.ssh/config`, add the following section
 
 ```
 host github.com
-
-ProxyCommand connect -a none -S proxy_ip:proxy_port(1080) %h %p
+    ProxyCommand connect -a none -S proxy_ip:proxy_port(1080) %h %p
 ```
 
 
