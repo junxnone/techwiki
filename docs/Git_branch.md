@@ -1,15 +1,15 @@
 ---
 Title | Git branch
 -- | --
-Create Date | `2021-09-20T13:41:37Z`
-Update Date | `2021-09-20T13:41:37Z`
+Create Date | `2019-03-25T11:02:40Z`
+Update Date | `2022-01-10T06:39:37Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/60)
 
 ---
-# Reference
+## Reference
 - [成熟的 Git 分支模型](https://my.oschina.net/liebrother/blog/2990683)
 
-# Brief
+## Brief
 
 **分支介绍**
 - master ：这个分支的代码是发布到生产的代码
@@ -20,7 +20,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/60)
 
 ![image](https://user-images.githubusercontent.com/2216970/54083396-9e65c500-435d-11e9-9dee-ae52aa3447ce.png)
 
-# UseCase
+## UseCase
 
 Usecase| 命令 
 -- | --
@@ -33,3 +33,4 @@ Usecase| 命令
 合并 Branch 到 Master | `git checkout master`<br>`git merge dev`
 Remote Branch 已删除<br>但 Local 仍能看到 | `git remote prune origin`
 show all branch details | `git show-branch`
+命令行显示分支路线| `git log --graph --all --oneline`
