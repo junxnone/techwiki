@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2021-12-30T02:41:49Z`
+Update Date | `2022-01-13T09:45:56Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
 
 ---
@@ -17,6 +17,7 @@ Tools | Descriptoin
 -- | --
 [Vi](/Vi) | 文本编辑工具
 [awk](/Linux_awk) | 文件流编辑工具
+[sed](/Linux_Tools_sed) | 文本编辑
 [rename](/rename) | 文件重命名工具
 [shuf](/Linux_shuf) | 随机取内容
 [sort](/Linux_sort) | 排序
