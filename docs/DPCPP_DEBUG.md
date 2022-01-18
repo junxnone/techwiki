@@ -2,7 +2,7 @@
 Title | DPCPP DEBUG
 -- | --
 Create Date | `2022-01-18T03:26:23Z`
-Update Date | `2022-01-18T03:26:23Z`
+Update Date | `2022-01-18T06:09:50Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/250)
 
 ---
@@ -10,7 +10,14 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/250)
 
 - [Debug the Offload Process](https://www.intel.com/content/www/us/en/develop/documentation/oneapi-programming-guide/top/software-development-process/debugging-the-dpc-and-openmp-offload-process/debug-the-offload-process.html)
 
-## Use `print` debug in DPCPP kernel
+## Brief
+- GDB
+- Intercept Layer
+- ze_tracer
+- `sycl printf`
+
+
+## Use `printf` debug in DPCPP kernel
 
 ```
 #ifdef __SYCL_DEVICE_ONLY__
