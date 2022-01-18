@@ -2,14 +2,15 @@
 Title | OneAPI
 -- | --
 Create Date | `2021-06-23T06:24:28Z`
-Update Date | `2021-12-27T09:30:09Z`
+Update Date | `2022-01-18T03:15:40Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/197)
 
 ---
-# Reference
+## Reference
+
 - [oneapi](https://software.intel.com/content/www/us/en/develop/tools/oneapi.html)
 
-# Brief
+## Brief
 - Components
   - [C/C++ Compilers](https://github.com/junxnone/tech-io/issues/1010)
   - DPC++
@@ -40,5 +41,4 @@ sudo add-apt-repository "deb https://apt.repos.intel.com/oneapi all main"
 sudo -E apt install intel-basekit
 ```
 
-# UseCase
 
