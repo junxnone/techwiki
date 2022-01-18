@@ -2,7 +2,7 @@
 Title | OneAPI
 -- | --
 Create Date | `2021-06-23T06:24:28Z`
-Update Date | `2022-01-18T03:15:40Z`
+Update Date | `2022-01-18T03:16:44Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/197)
 
 ---
@@ -13,7 +13,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/197)
 ## Brief
 - Components
   - [C/C++ Compilers](https://github.com/junxnone/tech-io/issues/1010)
-  - DPC++
+  - [DPC++](/DPCPP)
   - Libraries
 
 ## Libraries
