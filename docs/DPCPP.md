@@ -2,7 +2,7 @@
 Title | DPCPP
 -- | --
 Create Date | `2021-10-28T08:00:47Z`
-Update Date | `2022-01-11T01:54:03Z`
+Update Date | `2022-01-18T03:26:55Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
 
 ---
@@ -26,6 +26,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/193)
   - 使用 [OpenCL](/OpenCL) 后端加速 Intel CPU/iGPU/FPGAs
   - 使用 `CUDA+PTX` 后端加速 Nvidia GPUs
 - [Level Zero](/Level_Zero)
+- [DPCPP Debug](/DPCPP_DEBUG)
 
 ## Arch
 
