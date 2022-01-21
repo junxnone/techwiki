@@ -2,13 +2,15 @@
 Title | DPCPP DEBUG
 -- | --
 Create Date | `2022-01-18T03:26:23Z`
-Update Date | `2022-01-21T07:03:38Z`
+Update Date | `2022-01-21T07:04:05Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/250)
 
 ---
 ## Reference
 
 - [Debug the Offload Process](https://www.intel.com/content/www/us/en/develop/documentation/oneapi-programming-guide/top/software-development-process/debugging-the-dpc-and-openmp-offload-process/debug-the-offload-process.html)
+- [OneAPI Debug Tools](https://www.intel.com/content/www/us/en/develop/documentation/oneapi-programming-guide/top/software-development-process/debugging-the-dpc-and-openmp-offload-process/oneapi-debug-tools.html)
+
 
 ## Brief
 - Environment variables
