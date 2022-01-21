@@ -2,7 +2,7 @@
 Title | DPCPP DEBUG
 -- | --
 Create Date | `2022-01-18T03:26:23Z`
-Update Date | `2022-01-21T07:04:05Z`
+Update Date | `2022-01-21T07:16:29Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/250)
 
 ---
@@ -36,3 +36,15 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/250)
 ```
 PRINTF("test PRINTF")
 ```
+
+## Environment variables
+
+- 设置 打印 SYCL 跟踪 Log
+```
+set SYCL_PI_TRACE=1/2/-1
+```
+- 设置使用后端 OpenCL/Level_Zero
+```
+set SYCL_DEVICE_FILTER=opencl/level_zero
+```
+
