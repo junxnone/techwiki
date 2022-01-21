@@ -2,7 +2,7 @@
 Title | DPCPP DEBUG
 -- | --
 Create Date | `2022-01-18T03:26:23Z`
-Update Date | `2022-01-21T07:23:03Z`
+Update Date | `2022-01-21T07:33:45Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/250)
 
 ---
@@ -10,7 +10,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/250)
 
 - [Debug the Offload Process](https://www.intel.com/content/www/us/en/develop/documentation/oneapi-programming-guide/top/software-development-process/debugging-the-dpc-and-openmp-offload-process/debug-the-offload-process.html)
 - [OneAPI Debug Tools](https://www.intel.com/content/www/us/en/develop/documentation/oneapi-programming-guide/top/software-development-process/debugging-the-dpc-and-openmp-offload-process/oneapi-debug-tools.html)
-
+- [Intercept Layer for OpenCL](https://github.com/intel/opencl-intercept-layer)
+- [Level Zero Tracer](https://github.com/intel/pti-gpu/tree/master/tools/ze_tracer)
 
 ## Brief
 - `sycl printf`
