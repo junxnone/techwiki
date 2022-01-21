@@ -2,7 +2,7 @@
 Title | DPCPP DEBUG
 -- | --
 Create Date | `2022-01-18T03:26:23Z`
-Update Date | `2022-01-21T07:22:11Z`
+Update Date | `2022-01-21T07:23:03Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/250)
 
 ---
@@ -39,11 +39,11 @@ PRINTF("test PRINTF")
 
 ## Environment variables
 
-- 设置 打印 SYCL 跟踪 Log
+- 设置 **SYCL_PI_TRACE** 打印 SYCL 跟踪 Log
 ```
 set SYCL_PI_TRACE=1/2/-1
 ```
-- 设置使用后端 OpenCL/Level_Zero
+- 设置 **SYCL_DEVICE_FILTER** 使用后端 OpenCL/Level_Zero
 ```
 set SYCL_DEVICE_FILTER=opencl
 set SYCL_DEVICE_FILTER=opencl:cpu
@@ -51,7 +51,7 @@ set SYCL_DEVICE_FILTER=opencl:gpu
 set SYCL_DEVICE_FILTER=level_zero
 set SYCL_DEVICE_FILTER=level_zero:gpu
 ```
-- 设置显示 Level_Zero API Call
+- 设置 **ZE_DEBUG** 显示 Level_Zero API Call
 ```
 set ZE_DEBUG=1
 ```
