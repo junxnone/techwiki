@@ -2,7 +2,7 @@
 Title | DPCPP DEBUG
 -- | --
 Create Date | `2022-01-18T03:26:23Z`
-Update Date | `2022-01-21T07:16:29Z`
+Update Date | `2022-01-21T07:16:49Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/250)
 
 ---
@@ -13,11 +13,11 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/250)
 
 
 ## Brief
+- `sycl printf`
 - Environment variables
 - GDB
 - Intercept Layer
 - ze_tracer
-- `sycl printf`
 
 
 ## Use `printf` debug in DPCPP kernel
