@@ -2,7 +2,7 @@
 Title | VNC
 -- | --
 Create Date | `2021-10-26T09:06:55Z`
-Update Date | `2022-01-25T11:15:42Z`
+Update Date | `2022-01-25T11:21:53Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/191)
 
 ---
@@ -39,4 +39,6 @@ kill server | `vncserver -kill :1`
 ### 显示复选框
 ![image](https://user-images.githubusercontent.com/2216970/150967111-67938d74-01b2-4277-a7fd-27065891ede2.png)
 
-
+- `vi ~/.vnc/xstartup`
+- 添加 `gnome-session &`
+- reboot
