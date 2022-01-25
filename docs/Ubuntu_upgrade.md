@@ -2,7 +2,7 @@
 Title | Ubuntu upgrade
 -- | --
 Create Date | `2019-09-04T05:07:55Z`
-Update Date | `2022-01-25T11:04:42Z`
+Update Date | `2022-01-25T11:49:55Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/89)
 
 ---
@@ -21,10 +21,10 @@ sudo apt update && sudo apt dist-upgrade && sudo apt autoremove
 - **3  升级至 lts**
 
 ```
-sudo do-release-upgrade -d
+sudo do-release-upgrade
 ```
 > 时间比较长 ，如果系统可以重装还是重装快
-
+> `/etc/update-manager/release-upgrades` --> `Prompt=lts` 控制升级版本
 --- 
 
 **如果 python 链接为 python3,则会出现如下报错，重新链接回 python2.7 即可**
