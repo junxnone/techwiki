@@ -2,20 +2,23 @@
 Title | Ubuntu upgrade
 -- | --
 Create Date | `2019-09-04T05:07:55Z`
-Update Date | `2021-11-24T05:36:38Z`
+Update Date | `2022-01-25T11:04:42Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/89)
 
 ---
 ## Brief
 - 升级 `Ubuntu 16.04` 到 `18.04`
+- 升级 `Ubuntu 18.04` 到 `20.04`
 
 ## Upgrade Major Version
-- **1 先更新当前的16.04**
+- **1 先更新当前的系统 (16.04/18.04)**
 ```
 sudo apt update && sudo apt dist-upgrade && sudo apt autoremove
 ```
 
-- **2  升级至 lts**
+- **2 Reboot OS**
+
+- **3  升级至 lts**
 
 ```
 sudo do-release-upgrade -d
