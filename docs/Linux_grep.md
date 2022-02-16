@@ -1,12 +1,12 @@
 ---
 Title | Linux grep
 -- | --
-Create Date | `2021-09-22T06:24:47Z`
-Update Date | `2021-09-22T06:24:47Z`
+Create Date | `2019-08-06T05:13:14Z`
+Update Date | `2022-02-16T07:06:25Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/105)
 
 ---
-# Brief
+## Brief
 - 过滤出感兴趣的内容
 
 ```
@@ -24,7 +24,7 @@ Usecase | cmd
 
 
 
-# Examples 
+## Examples 
 
 - 替换以 `r` windows 换行 为 Linux 换行 `\r\n`
 ```
