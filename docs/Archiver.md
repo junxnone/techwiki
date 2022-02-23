@@ -2,18 +2,18 @@
 Title | Archiver
 -- | --
 Create Date | `2020-06-24T03:00:54Z`
-Update Date | `2021-09-20T04:13:08Z`
+Update Date | `2022-02-23T08:19:25Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/22)
 
 ---
-# Tools
+## Tools
 
 - tar
 - zip/unzip
 - 7z
 - rar/unrar
 
-# tar
+## tar
 
 - *.tar
 - *.tar.gz
@@ -30,7 +30,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/22)
 查看 `tar.bz2` | `tar jtvf data.trar.bz2`
 
 
-# zip/unzip
+## zip/unzip
 
 用法 | command
 -- | --
@@ -61,14 +61,14 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/22)
 -d [目录] 指定文件解压缩后所要存储的目录；
 ```
 
-# 7z
+## 7z
 
 用法 | command
 -- | --
 压缩 | `7z a data.7z  data/`
 解压 | `7z x data.7z`
 
-# rar/unrar
+## rar/unrar
 
 用法 | command
 -- | --
