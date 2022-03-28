@@ -2,7 +2,7 @@
 Title | Python
 -- | --
 Create Date | `2021-11-27T05:02:46Z`
-Update Date | `2022-03-28T06:57:00Z`
+Update Date | `2022-03-28T07:00:58Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/228)
 
 ---
@@ -17,7 +17,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/228)
 - 多线程进程
   - threading
   - multiprocessing
-
+- [编译成可执行文件或库](/Python_build_exe)
 
 ## Packages
 
