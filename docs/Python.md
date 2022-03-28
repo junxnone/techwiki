@@ -2,7 +2,7 @@
 Title | Python
 -- | --
 Create Date | `2021-11-27T05:02:46Z`
-Update Date | `2022-03-28T06:56:01Z`
+Update Date | `2022-03-28T06:57:00Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/228)
 
 ---
@@ -11,6 +11,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/228)
 ## Brief 
 - 基础 Packages
 - [Slice 切片](/Python_slice)
+- [Format String](/Python_format_string)
 - [装饰器](/Python_decorator)
 - 常用 Packages
 - 多线程进程
