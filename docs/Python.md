@@ -2,12 +2,12 @@
 Title | Python
 -- | --
 Create Date | `2021-11-27T05:02:46Z`
-Update Date | `2022-03-29T09:21:14Z`
+Update Date | `2022-03-29T09:21:42Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/228)
 
 ---
 ## Reference
-- [官网](https://www.python.org/)
+- [官网](https://www.python.org/) [[docs](https://docs.python.org/3/)]
 
 
 ## Brief 
