@@ -2,7 +2,7 @@
 Title | Python tqdm
 -- | --
 Create Date | `2019-07-19T06:22:40Z`
-Update Date | `2022-03-29T09:24:48Z`
+Update Date | `2022-03-29T09:25:56Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/264)
 
 ---
@@ -17,7 +17,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/264)
 - Modules
   - tqdm.trange
   - tqdm.tqdm
-
+- 也可以在命令行中使用
 
 ## UseCase
 
