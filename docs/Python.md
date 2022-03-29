@@ -2,7 +2,7 @@
 Title | Python
 -- | --
 Create Date | `2021-11-27T05:02:46Z`
-Update Date | `2022-03-29T09:24:20Z`
+Update Date | `2022-03-29T09:30:24Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/228)
 
 ---
@@ -34,8 +34,8 @@ Packages | Description
 os |
 sys |
 time |
-logging |
-argparse |
+[logging](/Python_logging) | 自带 Log 打印管理模块
+argparse | 自带参数解析模块
 
 
 ### ML Pacakges
