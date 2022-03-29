@@ -2,7 +2,7 @@
 Title | Python
 -- | --
 Create Date | `2021-11-27T05:02:46Z`
-Update Date | `2022-03-29T09:22:07Z`
+Update Date | `2022-03-29T09:24:20Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/228)
 
 ---
@@ -58,5 +58,5 @@ Packages | Description
 -- | --
 yamlparams | Python library for dot-access to parameters in yaml file
 [psutil](/Python_psutil) | 系统信息统计
-
+[tqdm](/Python_tqdm) | 进度条工具
 
