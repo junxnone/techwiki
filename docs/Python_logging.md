@@ -2,11 +2,10 @@
 Title | Python logging
 -- | --
 Create Date | `2020-05-26T07:52:14Z`
-Update Date | `2022-03-29T09:29:36Z`
+Update Date | `2022-03-29T09:30:54Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/265)
 
 ---
-
 
 
 ## Reference
@@ -20,14 +19,14 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/265)
 
 Level | Description
 -- | --
-DEBUG | 详细信息，典型地调试问题时会感兴趣。 详细的debug信息。
-INFO | 证明事情按预期工作。 关键事件。
-WARNING | 表明发生了一些意外，或者不久的将来会发生问题（如‘磁盘满了’）。软件还是在正常工作。
-NOTICE | 不是错误，但是可能需要处理。普通但是重要的事件。
-ERROR | 由于更严重的问题，软件已不能执行一些功能了。 一般错误消息。
-CRITICAL | 严重错误，表明软件已不能继续运行了。
-ALERT | 需要立即修复，例如系统数据库损坏。
-EMERGENCY | 紧急情况，系统不可用（例如系统崩溃），一般会通知所有用户。
+**DEBUG** | 详细信息，典型地调试问题时会感兴趣。 详细的debug信息。
+**INFO** | 证明事情按预期工作。 关键事件。
+**WARNING** | 表明发生了一些意外，或者不久的将来会发生问题（如‘磁盘满了’）。软件还是在正常工作。
+**NOTICE** | 不是错误，但是可能需要处理。普通但是重要的事件。
+**ERROR** | 由于更严重的问题，软件已不能执行一些功能了。 一般错误消息。
+**CRITICAL** | 严重错误，表明软件已不能继续运行了。
+**ALERT** | 需要立即修复，例如系统数据库损坏。
+**EMERGENCY** | 紧急情况，系统不可用（例如系统崩溃），一般会通知所有用户。
 
 
 ## UseCase
