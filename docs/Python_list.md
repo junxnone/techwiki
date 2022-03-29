@@ -2,7 +2,7 @@
 Title | Python list
 -- | --
 Create Date | `2019-05-29T17:10:44Z`
-Update Date | `2022-03-29T09:35:19Z`
+Update Date | `2022-03-29T09:35:56Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/267)
 
 ---
@@ -18,8 +18,11 @@ list2str | `str = ''.join(list1)`
 
 ## Examples
 ### 复制
-L1 = L      #L1为L的别名，用C来说就是指针地址相同，对L1操作即对L操作。函数参数就是这样传递的
-L1 = L[:]   #L1为L的克隆，即另一个拷贝。
+
+复制方式 | 区别
+-- | --
+`L1 = L`  |    #L1为L的别名，用C来说就是指针地址相同，对L1操作即对L操作。函数参数就是这样传递的
+`L1 = L[:]` |  #L1为L的克隆，即另一个拷贝。
 
 ### 合并
 
