@@ -2,7 +2,7 @@
 Title | Python psutil
 -- | --
 Create Date | `2021-03-10T05:45:34Z`
-Update Date | `2022-03-29T09:19:05Z`
+Update Date | `2022-03-29T09:20:46Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/263)
 
 ---
@@ -11,7 +11,13 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/263)
 
 ## Brief
 -  获取系统信息
-
+- Support OS
+  - Linux
+  - Windows
+  - macOS
+  - FreeBSD, OpenBSD, NetBSD
+  - Sun Solaris
+  - AIX
 
 ## UseCase
 
