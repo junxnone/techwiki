@@ -2,7 +2,7 @@
 Title | Python
 -- | --
 Create Date | `2021-11-27T05:02:46Z`
-Update Date | `2022-03-28T08:21:28Z`
+Update Date | `2022-03-29T09:03:41Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/228)
 
 ---
@@ -21,6 +21,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/228)
 - [Code Analysis Tools](/Python_code_analysis_tools)
 
 ## Packages
+- [[pip]]
 
 ### Intelnal Package
 
