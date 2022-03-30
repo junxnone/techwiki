@@ -1,16 +1,16 @@
 ---
 Title | Linux xargs 
 -- | --
-Create Date | `2021-09-22T06:41:38Z`
-Update Date | `2021-09-22T06:41:38Z`
+Create Date | `2019-07-12T09:44:00Z`
+Update Date | `2022-03-30T08:20:53Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/110)
 
 ---
-# Reference
+## Reference
 - [每天学习一个命令：xargs ](https://einverne.github.io/post/2019/06/xargs)
 - [xargs 说明](https://wangchujiang.com/linux-command/c/xargs.html)
 
-# Brief
+## Brief
 
 ## Usecase
 
