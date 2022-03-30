@@ -2,7 +2,7 @@
 Title | Git
 -- | --
 Create Date | `2018-12-14T07:40:51Z`
-Update Date | `2022-03-30T08:35:48Z`
+Update Date | `2022-03-30T08:39:57Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/62)
 
 ---
@@ -57,7 +57,7 @@ git remote add github_remote xxxxxx
 ```
 - push
 ```
-git push github_remote
+git push github_remote --all
 ```
 ### 迁移所有 tag
 ```
