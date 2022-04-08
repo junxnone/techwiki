@@ -1,8 +1,8 @@
 ---
 Title | SIMD 原理
 -- | --
-Create Date | `2021-11-11T05:34:12Z`
-Update Date | `2021-11-11T05:34:12Z`
+Create Date | `2021-08-02T02:42:03Z`
+Update Date | `2022-04-08T03:38:41Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/214)
 
 ---
@@ -19,7 +19,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/214)
 ![image](https://user-images.githubusercontent.com/2216970/127825807-b8bbd56d-3d97-4f94-95bd-32c7eca5b1e8.png)
 
 ## SIMD Arch
-![image](https://user-images.githubusercontent.com/2216970/127798065-e41ca06b-46db-4833-ba38-a2f7723ed21a.png)
+<img width=500 src="https://user-images.githubusercontent.com/2216970/127798065-e41ca06b-46db-4833-ba38-a2f7723ed21a.png">
 
 ## UseCase
 
