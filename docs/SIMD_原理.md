@@ -2,7 +2,7 @@
 Title | SIMD 原理
 -- | --
 Create Date | `2021-08-02T02:42:03Z`
-Update Date | `2022-04-08T03:38:41Z`
+Update Date | `2022-04-08T05:17:02Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/214)
 
 ---
@@ -14,12 +14,15 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/214)
 - SIMD - `Single Instruction Multiple Data` - 单**指令流**多**数据流**
 - ALU - `arithmetic and logic unit` - 算术逻辑单元
 
+<img width=300 src="https://user-images.githubusercontent.com/2216970/162369549-ca1fb468-98b8-449b-91f8-66afd8cc66f0.png">
+
+
 ## Scalar & SIMD Mode
 
 ![image](https://user-images.githubusercontent.com/2216970/127825807-b8bbd56d-3d97-4f94-95bd-32c7eca5b1e8.png)
 
 ## SIMD Arch
-<img width=500 src="https://user-images.githubusercontent.com/2216970/127798065-e41ca06b-46db-4833-ba38-a2f7723ed21a.png">
+<img width=300 src="https://user-images.githubusercontent.com/2216970/127798065-e41ca06b-46db-4833-ba38-a2f7723ed21a.png">
 
 ## UseCase
 
