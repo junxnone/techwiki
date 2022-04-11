@@ -2,7 +2,7 @@
 Title | AVX
 -- | --
 Create Date | `2021-08-02T02:31:09Z`
-Update Date | `2022-04-11T06:48:35Z`
+Update Date | `2022-04-11T06:49:33Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/268)
 
 ---
@@ -95,7 +95,7 @@ permute | `_permute_` | $r_0=m_0? a_1:a_0 $  $r_1 = m_1? a_1:a_0$
 shuffle | `_shuffle_` | $r_0 = m_0\,?\, a_0:a_1$<br>$r_1 = m_1\,?\,b_0:b_1$ <br>$r_2 = m_2\,?\,a_2:a_3$<br> $r_3 = m_3\,?\,b_2:b_3$
 -- | `_shufflehi_` |
 -- | `_shufflelo_` |
--- | 
+
 
 ### 寄存器
 - SSE 128Bit `XMM0-XMM31`
