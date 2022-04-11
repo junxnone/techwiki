@@ -2,7 +2,7 @@
 Title | SIMD
 -- | --
 Create Date | `2019-12-19T09:05:21Z`
-Update Date | `2022-04-11T06:48:36Z`
+Update Date | `2022-04-11T06:49:14Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/213)
 
 ---
@@ -16,7 +16,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/213)
 ## Brief
 - SIMD - `Single Instruction Multiple Data`
 - [SIMD 原理](/SIMD_原理) 
-
+- [[AVX]]
 
 ## 各种指令集
 
@@ -28,7 +28,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/213)
 - AVX - `Advanced Vector Extensions`
 - AVX2
   - AVX2 指令集将大多数整数命令操作扩展到 256 位，并引入了熔合乘法累积（FMA）运算
-- [AVX512](junxnone/linuxwiki#268)
+- AVX512
   - AVX-512 则使用新的 EVEX 前缀编码将 AVX 指令进一步扩展到 512 位
 
 
