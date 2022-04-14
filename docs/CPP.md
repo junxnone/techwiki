@@ -2,7 +2,7 @@
 Title | CPP
 -- | --
 Create Date | `2021-07-27T02:33:13Z`
-Update Date | `2022-04-14T12:21:23Z`
+Update Date | `2022-04-14T12:22:01Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/179)
 
 ---
@@ -18,7 +18,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/179)
   - [STL - Standard Template Library](/CPP_Standard_Template_Library)
 
 ## 常用功能
-- [计时](/CPP 计时)
+- [计算时间](/CPP_计时)
 
 ## Trend
 
