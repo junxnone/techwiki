@@ -2,7 +2,7 @@
 Title | AVX
 -- | --
 Create Date | `2021-08-02T02:31:09Z`
-Update Date | `2022-04-11T06:49:33Z`
+Update Date | `2022-04-15T06:11:43Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/268)
 
 ---
@@ -96,6 +96,16 @@ shuffle | `_shuffle_` | $r_0 = m_0\,?\, a_0:a_1$<br>$r_1 = m_1\,?\,b_0:b_1$ <br>
 -- | `_shufflehi_` |
 -- | `_shufflelo_` |
 
+#### Others
+
+Name | sub | Description
+-- | -- | --
+zext | `_zextxx_xx` | 转换 type (__m256 到 __m512)
+xor | `_xor_xx` | Bitwise XOR
+-- | `_mask_xor_xx` | mask 为 0 的部分 使用 src 相应值
+-- | `_maskz_xor_xx` | mask 为 0 的部分 设为 0
+unpacklo | `_unpacklo_` | a[512] b[512] --> [a[31:0],b[31:0],a[63:32],b[63:32],a[159:128],b[159:128]...]
+ 
 
 ### 寄存器
 - SSE 128Bit `XMM0-XMM31`
