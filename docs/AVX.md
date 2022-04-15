@@ -2,7 +2,7 @@
 Title | AVX
 -- | --
 Create Date | `2021-08-02T02:31:09Z`
-Update Date | `2022-04-15T06:35:36Z`
+Update Date | `2022-04-15T06:50:39Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/268)
 
 ---
@@ -56,6 +56,12 @@ set |`_setzero_` | 创建 /s/d/sixxx 类型的 vector
 load | `_load_` | 从内存加载变量(需对齐)
 -- | `_loadu_`|  从内存加载变量(不需对齐)
 -- | `_maskload_` | 根据掩码加载部分变量 `mask 最高Bit 为 1 时加载`
+store | `_store_` | 存储变量到内存
+-- | `_storeu_` | 
+-- | `_mask_storeu_` |
+stream | `_stream_` |
+-- | `_stream_load_`|
+
 
 #### 算术/Arithmetic 
 
