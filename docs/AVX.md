@@ -2,7 +2,7 @@
 Title | AVX
 -- | --
 Create Date | `2021-08-02T02:31:09Z`
-Update Date | `2022-04-15T06:50:39Z`
+Update Date | `2022-04-15T06:58:47Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/268)
 
 ---
@@ -129,7 +129,30 @@ test| `_test_` |
 ternarylogic | `_ternarylogic_` | 
 -- |  `_mask_ternarylogic_` | 
 -- |  `_maskz_ternarylogic_` | 
-
+srl | `_srl_` |
+-- | `_mask_srl_` |
+-- | `_maskz_srl_` |
+srli | `_srli_` |
+-- | `_mask_srli_` |
+-- | `_maskz_srli_` |
+srlv | `_srlv_` |
+-- | `mask_srlv_` |
+-- | `maskz_srlv_` |
+sra | `_sra_` |
+-- | `_mask_sra_` |
+-- | `_maskz_sra_` |
+srai | `_srai_` |
+-- | `_mask_srai_` |
+-- | `_maskz_srai_` |
+srav | `_srav_` |
+-- | `_mask_srav_` |
+-- | `_maskz_srav_` |
+sqrt | 
+sll | 
+shldi
+shldv
+shrdi
+shrdv
 
 
 ### 寄存器
