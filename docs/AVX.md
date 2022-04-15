@@ -2,7 +2,7 @@
 Title | AVX
 -- | --
 Create Date | `2021-08-02T02:31:09Z`
-Update Date | `2022-04-15T06:11:43Z`
+Update Date | `2022-04-15T06:35:36Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/268)
 
 ---
@@ -69,6 +69,11 @@ sub | `_sub_` | 相减
 -- | `_subs_` | 饱和相减 如果小于最小值, 则等于最小值
 -- | `_hsub_` | 水平相减<br> `256double: ` <br>$c_0=a_0 - a_1$ <br>$c_1 = b_0 - b_1$ <br>$c_2 = a_2 - a_3$ <br>$c_3 = b_2 - b_3$ 
 -- | `_hsubs_` | 同 `_hsub_`  但是饱和相减
+-- | `_mask_subs_` |
+-- | `_maskz_subs_` |
+-- | `_sub_round_` |
+-- | `_mask_sub_round_` |
+-- | `_maskz_sub_round_` |
 addsub | `_addsub_` | 间或加减 `256double: ` <br>$c_0=a_0 - b_0$ <br>$c_1 = a_1 + b_1$ <br>$c_2 = a_2 - b_2$ <br>$c_3 = a_3 + b_3$ 
 mul | `_mul_` | 相乘
 -- | `_mullo_` | 相乘 `32Bit x 32Bit = 64 Bit` , 取[0:31]
@@ -105,7 +110,21 @@ xor | `_xor_xx` | Bitwise XOR
 -- | `_mask_xor_xx` | mask 为 0 的部分 使用 src 相应值
 -- | `_maskz_xor_xx` | mask 为 0 的部分 设为 0
 unpacklo | `_unpacklo_` | a[512] b[512] --> [a[31:0],b[31:0],a[63:32],b[63:32],a[159:128],b[159:128]...]
- 
+ -- | `_mask_unpacklo_`|
+-- | `_maskz_unpacklo_` |
+unpackhi | `_unpackhi_` |
+ -- | `_mask_unpackhi_`|
+-- | `_maskz_unpackhi_` |
+undefinec | `_undefined_` | 返回未定义的元素
+test| `_test_` |
+--  | `_mask_test_` |
+--  | `_testn_` |
+-- | `mask_testn_` |
+ternarylogic | `_ternarylogic_` | 
+-- |  `_mask_ternarylogic_` | 
+-- |  `_maskz_ternarylogic_` | 
+
+
 
 ### 寄存器
 - SSE 128Bit `XMM0-XMM31`
