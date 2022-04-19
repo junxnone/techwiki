@@ -2,7 +2,7 @@
 Title | Intel MKL - Math Kernel Library
 -- | --
 Create Date | `2021-08-03T02:32:35Z`
-Update Date | `2022-04-19T05:00:51Z`
+Update Date | `2022-04-19T05:02:12Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/225)
 
 ---
@@ -19,9 +19,9 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/225)
     - Sparse solvers
   - FFT - `fast Fourier transforms` - `1D/2D/3D`
   - RNG - `random number generator`
-  - summary statics
+  - Summary Statics
   - data fitting
-  - vector math
+  - Vector Math
 
 ## UseCase
 ```
