@@ -2,13 +2,15 @@
 Title | Intel MKL
 -- | --
 Create Date | `2021-08-03T02:32:35Z`
-Update Date | `2022-04-19T05:14:35Z`
+Update Date | `2022-04-19T06:47:32Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/225)
 
 ---
 ## Reference
 - [Spec](https://spec.oneapi.io/versions/latest/index.html)
 - [oneMKL Interfaces](https://oneapi-src.github.io/oneMKL/index.html)
+- [Intel® oneAPI Math Kernel Library Link Line Advisor](https://www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl-link-line-advisor.html)
+
 
 ## Brief
 - MKL - `Math Kernel Library`
@@ -23,7 +25,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/225)
   - Summary Statics
   - data fitting
   - Vector Math
-
+- **Language:** DPCPP/C/Fortran
 ## UseCase
 ```
 icc  app.obj -L${MKLROOT}/lib/intel64 -lmkl_intel_lp64-lmkl_intel_thread -lmkl_core
