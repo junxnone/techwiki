@@ -2,12 +2,13 @@
 Title | Intel MKL
 -- | --
 Create Date | `2021-08-03T02:32:35Z`
-Update Date | `2022-04-19T05:11:15Z`
+Update Date | `2022-04-19T05:14:11Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/225)
 
 ---
 ## Reference
-- []()
+- [Spec](https://spec.oneapi.io/versions/latest/index.html)
+- [oneMKL Interfaces](https://oneapi-src.github.io/oneMKL/index.html)
 
 ## Brief
 - MKL - `Math Kernel Library`
