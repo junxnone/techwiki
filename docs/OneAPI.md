@@ -2,7 +2,7 @@
 Title | OneAPI
 -- | --
 Create Date | `2021-06-23T06:24:28Z`
-Update Date | `2022-01-18T03:17:16Z`
+Update Date | `2022-04-19T05:12:01Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/197)
 
 ---
@@ -27,7 +27,7 @@ Level Zero | low-level direct-to-metal interfaces
 oneDAL | Data Analytics Library
 oneTBB | Threading Building Blocks
 oneVPL | Video Processing Library
-one MKL | Math Kernel Library
+[one MKL](/Intel_MKL) | Math Kernel Library
 
 
 
