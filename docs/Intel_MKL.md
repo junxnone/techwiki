@@ -2,7 +2,7 @@
 Title | Intel MKL
 -- | --
 Create Date | `2021-08-03T02:32:35Z`
-Update Date | `2022-04-19T07:32:54Z`
+Update Date | `2022-04-19T07:47:19Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/225)
 
 ---
@@ -42,6 +42,14 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/225)
 fun | Formula | Description
 -- | -- | --
 asum | $result = \sum_{i=1}^{n}(\|Re(x_i)\| + \|Im(x_i)\|)$ | 计算实数元素之和或者复数实部和虚部之和
+axpy | $y \leftarrow alpha * x + y$ | scalar-vector 相乘 加 vector
+copy | $y \leftarrow  x$ |
+dot | $result = \sum_{i=1}^{n}X_iY_i$ | 点乘
+sdsdot | $\[result = sb + \sum_{i=1}^{n}X_iY_i\]$ | 点乘加
+dotc | $\[result = \sum_{i=1}^{n}\overline{X_i}Y_i\]$ | 复数点乘(第一个参数共轭)
+dotu | $\[result = \sum_{i=1}^{n}X_iY_i\]$ | 复数点乘
+nrm2 | $\[result = \| x\|\]$ | 欧式范数
+rot | $\begin{split}\left[\begin{array}{c}    x\\y \end{array}\right] \leftarrow \left[\begin{array}{c}    \phantom{-}c*x + s*y\\    -s*x + c*y \end{array}\right]\end{split}$ | 
 
 
 ## UseCase
