@@ -1,8 +1,8 @@
 ---
 Title | Intel MKL - Math Kernel Library
 -- | --
-Create Date | `2021-11-19T15:28:00Z`
-Update Date | `2021-11-19T15:28:00Z`
+Create Date | `2021-08-03T02:32:35Z`
+Update Date | `2022-04-19T05:00:51Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/225)
 
 ---
@@ -13,7 +13,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/225)
 - MKL - `Math Kernel Library`
 - Intel-Optimized Math Library for Numerical Computing
 - Functions
-  - Linear algebra 
+  - Linear algebra - 线性代数
     - [BLAS](https://github.com/junxnone/tech-io/issues/1023) 
     - [LAPACK](https://github.com/junxnone/tech-io/issues/1024)
     - Sparse solvers
