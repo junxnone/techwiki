@@ -2,7 +2,7 @@
 Title | Intel MKL
 -- | --
 Create Date | `2021-08-03T02:32:35Z`
-Update Date | `2022-04-19T07:11:56Z`
+Update Date | `2022-04-19T07:15:14Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/225)
 
 ---
@@ -10,7 +10,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/225)
 - [Spec](https://spec.oneapi.io/versions/latest/index.html)
 - [oneMKL Interfaces](https://oneapi-src.github.io/oneMKL/index.html)
 - [Intel® oneAPI Math Kernel Library Link Line Advisor](https://www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl-link-line-advisor.html)
-
+- [Get Started Guide](https://www.intel.com/content/www/us/en/develop/documentation/get-started-with-mkl-for-dpcpp/top.html)
 
 ## Brief
 - MKL - `Math Kernel Library`
