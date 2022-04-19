@@ -2,7 +2,7 @@
 Title | Intel MKL
 -- | --
 Create Date | `2021-08-03T02:32:35Z`
-Update Date | `2022-04-19T09:22:36Z`
+Update Date | `2022-04-19T11:56:00Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/225)
 
 ---
@@ -49,10 +49,10 @@ sdsdot | $result = sb + \sum_{i=1}^{n}X_iY_i$ | 点乘加
 dotc | $result = \sum_{i=1}^{n}\overline{X_i}Y_i$ | 复数点乘(第一个参数共轭)
 dotu | $result = \sum_{i=1}^{n}X_iY_i$ | 复数点乘
 nrm2 | $result = \| x\|$ | 欧式范数
-rot | $\begin{split}\left[\begin{array}{c}    x\\y \end{array}\right] \leftarrow \left[\begin{array}{c}    \phantom{-}c*x + s*y\\    -s*x + c*y \end{array}\right]\end{split}$ | 
-rotg | $\begin{split}\begin{bmatrix}c & s \\ -s & c\end{bmatrix}. \begin{bmatrix}a \\ b\end{bmatrix} =\begin{bmatrix}r \\ 0\end{bmatrix}\end{split}$ |
-rotm | $\begin{split}\begin{bmatrix}x_i \\ y_i\end{bmatrix}= H \begin{bmatrix}x_i \\ y_i\end{bmatrix}\end{split}\]$ |
-rotmg | $\[\begin{split}\begin{bmatrix}x1 \\ 0\end{bmatrix}= H \begin{bmatrix}x1\sqrt{d1} \\ y1\sqrt{d2}\end{bmatrix}\end{split}$ | 
+rot | $\begin{bmatrix} x \\ y \end{bmatrix}\leftarrow \begin{bmatrix} c*x + s*y\\ -s*x + c*y \end{bmatrix}$ | 
+rotg | $\begin{bmatrix}c & s \\ -s & c\end{bmatrix}. \begin{bmatrix}a \\ b\end{bmatrix} =\begin{bmatrix}r \\ 0\end{bmatrix}$ |
+rotm | $\begin{bmatrix}x_i \\ y_i\end{bmatrix}= H \begin{bmatrix}x_i \\ y_i\end{bmatrix}$ |
+rotmg | $\begin{bmatrix}x1 \\ 0\end{bmatrix}= H \begin{bmatrix}x1\sqrt{d1} \\ y1\sqrt{d2}\end{bmatrix}$ | 
 scal | $$ |
 swap | $$ | 
 iamax | $$ |
