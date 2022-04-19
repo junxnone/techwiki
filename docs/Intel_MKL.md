@@ -2,7 +2,7 @@
 Title | Intel MKL
 -- | --
 Create Date | `2021-08-03T02:32:35Z`
-Update Date | `2022-04-19T11:56:00Z`
+Update Date | `2022-04-19T12:06:19Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/225)
 
 ---
@@ -53,10 +53,10 @@ rot | $\begin{bmatrix} x \\ y \end{bmatrix}\leftarrow \begin{bmatrix} c*x + s*y\
 rotg | $\begin{bmatrix}c & s \\ -s & c\end{bmatrix}. \begin{bmatrix}a \\ b\end{bmatrix} =\begin{bmatrix}r \\ 0\end{bmatrix}$ |
 rotm | $\begin{bmatrix}x_i \\ y_i\end{bmatrix}= H \begin{bmatrix}x_i \\ y_i\end{bmatrix}$ |
 rotmg | $\begin{bmatrix}x1 \\ 0\end{bmatrix}= H \begin{bmatrix}x1\sqrt{d1} \\ y1\sqrt{d2}\end{bmatrix}$ | 
-scal | $$ |
-swap | $$ | 
-iamax | $$ |
-iamin | $$ |
+scal | $x \leftarrow alpha*x$ |
+swap | $\begin{bmatrix}    y\\x \end{bmatrix} \leftarrow \begin{bmatrix}  x\\y \end{bmatrix}$ | 
+iamax | $Max(x_i)$ | Vector x 中绝对值最大的值
+iamin | $Min(x_i)$ | Vector x 中绝对值最小的值
 
 ## UseCase
 ```
