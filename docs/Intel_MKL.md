@@ -2,7 +2,7 @@
 Title | Intel MKL
 -- | --
 Create Date | `2021-08-03T02:32:35Z`
-Update Date | `2022-04-19T06:47:32Z`
+Update Date | `2022-04-19T06:49:08Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/225)
 
 ---
@@ -25,7 +25,12 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/225)
   - Summary Statics
   - data fitting
   - Vector Math
-- **Language:** DPCPP/C/Fortran
+- **Language Support:** 
+  - DPCPP - `DPCPP API`
+  - CPP/C - `C API`
+  - Fortran - `Fortran API`
+
+
 ## UseCase
 ```
 icc  app.obj -L${MKLROOT}/lib/intel64 -lmkl_intel_lp64-lmkl_intel_thread -lmkl_core
