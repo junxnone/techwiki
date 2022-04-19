@@ -2,7 +2,7 @@
 Title | Intel MKL
 -- | --
 Create Date | `2021-08-03T02:32:35Z`
-Update Date | `2022-04-19T06:49:08Z`
+Update Date | `2022-04-19T07:06:05Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/225)
 
 ---
@@ -29,6 +29,12 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/225)
   - DPCPP - `DPCPP API`
   - CPP/C - `C API`
   - Fortran - `Fortran API`
+
+## API
+### BLAS
+- Level 1 - `Vector - Vector 操作`
+- Level 2 - `Matrix - Vector 操作`
+- Level 3 - `Matrix - Matrix 操作`
 
 
 ## UseCase
