@@ -2,7 +2,7 @@
 Title | Intel MKL
 -- | --
 Create Date | `2021-08-03T02:32:35Z`
-Update Date | `2022-04-19T07:06:05Z`
+Update Date | `2022-04-19T07:11:56Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/225)
 
 ---
@@ -35,6 +35,12 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/225)
 - Level 1 - `Vector - Vector 操作`
 - Level 2 - `Matrix - Vector 操作`
 - Level 3 - `Matrix - Matrix 操作`
+
+#### Levle 1
+
+fun | Formula | Description
+-- | -- | --
+asum | $result = \sum_{i=1}^{n}(|Re(x_i)| + |Im(x_i)|)$ | 计算实数元素之和或者复数实部和虚部之和
 
 
 ## UseCase
