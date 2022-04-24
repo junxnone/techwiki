@@ -1,4 +1,3 @@
-
 - Linux
   - [Linux & Tools Install](/Install)
   - [Linux Desktop](/Linux_Desktop)
@@ -63,7 +62,15 @@
     - [Gitlab](/Gitlab)
   - 开发文档
     - [Markdown](/Markdown)
+    - [YAML](/YAML)
 - [Others](/Others)
+    - [Open Source License](/Open_Source_License)
+    - [开发版本号相关](/Version)
+    - [mosquitto](/mosquitto)
+    - [代码浏览工具 opengrok](/Tools_opengrok)
+    - [Yocto](/Yocto)
+    - [Visual Studio](/Visual_Studio)
+    - [CRLR](/CRLF)
 - [Hardware](/Hardware)
   - CPU
   - [Memory](/Memory)
