@@ -68,7 +68,7 @@
 - [Hardware](/Hardware)
   - CPU
   - [Memory](/Memory)
-  - Cache
+  - [Cache](/Cache)
   - [iGPU](/iGPU)
   - NVIDIA GPUs
   - [SIMD](/SIMD)
