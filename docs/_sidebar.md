@@ -39,6 +39,7 @@
   - [Socket](/Socket)
     - [Socket 函数](/Socket_Function)
 - [性能优化](/Performance_Optimization)
+  - [内存优化](/Memory_Optimizations)
   - [Vtune](/Vtune)
 - [并行计算](/并行计算)
   - [DPC++](/DPCPP)
