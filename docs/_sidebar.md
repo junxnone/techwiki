@@ -15,54 +15,60 @@
   - [Linux Driver](/Linux_Driver)
   - [Library](/Library)
     - [Library Tools](/Library_Tools)
-- [Develop](/Develop)
-  - [编译器](/Compiler)
-    - [GCC](/GCC)
-    - [ICC](/Intel_Compiler)
-  - 开发工具
-    - [cmake](/cmake)
-    - [make](/Make)
-    - [pkg-config](/pkg_config)
-    - ninja
-    - meson
-    - [Jupyter](/Jupyter)
-      - [JupyterLab](/JupyterLab)
-      - [JupyterHub](/JupyterHub)
-    - [conda](/conda)
-    - [Python virtualenv](/Python_virtualenv)
-    - [OneAPI](/OneAPI)
-  - 编程语言
-    - C
-    - [C++](/CPP)
-    - [Python](/Python)
-    - [Shell](/Shell)
-  - 网咯编程
-    - [Socket](/Socket)
-      - [Socket 函数](/Socket_Function)
-  - [并行计算](/并行计算)
-    - [DPC++](/DPCPP)
-    - [SYCL](/SYCL)
-    - [OpenMP](/OpenMP)
-    - [OpenCL](/OpenCL)
-    - [OpenMPI](/OpenMPI)
-    - Concepts
-      - [NDRange](/NDRange)
-  - 虚拟化
-    - [Docker](/Docker)
-    - KVM
-  - 版本管理
-    - [Git](/Git)
-    - Github
-      - [Github backup](/Github_backup)
-      - [Github actions](/Github_actions)
-      - [Github Token](/Github_Token)
-      - [Github Pages](/Github_Pages)
-      - [Github Chrome extensions](/Github_Chrome_extensions)
-      - [Github 代码浏览工具 Source Graph](/Sourcegraph)
-    - [Gitlab](/Gitlab)
-  - 开发文档
-    - [Markdown](/Markdown)
-    - [YAML](/YAML)
+- [编译器](/Compiler)
+  - [GCC](/GCC)
+  - [ICC](/Intel_Compiler)
+- 开发工具
+  - [cmake](/cmake)
+  - [make](/Make)
+  - [pkg-config](/pkg_config)
+  - ninja
+  - meson
+  - [Jupyter](/Jupyter)
+    - [JupyterLab](/JupyterLab)
+    - [JupyterHub](/JupyterHub)
+  - [conda](/conda)
+  - [Python virtualenv](/Python_virtualenv)
+  - [OneAPI](/OneAPI)
+- 编程语言
+  - C
+  - [C++](/CPP)
+  - [Python](/Python)
+  - [Shell](/Shell)
+- 网咯编程
+  - [Socket](/Socket)
+    - [Socket 函数](/Socket_Function)
+- [并行计算](/并行计算)
+  - [DPC++](/DPCPP)
+  - [SYCL](/SYCL)
+  - [OpenMP](/OpenMP)
+  - [OpenCL](/OpenCL)
+  - [OpenMPI](/OpenMPI)
+  - Concepts
+    - [NDRange](/NDRange)
+- 虚拟化
+  - [Docker](/Docker)
+  - KVM
+- 版本管理
+  - [Git](/Git)
+  - Github
+    - [Github backup](/Github_backup)
+    - [Github actions](/Github_actions)
+    - [Github Token](/Github_Token)
+    - [Github Pages](/Github_Pages)
+    - [Github Chrome extensions](/Github_Chrome_extensions)
+    - [Github 代码浏览工具 Source Graph](/Sourcegraph)
+  - [Gitlab](/Gitlab)
+- 开发文档
+  - [Markdown](/Markdown)
+  - [YAML](/YAML)
+- [Hardware](/Hardware)
+  - CPU
+  - [Memory](/Memory)
+  - Cache
+  - [iGPU](/iGPU)
+  - NVIDIA GPUs
+  - [SIMD](/SIMD)
 - [Others](/Others)
     - [Open Source License](/Open_Source_License)
     - [开发版本号相关](/Version)
@@ -71,10 +77,4 @@
     - [Yocto](/Yocto)
     - [Visual Studio](/Visual_Studio)
     - [CRLR](/CRLF)
-- [Hardware](/Hardware)
-  - CPU
-  - [Memory](/Memory)
-  - Cache
-  - [iGPU](/iGPU)
-  - NVIDIA GPUs
-  - [SIMD](/SIMD)
+
