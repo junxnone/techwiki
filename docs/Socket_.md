@@ -1,16 +1,16 @@
 ---
 Title | Socket 
 -- | --
-Create Date | `2021-10-12T14:41:46Z`
-Update Date | `2021-10-12T14:41:46Z`
+Create Date | `2021-01-12T02:13:41Z`
+Update Date | `2022-04-25T02:09:35Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/173)
 
 ---
-# Reference
+## Reference
 - [socket 简介](http://c.biancheng.net/view/2123.html)
 - [socket samples](https://github.com/shineyr/Socket)
 
-# Brief
+## Brief
 - Socket - 套接字
 - Server - Client
 - TCP/IP/UDP 传输层 之上
