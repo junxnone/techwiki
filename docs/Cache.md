@@ -2,7 +2,7 @@
 Title | Cache
 -- | --
 Create Date | `2022-04-25T03:29:21Z`
-Update Date | `2022-04-25T03:55:43Z`
+Update Date | `2022-04-25T06:53:10Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/273)
 
 ---
@@ -25,6 +25,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/273)
 ## Cache Arch
 
 ![image](https://user-images.githubusercontent.com/2216970/165016896-a476cb9a-2cc7-4d4e-b1bc-289951c5e79f.png)
+![image](https://user-images.githubusercontent.com/2216970/165035159-bbf5b607-aa0d-40ad-b15b-35a3c31ed91e.png)
+
 
 ### 映射方式
 - 直接映射/`Direct Mapped`:  每个主存 Block 只能映射到特定 `Cache Line`
