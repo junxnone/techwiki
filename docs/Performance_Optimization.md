@@ -2,7 +2,7 @@
 Title | Performance Optimization
 -- | --
 Create Date | `2022-04-25T02:05:42Z`
-Update Date | `2022-04-25T02:05:42Z`
+Update Date | `2022-04-25T02:39:53Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/272)
 
 ---
@@ -27,5 +27,5 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/272)
   - [IPP - Intel](/IPP_Intel)
   - [MKL - Intel](/MKL_Intel)
 - Tools
-- [[Vtune]]
-- [pmu tools](https://github.com/andikleen/pmu-tools)
+  - [[Vtune]]
+  - [pmu tools](https://github.com/andikleen/pmu-tools)
