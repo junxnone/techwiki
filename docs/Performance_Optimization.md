@@ -2,7 +2,7 @@
 Title | Performance Optimization
 -- | --
 Create Date | `2022-04-25T02:05:42Z`
-Update Date | `2022-04-26T06:17:58Z`
+Update Date | `2022-04-26T06:21:27Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/272)
 
 ---
@@ -40,7 +40,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/272)
 
 ## TMA
 - TMA - `Top-Down Microarchitecture Analysis`
-
+- **Front End**: 从内存中拉取指令并将指令翻译为微操作（micro-operations, μops），这些 μops 会被传递给后端部分，但通常这些 μops 会暂存在 ready-μops-queue 中。
+- **Back End**: 以原始程序中的顺序调度（schedule）、执行（execute）和提交（commit, retire）这些 μops
 
 ![image](https://user-images.githubusercontent.com/2216970/165234008-d2226b5f-9fee-4eb7-8b2a-2fa14a24ddc4.png)
 
