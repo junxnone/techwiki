@@ -2,7 +2,7 @@
 Title | Performance Optimization
 -- | --
 Create Date | `2022-04-25T02:05:42Z`
-Update Date | `2022-04-26T06:09:45Z`
+Update Date | `2022-04-26T06:17:58Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/272)
 
 ---
@@ -40,4 +40,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/272)
 
 ## TMA
 - TMA - `Top-Down Microarchitecture Analysis`
+
+
+![image](https://user-images.githubusercontent.com/2216970/165234008-d2226b5f-9fee-4eb7-8b2a-2fa14a24ddc4.png)
 
