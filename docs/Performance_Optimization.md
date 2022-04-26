@@ -2,7 +2,7 @@
 Title | Performance Optimization
 -- | --
 Create Date | `2022-04-25T02:05:42Z`
-Update Date | `2022-04-26T09:25:20Z`
+Update Date | `2022-04-26T09:34:31Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/272)
 
 ---
@@ -42,7 +42,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/272)
 - **Stall**: CPU 等待数据, 未工作(资源竞争/数据读写)
 - **IPC**: `Instructions per cycle` 每时钟周期运行的指令数
 - **CPI**: `Cycles per Instruction` 每条指令的平均时钟周期数
-- **主频**: 
+- **主频**: CPU 运行频率
 - **时钟周期**: 时钟频率倒数
 - **机器周期** - CPU 周期: 基本操作/元操作 周期(从内存里面读取一条指令的最短时间)
 - **指令周期**: 取出一条指令并执行这条指令的时间
