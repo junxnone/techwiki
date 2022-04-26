@@ -2,7 +2,7 @@
 Title | Performance Optimization
 -- | --
 Create Date | `2022-04-25T02:05:42Z`
-Update Date | `2022-04-26T06:08:56Z`
+Update Date | `2022-04-26T06:09:45Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/272)
 
 ---
@@ -16,7 +16,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/272)
 
 
 ## Brief
-- 性能优化
+- 性能优化 - 优化程序运行时间/内存占用/计算资源利用率
 - 时间复杂度
 - 空间复杂度
 - 并行化
