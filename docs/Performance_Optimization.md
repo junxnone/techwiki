@@ -2,7 +2,7 @@
 Title | Performance Optimization
 -- | --
 Create Date | `2022-04-25T02:05:42Z`
-Update Date | `2022-04-26T02:25:29Z`
+Update Date | `2022-04-26T06:08:56Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/272)
 
 ---
@@ -27,6 +27,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/272)
   - [[OpenCL]]
 - [内存优化/Memory Optimizations](/Memory_Optimizations)
 - [Loop Optimizations](/Loop_Optimizations)
+- Prefetch
 - 加速库
   - [IPP - Intel](/IPP_Intel)
   - [MKL - Intel](/MKL_Intel)
