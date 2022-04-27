@@ -2,7 +2,7 @@
 Title | Cache Line Optimization
 -- | --
 Create Date | `2022-04-27T02:59:04Z`
-Update Date | `2022-04-27T03:36:54Z`
+Update Date | `2022-04-27T05:06:23Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/275)
 
 ---
@@ -16,7 +16,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/275)
   - 结构体中包含无用变量
   - 结构体中的数据类型混排对齐
   - 数据行列访问
-- False Sharing
+- **False Sharing**: 多个线程访问同一 `cache line` 的不同数据
 
 
 ## Optimization 
