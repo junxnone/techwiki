@@ -2,7 +2,7 @@
 Title | Memory Optimizations
 -- | --
 Create Date | `2021-11-15T08:35:48Z`
-Update Date | `2021-12-15T06:10:29Z`
+Update Date | `2022-04-27T02:59:06Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/216)
 
 ---
@@ -24,6 +24,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/216)
 - 内存带宽
 - False Sharing
 - SoA vs. AoS
+- [Cache Line Optimization](/Cache_Line_Optimization)
+
 
 ## Memory Arch
 - **按访问速度排序:** Registers/L1/L2/L3/DRAM(Local Memory)/`Remote Memory`/`Swap space virtual memory`(Hard Disk/SSD)
