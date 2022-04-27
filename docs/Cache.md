@@ -2,7 +2,7 @@
 Title | Cache
 -- | --
 Create Date | `2022-04-25T03:29:21Z`
-Update Date | `2022-04-27T05:45:49Z`
+Update Date | `2022-04-27T05:53:03Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/273)
 
 ---
@@ -54,9 +54,12 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/273)
 > MOD - 取余
 
 ## Cache Line
+- TGL Cache Line: 64 Byte
 - Cache Line 状态(MESI)
   - Modified: 只被缓存在当前 CPU, 被修改过, 写回主存后变为 `Exclusive` 状态
   - Exclusive: 只被缓存在当前 CPU, 未被修改
   - Shared: 被多个 CPU 缓存, 当一个缓存修改, 其他缓存 Invalid
   - Invalid: 无效缓存
+
+![image](https://user-images.githubusercontent.com/2216970/165450175-d30308d8-4f13-48bb-bb68-eb3551d2182a.png)
 
