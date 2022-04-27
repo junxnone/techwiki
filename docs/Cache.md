@@ -2,7 +2,7 @@
 Title | Cache
 -- | --
 Create Date | `2022-04-25T03:29:21Z`
-Update Date | `2022-04-27T02:33:23Z`
+Update Date | `2022-04-27T05:27:23Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/273)
 
 ---
@@ -29,6 +29,14 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/273)
 ![image](https://user-images.githubusercontent.com/2216970/165016896-a476cb9a-2cc7-4d4e-b1bc-289951c5e79f.png)
 ![image](https://user-images.githubusercontent.com/2216970/165035159-bbf5b607-aa0d-40ad-b15b-35a3c31ed91e.png)
 
+### Intel Tiger Lake Cache
+- DCU: L1 Data Cache
+- IFU: L1 Instruction Cache
+- MLC: L2 Mid Level Cache
+- LLC: L3 Last Level Cache
+- L1/L2 每个核独立, L3 多核共享
+
+![image](https://user-images.githubusercontent.com/2216970/165446774-2a1238e2-a2b3-4611-b3f0-0773fe19a452.png)
 
 ### 映射方式
 - 直接映射/`Direct Mapped`:  每个主存 Block 只能映射到特定 `Cache Line`
