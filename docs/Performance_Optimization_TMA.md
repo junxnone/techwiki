@@ -2,7 +2,7 @@
 Title | Performance Optimization TMA
 -- | --
 Create Date | `2022-04-27T01:48:41Z`
-Update Date | `2022-04-27T01:48:41Z`
+Update Date | `2022-04-27T07:47:03Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/274)
 
 ---
@@ -15,6 +15,13 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/274)
 
 ## Brief
 - TMA - `Top-Down Microarchitecture Analysis`
+- **Retiring**: 
+
 
 ![image](https://user-images.githubusercontent.com/2216970/165234008-d2226b5f-9fee-4eb7-8b2a-2fa14a24ddc4.png)
+
+## 相关名词
+- **μOps**: `micro-ops/micro-operations` 微指令
+- **Pipeline Slots**: 处理一个 μOps 需要的硬件资源
+  - 对于每个 `CPU Core`, 在每个时钟周期, 有多个可用的 `Pipeline Slots`, 数量称为 `Pipeline Width`
 
