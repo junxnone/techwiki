@@ -2,7 +2,7 @@
 Title | Cache Line Optimization
 -- | --
 Create Date | `2022-04-27T02:59:04Z`
-Update Date | `2022-04-27T03:07:47Z`
+Update Date | `2022-04-27T03:16:58Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/275)
 
 ---
@@ -63,5 +63,35 @@ Define | 排列
 -- | --
 Data3 | ![image](https://user-images.githubusercontent.com/2216970/165431251-4c3ae17d-b3c3-4635-b7d2-cec6292a81dc.png)
 Data4 | ![image](https://user-images.githubusercontent.com/2216970/165431256-d95e1ad9-61d9-44e4-87a7-697eee6f8d53.png)
+
+
+### 数据行列访问
+- 内存以行存储数据, 按行访问数据，每次 Cache 读取能够取到更多有效数据
+
+```
+// 按列访问
+char * p;
+p = new char[SIZE];
+for (long x=0; x<sRowSize; x++) {
+    for (long y=0; y<nbRows; y++) {
+        p[x+y*sRowSize]++;
+    }
+}
+```
+```
+// 按行访问
+char * p;
+p = new char[SIZE];
+for (long y=0; y<nbRows; y++) {
+    for (long x=0; x<sRowSize; x++) {
+        p[x+y*sRowSize]++;
+    }
+}
+```
+
+Mode | 按列访问 | 按行访问
+-- | -- | --
+Cache Line 读取区域 | <img width=200 src="https://user-images.githubusercontent.com/2216970/165432374-f045fb72-6d56-4b93-be94-b4f8493d0ca7.png"> | <img width=200 src="https://user-images.githubusercontent.com/2216970/165432478-0e33ef14-8511-4c15-a2cb-7f1600210b34.png">
+
 
 
