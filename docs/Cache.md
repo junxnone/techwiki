@@ -2,13 +2,15 @@
 Title | Cache
 -- | --
 Create Date | `2022-04-25T03:29:21Z`
-Update Date | `2022-04-25T06:53:10Z`
+Update Date | `2022-04-27T02:33:23Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/273)
 
 ---
 ## Reference
 - [计算机体系结构(Spring 2021)](http://staff.ustc.edu.cn/~xhzhou/CA-Spring2021/CA.html)  [[chapter04-01.pdf](https://github.com/junxnone/linuxwiki/files/8551388/chapter04-01.pdf)]
 - [计算机体系结构-Cache高速缓存](https://zhuanlan.zhihu.com/p/482651908)
+- [Cache地址映射与计算方式](https://www.cnblogs.com/AD-milk/p/13225494.html)
+
 
 ## Brief
 - Cache - 高速缓冲存储器
@@ -35,11 +37,11 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/273)
 
 ![image](https://user-images.githubusercontent.com/2216970/165017679-58109c88-1645-4171-9ca1-4e6fa9028f57.png)
 
-映射方式 | Example
--- | --
-全相联 | `Memory Block 12` 可以映射到 `Cache Block 0~7`
-直接映射 |  `Memory Block 12` 可以映射到 `Cache Block 4` (12 MOD 8)
-组相联 | `Memory Block 12` 可以映射到 `Set 0` (12 MOD 4)
+映射方式 | Example | 优缺点
+-- | -- | --
+全相联 | `Memory Block 12` 可以映射到 `Cache Block 0~7` | 电路复制/速度慢/不存在冲突缺失/命中率高
+直接映射 |  `Memory Block 12` 可以映射到 `Cache Block 4` (12 MOD 8) | 电路实现简单/命中时间短/空间利用率低/命中率低
+组相联 | `Memory Block 12` 可以映射到 `Set 0` (12 MOD 4) | 电路较简单/速度较快/命中率较高
 
 > MOD - 取余
 
