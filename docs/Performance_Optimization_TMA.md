@@ -2,7 +2,7 @@
 Title | Performance Optimization TMA
 -- | --
 Create Date | `2022-04-27T01:48:41Z`
-Update Date | `2022-04-27T09:38:28Z`
+Update Date | `2022-04-27T10:13:12Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/274)
 
 ---
@@ -12,10 +12,11 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/274)
 - [自顶向下的微架构分析方法 - Intel](https://www.intel.com/content/www/us/en/develop/documentation/vtune-cookbook-zh-cn/top/methodologies/top-down-microarchitecture-analysis-method.html)
 2014 **TMA** [A Top-Down method for performance analysis and counters architecture.pdf](https://github.com/junxnone/linuxwiki/files/8559242/A.Top-Down.method.for.performance.analysis.and.counters.architecture.pdf)
 - [Pipeline Slots](https://www.intel.com/content/www/us/en/develop/documentation/vtune-help/top/reference/cpu-metrics-reference/pipeline-slots.html)
+- [Instructions Retired Event](https://www.intel.com/content/www/us/en/develop/documentation/vtune-help/top/analyze-performance/custom-analysis/custom-analysis-options/hardware-event-list/instructions-retired-event.html)
 
 ## Brief
 - TMA - `Top-Down Microarchitecture Analysis`
-- **Retiring**: 正常退出的 μOps 比例
+- **Retiring**: 正常执行的 μOps 比例
 - **Bad Speculation**: Cancelled ( `Mispredicted branches`/`Incorrect data speculation`)
 - **Front-End Bound**: front-end 导致的 pipeline slots 不能被充分使用
 - **Back-End Bound**: back-end 导致的 pipeline slots 不能被充分使用
