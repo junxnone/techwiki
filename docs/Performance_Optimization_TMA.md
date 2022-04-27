@@ -2,7 +2,7 @@
 Title | Performance Optimization TMA
 -- | --
 Create Date | `2022-04-27T01:48:41Z`
-Update Date | `2022-04-27T08:32:55Z`
+Update Date | `2022-04-27T08:33:19Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/274)
 
 ---
@@ -28,7 +28,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/274)
 - **Pipeline Slots**: 处理一个 μOps 需要的硬件资源
   - 对于每个 `CPU Core`, 在每个时钟周期, 有多个可用的 `Pipeline Slots`, 数量称为 `Pipeline Width`
 
-40 Pipeline Slots = 4-wide CPU X 10 Clock cycles | Retring(50%) = SlotsRetired/TotalSlots
+40 Pipeline Slots = 4-wide CPU X 10 Clock cycles | Retiring(50%) = SlotsRetired/TotalSlots
 -- | --
 ![image](https://user-images.githubusercontent.com/2216970/165475906-e72622c8-af6f-4f73-8982-a12051fde74e.png) | ![image](https://user-images.githubusercontent.com/2216970/165475920-9ef67a82-8bbb-4fc9-b090-8da041b85dd4.png)
 
