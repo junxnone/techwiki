@@ -2,14 +2,13 @@
 Title | Performance Optimization
 -- | --
 Create Date | `2022-04-25T02:05:42Z`
-Update Date | `2022-04-27T01:48:41Z`
+Update Date | `2022-04-27T01:53:13Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/272)
 
 ---
 ## Reference
 - [Optimize - Intel® oneAPI Programming Guide](https://www.intel.com/content/www/us/en/develop/documentation/oneapi-programming-guide/top/software-development-process/performance-tuning-cycle/optimize.html)
 - [Software optimization resources](https://www.agner.org/optimize/)
-
 
 
 ## Brief
@@ -31,7 +30,6 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/272)
 - Tools
   - [[Vtune]]
   - [pmu tools](https://github.com/andikleen/pmu-tools)
-- **PMUs**: CPU 内核中的专用逻辑块，用于记录计算系统上发生的特定硬件事件(缓存遗漏/分支错误预测), 这些事件组合起来创建有用的高级指标，如 CPI 。
 - [TMA - Top-Down Microarchitecture Analysis](/Performance_Optimization_TMA)
 
 ## 相关名词
@@ -46,5 +44,5 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/272)
 - **指令周期**: 取出一条指令并执行这条指令的时间
 - **MIPS** - `Million Instructions Per Second` : 每秒执行百万条指令数
 - **MFLOPS**- `Million Floating-point Operations per Second`: 每秒百万浮点数运算
-
+- **PMUs**: CPU 内核中的专用逻辑块，用于记录计算系统上发生的特定硬件事件(缓存遗漏/分支错误预测), 这些事件组合起来创建有用的高级指标，如 CPI 。
 
