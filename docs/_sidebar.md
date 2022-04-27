@@ -66,7 +66,7 @@
   - [Markdown](/Markdown)
   - [YAML](/YAML)
 - [Hardware](/Hardware)
-  - CPU
+  - [CPU](/CPU)
   - [Memory](/Memory)
   - [Cache](/Cache)
   - [iGPU](/iGPU)
