@@ -2,12 +2,12 @@
 Title | Cache Line Optimization
 -- | --
 Create Date | `2022-04-27T02:59:04Z`
-Update Date | `2022-04-27T03:22:52Z`
+Update Date | `2022-04-27T03:36:54Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/275)
 
 ---
 ## Reference
-- [CPU Cache Optimization](https://zzqcn.github.io/perf/cpu_cache.html)
+- [CPU Cache Optimization](https://zzqcn.github.io/perf/cpu_cache.html) [[code](https://github.com/zzqcn/storage/tree/main/code/c/cache_opt)]
 
 
 ## Brief
