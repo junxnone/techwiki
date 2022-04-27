@@ -2,7 +2,7 @@
 Title | Performance Optimization TMA
 -- | --
 Create Date | `2022-04-27T01:48:41Z`
-Update Date | `2022-04-27T08:33:19Z`
+Update Date | `2022-04-27T09:38:28Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/274)
 
 ---
@@ -16,14 +16,15 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/274)
 ## Brief
 - TMA - `Top-Down Microarchitecture Analysis`
 - **Retiring**: 正常退出的 μOps 比例
-
+- **Bad Speculation**: Cancelled ( `Mispredicted branches`/`Incorrect data speculation`)
+- **Front-End Bound**: front-end 导致的 pipeline slots 不能被充分使用
+- **Back-End Bound**: back-end 导致的 pipeline slots 不能被充分使用
 
 ![image](https://user-images.githubusercontent.com/2216970/165234008-d2226b5f-9fee-4eb7-8b2a-2fa14a24ddc4.png)
 
 ## 相关名词
 - **μOps**: `micro-ops/micro-operations` 微指令
-  - 丢弃
-  - Retiring 正常退出
+
 ### Pipeline Slots
 - **Pipeline Slots**: 处理一个 μOps 需要的硬件资源
   - 对于每个 `CPU Core`, 在每个时钟周期, 有多个可用的 `Pipeline Slots`, 数量称为 `Pipeline Width`
