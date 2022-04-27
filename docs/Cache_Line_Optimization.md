@@ -2,7 +2,7 @@
 Title | Cache Line Optimization
 -- | --
 Create Date | `2022-04-27T02:59:04Z`
-Update Date | `2022-04-27T03:22:15Z`
+Update Date | `2022-04-27T03:22:52Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/275)
 
 ---
@@ -44,7 +44,7 @@ Define | 排列
 Data1 | ![image](https://user-images.githubusercontent.com/2216970/165431054-a23459e3-f278-4ff8-a14c-cda0587790ff.png)
 Data2 | ![image](https://user-images.githubusercontent.com/2216970/165431060-4206bb0b-3b15-4cda-8df5-0e658f90fcb4.png)
 
-### 变量排列顺序
+### 数据类型混排对齐
 - 数据类型对齐导致的空间浪费，导致需要读取更多次数
 
 ```
