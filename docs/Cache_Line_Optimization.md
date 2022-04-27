@@ -2,7 +2,7 @@
 Title | Cache Line Optimization
 -- | --
 Create Date | `2022-04-27T02:59:04Z`
-Update Date | `2022-04-27T03:16:58Z`
+Update Date | `2022-04-27T03:22:15Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/275)
 
 ---
@@ -12,8 +12,12 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/275)
 
 ## Brief
 - [[Cache]]
-- Optimization
-  - 剔除结构体中的无用变量
+- 结构体定义导致的每次 Cache 读取效率低
+  - 结构体中包含无用变量
+  - 结构体中的数据类型混排对齐
+  - 数据行列访问
+- False Sharing
+
 
 ## Optimization 
 ### 无用变量
@@ -94,4 +98,7 @@ Mode | 按列访问 | 按行访问
 Cache Line 读取区域 | <img width=200 src="https://user-images.githubusercontent.com/2216970/165432374-f045fb72-6d56-4b93-be94-b4f8493d0ca7.png"> | <img width=200 src="https://user-images.githubusercontent.com/2216970/165432478-0e33ef14-8511-4c15-a2cb-7f1600210b34.png">
 
 
+### False Sharing
+
+![image](https://user-images.githubusercontent.com/2216970/146132953-0c21c3c2-18c1-4041-a452-0ed3f7c148a3.png)
 
