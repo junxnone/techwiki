@@ -2,7 +2,7 @@
 Title | Cache
 -- | --
 Create Date | `2022-04-25T03:29:21Z`
-Update Date | `2022-04-27T05:27:54Z`
+Update Date | `2022-04-27T05:45:49Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/273)
 
 ---
@@ -53,4 +53,10 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/273)
 
 > MOD - 取余
 
+## Cache Line
+- Cache Line 状态(MESI)
+  - Modified: 只被缓存在当前 CPU, 被修改过, 写回主存后变为 `Exclusive` 状态
+  - Exclusive: 只被缓存在当前 CPU, 未被修改
+  - Shared: 被多个 CPU 缓存, 当一个缓存修改, 其他缓存 Invalid
+  - Invalid: 无效缓存
 
