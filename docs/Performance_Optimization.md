@@ -2,7 +2,7 @@
 Title | Performance Optimization
 -- | --
 Create Date | `2022-04-25T02:05:42Z`
-Update Date | `2022-04-27T01:53:13Z`
+Update Date | `2022-04-27T07:47:19Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/272)
 
 ---
@@ -35,7 +35,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/272)
 ## 相关名词
 - **Front End**: 从内存中拉取指令并将指令翻译为微操作（micro-operations, μops），这些 μops 会被传递给后端部分，但通常这些 μops 会暂存在 ready-μops-queue 中。
 - **Back End**: 以原始程序中的顺序调度（schedule）、执行（execute）和提交（commit, retire）这些 μops
-- **Stall**: CPU 等待数据, 未工作(资源竞争/数据读写)
+- **Stall**:  阻塞, CPU 等待数据, 未工作(资源竞争/数据读写)
 - **IPC**: `Instructions per cycle` 每时钟周期运行的指令数
 - **CPI**: `Cycles per Instruction` 每条指令的平均时钟周期数
 - **主频**: CPU 运行频率
