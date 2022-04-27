@@ -2,7 +2,7 @@
 Title | Cache
 -- | --
 Create Date | `2022-04-25T03:29:21Z`
-Update Date | `2022-04-27T05:27:23Z`
+Update Date | `2022-04-27T05:27:54Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/273)
 
 ---
@@ -43,7 +43,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/273)
 - 组相联/`Set Associative`: Cache 分组 主存 Block 映射到组
 - 全相联/`Fully Associative` : 可以放在任何位置
 
-![image](https://user-images.githubusercontent.com/2216970/165017679-58109c88-1645-4171-9ca1-4e6fa9028f57.png)
+<img width=500 src="https://user-images.githubusercontent.com/2216970/165017679-58109c88-1645-4171-9ca1-4e6fa9028f57.png">
 
 映射方式 | Example | 优缺点
 -- | -- | --
