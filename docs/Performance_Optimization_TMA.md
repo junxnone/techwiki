@@ -2,7 +2,7 @@
 Title | Performance Optimization TMA
 -- | --
 Create Date | `2022-04-27T01:48:41Z`
-Update Date | `2022-04-27T10:13:12Z`
+Update Date | `2022-04-28T06:11:22Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/274)
 
 ---
@@ -20,6 +20,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/274)
 - **Bad Speculation**: Cancelled ( `Mispredicted branches`/`Incorrect data speculation`)
 - **Front-End Bound**: front-end 导致的 pipeline slots 不能被充分使用
 - **Back-End Bound**: back-end 导致的 pipeline slots 不能被充分使用
+
+## 层次结构/Hierarchy
 
 ![image](https://user-images.githubusercontent.com/2216970/165234008-d2226b5f-9fee-4eb7-8b2a-2fa14a24ddc4.png)
 
