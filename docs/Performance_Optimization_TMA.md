@@ -2,7 +2,7 @@
 Title | Performance Optimization TMA
 -- | --
 Create Date | `2022-04-27T01:48:41Z`
-Update Date | `2022-04-28T06:11:22Z`
+Update Date | `2022-04-28T06:54:35Z`
 Edit link | [here](https://github.com/junxnone/linuxwiki/issues/274)
 
 ---
@@ -27,6 +27,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/274)
 
 ## 相关名词
 - **μOps**: `micro-ops/micro-operations` 微指令
+- **DSB**: `Decoded-μop Stream Buffer`
 
 ### Pipeline Slots
 - **Pipeline Slots**: 处理一个 μOps 需要的硬件资源
