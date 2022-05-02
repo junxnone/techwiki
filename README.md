@@ -1,1 +1,1 @@
-# Linux-wiki
+# Tech-wiki
