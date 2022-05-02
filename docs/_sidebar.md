@@ -1,8 +1,8 @@
-- Linux
+- [Linux](/Linux)
   - [Linux & Tools Install](/Install)
   - [Linux Desktop](/Linux_Desktop)
   - [LInux Tools](/Tools)
-  - [Networks]()
+  - [Networks](/Networks)
     - [Proxy](/Proxy)
     - [V2Ray](/V2Ray)
     - [shadowsocks](/Ubuntu_shadowsocks)
