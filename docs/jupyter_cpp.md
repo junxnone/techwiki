@@ -2,19 +2,19 @@
 Title | jupyter cpp
 -- | --
 Create Date | `2021-10-25T02:11:55Z`
-Update Date | `2021-10-25T02:11:55Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/189)
+Update Date | `2022-05-09T09:01:50Z`
+Edit link | [here](https://github.com/junxnone/techwiki/issues/189)
 
 ---
-# Reference
+## Reference
 - [jupyter-xeus/xeus-cling](https://github.com/jupyter-xeus/xeus-cling)
 
 
-# Brief
+## Brief
 - jupyter 通过 `xeus-cling kernel` 支持 C++
 - 支持 C11/C14/C17
 
-# Install
+## Install
 - 支持 conda/mamba 安装
 
 ```
