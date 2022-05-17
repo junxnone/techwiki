@@ -2,8 +2,8 @@
 Title | Python
 -- | --
 Create Date | `2021-11-27T05:02:46Z`
-Update Date | `2022-04-09T05:52:18Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/228)
+Update Date | `2022-05-17T14:01:05Z`
+Edit link | [here](https://github.com/junxnone/techwiki/issues/228)
 
 ---
 ## Reference
@@ -44,7 +44,7 @@ argparse | 自带参数解析模块
 Packages | Description
 -- | --
 numpy
-pandas
+[[pandas]]
 tensorflow
 pytorch
 scikit-learn
