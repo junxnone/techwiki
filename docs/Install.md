@@ -1,9 +1,9 @@
 ---
 Title | Install
 -- | --
-Create Date | `2021-09-19T10:21:17Z`
-Update Date | `2021-11-10T10:24:35Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
+Created @ | `2021-09-19T10:21:17Z`
+Last Modify @| `2022-05-24T02:52:08Z`
+Edit @| [here](https://github.com/junxnone/techwiki/issues/6)
 
 ---
 - [Install Ubuntu OS]
@@ -25,6 +25,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/6)
 - [CentOS Install Desktop](/CentOS_Install_Desktop)
 
 ## Issues
+- [NVIDIA Driver Failed](/NVIDIA_Driver_Failed)
 - [Ubuntu Desktop Display Issue](/Ubuntu_Desktop_Display_Issue)
 - [Ubuntu forget password](/Ubuntu_forget_password)
 - [ubuntu frone headphone not working](/ubuntu_frone_headphone_not_working)
