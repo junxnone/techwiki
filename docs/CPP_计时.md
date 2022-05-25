@@ -1,14 +1,14 @@
 ---
 Title | CPP 计时
 -- | --
-Create Date | `2022-04-14T08:42:15Z`
-Update Date | `2022-04-18T07:50:19Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/269)
+Created @ | `2022-04-14T08:42:15Z`
+Last Modify @| `2022-05-25T02:52:13Z`
+Edit @| [here](https://github.com/junxnone/techwiki/issues/269)
 
 ---
 ## Reference
 - [深入理解std::chrono的时钟Clock ](https://www.cnblogs.com/zhongpan/p/7490657.html)
-- [std\:\:chrono\:\:high_resolution_clock简单测试](https://zhuanlan.zhihu.com/p/496261328)
+- [`std::chrono::high_resolution_clock`简单测试](https://zhuanlan.zhihu.com/p/496261328)
 
 
 ## Brief
