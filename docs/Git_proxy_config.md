@@ -2,7 +2,7 @@
 Title | Git proxy config
 -- | --
 Created @ | `2018-12-10T06:05:14Z`
-Last Modify @| `2022-05-26T08:02:31Z`
+Last Modify @| `2022-05-26T08:08:49Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/57)
 
 ---
@@ -33,10 +33,21 @@ host github.com
 
 ### 3 Setup Git Config gitProxy 
 
+- Create `git-proxy`
+```
+```
+```
+sudo chmod +x /usr/bin/git_proxy
+```
+
+- Setup `gitproxy`
+
 ```
 git config --global core.gitProxy git-proxy
 ```
-Modify ~/.gitconfig to ignore the default proxy for “abc.com” servers. Under the [core] section, add:
+
+- Modify ~/.gitconfig to ignore the default proxy for “abc.com” servers. Under the [core] section, add:
+
 ```
 gitproxy = none for abc.com
 ```
