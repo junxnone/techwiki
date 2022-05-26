@@ -1,9 +1,9 @@
 ---
 Title | AVX
 -- | --
-Create Date | `2021-08-02T02:31:09Z`
-Update Date | `2022-04-15T06:58:47Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/268)
+Created @ | `2021-08-02T02:31:09Z`
+Last Modify @| `2022-05-26T09:24:54Z`
+Edit @| [here](https://github.com/junxnone/techwiki/issues/268)
 
 ---
 ## Reference
@@ -19,6 +19,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/268)
 - AVX512 - `Advanced Vector Extensions`  - 512Bit SIMD - `AVX/AVX2` 的扩展
 - 加速批量数据运算
 - 32个SIMD寄存器(128/256/512Bit)
+- [AVX Compiler Code](/AVX_Compiler)
 
 ## 内建函数
 
