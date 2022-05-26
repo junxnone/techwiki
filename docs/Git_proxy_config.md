@@ -2,10 +2,13 @@
 Title | Git proxy config
 -- | --
 Created @ | `2018-12-10T06:05:14Z`
-Last Modify @| `2022-05-26T07:59:14Z`
+Last Modify @| `2022-05-26T08:02:31Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/57)
 
 ---
+## Reference
+- [一文让你了解如何为 Git 设置代理](https://ericclose.github.io/git-proxy-config.html)
+
 ## Brief
 - 1 Install `connect-proxy`
 - 2 Setup `ssh config`
