@@ -2,11 +2,12 @@
 Title | CPP Switch
 -- | --
 Created @ | `2022-05-27T08:22:01Z`
-Last Modify @| `2022-05-27T08:22:01Z`
+Last Modify @| `2022-05-27T08:22:42Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/289)
 
 ---
-
+## Reference
+- [将string用于 C++ switch语句](https://ykj373998035.gitbooks.io/c-string-/content/jiang_string_yong_yu_switch_yu_53e528_c_zuo_c_de_s.html)
 
 ## Brief 
 - C++  中不能使用 `std::string` 作为 case 选项
