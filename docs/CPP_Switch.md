@@ -2,7 +2,7 @@
 Title | CPP Switch
 -- | --
 Created @ | `2022-05-27T08:22:01Z`
-Last Modify @| `2022-05-27T08:22:42Z`
+Last Modify @| `2022-05-27T08:23:11Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/289)
 
 ---
@@ -25,6 +25,8 @@ enum StringValue { evNotDefined,
                           evStringValue2, 
                           evStringValue3, 
                           evEnd };
+
+std::map<std::string, StringValue> s_mapStringValues;
 
 s_mapStringValues["x"] = evStringValue1;
 s_mapStringValues["y"] = evStringValue2;
