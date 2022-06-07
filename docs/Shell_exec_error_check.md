@@ -1,16 +1,15 @@
 ---
 Title | Shell exec error check
 -- | --
-Create Date | `2019-05-28T05:56:22Z`
-Update Date | `2021-09-22T05:15:02Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/77)
+Created @ | `2019-05-28T05:56:22Z`
+Last Modify @| `2022-06-07T06:49:10Z`
+Edit @| [here](https://github.com/junxnone/techwiki/issues/77)
 
 ---
-
-# Reference
+## Reference
 - [shell 管道和tee使用时获取前面命令返回值](https://www.cnblogs.com/double12gzh/p/10287226.html)
 
-# Brief
+## Brief
 
 - shell中使用符号 `$?` 来显示上一条命令执行的返回值
   - 返回值为 `0` 则代表执行成功
@@ -41,4 +40,12 @@ cat: 1238: No such file or directory
 
 $ echo ${PIPESTATUS[0]}${PIPESTATUS[1]}
 10
+```
+
+
+## tee 未收集 error log
+- 添加 `2>1&`
+
+```
+your_cmd 2>1&|tee your_log.txt
 ```
