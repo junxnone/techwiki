@@ -2,7 +2,7 @@
 Title | CPP 计时
 -- | --
 Created @ | `2022-04-14T08:42:15Z`
-Last Modify @| `2022-06-15T01:50:17Z`
+Last Modify @| `2022-06-15T01:54:47Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/269)
 
 ---
@@ -20,11 +20,11 @@ Edit @| [here](https://github.com/junxnone/techwiki/issues/269)
 
 ## UseCase
 
-UseCase | Code
--- | --
-system_clock | `auto tp = std::chrono::system_clock::now();`
-steady_clock | `auto tp = std::chrono::steady_clock::now();`
-high_resolution_clock | `auto tp = std::chrono::high_resolution_clock::now();`
+UseCase | Code | Description
+-- | -- | --
+system_clock | `auto tp = std::chrono::system_clock::now();` | 系统时钟，可能被更改
+steady_clock | `auto tp = std::chrono::steady_clock::now();` | 单调时钟，只会增长，用于计时
+high_resolution_clock | `auto tp = std::chrono::high_resolution_clock::now();` | 高精度版本 `steady_clock`
 
 
 
