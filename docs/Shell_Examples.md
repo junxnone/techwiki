@@ -1,17 +1,17 @@
 ---
 Title | Shell Examples
 -- | --
-Create Date | `2019-05-21T22:46:11Z`
-Update Date | `2021-09-22T02:44:19Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/76)
+Created @ | `2019-05-21T22:46:11Z`
+Last Modify @| `2022-06-16T02:39:56Z`
+Edit @| [here](https://github.com/junxnone/techwiki/issues/76)
 
 ---
-# Reference
+## Reference
 - [linux shell 时间运算以及时间差计算方法](https://mp.weixin.qq.com/s/7QnycDf_D7jZJUGrdhrZ5w)
 
-# Examples
+## Examples
 
-## 逐行读取文件获取video 文件名，并统计视频帧数
+### 逐行读取文件获取video 文件名，并统计视频帧数
 
 ```
 #!/bin/bash
@@ -23,7 +23,7 @@ do
 done < filelist.txt
 ```
 
-## 统计子目录各有多少文件
+### 统计子目录各有多少文件
 
 ```
 #!/bin/bash
