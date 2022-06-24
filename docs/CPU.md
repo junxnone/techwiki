@@ -1,9 +1,9 @@
 ---
 Title | CPU
 -- | --
-Create Date | `2022-04-27T07:14:09Z`
-Update Date | `2022-04-27T07:15:24Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/276)
+Created @ | `2022-04-27T07:14:09Z`
+Last Modify @| `2022-06-24T01:41:30Z`
+Edit @| [here](https://github.com/junxnone/techwiki/issues/276)
 
 ---
 ## Reference
@@ -22,3 +22,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/276)
 ### NUMA
 
 ### MPP
+
+## 性能指标
+- TOPS - `Tera Operations Per Second` - `10^12`
+- GOPS - `Giga Operations Per Second` - `10^9`
+- MOPS - `Million Operation Per Second` - `10^6`
