@@ -2,11 +2,12 @@
 Title | scp
 -- | --
 Created @ | `2021-10-13T15:16:48Z`
-Last Modify @| `2022-06-24T08:47:14Z`
+Last Modify @| `2022-06-24T08:47:50Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/177)
 
 ---
 ## Reference
+- [scp通过代理proxy代理传输文件](https://www.appblog.cn/2020/04/26/scp%E9%80%9A%E8%BF%87%E4%BB%A3%E7%90%86proxy%E4%BB%A3%E7%90%86%E4%BC%A0%E8%BE%93%E6%96%87%E4%BB%B6/)
 
 ## Brief
 - scp - `secure copy`
