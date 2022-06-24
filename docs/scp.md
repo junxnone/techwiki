@@ -1,14 +1,14 @@
 ---
 Title | scp
 -- | --
-Create Date | `2021-10-13T15:16:48Z`
-Update Date | `2021-10-13T15:16:48Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/177)
+Created @ | `2021-10-13T15:16:48Z`
+Last Modify @| `2022-06-24T08:47:14Z`
+Edit @| [here](https://github.com/junxnone/techwiki/issues/177)
 
 ---
-# Reference
+## Reference
 
-# Brief
+## Brief
 - scp - `secure copy`
 
 ```
@@ -33,9 +33,9 @@ scp [参数] [源路径] [目标路径]
 -S program 指定加密传输时所使用的程序。此程序必须能够理解 ssh(1) 的选项。
 ```
 
-# UseCase
+## UseCase
 
 UseCase | cmd
 -- | --
 copy 远程文件夹到本地 | `scp -r username@IP:/test_directory ./`
-
+通过代理服务器连接的远程主机copy | `scp -ro ProxyCommand="ncat --proxy-type socks4 --proxy proxy_ip_url:proxy_port %h %p" -P tgt_ssh_port tgt_username@tgt_IP:~/your_files/ .`
