@@ -1,15 +1,15 @@
 ---
 Title | Linux Setup hostname
 -- | --
-Create Date | `2021-09-20T12:23:13Z`
-Update Date | `2021-09-20T12:23:13Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/47)
+Created @ | `2018-11-22T06:34:27Z`
+Last Modify @| `2022-07-06T08:32:41Z`
+Edit @| [here](https://github.com/junxnone/techwiki/issues/47)
 
 ---
 ## Reference
 - [centos修改主机名的正确方法](https://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_043_hostname.html)
 
-# Centos & Ubuntu
+## Centos & Ubuntu
 
 > Centos - 7.5
 
