@@ -1,15 +1,18 @@
 ---
 Title | cmake 语法
 -- | --
-Create Date | `2021-10-28T04:25:32Z`
-Update Date | `2022-01-06T08:23:47Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/192)
+Created @ | `2021-10-28T04:25:32Z`
+Last Modify @| `2022-08-16T02:29:50Z`
+Edit @| [here](https://github.com/junxnone/techwiki/issues/192)
 
 ---
 ## Reference
 
 - [cmake 预定义变量](https://cmake.org/cmake/help/latest/manual/cmake-variables.7.html)
 - [cmake 预定义语法/函数/宏](https://cmake.org/cmake/help/latest/manual/cmake-commands.7.html)
+- [CMake链接外部库的几种方式](https://blog.csdn.net/liangshui999/article/details/106425753)
+
+
 
 ## Brief
 - 变量
