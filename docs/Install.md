@@ -2,7 +2,7 @@
 Title | Install
 -- | --
 Created @ | `2021-09-19T10:21:17Z`
-Last Modify @| `2022-05-24T02:52:08Z`
+Last Modify @| `2022-08-17T08:57:21Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/6)
 
 ---
@@ -23,6 +23,7 @@ Edit @| [here](https://github.com/junxnone/techwiki/issues/6)
 - [Samba](/Linux_Samba)
 - [Ubuntu Install OpenCL](/OpenCL_Install)
 - [CentOS Install Desktop](/CentOS_Install_Desktop)
+- [Increase Swap](/Increase_Swap)
 
 ## Issues
 - [NVIDIA Driver Failed](/NVIDIA_Driver_Failed)
