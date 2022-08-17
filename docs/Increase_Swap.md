@@ -2,13 +2,17 @@
 Title | Increase Swap
 -- | --
 Created @ | `2022-08-17T08:56:29Z`
-Last Modify @| `2022-08-17T08:56:50Z`
+Last Modify @| `2022-08-17T09:00:38Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/291)
 
 ---
 ## Reference
 - [Ubuntu 20.04增加SWAP分区](https://blog.csdn.net/weixin_37532614/article/details/119239715)
 
+## Brief
+- 内存比较小的机器在运行大的应用时，容易内存不足卡死或者 OOM
+- 最好的办法当然是物理解决方案 - **加内存**，容易的workaround 方式就是增加 `swap`
+- 增加 swap 会导致整体性能下降，毕竟数据存储在硬盘上读写速度比在内存中不是慢一点半点
 
 ## Steps
 
