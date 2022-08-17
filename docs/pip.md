@@ -1,9 +1,9 @@
 ---
 Title | pip
 -- | --
-Create Date | `2018-11-25T09:47:54Z`
-Update Date | `2022-03-29T09:17:15Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/261)
+Created @ | `2018-11-25T09:47:54Z`
+Last Modify @| `2022-08-17T09:02:51Z`
+Edit @| [here](https://github.com/junxnone/techwiki/issues/261)
 
 ---
 ## Reference
@@ -75,21 +75,8 @@ sudo apt install python-pip --reinstall
 
 #### Memory 不足, kswapd 进程 卡住
 - 当 memory不足时，会导致`pip install` 卡住 ，`kswapd` 进程卡在最前面
-- 如果 没有 swap, 增加 swap 
+- 如果 没有 swap, [增加 swap](/Increase_Swap) 
  
-```
-# create swap file of 1GB
-dd if=/dev/zero of=/swapfile bs=1024 count=1048576
-# modify permissions
-chown root:root /swapfile
-chmod 0600 /swapfile
-# setup swap area
-mkswap /swapfile
-# turn swap on
-swapon /swapfile
-```
-> 重新安装过程中会发现 `free memory` 慢慢减小，到达某个值后，`used swap` 使用增加了，`free memory` 变大了
-
 #### `/tmp`  No space left on device
 - tmp 分区比较小，编译时空间不足
   - `export TMPDIR` 指定 tmp 目录
