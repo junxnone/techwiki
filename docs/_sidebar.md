@@ -72,7 +72,7 @@
   - [iGPU](/iGPU)
   - NVIDIA GPUs
   - [SIMD](/SIMD)
-- [Others](/Others)
+- [Others]()
     - [Open Source License](/Open_Source_License)
     - [开发版本号相关](/Version)
     - [mosquitto](/mosquitto)
