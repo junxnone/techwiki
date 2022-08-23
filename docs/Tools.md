@@ -1,9 +1,9 @@
 ---
 Title | Tools
 -- | --
-Create Date | `2019-04-12T07:23:06Z`
-Update Date | `2022-02-22T02:44:06Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/2)
+Created @ | `2019-04-12T07:23:06Z`
+Last Modify @| `2022-08-23T03:38:28Z`
+Edit @| [here](https://github.com/junxnone/techwiki/issues/2)
 
 ---
 ## Reference
@@ -24,6 +24,7 @@ Tools | Descriptoin
 [scp](/scp) | copy 远程文件/到远程
 [grep](/Linux_grep) | 查找
 [mediainfo](/mediainfo) | 多媒体信息
+[ffmpeg](/ffmpeg) | 多媒体文件编辑
 [rsync](/rsync) | 文件同步工具
 [syncthing](/syncthing) | 文件同步
 [Linux File Compare Tools](/Linux_File_Compare_Tools) | 文件比较工具
