@@ -2,7 +2,7 @@
 Title | ffmpeg
 -- | --
 Created @ | `2022-08-23T03:37:05Z`
-Last Modify @| `2022-08-23T03:37:05Z`
+Last Modify @| `2022-08-23T03:40:02Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/292)
 
 ---
@@ -17,5 +17,5 @@ Edit @| [here](https://github.com/junxnone/techwiki/issues/292)
 
 
 ```
-#ffmpeg -i input.mp4 -vf mpdecimate,setpts=N/FRAME_RATE/TB out.mp4
+ffmpeg -i input.mp4 -vf mpdecimate,setpts=N/FRAME_RATE/TB out.mp4
 ```
