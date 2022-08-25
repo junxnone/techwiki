@@ -2,7 +2,7 @@
 Title | Docker
 -- | --
 Created @ | `2018-09-06T16:18:38Z`
-Last Modify @| `2022-08-25T03:40:15Z`
+Last Modify @| `2022-08-25T06:09:58Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/39)
 
 ---
@@ -75,6 +75,8 @@ Load docker image | `sudo docker load -i hmi.tar`
 Run in bash | `docker exec -it docker_name bash`
 删除 `none` 镜像 | docker rmi -f  \`docker images \| grep 'none' \| awk '{print $3}'\`
 以 root 用户进入 container | `docker exec -it --user root container_id`
+删除 所有 `Stopped` Container | `docker container prune`
+
 
 > 如果打包包含了多个 `image` 则可以通过 `your_image.tar/repositories` 查看 `镜像名称` 和 `commit id`
 
