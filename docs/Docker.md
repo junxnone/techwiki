@@ -2,7 +2,7 @@
 Title | Docker
 -- | --
 Created @ | `2018-09-06T16:18:38Z`
-Last Modify @| `2022-07-06T10:45:38Z`
+Last Modify @| `2022-08-25T03:40:15Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/39)
 
 ---
@@ -25,7 +25,7 @@ Edit @| [here](https://github.com/junxnone/techwiki/issues/39)
 - [Docker Dockerfile](/Docker_Dockerfile)
 - [Docker Volume](/Docker_Volume)
 - [Docker Tools](/Docker_Tools)
-- **Issues**
+- [**Issues**](/Docker_Issues)
   - [Docker move data to new storage location](/Docker_move_data_to_new_storage_location)
 
 
