@@ -2,7 +2,7 @@
 Title | Docker UI
 -- | --
 Created @ | `2022-08-25T07:27:52Z`
-Last Modify @| `2022-08-25T07:27:52Z`
+Last Modify @| `2022-08-25T07:32:33Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/295)
 
 ---
@@ -19,23 +19,29 @@ Edit @| [here](https://github.com/junxnone/techwiki/issues/295)
 
 ### 挂载方式
 
-- 创建时指定参数  (`:0` 为当前 $DISPLLAY`)
+- 创建时指定参数  (`:0` 为当前 `$DISPLLAY`)
+
 ```
 -v /tmp/.X11-unix:/tmp/.X11-unix
--e DISPLAY=:0
+-e DISPLAY=:0 
+
+or -e DISPLAY=$DISPLAY
 ```
 
 
 ### 网络方式
 
 - 配置允许 TCP 访问
+
 ```
 sudo vim /etc/lightdm/lightdm.conf
 [SeatDefaults]
 xserver-allow-tcp=true
 ```
+
 - 重启
 - docker 内部变量 配置
+
 ```
 export DISPLAY=xxx.xxx.xxx.xx:0
 ```
