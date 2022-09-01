@@ -1,9 +1,9 @@
 ---
 Title | Linux awk
 -- | --
-Create Date | `2018-11-29T10:51:42Z`
-Update Date | `2021-12-23T15:33:13Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/44)
+Created @ | `2018-11-29T10:51:42Z`
+Last Modify @| `2022-09-01T08:24:43Z`
+Edit @| [here](https://github.com/junxnone/techwiki/issues/44)
 
 ---
 ## Reference
@@ -29,9 +29,10 @@ Usecase | cmd
 打印出每一行中的第n个选项(默认空格分割) | `awk '{print $n}' xxx`
 指定分隔符 | `grep "bash" /etc/passwd \| awk -F ':' '{print $1,$7}'`
 指定分隔符单引号  `'` | `grep "bash" /etc/passwd \| awk -F '\047' '{print $1,$7}'` <br> - `\047` 十进制 `'` <br> - `\x27` 十六进制 `'`
+指定分隔符为`字符串` | `xxxx \| awk -F 'took' '{print $1}'`
 $NF  指定倒数第1列 | `grep "bash" /etc/passwd \| awk -F ':' '{print $NF}'`
 $(NF-1)  指定倒数第2列 | `grep "bash" /etc/passwd \| awk -F ':' '{print $(NF-1)}'`
-多字符匹配 | 匹配包含root或net或ucp的任意行 `awk '/(root|net|ucp)/' /etc/passwd`
+多字符匹配 | 匹配包含root或net或ucp的任意行 `awk '/(root\|net\|ucp)/' /etc/passwd`
 print 中间添加其他字符 | `cat inf_log.txt \|awk -F ' ' '{print $1,"\|",$5,"\|",$7}'`
 查询某字符串 `string` 在文件中出现的次数 | `awk -v RS="@#$j" '{print gsub(/string/,"&")}' yourfile`
 `shell` 查询某变量在 文件中出现的次数 | `awk -v RS="@#$j" '{print gsub(/'$text_id'/,"&")}'  yourfile`
