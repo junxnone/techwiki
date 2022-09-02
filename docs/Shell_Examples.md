@@ -2,7 +2,7 @@
 Title | Shell Examples
 -- | --
 Created @ | `2019-05-21T22:46:11Z`
-Last Modify @| `2022-06-16T02:39:56Z`
+Last Modify @| `2022-09-02T05:50:14Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/76)
 
 ---
@@ -84,4 +84,11 @@ $ echo $time1
 > /3600/24 - 天数
 
 
+###  判断系统可用内存
 
+```
+freeMem=`free -g | grep "Mem"  | awk '{print $(NF)}'`
+if [ $freeMem -lt 16 ]; then
+    echo "Low Mem: $freeMem GB"
+fi
+```
