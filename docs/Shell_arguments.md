@@ -1,12 +1,11 @@
 ---
 Title | Shell arguments
 -- | --
-Create Date | `2020-06-18T07:00:43Z`
-Update Date | `2021-09-22T02:15:42Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/71)
+Created @ | `2020-06-18T07:00:43Z`
+Last Modify @| `2022-09-02T06:27:57Z`
+Edit @| [here](https://github.com/junxnone/techwiki/issues/71)
 
 ---
-
 ## 添加 help
 
 ```
@@ -17,7 +16,10 @@ if [ "$1" == "-h" ]; then
 fi
 ```
 
-> `basename` only works with `./script.sh` , not `source script.sh`
+> `$0` 为当前脚本名字, 只在使用如下方式执行时有效: `./script.sh`  & `sh script.sh`,  使用 source 时无效: `source script.sh`
+> 使用 source 时可以使用  `${BASH_SOURCE}` 代替 `$0`
+
+
 **for source script.sh**
 - `exit 0` => `return`
 - `basename $0` => `your script name`
