@@ -1,9 +1,9 @@
 ---
 Title | Archiver
 -- | --
-Create Date | `2020-06-24T03:00:54Z`
-Update Date | `2022-02-23T08:19:25Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/22)
+Created @ | `2020-06-24T03:00:54Z`
+Last Modify @| `2022-09-02T05:48:32Z`
+Edit @| [here](https://github.com/junxnone/techwiki/issues/22)
 
 ---
 ## Tools
@@ -28,7 +28,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/22)
 压缩 `tar.bz2` | `tar jvcf data.tar.bz2 data/`
 解压 `tar.bz2` | `tar jvxf data.tar.bz2`
 查看 `tar.bz2` | `tar jtvf data.trar.bz2`
-
+解压到指定文件夹 | `tar zvxf data.targ.gz -C output_dir`<br> > `output_dir` 需要手动创建
 
 ## zip/unzip
 
