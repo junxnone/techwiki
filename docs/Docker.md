@@ -2,7 +2,7 @@
 Title | Docker
 -- | --
 Created @ | `2018-09-06T16:18:38Z`
-Last Modify @| `2022-09-06T01:39:05Z`
+Last Modify @| `2022-09-06T01:39:33Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/39)
 
 ---
@@ -71,7 +71,7 @@ Usecase |  cmd
 -- | --
 Verify Install | `docker run hello-world`
 Save/Load  docker image | `docker save -o demo.tar demo:latest` <br>`sudo docker load -i demo.tar`
-Export/Import docker image | `docker export demo> demo.tar`<br>`docker import  demo.tar demo:latest` 
+Export/Import docker Filesystem image | `docker export demo> demo.tar`<br>`docker import  demo.tar demo:latest` 
 Run in bash | `docker exec -it docker_name bash`
 删除 `none` 镜像 | docker rmi -f  \`docker images \| grep 'none' \| awk '{print $3}'\`
 以 root 用户进入 container | `docker exec -it --user root container_id`
