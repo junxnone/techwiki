@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Created @ | `2019-04-12T07:23:06Z`
-Last Modify @| `2022-08-23T03:38:28Z`
+Last Modify @| `2022-09-19T03:43:50Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/2)
 
 ---
@@ -37,6 +37,9 @@ Tools | Descriptoin
 [xargs](/Linux_xargs) | 内容分割
 [Ubuntu json tools](/Ubuntu_json_tools) | Json 操作
 [ctags](/ctags) | 浏览代码跳转工具
+flameshot | 截图
+shutter | 截图
+
 
 ## 系统管理工具
 
