@@ -2,7 +2,7 @@
 Title | Tools
 -- | --
 Created @ | `2019-04-12T07:23:06Z`
-Last Modify @| `2022-09-19T03:43:50Z`
+Last Modify @| `2022-09-21T03:28:30Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/2)
 
 ---
@@ -39,6 +39,7 @@ Tools | Descriptoin
 [ctags](/ctags) | 浏览代码跳转工具
 flameshot | 截图
 shutter | 截图
+freecad | cad 工具
 
 
 ## 系统管理工具
