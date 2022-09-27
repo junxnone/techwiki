@@ -2,7 +2,7 @@
 Title | ffmpeg
 -- | --
 Created @ | `2022-08-23T03:37:05Z`
-Last Modify @| `2022-09-27T05:21:45Z`
+Last Modify @| `2022-09-27T05:21:59Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/292)
 
 ---
@@ -37,7 +37,7 @@ ffmpeg -i input.mp4 -r framerate output.gif
 ### 倍速视频
 
 ```
-ffmpeg -i input.mp4 -an -r 60 -filter:v "setpts=0.25*PTS" output.mp4
+ffmpeg -i input.mp4 -an  -filter:v "setpts=0.25*PTS" output.mp4
 ```
 - **PTS**: Presentation Time Stamp
 
