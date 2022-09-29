@@ -1,12 +1,11 @@
 ---
 Title | Linux Tools sed
 -- | --
-Create Date | `2019-08-22T09:53:38Z`
-Update Date | `2022-01-13T09:49:04Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/3)
+Created @ | `2019-08-22T09:53:38Z`
+Last Modify @| `2022-09-29T07:36:10Z`
+Edit @| [here](https://github.com/junxnone/techwiki/issues/3)
 
 ---
-
 
 ## Reference
 
@@ -56,5 +55,7 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/3)
 替换特殊字符 使用 `\` 转义 | `sed -i #s/\“aab/bbc/g' filenam`
 替换以`<path`开头，任意字符后跟着`\`的字符串为`path>` | `sed -i 's/\<path.*\\/path\>/g' *`
 替换文件夹下的文件 | ``` sed -i s#old#new#g `grep -rl "old" .` ```
+查找关键字并删除`#` | `sed -i '/keyword/s/^#//'  input.txt` 
+查找关键字并替换 `xxx` | `sed -i '/keyword/s/xxx/ooo/'  input.txt` 
 
 > 用于labelimg pascal voc 标记文件中 去掉 local path 
