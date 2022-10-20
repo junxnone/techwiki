@@ -2,7 +2,7 @@
 Title | cmake windows
 -- | --
 Created @ | `2022-01-02T08:40:46Z`
-Last Modify @| `2022-10-20T13:00:18Z`
+Last Modify @| `2022-10-20T13:00:36Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/244)
 
 ---
@@ -78,7 +78,7 @@ set(CMAKE_GENERATOR_TOOLSET "Intel C++ Compiler 2022")
 ```
 set_target_properties(target PROPERTIES VS_PLATFORM_TOOLSET "Intel(R) oneAPI DPC++ Compiler 2022" )
 ```
-> 添加在 target 后面
+
 
 #### 使用命令行模式在生成 Solution 时设置
 
