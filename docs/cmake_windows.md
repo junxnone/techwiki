@@ -2,7 +2,7 @@
 Title | cmake windows
 -- | --
 Created @ | `2022-01-02T08:40:46Z`
-Last Modify @| `2022-10-20T12:48:51Z`
+Last Modify @| `2022-10-20T12:54:19Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/244)
 
 ---
@@ -28,6 +28,11 @@ Edit @| [here](https://github.com/junxnone/techwiki/issues/244)
 
 
 ###  判断是否是 Windows 系统
+- 三个变量
+  - **WIN32=1** : `定义 project(project_name)` 之前就会被定义
+  - **CMAKE_SYSTEM_NAME=Windows**: `定义 project(project_name)` 之后才会被定义
+  - **MSVC=1**: `定义 project(project_name)` 之后才会被定义
+
 
 ```
 if(WIN32)
