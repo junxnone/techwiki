@@ -2,7 +2,7 @@
 Title | cmake windows
 -- | --
 Created @ | `2022-01-02T08:40:46Z`
-Last Modify @| `2022-10-20T12:54:19Z`
+Last Modify @| `2022-10-20T12:57:52Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/244)
 
 ---
@@ -60,19 +60,17 @@ add_subdirectory(xxx)
 
 ###  Generate `VS2019` Solution with `Intel Compiler`
 
-```
-cmake -T "Intel C++ Compiler 2021" \
--D CMAKE_C_COMPILER="C:/Program Files (x86)/Intel/oneAPI/compiler/2021.2.0/windows/bin/icx.exe" \
--D CMAKE_CXX_COMPILER="C:/Program Files (x86)/Intel/oneAPI/compiler/2021.2.0/windows/bin/icx.exe" \
-..
-```
+#### 设置整个 Solution 编译工具
 
 - 使用 `CMAKE_GENERATOR_TOOLSET` 在 CMakeLists.txt 中定义 Solution toolset
+  - 需要在 `project(project_name)` 之前设置, 否则不生效
 
 ```
 set(CMAKE_GENERATOR_TOOLSET "Intel C++ Compiler 2022")
 #set(CMAKE_GENERATOR_TOOLSET "Intel(R) oneAPI DPC++ Compiler 2022")
 ```
+
+#### 设置单个 Project 的编译工具
 
 -  使用 `VS_PLATFORM_TOOLSET` 在 CMakeLists.txt 中定义 单个 Project toolset
 
@@ -81,4 +79,12 @@ set_target_properties(target PROPERTIES VS_PLATFORM_TOOLSET "Intel(R) oneAPI DPC
 ```
 > 添加在 target 后面
 
+#### 使用命令行模式在生成 Solution 时设置
 
+
+```
+cmake -T "Intel C++ Compiler 2021" \
+-D CMAKE_C_COMPILER="C:/Program Files (x86)/Intel/oneAPI/compiler/2021.2.0/windows/bin/icx.exe" \
+-D CMAKE_CXX_COMPILER="C:/Program Files (x86)/Intel/oneAPI/compiler/2021.2.0/windows/bin/icx.exe" \
+..
+```
