@@ -2,7 +2,7 @@
 Title | cmake windows
 -- | --
 Created @ | `2022-01-02T08:40:46Z`
-Last Modify @| `2022-10-20T12:59:40Z`
+Last Modify @| `2022-10-20T13:00:18Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/244)
 
 ---
@@ -72,7 +72,7 @@ set(CMAKE_GENERATOR_TOOLSET "Intel C++ Compiler 2022")
 
 #### 设置单个 Project 的编译工具
 
--  使用 `VS_PLATFORM_TOOLSET` 在 CMakeLists.txt 中定义 单个 Project toolset
+- 使用 `VS_PLATFORM_TOOLSET` 在 CMakeLists.txt 中定义 单个 Project toolset
   - 通过定义 target 属性的方式设置, 所以要在 target 定义之后
 
 ```
