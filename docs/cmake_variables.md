@@ -1,9 +1,9 @@
 ---
 Title | cmake variables
 -- | --
-Create Date | `2021-12-30T06:57:59Z`
-Update Date | `2022-01-06T06:24:10Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/240)
+Created @ | `2021-12-30T06:57:59Z`
+Last Modify @| `2022-10-20T13:03:45Z`
+Edit @| [here](https://github.com/junxnone/techwiki/issues/240)
 
 ---
 ## Reference
@@ -21,6 +21,8 @@ Edit link | [here](https://github.com/junxnone/linuxwiki/issues/240)
 
 ## 变量读写
 - 写命令 set()/unset()
+- 自定义变量
+- 系统环境变量 例如 `ONEAPI_ROOT`
 
 WR | 自定义变量读写 | 系统环境变量读写
 -- | -- | --
