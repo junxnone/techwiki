@@ -2,18 +2,26 @@
 Title | cmake windows
 -- | --
 Created @ | `2022-01-02T08:40:46Z`
-Last Modify @| `2022-10-17T09:13:46Z`
+Last Modify @| `2022-10-20T12:48:51Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/244)
 
 ---
 ## Reference
 
 - [BuildingWinDLL](https://gitlab.kitware.com/cmake/community/-/wikis/doc/tutorials/BuildingWinDLL)
+- [cmkae - import library](https://cmake.org/cmake/help/latest/manual/cmake-buildsystem.7.html#archive-output-artifacts)
 
 ## Brief
 
 
 ## Build dll
+- shared library - `add_library(target_name SHARED C_CPP_FILES)`
+
+### import library
+
+- windows 创建动态库 时会自动创建 import lib, 但是前提是必须存在符号导出
+
+> This file is only guaranteed to exist if the library exports at least one unmanaged symbol.
 
 
 ### Windows Tips
