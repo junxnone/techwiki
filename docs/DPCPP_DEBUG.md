@@ -1,9 +1,9 @@
 ---
 Title | DPCPP DEBUG
 -- | --
-Create Date | `2022-01-18T03:26:23Z`
-Update Date | `2022-01-21T07:33:45Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/250)
+Created @ | `2022-01-18T03:26:23Z`
+Last Modify @| `2022-10-25T10:43:22Z`
+Edit @| [here](https://github.com/junxnone/techwiki/issues/250)
 
 ---
 ## Reference
@@ -55,4 +55,15 @@ set SYCL_DEVICE_FILTER=level_zero:gpu
 - 设置 **ZE_DEBUG** 显示 Level_Zero API Call
 ```
 set ZE_DEBUG=1
+```
+
+## 使用 sycl-ls 查看设备
+- sycl-ls/sycl-ls.exe 
+
+
+```
+$ sycl-ls
+[opencl:acc:0] Intel(R) FPGA Emulation Platform for OpenCL(TM), Intel(R) FPGA Emulation Device 1.2 [2022.13.3.0.16_160000]
+[opencl:cpu:1] Intel(R) OpenCL, Intel(R) Xeon(R) CPU E5-2678 v3 @ 2.50GHz 3.0 [2022.13.3.0.16_160000]
+[host:host:0] SYCL host platform, SYCL host device 1.2 [1.2]
 ```
