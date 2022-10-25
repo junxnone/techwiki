@@ -2,7 +2,7 @@
 Title | DPCPP DEBUG
 -- | --
 Created @ | `2022-01-18T03:26:23Z`
-Last Modify @| `2022-10-25T10:45:06Z`
+Last Modify @| `2022-10-25T10:45:35Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/250)
 
 ---
@@ -74,8 +74,8 @@ $ sycl-ls
 ```
 C:\Program Files (x86)\Intel\oneAPI>sycl-ls 
 [opencl:acc:0] Intel(R) FPGA Emulation Platform for OpenCL(TM), Intel(R) FPGA Emulation Device 1.2 [2022.14.7.0.30_160000]                                                                                                                      
-[opencl:cpu:1] Intel(R) OpenCL, Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz 3.0 [2022.14.7.0.30_160000]                    
-[opencl:gpu:2] Intel(R) OpenCL HD Graphics, Intel(R) UHD Graphics 620 3.0 [31.0.101.2114]                               
-[ext_oneapi_level_zero:gpu:0] Intel(R) Level-Zero, Intel(R) UHD Graphics 620 1.3 [1.3.0]                                
-[host:host:0] SYCL host platform, SYCL host device 1.2 [1.2]                                                                                                                                 
+[opencl:cpu:1] Intel(R) OpenCL, Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz 3.0 [2022.14.7.0.30_160000]
+[opencl:gpu:2] Intel(R) OpenCL HD Graphics, Intel(R) UHD Graphics 620 3.0 [31.0.101.2114]
+[ext_oneapi_level_zero:gpu:0] Intel(R) Level-Zero, Intel(R) UHD Graphics 620 1.3 [1.3.0]
+[host:host:0] SYCL host platform, SYCL host device 1.2 [1.2]
 ```
