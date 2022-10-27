@@ -1,9 +1,9 @@
 ---
 Title | Ubuntu APT
 -- | --
-Create Date | `2020-06-03T03:19:10Z`
-Update Date | `2022-01-04T09:40:07Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/101)
+Created @ | `2020-06-03T03:19:10Z`
+Last Modify @| `2022-10-27T03:25:31Z`
+Edit @| [here](https://github.com/junxnone/techwiki/issues/101)
 
 ---
 # Reference
@@ -39,6 +39,8 @@ Search Package | `apt search xxx`
 删除软件(会保留配置文件) | `apt remove xxx`
 删除软件相关所有文件 | `apt-get remove --purge xxx`
 建立编译某个软件的环境 | `apt build-dep xxx`
+清除已下载的软件包和旧软件包 | `apt clean` && `apt autoclean`
+
 
 ## Examples
 
