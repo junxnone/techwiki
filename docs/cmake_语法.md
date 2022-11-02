@@ -2,7 +2,7 @@
 Title | cmake 语法
 -- | --
 Created @ | `2021-10-28T04:25:32Z`
-Last Modify @| `2022-11-02T09:36:13Z`
+Last Modify @| `2022-11-02T09:39:33Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/192)
 
 ---
@@ -27,9 +27,11 @@ Edit @| [here](https://github.com/junxnone/techwiki/issues/192)
 
 
 ## 条件控制
-- `if..elseif..else...endif`
-- `while...endwhile`
-- `foreach..endforeach`
+- `if()/elseif()/else()/endif()`
+- `while()/endwhile()`
+- `foreach()/endforeach()`
+  - `break()`
+  - `continue()`
 - `not`
 - AND/OR/DEFINED - 变量
 - EXISTS/IS_NEWER_THAN/IS_DIRECTORY - 文件
