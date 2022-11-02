@@ -2,7 +2,7 @@
 Title | cmake 语法
 -- | --
 Created @ | `2021-10-28T04:25:32Z`
-Last Modify @| `2022-08-16T02:29:50Z`
+Last Modify @| `2022-11-02T09:36:13Z`
 Edit @| [here](https://github.com/junxnone/techwiki/issues/192)
 
 ---
@@ -37,6 +37,23 @@ Edit @| [here](https://github.com/junxnone/techwiki/issues/192)
 - STRLESS/STRGREATER/STREQUAL - 字母比较
 - MATCHES - pattern regex
 
+
+## 注释
+
+- 单行注释
+
+```
+# comment line
+```
+
+- 多行注释
+
+```
+#[[ comment line 1
+comment line 2
+comment line 3
+]]
+```
 
 ## 常用语法
 
