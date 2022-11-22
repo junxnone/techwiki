@@ -2,7 +2,8 @@
 Title | ffmpeg
 -- | --
 Created @ | `2022-08-23T03:37:05Z`
-Last Modify @| `2022-09-27T06:15:17Z`
+Last Modify @| `2022-11-22T04:39:22Z`
+Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/292)
 
 ---
@@ -44,4 +45,13 @@ ffmpeg -i input.mp4 -an  -filter:v "setpts=0.25*PTS" output.mp4
 ```
 ffmpeg -i input.mp4 -r framerate output.gif
 ```
+
+### 剪切子视频
+
+
+```
+ffmpeg -i input.mp4 -ss 00:10:03 -t 00:03:00 -vcodec copy -acodec copy output.mp4
+```
+- `-ss` 开始时间戳
+- `-t` 长度
 
