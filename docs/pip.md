@@ -2,7 +2,8 @@
 Title | pip
 -- | --
 Created @ | `2018-11-25T09:47:54Z`
-Last Modify @| `2022-08-17T09:02:51Z`
+Last Modify @| `2022-11-29T04:09:15Z`
+Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/261)
 
 ---
@@ -67,7 +68,11 @@ ImportError: No module named _internal
 ```
 sudo apt install python-pip --reinstall
 ```
+or
 
+```
+python -m pip install --upgrade pip
+```
 
 ### Pip install package on Limited Resource Device
 
