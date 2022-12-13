@@ -7,7 +7,7 @@
   <link rel="shortcut icon" type="image/png" href="assets/logo_favicon.png"/>
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="assets/vue.css">
-  <link rel="stylesheet" href="assets/darklight.min.css">
+   <!--<link rel="stylesheet" href="assets/darklight.min.css">-->
   <link rel="stylesheet" href="assets/docsify-sidebar-collapse.min.css">
   <link rel="stylesheet" href="assets/gitalk.css">
 
@@ -23,6 +23,7 @@
     name: 'Tech Wiki',
     repo: 'junxnone/techwiki',
     loadSidebar: true,
+    loadNavbar: 'NAV.md',
     auto2top: true,
     copyCode: {
       buttonText : '复制',
@@ -100,10 +101,22 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-katex@1.4.4/dist/docsify-katex.js"></script>
   <!-- or <script src="//cdn.jsdelivr.net/gh/upupming/docsify-katex@1.4.4/dist/docsify-katex.js"></script> -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css"/>
-  
+  <link rel="stylesheet" href="assets/docsify-quick-page.css">
+  <script src="assets/docsify-quick-page.js"></script>
+  <link rel="stylesheet" href="assets/dark-mode.css">
+  <script src="assets/dark-mode.js"></script>
+  <link rel="stylesheet" href="assets/back-to-top.css">
+  <script src="assets/back-to-top.js"></script>
+  <link rel="stylesheet" href="assets/edit.css">
+  <script src="assets/edit.js"></script>
+
   <!pdf plugin>
   <script src="//cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script> 
   <script src="//unpkg.com/docsify-pdf-embed-plugin/src/docsify-pdf-embed.js"></script>
+  <script src="//unpkg.com/mermaid/dist/mermaid.js"></script>
+  <script src="//unpkg.com/docsify-mermaid@latest/dist/docsify-mermaid.js"></script>
+  <script>mermaid.initialize({ startOnLoad: true });</script>
+  <script>
 
   <script>
   
@@ -123,4 +136,19 @@
     }
   }
   </script>
+  <script>
+    window.$docsify.plugins.push(
+      function (hook, vm) {
+        hook.beforeEach(
+          function (mdstr) {
+            const prefix = document.location.pathname.endsWith('/') ? '' : '..';
+            const markmapUrl = new URL(prefix + 'markmap.html', document.location);
+            const markdownUrl = new URL(prefix + vm.route.file, document.location);
+            return `[🔑 MarkMap](${markmapUrl}?md=${markdownUrl})\n\n` + mdstr;
+          }
+        );
+      }
+    );
+  </script>
+
 </html>
