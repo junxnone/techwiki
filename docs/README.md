@@ -1,8 +1,8 @@
 ---
 Title | README
 -- | --
-Update Date | `2022-05-02T11:54:29Z`
-Edit link | [here](https://github.com/junxnone/techwiki/issues/28)
+Last Modify @ | `2022-12-13T06:20:37Z`
+Edit @ | [here](https://github.com/junxnone/techwiki/issues/28)
 
 ---
 `Le vent se lève, ‌‍‍‌‍​‌‌‍​‍‌‌‌‌​‌‌‍‍‍​‌‍‍‍‍​‌‍‍‍‍​‌‍‍‌‍​‌‌‍​‍‍‌‌‌​‌‌‍‍‍​‌‌‌‍‍​‌‍‍‍‍​‌‍‍‌‍​‌‌‍​‌‌‌‌‍​‌‌‍‌​‍‌‌‌‌​‍‍‍‍‍​‍‍‍​‍‌​‌​‌‌‌​‌‌‌‌​‌‌‍il faut tenter de vivre.`
@@ -14,3 +14,6 @@ This is a Tech Wiki.  Supported By the [Template Wiki](https://junxnone.github.i
 
 
 [Index](_sidebar.md ':include')
+
+[markmap show](https://junxnone.github.io/techwiki/markmap.html?md=https://junxnone.github.io/techwiki/_sidebar.md ':include :type=iframe width=100% height=1000px')
+
