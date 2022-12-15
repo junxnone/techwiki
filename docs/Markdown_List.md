@@ -2,7 +2,7 @@
 Title | Markdown List
 -- | --
 Created @ | `2021-09-22T10:05:33Z`
-Last Modify @| `2022-12-15T09:48:23Z`
+Last Modify @| `2022-12-15T09:51:04Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/161)
 
@@ -67,12 +67,15 @@ Edit @| [here](https://github.com/junxnone/techwiki/issues/161)
 ```
 <ol type="I"><li>第一行</li><li>第二行</li><li>第三行</li></ol>
 ```
+
 <ol type="I"><li>第一行</li><li>第二行</li><li>第三行</li></ol>
 
-**type:**
-- a: 小写字母
-- A: 大写字母
-- i: 小写罗马数字
-- I: 大写罗马数字
-- 1: 数字
+
+
+- **type:**
+  - a: 小写字母
+  - A: 大写字母
+  - i: 小写罗马数字
+  - I: 大写罗马数字
+  - 1: 数字
 
