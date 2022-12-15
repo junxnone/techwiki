@@ -72,6 +72,9 @@
   - [iGPU](/iGPU)
   - NVIDIA GPUs
   - [SIMD](/SIMD)
+- Media
+  - ffmpeg
+  - [Manim](/manim)
 - [Others]()
   - [Open Source License](/Open_Source_License)
   - [开发版本号相关](/Version)
@@ -80,6 +83,8 @@
   - [Yocto](/Yocto)
   - [Visual Studio](/Visual_Studio)
   - [CRLR](/CRLF)
-  - [Manim](/manim)
+
+
+---
 
 [![](https://img.shields.io/badge/%2B-Edit%20Sidebar-brightgreen)](https://github.com/junxnone/techwiki/issues/1)
