@@ -2,7 +2,7 @@
 Title | manim
 -- | --
 Created @ | `2022-12-15T01:59:44Z`
-Last Modify @| `2022-12-15T01:59:44Z`
+Last Modify @| `2022-12-15T13:30:50Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/298)
 
@@ -14,3 +14,31 @@ Edit @| [here](https://github.com/junxnone/techwiki/issues/298)
 ## Brief 
 - 动画化工具
 - [jupyter notebooks examples](https://github.com/junxnone/examples#manim)
+
+## Features
+
+- 画形状
+ - 矩形
+ - 正方形
+ - 三角形
+ - 椭圆
+ - 圆
+ - 线
+ - Brace
+ - 箭头
+- 公式
+  - 点
+  - 字符
+- Image
+  - ndarray
+- 计算
+  - 交集
+  - 并集
+  - 互斥
+  - 不同
+- 动画
+  - 移动
+  - Scale
+  - 初始化
+  - 沿路径运动
+  - 旋转
