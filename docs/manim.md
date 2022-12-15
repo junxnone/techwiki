@@ -2,7 +2,7 @@
 Title | manim
 -- | --
 Created @ | `2022-12-15T01:59:44Z`
-Last Modify @| `2022-12-15T13:30:50Z`
+Last Modify @| `2022-12-15T14:06:41Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/298)
 
@@ -26,6 +26,8 @@ Edit @| [here](https://github.com/junxnone/techwiki/issues/298)
  - 线
  - Brace
  - 箭头
+ - 3D  Axes
+ - 3D Surface
 - 公式
   - 点
   - 字符
@@ -42,3 +44,4 @@ Edit @| [here](https://github.com/junxnone/techwiki/issues/298)
   - 初始化
   - 沿路径运动
   - 旋转
+  - Bbox
