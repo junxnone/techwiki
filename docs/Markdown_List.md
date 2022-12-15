@@ -1,50 +1,68 @@
 ---
 Title | Markdown List
 -- | --
-Create Date | `2021-09-22T10:05:33Z`
-Update Date | `2021-09-22T10:05:33Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/161)
+Created @ | `2021-09-22T10:05:33Z`
+Last Modify @| `2022-12-15T09:48:23Z`
+Labels | ``
+Edit @| [here](https://github.com/junxnone/techwiki/issues/161)
 
 ---
-- List
+## 普通 List
 
 ```
 - list 1
+  - list 1.1
+    - list 1.1.1
 - list 2
 - list 3
 ```
+
 - list 1
+  - list 1.1
+    - list 1.1.1
 - list 2
 - list 3
 
-----
 
-- Task List
+## TODO Task/Check List
 
 ```
 - [ ] Task 1
-  - [ ] Task 2
+  - [ ] Task 1.1
+  - [ ] Task 1.2
+    - [x] Task 1.2.1
+- [ ] Task 2
 - [x] Task 3
 ```
 
 - [ ] Task 1
-  - [ ] Task 2
+  - [ ] Task 1.1
+  - [ ] Task 1.2
+    - [x] Task 1.2.1
+- [ ] Task 2
 - [x] Task 3
 
----
 
-- html 表示 无序
-```
-<ul><li>第一行</li><li>第二行</li><li>第三行</li></ul>
-```
-<ul><li>第一行</li><li>第二行</li><li>第三行</li></ul>
+## html 表示 
 
-- html 表示 有序
+### 无序 List
+
 ```
-<ol><li>第一行</li><li>第二行</li><li>第三行</li></ol>
+<ul><li>L1</li><li>L2<ul><li>L2.1<ul><li>L2.1.1</li></ul></li></ul></li><li>L3</li></ul>
 ```
 
-<ol><li>第一行</li><li>第二行</li><li>第三行</li></ol>
+<ul><li>L1</li><li>L2<ul><li>L2.1<ul><li>L2.1.1</li></ul></li></ul></li><li>L3</li></ul>
+
+### 有序 List
+
+```
+<ol><li>L1</li><li>L2<ol><li>L2.1<ol><li>L2.1.1</li></ol></li></ol></li><li>L3</li></ol>
+```
+
+<ol><li>L1</li><li>L2<ol><li>L2.1<ol><li>L2.1.1</li></ol></li></ol></li><li>L3</li></ol>
+
+
+### 自定义 List
 
 ```
 <ol type="I"><li>第一行</li><li>第二行</li><li>第三行</li></ol>
