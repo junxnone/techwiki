@@ -2,7 +2,7 @@
 Title | manim
 -- | --
 Created @ | `2022-12-15T01:59:44Z`
-Last Modify @| `2022-12-15T14:06:41Z`
+Last Modify @| `2022-12-15T14:07:18Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/298)
 
@@ -18,16 +18,16 @@ Edit @| [here](https://github.com/junxnone/techwiki/issues/298)
 ## Features
 
 - 画形状
- - 矩形
- - 正方形
- - 三角形
- - 椭圆
- - 圆
- - 线
- - Brace
- - 箭头
- - 3D  Axes
- - 3D Surface
+  - 矩形
+  - 正方形
+  - 三角形
+  - 椭圆
+  - 圆
+  - 线
+  - Brace
+  - 箭头
+  - 3D  Axes
+  - 3D Surface
 - 公式
   - 点
   - 字符
