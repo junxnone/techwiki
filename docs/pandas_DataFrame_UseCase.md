@@ -1,9 +1,10 @@
 ---
 Title | pandas DataFrame UseCase
 -- | --
-Create Date | `2019-08-15T11:05:16Z`
-Update Date | `2022-05-17T13:59:12Z`
-Edit link | [here](https://github.com/junxnone/techwiki/issues/284)
+Created @ | `2019-08-15T11:05:16Z`
+Last Modify @| `2022-12-16T08:26:07Z`
+Labels | ``
+Edit @| [here](https://github.com/junxnone/techwiki/issues/284)
 
 ---
 ## 查看数据
@@ -235,6 +236,9 @@ df.set_index('defect')
 - 重命名列名
 ```
 df2 = df.rename(columns={'level_0':'date'}) 
+```
+```
+cls_df = cls_df.rename(columns = lambda c:"cls" + str(c))
 ```
 
 - 读取 CSV 文件时设置 `columns`
