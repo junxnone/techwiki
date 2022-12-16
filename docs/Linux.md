@@ -1,11 +1,14 @@
 ---
 Title | Linux
 -- | --
-Create Date | `2022-05-02T14:04:15Z`
-Update Date | `2022-05-02T14:04:15Z`
-Edit link | [here](https://github.com/junxnone/techwiki/issues/277)
+Created @ | `2022-05-02T14:04:15Z`
+Last Modify @| `2022-12-16T03:32:08Z`
+Labels | ``
+Edit @| [here](https://github.com/junxnone/techwiki/issues/277)
 
 ---
+# Linux
+
 
 ## Brief
 - Linux kernel
