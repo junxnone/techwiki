@@ -20,3 +20,9 @@ jobs:
           number: ${{ github.event.issue.number }}
           actor: ${{ github.actor }}
           nohead: ${{ contains(github.event.issue.labels.*.name, 'nohead') }}
+      - uses: junxnone/autosidebar@main
+        with:
+          push_branch: "main"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          actor: ${{ github.actor }}
+          docs_path: "docs"
