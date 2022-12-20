@@ -8,7 +8,7 @@
     - [script](/Linux_Tools_script)
     - [rsync](/Linux_Tools_rsync)
     - [Reference](/Linux_Tools_TaskSchedule)
-    - [Reference](/Linux_Tools_tmux)
+    - [tmux](/Linux_Tools_tmux)
     - [Reference](/Linux_Tools_APT)
     - [Reference](/Linux_Tools_history)
     - [Download](/Linux_Tools_Download)
