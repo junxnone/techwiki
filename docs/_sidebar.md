@@ -19,6 +19,7 @@
     - [Reference](/Linux_Tools_tr)
     - [syncthing](/Linux_Tools_syncthing)
     - [Brief](/Linux_Tools_shuf)
+    - [sar](/Linux_Tools_sar)
     - [Brief](/Linux_Tools_xset)
     - [DiskMonitor](/Linux_Tools_DiskMonitor)
     - [atrun uid=1000 gid=1000](/Linux_Tools_at)
