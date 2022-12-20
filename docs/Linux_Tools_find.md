@@ -2,16 +2,16 @@
 Title | Linux Tools find
 -- | --
 Created @ | `2019-07-02T02:39:44Z`
-Last Modify @| `2022-12-18T06:07:28Z`
+Last Modify @| `2022-12-20T08:57:14Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/115)
 
 ---
-# Reference
+## Reference
 - [find -size 查出指定文件大小的命令](https://www.cnblogs.com/rusking/p/7403160.html)
 
 
-# Brief
+## Brief
 - 查找文件
 
 ```
