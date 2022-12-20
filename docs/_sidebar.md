@@ -29,7 +29,7 @@
     - [Brief](/Linux_Tools_top)
     - [xargs](/Linux_Tools_xargs)
     - [find](/Linux_Tools_find)
-    - [Tools](/Linux_Tools_CompareText)
+    - [CompareText](/Linux_Tools_CompareText)
     - [Brief](/Linux_Tools_image2string)
     - [grep](/Linux_Tools_grep)
     - [Reference](/Linux_Tools_mediainfo)
