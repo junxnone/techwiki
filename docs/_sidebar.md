@@ -38,7 +38,7 @@
     - [Brief](/Linux_Tools_top)
     - [Brief](/Linux_Tools_chrt)
     - [Brief](/Linux_Tools_cal)
-    - [Usecase](/Linux_Tools_jobs)
+    - [jobs](/Linux_Tools_jobs)
     - [Brief](/Linux_Tools_batch)
     - [Archiver](/Linux_Tools_Archiver)
     - [UseCase](/Linux_Tools_rename)
