@@ -15,7 +15,7 @@
     - [Reference](/Linux_Tools_updatealternatives)
     - [Brief](/Linux_Tools_sort)
     - [Reference](/Linux_Tools_tr)
-    - [Reference](/Linux_Tools_syncthing)
+    - [syncthing](/Linux_Tools_syncthing)
     - [Brief](/Linux_Tools_shuf)
     - [Brief](/Linux_Tools_xset)
     - [Reference](/Linux_Tools_kill)
