@@ -50,7 +50,7 @@
     - [Brief](/Linux_Tools_taskset)
     - [Install `openssh-server`](/Linux_Tools_SSH)
   - [Networks](/Linux_Networks)
-    - [Reference](/Linux_Networks_Tools)
+    - [Tools](/Linux_Networks_Tools)
   - [Reference](/Linux_Vi)
     - [Reference](/Linux_Vi_UseCase)
   - Task
