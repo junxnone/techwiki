@@ -3,6 +3,7 @@
     - [Vi](/Linux_Tools_Vi)
     - [meld](/Linux_Tools_meld)
     - [Reference](/Linux_Tools_json)
+    - [Reference](/Linux_Tools_Samba)
     - [Reference](/Linux_Tools_tree)
     - [Reference](/Linux_Tools_date)
     - [script](/Linux_Tools_script)
