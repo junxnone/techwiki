@@ -26,7 +26,7 @@
     - [Reference](/Linux_Tools_tophtop)
     - [Brief](/Linux_Tools_taskset)
     - [xargs](/Linux_Tools_xargs)
-    - [Reference](/Linux_Tools_find)
+    - [find](/Linux_Tools_find)
     - [Tools](/Linux_Tools_CompareText)
     - [Brief](/Linux_Tools_image2string)
     - [grep](/Linux_Tools_grep)
