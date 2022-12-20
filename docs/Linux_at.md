@@ -1,18 +1,19 @@
 ---
 Title | Linux at
 -- | --
-Create Date | `2019-03-10T10:03:14Z`
-Update Date | `2021-09-20T04:20:50Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/27)
+Created @ | `2019-03-10T10:03:14Z`
+Last Modify @| `2022-12-20T08:53:16Z`
+Labels | ``
+Edit @| [here](https://github.com/junxnone/techwiki/issues/27)
 
 ---
-# Reference
+## Reference
 - [Linux命令之at](https://www.cnblogs.com/diantong/p/9366449.html)
 
-# Brief
+## Brief
 - at和batch读取标准输入或一个指定文件，at在指定的时间执行命令
 
-# UseCase
+## UseCase
 
 - **Install** 
 
