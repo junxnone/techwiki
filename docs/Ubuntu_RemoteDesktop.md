@@ -2,12 +2,12 @@
 Title | Ubuntu RemoteDesktop
 -- | --
 Created @ | `2021-01-06T03:05:58Z`
-Last Modify @| `2022-12-20T09:08:34Z`
+Last Modify @| `2022-12-20T09:09:00Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/11)
 
 ---
-# Reference
+## Reference
 - [Issues with xRDP and Ubuntu 18.04.2 – How to fix it](http://c-nergy.be/blog/?p=13390)
 - [配置 VNC](https://www.mobibrw.com/2019/19379)
 - [xRDP Installation Script](https://c-nergy.be/repository.html)
@@ -15,12 +15,12 @@ Edit @| [here](https://github.com/junxnone/techwiki/issues/11)
 - [TightVNC](https://www.tightvnc.com/download-old.php)
 
 
-# Brief
+## Brief
 - xrdp 方式 windows 访问 Linux
 - [VNC](/VNC) 通用方式访问
 - [vncserver](./vncserver)
 
-# xrdp
+## xrdp
 
 - 安装 xrdp
 
@@ -43,7 +43,7 @@ sudo apt purge xrdp
 `sudo -E apt-get install xserver-xorg-input-all`
 > reboot after install the package, then the keyboard & mouse are back
 
-# VNC
+## VNC
 
 ```
 sudo apt-get update
