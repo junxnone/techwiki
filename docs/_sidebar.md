@@ -42,7 +42,7 @@
     - [jobs](/Linux_Tools_jobs)
     - [Brief](/Linux_Tools_batch)
     - [Archiver](/Linux_Tools_Archiver)
-    - [UseCase](/Linux_Tools_rename)
+    - [rename](/Linux_Tools_rename)
     - [ffmpeg](/Linux_Tools_ffmpeg)
     - [awk](/Linux_Tools_awk)
     - [Brief](/Linux_Tools_taskset)
