@@ -31,7 +31,7 @@
     - [Brief](/Linux_Tools_image2string)
     - [grep](/Linux_Tools_grep)
     - [Reference](/Linux_Tools_mediainfo)
-    - [Reference](/Linux_Tools_ulimit)
+    - [ulimit](/Linux_Tools_ulimit)
     - [Reference](/Linux_Tools_snap)
     - [Reference](/Linux_Tools_ln)
     - [Brief](/Linux_Tools_top)
