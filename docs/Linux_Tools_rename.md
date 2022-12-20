@@ -2,12 +2,12 @@
 Title | Linux Tools rename
 -- | --
 Created @ | `2018-12-14T07:28:47Z`
-Last Modify @| `2022-12-18T06:02:49Z`
+Last Modify @| `2022-12-20T09:01:07Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/91)
 
 ---
-# UseCase
+## UseCase
 
 
 Usecase | cmd
@@ -19,7 +19,8 @@ Usecase | cmd
 > -n  no action ，只看看会改成什么样
 
 
-# Examples
+## Examples
+
 - **rename frame_xxx.png to frame_0xxx.png**
 
 ```
