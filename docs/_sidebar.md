@@ -1,90 +1,416 @@
 - [Linux](/Linux)
-  - [Linux & Tools Install](/Install)
-  - [Linux Desktop](/Linux_Desktop)
-  - [LInux Tools](/Tools)
-  - [Networks](/Networks)
-    - [Proxy](/Proxy)
-    - [V2Ray](/V2Ray)
-    - [shadowsocks](/Ubuntu_shadowsocks)
+  - Tools
+    - [Reference](/Linux_Tools_Vi)
+    - [meld](/Linux_Tools_meld)
+    - [Download](/Linux_Tools_Download)
+    - [Reference](/Linux_Tools_tree)
+    - [Reference](/Linux_Tools_date)
+    - [script](/Linux_Tools_script)
+    - [rsync](/Linux_Tools_rsync)
+    - [Reference](/Linux_Tools_tmux)
+    - [Reference](/Linux_Tools_APT)
+    - [Reference](/Linux_Tools_json)
+    - [Brief](/Linux_Tools_ls)
+    - [ctags](/Linux_Tools_ctags)
+    - [Reference](/Linux_Tools_updatealternatives)
+    - [Brief](/Linux_Tools_sort)
+    - [Reference](/Linux_Tools_syncthing)
+    - [Brief](/Linux_Tools_shuf)
+    - [Brief](/Linux_Tools_xset)
+    - [Reference](/Linux_Tools_kill)
+    - [sed](/Linux_Tools_sed)
+    - [Reference](/Linux_Tools_find)
+    - [Brief](/Linux_Tools_top)
+    - [Tools](/Linux_Tools_CompareText)
+    - [grep](/Linux_Tools_grep)
+    - [Reference](/Linux_Tools_mediainfo)
+    - [Reference](/Linux_Tools_ulimit)
+    - [Reference](/Linux_Tools_snap)
+    - [Reference](/Linux_Tools_ln)
+    - [Brief](/Linux_Tools_chrt)
+    - [scp](/Linux_Tools_scp)
+    - [Brief](/Linux_Tools_cal)
+    - [Archiver](/Linux_Tools_Archiver)
+    - [UseCase](/Linux_Tools_rename)
+    - [ffmpeg](/Linux_Tools_ffmpeg)
+    - [awk](/Linux_Tools_awk)
+    - [Brief](/Linux_Tools_taskset)
+    - [Install `openssh-server`](/Linux_Tools_SSH)
+  - [Networks](/Linux_Networks)
+    - [Reference](/Linux_Networks_Tools)
+  - [Reference](/Linux_Vi)
+    - [Reference](/Linux_Vi_UseCase)
+  - Task
+    - Schedule
+    - manage
+  - [Reference](/Linux_kill)
+  - [grep](/Linux_grep)
+  - [Usecase](/Linux_jobs)
+  - [awk](/Linux_awk)
+  - Setup
+    - [hostnamectl set-hostname serverx-xxx](/Linux_Setup_hostname)
+  - [Reference](/Linux_IPC)
+  - Network
+    - Port
+  - [Reference](/Linux_ln)
+  - [Brief](/Linux_sort)
+  - Download
+    - [Tools](/Linux_Download_Tools)
+  - [Brief](/Linux_chrt)
+  - show
+    - boot
+  - [Brief](/Linux_batch)
+  - [Reference](/Linux_Semaphore)
+  - [sar](/Linux_sar)
+  - [Reference](/Linux_date)
+  - [Driver](/Linux_Driver)
+  - [Reference](/Linux_magnetW)
+  - [Brief](/Linux_image2string)
+  - [Brief](/Linux_shuf)
+  - [Reference](/Linux_find)
+  - File
+    - Compare
+  - [Brief](/Linux_crontab)
+  - ulimit
+  - [Reference](/Linux_Samba)
+  - [Desktop](/Linux_Desktop)
+  - cmd
+    - [Reference](/Linux_cmd_history)
+  - xargs
+  - [Brief](/Linux_ls)
+  - [Reference](/Linux_at)
+  - OS
+    - FS
+  - Shared
+    - [Reference](/Linux_Shared_Memory)
+  - [Brief](/Linux_bc)
+  - [Install](/Linux_Install)
+  - [Reference](/Linux_tree)
+  - [Reference](/Linux_PAM)
+  - Disk
+    - [Reference](/Linux_Disk_monitor)
+- Ubuntu
+  - Install
+    - [Reference](/Ubuntu_Install_GCC)
+    - [Reference](/Ubuntu_Install_Steam)
+  - [Installation of basic build dependencies](/Ubuntu_shadowsocks)
+  - [upgrade](/Ubuntu_upgrade)
+  - auto
+    - mount
+  - [Brief](/Ubuntu_watch)
+  - forget
+    - [Reference](/Ubuntu_forget_password)
+  - server
+    - Install
+  - users
+    - create
+  - json
+    - [Reference](/Ubuntu_json_tools)
+  - ssh
+    - work
+  - Change
+    - Kernel
+  - thinclient
+    - drives
+  - USB
+    - headphone
+  - Remote
+    - [Reference](/Ubuntu_Remote_Desktop)
+  - [Reference](/Ubuntu_snap)
+  - install
+    - google
+  - Desktop
+    - Display
+  - [Reference](/Ubuntu_APT)
+- [Python](/Python)
+  - [assert](/Python_assert)
+  - [time](/Python_time)
+  - [pylint](/Python_pylint)
+  - [tqdm](/Python_tqdm)
+  - [非空](/Python_list)
+  - [slice](/Python_slice)
+  - [decorator](/Python_decorator)
+  - [psutil](/Python_psutil)
+  - [yapf](/Python_yapf)
+  - build
+    - [使用 `cython` 生产 `so` 库](/Python_build_exe)
+  - format
+    - [string](/Python_format_string)
+  - [Brief](/Python_virtualenv)
+  - code
+    - analysis
+  - [logging](/Python_logging)
+  - [bandit](/Python_bandit)
+- Github
+  - [Pages](/Github_Pages)
+    - [Reference](/Github_Pages_Mirror)
+    - geojson
+    - timeline
+    - Baidu
+    - Readme
+    - [Reference](/Github_Pages_docsify)
+    - [Reference](/Github_Pages_jekyll)
+  - [Reference](/Github_backup)
+  - Chrome
+    - [[GitHub Hovercard](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk/related)](/Github_Chrome_extensions)
+  - [Brief](/Github_Token)
+  - [Reference](/Github_actions)
+- [cmake](/cmake)
+  - [install](/cmake_install)
+    - [files](/cmake_install_files)
+  - [usecase](/cmake_usecase)
+  - [debug](/cmake_debug)
+  - [windows](/cmake_windows)
+  - [variables](/cmake_variables)
+  - [generators](/cmake_generators)
+  - [comment line](/cmake_语法)
+  - [platforms](/cmake_platforms)
+  - [commands](/cmake_commands)
+- [Reference](/Shell)
+  - [arguments](/Shell_arguments)
+  - read
+    - [Reference](/Shell_read_file)
+  - [Reference](/Shell_case)
+  - [Reference](/Shell_Function)
+  - [Examples](/Shell_Examples)
+  - [Brief](/Shell_if)
+  - [for](/Shell_for)
+  - exec
+    - error
+  - [Reference](/Shell_comment)
+- [Docker](/Docker)
+  - [Reference](/Docker_Tools)
+  - [Reference](/Docker_Volume)
+  - [Reference](/Docker_compose)
+  - [Reference](/Docker_Dockerfile)
+  - [UI](/Docker_UI)
+  - [Issues](/Docker_Issues)
+  - [Reference](/Docker_Network)
+  - move
+    - data
+  - [Reference](/Docker_GUI)
+- [OpenMP](/OpenMP)
+  - [Usecase](/OpenMP_Usecase)
+  - [Task](/OpenMP_Task)
+  - [Reference](/OpenMP_SIMD)
+  - [Offload](/OpenMP_Offload)
+  - [Directives](/OpenMP_Directives)
+  - [变量](/OpenMP_变量)
+  - [API](/OpenMP_API)
+  - Bind
+    - [Reference](/OpenMP_Bind_Core)
+- [Git](/Git)
+  - [Brief](/Git_submodule)
+  - [UseCase](/Git_tag)
+  - [Reference](/Git_precommit)
+  - remove
+    - file
+  - [archive](/Git_archive)
+  - proxy
+    - [config](/Git_proxy_config)
+  - [branch](/Git_branch)
+  - [config](/Git_config)
+- [pandas](/pandas)
+  - [DataFrame](/pandas_DataFrame)
+    - [传递函数，效果同上](/pandas_DataFrame_UseCase)
+    - [Create](/pandas_DataFrame_Create)
+  - [Visualization](/pandas_Visualization)
+  - [sort](/pandas_sort)
+  - [SettingWithCopyWarning](/pandas_SettingWithCopyWarning)
+  - [list2csv](/pandas_list2csv)
+  - [Series](/pandas_Series)
+- [CPP](/CPP)
+  - Standard
+    - Template
+    - [Reference](/CPP_Standard_Library)
+  - [Switch](/CPP_Switch)
+  - [计时](/CPP_计时)
+  - [Reference](/CPP_Vector)
+- [Jupyter](/Jupyter)
+  - show
+    - image
+  - [Reference](/Jupyter_Extensions)
+  - use
+    - local
+  - docker
+    - [Reference](/Jupyter_docker_image)
+  - [Reference](/Jupyter_Arch)
+- [Markdown](/Markdown)
+  - [Image](/Markdown_Image)
+  - [text in gray](/Markdown_Text)
+  - [Table](/Markdown_Table)
+  - [List](/Markdown_List)
+  - github
+    - [Reference](/Markdown_github_emoji)
+- [Reference](/tmux)
+  - [Reference](/tmux_arch)
+  - [Reference](/tmux_plugins)
+- [SYCL](/SYCL)
+  - [Projects](/SYCL_Projects)
+  - [Concepts](/SYCL_Concepts)
+- [Reference](/Vi)
+  - [Reference](/Vi_plugins)
+  - [Reference](/Vi_Usecase)
+- [iGPU](/iGPU)
+  - [Tools](/iGPU_Tools)
+  - [Issues](/iGPU_Issues)
+- Intel
+  - [MKL](/Intel_MKL)
+  - [CPU](/Intel_CPU)
+  - [Compiler](/Intel_Compiler)
+- [Reference](/OpenCL)
+  - [Reference](/OpenCL_Install)
+- Performance
+  - [Optimization](/Performance_Optimization)
+    - [TMA](/Performance_Optimization_TMA)
 - [OS](/OS)
-  - [File System](/OS_File_System)
-  - [POSIX VS SystemV](/POSIX_VS_SystemV)
-  - [Linux IPC](/Linux_IPC)
-  - [Linux PAM](/Linux_PAM)
-  - [Linux OS 文件系统](/Linux_OS_FS_Arch)
-  - [Linux Driver](/Linux_Driver)
-  - [Library](/Library)
-    - [Library Tools](/Library_Tools)
-- [编译器](/Compiler)
-  - [GCC](/GCC)
-  - [ICC](/Intel_Compiler)
-- 开发工具
-  - [cmake](/cmake)
-  - [make](/Make)
-  - [pkg-config](/pkg_config)
-  - ninja
-  - meson
-  - [Jupyter](/Jupyter)
-    - [JupyterLab](/JupyterLab)
-    - [JupyterHub](/JupyterHub)
-  - [conda](/conda)
-  - [Python virtualenv](/Python_virtualenv)
-  - [OneAPI](/OneAPI)
-- 编程语言
-  - C
-  - [C++](/CPP)
-  - [Python](/Python)
-  - [Shell](/Shell)
-- 网咯编程
-  - [Socket](/Socket)
-    - [Socket 函数](/Socket_Function)
-- [性能优化](/Performance_Optimization)
-  - [内存优化](/Memory_Optimizations)
-  - [Vtune](/Vtune)
-- [并行计算](/并行计算)
-  - [DPC++](/DPCPP)
-  - [SYCL](/SYCL)
-  - [OpenMP](/OpenMP)
-  - [OpenCL](/OpenCL)
-  - [OpenMPI](/OpenMPI)
-  - Concepts
-    - [NDRange](/NDRange)
-- 虚拟化
-  - [Docker](/Docker)
-  - KVM
-- 版本管理
-  - [Git](/Git)
-  - Github
-    - [Github backup](/Github_backup)
-    - [Github actions](/Github_actions)
-    - [Github Token](/Github_Token)
-    - [Github Pages](/Github_Pages)
-    - [Github Chrome extensions](/Github_Chrome_extensions)
-    - [Github 代码浏览工具 Source Graph](/Sourcegraph)
-  - [Gitlab](/Gitlab)
-- 开发文档
-  - [Markdown](/Markdown)
-  - [YAML](/YAML)
+  - File
+    - [Reference](/OS_File_System)
+- [Vtune](/Vtune)
+  - Command
+    - [Line](/Vtune_Command_Line)
+- [GCC](/GCC)
+  - [UseCase](/GCC_UseCase)
+- NVIDIA
+  - Driver
+    - [Failed](/NVIDIA_Driver_Failed)
+  - [GPUs](/NVIDIA_GPUs)
+- [Cache](/Cache)
+  - Line
+    - [Optimization](/Cache_Line_Optimization)
+- [Library](/Library)
+  - [Tools](/Library_Tools)
+- [DPCPP](/DPCPP)
+  - [DEBUG](/DPCPP_DEBUG)
+- update
+  - [log](/update_log)
+  - [Reference](/update_alternatives)
+- [Brief](/Yocto)
+  - Set
+    - Static
+- [Memory](/Memory)
+  - [Optimizations](/Memory_Optimizations)
+- [SIMD](/SIMD)
+  - [原理](/SIMD_原理)
+- [Socket](/Socket)
+  - [Reference](/Socket_Function)
+- [AVX](/AVX)
+  - Code
+    - [Compile](/AVX_Code_Compile)
+- [Tools](/Tools)
+  - [Reference](/Tools_opengrok)
+- [Gitlab](/Gitlab)
+  - [Reference](/Gitlab_CICD)
+- [ctags](/ctags)
+- [Reference](/live555)
+- [Archiver](/Archiver)
+- [YAML](/YAML)
+- Program
+  - Bind
+    - Socket
+- [pip](/pip)
+- IPP
+  - [UseCase](/IPP_Intel)
+- [Proxy](/Proxy)
+- netdata
+- [CPU](/CPU)
+- [Reference](/virtualenvwrapper)
+- [Inference](/OpenProject)
+- Level
+  - [Zero](/Level_Zero)
+- Parallel
+  - [Reference](/Parallel_Computing)
+- Windows
+  - SSH
+    - [Reference](/Windows_SSH_Client)
+- [Reference](/mosquitto)
+- [PECOFF](/PECOFF)
+- [Reference](/Version)
+- Setup
+  - openssh
+    - [Install `openssh-server`](/Setup_openssh_server)
+- [rsync](/rsync)
+- adduser
+  - vs
+    - [Reference](/adduser_vs_useradd)
+- [Reference](/Compiler)
 - [Hardware](/Hardware)
-  - [CPU](/CPU)
-  - [Memory](/Memory)
-  - [Cache](/Cache)
-  - [iGPU](/iGPU)
-  - NVIDIA GPUs
-  - [SIMD](/SIMD)
-- Media
-  - ffmpeg
-  - [Manim](/manim)
-- Others
-  - [Open Source License](/Open_Source_License)
-  - [开发版本号相关](/Version)
-  - [mosquitto](/mosquitto)
-  - [代码浏览工具 opengrok](/Tools_opengrok)
-  - [Yocto](/Yocto)
-  - [Visual Studio](/Visual_Studio)
-  - [CRLR](/CRLF)
-
-
----
-
-[![](https://img.shields.io/badge/%2B-Edit%20Sidebar-brightgreen)](https://github.com/junxnone/techwiki/issues/1)
+- Cannot
+  - find
+    - [Reference](/Cannot_find_bashrc)
+- [Reference](/Sourcegraph)
+- Network
+  - Performance
+    - [qperf](/Network_Performance_Tools)
+- xorg
+  - intel
+    - gpu
+- [Reference](/vncserver)
+- [VNC](/VNC)
+- jupyter
+  - [cpp](/jupyter_cpp)
+- [UseCase](/rename)
+- [Reference](/yarn)
+- [Reference](/syncthing)
+- [Reference](/JupyterLab)
+- CentOS
+  - Install
+    - [Reference](/CentOS_Install_Desktop)
+- [OneAPI](/OneAPI)
+- Download
+  - google
+    - drive
+- Increase
+  - [Swap](/Increase_Swap)
+- [Install](/Install)
+- [scp](/scp)
+- Visual
+  - [Studio](/Visual_Studio)
+- [SPIR](/SPIR)
+- [NUMA](/NUMA)
+- intel
+  - telemetry
+    - [Reference](/intel_telemetry_tool)
+- [About](/about)
+- git
+  - diff
+    - no
+- [Reference](/putty)
+- [Reference](/OpenMPI)
+- Loop
+  - [Optimizations](/Loop_Optimizations)
+- [ffmpeg](/ffmpeg)
+- baidu
+  - map
+    - develop
+- [NDRange](/NDRange)
+- POSIX
+  - VS
+    - [Reference](/POSIX_VS_SystemV)
+- [oneDPL](/oneDPL)
+- [V2Ray](/V2Ray)
+- [CRLF](/CRLF)
+- pkg
+  - [Package Information for pkg-config](/pkg_config)
+- Open
+  - Source
+    - [Reference](/Open_Source_License)
+- [meld](/meld)
+- [Reference](/aria2)
+- [并行计算](/并行计算)
+- [conda](/conda)
+- [Networks](/Networks)
+- ubuntu
+  - frone
+    - headphone
+- [Reference](/JupyterHub)
+- [cpack](/cpack)
+- [BLAS](/BLAS)
+- [Reference](/Make)
+- [Reference](/nmap)
+- [manim](/manim)
+- [LAPACK](/LAPACK)
+- List
+  - Hardware
+    - [Reference](/List_Hardware_info)
+- [Reference](/mediainfo)
