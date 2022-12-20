@@ -108,7 +108,6 @@
     - [Reference](/Ubuntu_Install_GCC)
     - [Reference](/Ubuntu_Install_Steam)
   - [Installation of basic build dependencies](/Ubuntu_shadowsocks)
-  - [upgrade](/Ubuntu_upgrade)
   - auto
     - mount
   - [Brief](/Ubuntu_watch)
@@ -120,6 +119,7 @@
     - create
   - json
     - [Reference](/Ubuntu_json_tools)
+  - [upgrade](/Ubuntu_upgrade)
   - ssh
     - work
   - Change
@@ -135,6 +135,7 @@
     - google
   - Desktop
     - Display
+  - [RemoteDesktop](/Ubuntu_RemoteDesktop)
   - [Reference](/Ubuntu_APT)
 - [Python](/Python)
   - [assert](/Python_assert)
