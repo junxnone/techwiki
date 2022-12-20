@@ -1,15 +1,16 @@
 ---
 Title | Linux Disk monitor
 -- | --
-Create Date | `2021-09-22T06:51:31Z`
-Update Date | `2021-09-22T06:51:31Z`
-Edit link | [here](https://github.com/junxnone/linuxwiki/issues/114)
+Created @ | `2019-05-27T02:27:08Z`
+Last Modify @| `2022-12-20T08:58:02Z`
+Labels | ``
+Edit @| [here](https://github.com/junxnone/techwiki/issues/114)
 
 ---
-# Reference
+## Reference
 - [linux硬盘IO性能-iostat](https://www.cnblogs.com/louis-w/p/8027388.html)
 
-# Brief
+## Brief
 - iostat
 
 ## UseCase
