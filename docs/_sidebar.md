@@ -1,6 +1,6 @@
 - [Linux](/Linux)
   - Tools
-    - [Reference](/Linux_Tools_Vi)
+    - [Vi](/Linux_Tools_Vi)
     - [meld](/Linux_Tools_meld)
     - [Reference](/Linux_Tools_json)
     - [Reference](/Linux_Tools_kill)
