@@ -2,16 +2,16 @@
 Title | Linux Tools Vi
 -- | --
 Created @ | `2019-03-07T07:38:27Z`
-Last Modify @| `2022-12-18T06:00:50Z`
+Last Modify @| `2022-12-20T08:54:37Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/14)
 
 ---
-# Reference
+## Reference
 - [vim-deprecated](https://github.com/ma6174/vim-deprecated)
 - [安装 YouCompleteMe](https://www.cnblogs.com/feiyuhuo/p/10274236.html)
 
-# Brief
+## Brief
 - Install/Setup 
 - [UseCase](./Vi_Usecase)
 - [Plugins](./Vi_plugins)
