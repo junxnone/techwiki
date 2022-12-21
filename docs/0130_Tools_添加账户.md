@@ -1,8 +1,8 @@
 ---
-Title | adduser vs useradd
+Title | Tools 添加账户
 -- | --
 Created @ | `2019-02-19T10:38:10Z`
-Last Modify @| `2022-12-21T10:24:04Z`
+Last Modify @| `2022-12-21T10:24:22Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/130)
 
