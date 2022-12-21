@@ -46,7 +46,7 @@
   - [grep](/Linux_Tools_grep)
   - [添加用户 adduser vs useradd](/0130_Tools_添加账户)
   - [mediainfo](/Linux_Tools_mediainfo)
-  - [Reference](/0050_Tools_KernelUpgrade)
+  - [Kernel 升级管理](/0050_Tools_KernelUpgrade)
   - [awk](/Linux_Tools_awk)
   - [Reference](/Linux_Tools_snap)
   - [Reference](/Linux_Tools_ln)

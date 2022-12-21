@@ -110,6 +110,6 @@
 - 2018-10-17   [CompareText](/Linux_Tools_CompareText)
 - 2018-10-17   [TextCompare](/Linux_Tools_TextCompare)
 - 2018-10-16   [mediainfo](/Linux_Tools_mediainfo)
-- 2018-09-28   [Reference](/0050_Tools_KernelUpgrade)
+- 2018-09-28   [Kernel 升级管理](/0050_Tools_KernelUpgrade)
 - 2018-09-28   [Vtune](/Vtune)
 - 2018-09-06   [Docker](/Docker)
