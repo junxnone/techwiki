@@ -1,8 +1,8 @@
 ---
-Title | List Hardware info
+Title | Tools HardwareInfo
 -- | --
 Created @ | `2019-02-20T04:32:30Z`
-Last Modify @| `2022-12-21T10:22:38Z`
+Last Modify @| `2022-12-21T10:23:18Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/7)
 
