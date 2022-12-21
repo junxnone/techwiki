@@ -21,7 +21,7 @@
   - [ctags](/Linux_Tools_ctags)
   - [Reference](/Linux_Tools_updatealternatives)
   - [Brief](/Linux_Tools_sort)
-  - [hostnamectl set-hostname serverx-xxx](/0047_Tools_hostname)
+  - [hostname 管理](/0047_Tools_hostname)
   - [Show Linux Boot Info](/0009_Tools_ShowBootInfo)
   - [Reference](/Linux_Tools_tr)
   - [syncthing](/Linux_Tools_syncthing)

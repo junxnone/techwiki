@@ -106,7 +106,7 @@
 - 2018-11-25   [pip](/pip)
 - 2018-11-23   [Task 管理工具 crontab](/0025_Tools_crontab)
 - 2018-11-22   [hostnamectl set-hostname serverx-xxx](/Linux_Setup_hostname)
-- 2018-11-22   [hostnamectl set-hostname serverx-xxx](/0047_Tools_hostname)
+- 2018-11-22   [hostname 管理](/0047_Tools_hostname)
 - 2018-10-17   [CompareText](/Linux_Tools_CompareText)
 - 2018-10-17   [TextCompare](/Linux_Tools_TextCompare)
 - 2018-10-16   [mediainfo](/Linux_Tools_mediainfo)
