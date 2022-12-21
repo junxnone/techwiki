@@ -1,8 +1,8 @@
 ---
-Title | Ubuntu Install Steam
+Title | Ubuntu InstallSteam
 -- | --
 Created @ | `2021-03-02T12:27:32Z`
-Last Modify @| `2022-12-21T08:42:38Z`
+Last Modify @| `2022-12-21T08:43:15Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/4)
 
