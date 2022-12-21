@@ -2,16 +2,15 @@
 Title | List Hardware info
 -- | --
 Created @ | `2019-02-20T04:32:30Z`
-Last Modify @| `2022-12-21T10:22:23Z`
+Last Modify @| `2022-12-21T10:22:38Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/7)
 
 ---
-
 # Hardware 查看工具
 
 ## Reference
-- [ ] [在Linux上查询物理机信息-不用去拆机器了](https://www.cnblogs.com/operationhome/p/12486702.html)
+- [在Linux上查询物理机信息-不用去拆机器了](https://www.cnblogs.com/operationhome/p/12486702.html)
 
 ## Brief
 
