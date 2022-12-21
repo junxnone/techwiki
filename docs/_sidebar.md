@@ -67,6 +67,9 @@
   - [Reference](/Ubuntu_Install_GCC)
   - [Reference](/Ubuntu_Install_Steam)
   - [Reference](/CentOS_Install_Desktop)
+- [Networks](/Linux_Networks)
+    - Proxy
+  - [Tools](/Linux_Networks_Tools)
 - [DataFrame](/pandas_DataFrame)
   - [传递函数，效果同上](/pandas_DataFrame_UseCase)
   - [Create](/pandas_DataFrame_Create)
@@ -76,9 +79,6 @@
 - [Task](/OpenMP_Task)
     - Schedule
     - manage
-- [Networks](/Linux_Networks)
-  - [Tools](/Linux_Networks_Tools)
-    - Proxy
 - [Optimization](/Performance_Optimization)
   - [TMA](/Performance_Optimization_TMA)
   - File
