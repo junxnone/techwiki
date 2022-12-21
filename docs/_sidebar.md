@@ -76,53 +76,56 @@
 - [Task](/OpenMP_Task)
     - Schedule
     - manage
-- [Reference](/Socket_Function)
-- [Reference](/Shell_Function)
-- [Reference](/Vi_plugins)
-- [Reference](/tmux_plugins)
-  - Standard
-    - Template
-  - [Reference](/CPP_Standard_Library)
-- [Issues](/iGPU_Issues)
-- [Issues](/Docker_Issues)
+- [Networks](/Linux_Networks)
+  - [Tools](/Linux_Networks_Tools)
+    - Proxy
+- [Optimization](/Performance_Optimization)
+  - [TMA](/Performance_Optimization_TMA)
   - File
     - Compare
   - [Reference](/OS_File_System)
-- [Optimization](/Performance_Optimization)
-  - [TMA](/Performance_Optimization_TMA)
 - [Reference](/Docker_Network)
     - Port
-- [sort](/pandas_sort)
-- [Brief](/Linux_sort)
-- [Reference](/Linux_find)
-  - [Reference](/Cannot_find_bashrc)
+- [Usecase](/OpenMP_Usecase)
+- [Reference](/Vi_Usecase)
+  - Standard
+    - Template
+  - [Reference](/CPP_Standard_Library)
   - show
     - image
     - boot
+- [Reference](/Linux_Vi)
+  - [Reference](/Linux_Vi_UseCase)
+- [Desktop](/Linux_Desktop)
+    - Display
+- [Reference](/Vi_plugins)
+- [Reference](/tmux_plugins)
+- [Reference](/Linux_find)
+  - [Reference](/Cannot_find_bashrc)
+- [Driver](/Linux_Driver)
+  - [Failed](/NVIDIA_Driver_Failed)
+- [Reference](/Socket_Function)
+- [Reference](/Shell_Function)
+- [sort](/pandas_sort)
+- [Brief](/Linux_sort)
+- [Optimizations](/Loop_Optimizations)
+- [Optimizations](/Memory_Optimizations)
+- [Issues](/iGPU_Issues)
+- [Issues](/Docker_Issues)
+- [Package Information for pkg-config](/pkg_config)
+- [config](/Git_config)
   - Bind
     - Socket
   - [Reference](/OpenMP_Bind_Core)
-- [Usecase](/OpenMP_Usecase)
-- [Reference](/Vi_Usecase)
-- [Networks](/Linux_Networks)
-  - [Tools](/Linux_Networks_Tools)
-- [Optimizations](/Loop_Optimizations)
-- [Optimizations](/Memory_Optimizations)
-- [Desktop](/Linux_Desktop)
-    - Display
-- [Reference](/Linux_Vi)
-  - [Reference](/Linux_Vi_UseCase)
-- [Package Information for pkg-config](/pkg_config)
-- [config](/Git_config)
-- [Driver](/Linux_Driver)
-  - [Failed](/NVIDIA_Driver_Failed)
-- [log](/update_log)
+- [Reference](/Jupyter_Arch)
   - Security
   - [PAM - Pluggable Authentication Module](/0108_Security_PAM)
-- [Reference](/Github_backup)
-- [Reference](/Jupyter_Arch)
-- [yapf](/Python_yapf)
-- [Reference](/CPP_Vector)
+- [UI](/Docker_UI)
+- [list2csv](/pandas_list2csv)
+- [log](/update_log)
+- [Reference](/Linux_magnetW)
+- [generators](/cmake_generators)
+- [Reference](/Linux_IPC)
 - [upgrade](/Ubuntu_upgrade)
 - [Reference](/Parallel_Computing)
   - build
@@ -130,36 +133,34 @@
   - move
     - data
 - [comment line](/cmake_语法)
-  - SSH
-  - [Reference](/Windows_SSH_Client)
-- [Reference](/Linux_IPC)
-- [Reference](/tmux_arch)
-- [API](/OpenMP_API)
-- [Usecase](/Linux_jobs)
   - Source
   - [Reference](/Open_Source_License)
-- [Reference](/Linux_magnetW)
-- [list2csv](/pandas_list2csv)
-- [UI](/Docker_UI)
-  - Change
-    - Kernel
-- [UseCase](/GCC_UseCase)
-- [计时](/CPP_计时)
-- [generators](/cmake_generators)
+  - SSH
+  - [Reference](/Windows_SSH_Client)
+- [yapf](/Python_yapf)
+- [Reference](/CPP_Vector)
+- [API](/OpenMP_API)
 - [变量](/OpenMP_变量)
-  - use
-    - local
-- [awk](/Linux_awk)
-- [UseCase](/IPP_Intel)
-  - Setup
-  - [hostnamectl set-hostname serverx-xxx](/Linux_Setup_hostname)
-  - exec
-    - error
-  - docker
-  - [Reference](/Jupyter_docker_image)
   - ssh
     - work
+  - Change
+    - Kernel
+  - docker
+  - [Reference](/Jupyter_docker_image)
+  - exec
+    - error
+  - Setup
+  - [hostnamectl set-hostname serverx-xxx](/Linux_Setup_hostname)
+- [UseCase](/IPP_Intel)
+- [UseCase](/GCC_UseCase)
 - [Reference](/update_alternatives)
+- [计时](/CPP_计时)
+- [Reference](/tmux_arch)
+- [awk](/Linux_awk)
+- [Usecase](/Linux_jobs)
+  - use
+    - local
+- [Reference](/Github_backup)
 - [Linux File System](/0137_FileSystem)
   - json
   - [Reference](/Ubuntu_json_tools)
@@ -216,11 +217,10 @@
 - [CPU](/Intel_CPU)
 - [Brief](/Ubuntu_watch)
 - [Reference](/Docker_Dockerfile)
-  - USB
-    - headphone
+- [Brief](/Linux_ls)
 - [branch](/Git_branch)
-- [variables](/cmake_variables)
-  - ulimit
+  - cmd
+  - [Reference](/Linux_cmd_history)
 - [Studio](/Visual_Studio)
 - [Visualization](/pandas_Visualization)
   - Linux
@@ -231,10 +231,9 @@
     - drive
   - Chrome
   - [[GitHub Hovercard](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk/related)](/Github_Chrome_extensions)
-  - cmd
-  - [Reference](/Linux_cmd_history)
   - VS
   - [Reference](/POSIX_VS_SystemV)
+- [tqdm](/Python_tqdm)
 - [Image](/Markdown_Image)
 - [Reference](/Docker_compose)
   - Command
@@ -245,9 +244,9 @@
 - [atrun uid=1000 gid=1000](/Linux_at)
   - read
   - [Reference](/Shell_read_file)
-- [V2Ray](/0157_V2Ray)
-- [tqdm](/Python_tqdm)
+  - ulimit
 - [Reference](/Docker_Volume)
+- [usecase](/cmake_usecase)
 - [Installation of basic build dependencies](/Ubuntu_shadowsocks)
 - [Reference](/Linux_kill)
 - [MKL](/Intel_MKL)
@@ -271,17 +270,18 @@
 - [Brief](/Linux_crontab)
 - [RemoteDesktop](/Ubuntu_RemoteDesktop)
 - [Reference](/Shell_case)
-- [usecase](/cmake_usecase)
   - Line
   - [Optimization](/Cache_Line_Optimization)
-- [Brief](/Linux_ls)
+- [variables](/cmake_variables)
+- [Brief](/Git_submodule)
 - [Reference](/OpenMP_SIMD)
 - [windows](/cmake_windows)
 - [Projects](/SYCL_Projects)
 - [Offload](/OpenMP_Offload)
 - [Brief](/Shell_if)
 - [Brief](/Linux_image2string)
-- [Brief](/Git_submodule)
+  - USB
+    - headphone
 - [Brief](/Linux_shuf)
 - [Examples](/Shell_Examples)
 - [psutil](/Python_psutil)
