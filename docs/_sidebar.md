@@ -33,7 +33,7 @@
   - [scp](/Linux_Tools_scp)
   - [awk](/Linux_Tools_awk)
   - [Reference](/Linux_Tools_tophtop)
-  - [Reference](/0018_Tools_nmap)
+  - [网络工具 nmap](/0018_Tools_nmap)
   - [xargs](/Linux_Tools_xargs)
   - [find](/Linux_Tools_find)
   - [CompareText](/Linux_Tools_CompareText)
