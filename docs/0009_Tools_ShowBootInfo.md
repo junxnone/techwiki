@@ -1,8 +1,8 @@
 ---
-Title | Linux show boot info
+Title | Tools ShowBootInfo
 -- | --
 Created @ | `2020-04-22T10:18:11Z`
-Last Modify @| `2022-12-21T08:39:11Z`
+Last Modify @| `2022-12-21T08:39:31Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/9)
 
