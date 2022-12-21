@@ -73,7 +73,7 @@
 - 2019-07-11   [rsync](/Linux_Tools_rsync)
 - 2019-07-03   [V2Ray](/0157_Networks_Proxy_V2Ray)
 - 2019-07-02   [find](/Linux_Tools_find)
-- 2019-06-29   [Installation of basic build dependencies](/0117_Networks_Proxy_shadowsocks)
+- 2019-06-29   [ShadowSocks](/0117_Networks_Proxy_shadowsocks)
 - 2019-06-12   [Reference](/Linux_Tools_Samba)
 - 2019-05-28   [check](/Shell_exec_error_check)
 - 2019-05-27   [monitor](/Linux_Disk_monitor)
