@@ -67,40 +67,40 @@
   - [Reference](/Ubuntu_Install_GCC)
   - [Reference](/Ubuntu_Install_Steam)
   - [Reference](/CentOS_Install_Desktop)
+- [Task](/OpenMP_Task)
+    - Schedule
+    - manage
 - [install](/cmake_install)
   - [files](/cmake_install_files)
     - google
 - [DataFrame](/pandas_DataFrame)
   - [传递函数，效果同上](/pandas_DataFrame_UseCase)
   - [Create](/pandas_DataFrame_Create)
-- [Task](/OpenMP_Task)
-    - Schedule
-    - manage
-- [Reference](/Socket_Function)
-- [Reference](/Shell_Function)
-- [Reference](/Vi_plugins)
-- [Reference](/tmux_plugins)
+  - show
+    - image
+    - boot
+  - File
+    - Compare
+  - [Reference](/OS_File_System)
+- [Reference](/Docker_Network)
+    - Port
+- [Reference](/Linux_find)
+  - [Reference](/Cannot_find_bashrc)
+- [sort](/pandas_sort)
+- [Brief](/Linux_sort)
+- [Usecase](/OpenMP_Usecase)
+- [Reference](/Vi_Usecase)
   - Standard
     - Template
   - [Reference](/CPP_Standard_Library)
+- [Reference](/Socket_Function)
+- [Reference](/Shell_Function)
 - [Optimization](/Performance_Optimization)
   - [TMA](/Performance_Optimization_TMA)
 - [Reference](/Linux_Vi)
   - [Reference](/Linux_Vi_UseCase)
-- [Usecase](/OpenMP_Usecase)
-- [Reference](/Vi_Usecase)
-  - show
-    - image
-    - boot
-- [Reference](/Linux_find)
-  - [Reference](/Cannot_find_bashrc)
-- [Reference](/Docker_Network)
-    - Port
-  - File
-    - Compare
-  - [Reference](/OS_File_System)
-- [sort](/pandas_sort)
-- [Brief](/Linux_sort)
+- [Reference](/Vi_plugins)
+- [Reference](/tmux_plugins)
 - [Issues](/iGPU_Issues)
 - [Issues](/Docker_Issues)
 - [Desktop](/Linux_Desktop)
@@ -127,8 +127,8 @@
 - [upgrade](/Ubuntu_upgrade)
   - build
   - [使用 `cython` 生产 `so` 库](/Python_build_exe)
-- [Reference](/Parallel_Computing)
 - [Reference](/Jupyter_Arch)
+- [Reference](/Parallel_Computing)
 - [yapf](/Python_yapf)
 - [log](/update_log)
 - [Reference](/Github_backup)
@@ -243,26 +243,26 @@
   - ulimit
 - [Reference](/Docker_Volume)
 - [variables](/cmake_variables)
-- [assert](/Python_assert)
+- [Installation of basic build dependencies](/Ubuntu_shadowsocks)
 - [Reference](/Linux_kill)
 - [MKL](/Intel_MKL)
-  - Ubuntu
-    - Install
   - map
     - develop
   - Set
     - Static
 - [UseCase](/Git_tag)
 - [Reference](/Gitlab_CICD)
-- [Installation of basic build dependencies](/Ubuntu_shadowsocks)
-- [arguments](/Shell_arguments)
+- [assert](/Python_assert)
   - diff
     - no
+- [arguments](/Shell_arguments)
 - [time](/Python_time)
 - [Reference](/Git_precommit)
   - telemetry
   - [Reference](/intel_telemetry_tool)
 - [pylint](/Python_pylint)
+  - Ubuntu
+  - [Ubuntu Install Steam](/0004_Ubuntu_InstallSteam)
 - [Brief](/Linux_crontab)
 - [RemoteDesktop](/Ubuntu_RemoteDesktop)
 - [usecase](/cmake_usecase)
