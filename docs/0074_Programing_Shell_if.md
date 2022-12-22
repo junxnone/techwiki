@@ -2,13 +2,14 @@
 Title | Programing Shell if
 -- | --
 Created @ | `2019-07-25T08:00:08Z`
-Last Modify @| `2022-12-22T06:41:48Z`
+Last Modify @| `2022-12-22T06:42:14Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/74)
 
 ---
+# if  判断
 
-# Brief
+## Brief
 
 - 判断变量是否相等
 - 判断是否是数字 `N`
