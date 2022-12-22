@@ -2,17 +2,18 @@
 Title | Tools Jupyter JupyterLab
 -- | --
 Created @ | `2021-01-13T08:15:18Z`
-Last Modify @| `2022-12-22T06:12:41Z`
+Last Modify @| `2022-12-22T06:13:04Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/155)
 
 ---
-# Reference
+## Reference
 - [Docs](https://jupyterlab.readthedocs.io/en/stable/)
 - [Jupyterlab 使用手册：号称要取代 Jupyter Notebook](https://cloud.tencent.com/developer/article/1509069)
 - [Jupyter Widgets](https://ipywidgets.readthedocs.io/en/stable/user_install.html)
 
-# Brief
+## Brief
+
 - Feature
   - 折叠单元格
   - 拖动单元格(单notebook/多notebook)
