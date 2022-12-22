@@ -262,17 +262,21 @@
     - [List](/0161_Doc_Markdown_List)
     - [Reference](/0159_Doc_Markdown_GithubEmoji)
   - [YAML](/0229_Doc_YAML)
-- [Install](/Linux_Install)
-- [Reference](/OpenCL_Install)
-  - [Reference](/Ubuntu_Install_GCC)
-  - [Reference](/Ubuntu_Install_Steam)
-  - [Reference](/CentOS_Install_Desktop)
 - Ubuntu
   - [Ubuntu Install Steam](/0004_Ubuntu_InstallSteam)
   - [Upgrade](/0089_Ubuntu_Upgrade)
   - Download
     - [Reference](/0036_Ubuntu_Download_aria2)
+  - thinclient
+    - drives
+      - cannot
+        - [thinclient_drives cannot access](/0124_Ubuntu_thinclient_drives_cannot_access)
   - [Install Goolge Pinyin](/0010_Ubuntu_InstallGooglePinyin)
+- [Install](/Linux_Install)
+- [Reference](/OpenCL_Install)
+  - [Reference](/Ubuntu_Install_GCC)
+  - [Reference](/Ubuntu_Install_Steam)
+  - [Reference](/CentOS_Install_Desktop)
 - X
   - [PECOFF](/0248_X_PECOFF)
   - [版本号定义](/0171_X_Version)
