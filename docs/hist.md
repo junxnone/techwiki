@@ -66,7 +66,7 @@
 - 2021-10-26   [cpack](/0190_Build_Cmake_cpack)
 - 2021-10-13   [scp](/scp)
 - 2021-10-13   [scp](/Linux_Tools_scp)
-- 2021-10-13   [Package Information for pkg-config](/0176_Build_pkgconfig)
+- 2021-10-13   [pk-config](/0176_Build_pkgconfig)
 - 2021-10-11   [Install `openssh-server`](/Linux_Tools_SSH)
 - 2021-10-09   [Brief](/Linux_Tools_chrt)
 - 2021-09-22   [Table](/Markdown_Table)

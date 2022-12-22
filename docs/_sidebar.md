@@ -128,7 +128,7 @@
     - [VAR](/0240_Build_Cmake_VAR)
     - [Debug](/0241_Build_Cmake_Debug)
   - [Reference](/0080_Build_Make)
-  - [Package Information for pkg-config](/0176_Build_pkgconfig)
+  - [pk-config](/0176_Build_pkgconfig)
 - Hypervisor
   - [Docker](/0039_Hypervisor_Docker)
     - [Reference](/0085_Hypervisor_Docker_Volume)
