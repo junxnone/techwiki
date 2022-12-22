@@ -277,20 +277,22 @@
     - [ShadowSocks](/0117_Networks_Proxy_shadowsocks)
     - [V2Ray](/0157_Networks_Proxy_V2Ray)
   - [Tools](/Linux_Networks_Tools)
-- [install](/cmake_install)
-  - [files](/cmake_install_files)
-  - google
-    - [Reference](/Ubuntu_install_google_pinyin)
+- Ubuntu
+  - [Ubuntu Install Steam](/0004_Ubuntu_InstallSteam)
+  - [Upgrade](/0089_Ubuntu_Upgrade)
+  - [Reference](/0010_Ubuntu_InstallGooglePinyin)
+- [DataFrame](/pandas_DataFrame)
+  - [传递函数，效果同上](/pandas_DataFrame_UseCase)
+  - [Create](/pandas_DataFrame_Create)
 - [Task](/OpenMP_Task)
   - Schedule
     - [Reference](/Linux_Task_Schedule_Tools)
   - manage
     - [Reference](/Linux_Task_manage_tools)
-- [DataFrame](/pandas_DataFrame)
-  - [传递函数，效果同上](/pandas_DataFrame_UseCase)
-  - [Create](/pandas_DataFrame_Create)
-- [Reference](/Linux_Vi)
-  - [Reference](/Linux_Vi_UseCase)
+- [install](/cmake_install)
+  - [files](/cmake_install_files)
+  - google
+    - [Reference](/Ubuntu_install_google_pinyin)
 - show
   - image
     - [Reference](/Jupyter_show_image_dynamic)
@@ -306,6 +308,8 @@
   - [TMA](/Performance_Optimization_TMA)
 - [Reference](/Linux_find)
   - [Reference](/Cannot_find_bashrc)
+- [Reference](/Linux_Vi)
+  - [Reference](/Linux_Vi_UseCase)
 - Docker
   - [GUI](/0041_Docker_GUI)
   - [compose](/0042_Docker_compose)
@@ -314,9 +318,6 @@
     - [Issue Ubuntu 桌面不显示](/Ubuntu_Desktop_Display_Issue)
 - [Linux File System](/0137_FileSystem)
   - [Reference](/0017_FileSystem_Format)
-- Ubuntu
-  - [Ubuntu Install Steam](/0004_Ubuntu_InstallSteam)
-  - [Upgrade](/0089_Ubuntu_Upgrade)
 - [Reference](/Socket_Function)
 - [Reference](/Shell_Function)
 - [Driver](/Linux_Driver)
