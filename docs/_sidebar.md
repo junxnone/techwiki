@@ -140,6 +140,7 @@
       - [UseCase](/0245_Programing_Compiler_GCC_UseCase)
     - [ICX Intel Compiler](/0196_Programing_Compiler_ICX)
   - [Reference](/0023_Programing_Shell)
+    - [Brief](/0074_Programing_Shell_if)
     - [for](/0290_Programing_Shell_for)
     - [函数](/0075_Programing_Shell_Function)
   - [Library](/0237_Programing_Library)
