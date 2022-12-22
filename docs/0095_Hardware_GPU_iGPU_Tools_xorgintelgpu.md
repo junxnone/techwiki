@@ -1,8 +1,8 @@
 ---
-Title | xorg-intel-gpu-tools
+Title | Hardware GPU iGPU Tools xorgintelgpu
 -- | --
 Created @ | `2018-09-28T06:21:47Z`
-Last Modify @| `2022-12-22T07:44:14Z`
+Last Modify @| `2022-12-22T07:44:56Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/95)
 
