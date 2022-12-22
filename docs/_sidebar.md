@@ -9,7 +9,7 @@
     - [branch](/0060_Tools_Git_branch)
     - [precommit](/0084_Tools_Git_precommit)
     - [UseCase](/0063_Tools_Git_tag)
-    - [RMStageFile](/0061_Tools_Git_RMStageFile)
+    - [移除 stage 文件](/0061_Tools_Git_RMStageFile)
     - [config](/0059_Tools_Git_config)
   - [Jupyter](/0143_Tools_Jupyter)
     - [JupyterLab](/0155_Tools_Jupyter_JupyterLab)

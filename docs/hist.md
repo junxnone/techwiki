@@ -212,7 +212,7 @@
 - 2019-02-28   [Reference](/Linux_Tools_json)
 - 2019-02-20   [Hardware 查看工具](/0007_Tools_HardwareInfo)
 - 2019-02-19   [添加用户 adduser vs useradd](/0130_Tools_添加账户)
-- 2019-02-18   [RMStageFile](/0061_Tools_Git_RMStageFile)
+- 2019-02-18   [移除 stage 文件](/0061_Tools_Git_RMStageFile)
 - 2019-01-31   [Reference](/0202_OPT_PARA_OpenMPI)
 - 2019-01-15   [Reference](/Linux_Tools_history)
 - 2018-12-14   [config](/Git_config)
