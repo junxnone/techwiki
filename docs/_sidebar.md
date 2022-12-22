@@ -237,7 +237,7 @@
       - cannot
         - [thinclient_drives cannot access](/0124_Ubuntu_thinclient_drives_cannot_access)
   - [Reference](/0051_Ubuntu_ForgetPassword)
-  - [<file system> <mount point> <type> <options> <dump> <pass>](/0013_Ubuntu_AutoMountDisk)
+  - [开机自动挂载硬盘](/0013_Ubuntu_AutoMountDisk)
   - [Install Goolge Pinyin](/0010_Ubuntu_InstallGooglePinyin)
 - Linux
   - [IPC](/0097_Linux_IPC)

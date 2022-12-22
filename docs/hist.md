@@ -266,7 +266,7 @@
 - 2018-12-10   [Brief](/0058_Tools_Git_submodule)
 - 2018-12-07   [RTSP Server live555](/0164_live555)
 - 2018-12-07   [RTSP Server live555](/0164_Tools_live555)
-- 2018-12-02   [<file system> <mount point> <type> <options> <dump> <pass>](/0013_Ubuntu_AutoMountDisk)
+- 2018-12-02   [开机自动挂载硬盘](/0013_Ubuntu_AutoMountDisk)
 - 2018-12-01   [USB 耳机没声音](/0093_Ubuntu_Issues_USBHeadphoneNoSound)
 - 2018-11-30   [Server Install Desktop](/0045_Ubuntu_InstallDesktop)
 - 2018-11-29   [Reference](/Shell)
