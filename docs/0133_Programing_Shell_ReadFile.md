@@ -2,15 +2,17 @@
 Title | Programing Shell ReadFile
 -- | --
 Created @ | `2019-05-22T02:17:28Z`
-Last Modify @| `2022-12-22T06:43:00Z`
+Last Modify @| `2022-12-22T06:43:15Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/133)
 
 ---
-# Reference
+# 读取文件
+
+## Reference
 - [SHELL读取文件的方法](https://www.cnblogs.com/kongzhongqijing/articles/5101752.html)
 
-# brief
+## brief
 - 使用 `while` 循环读取行
 
 ## 使用 `while` 循环读取行
