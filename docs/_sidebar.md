@@ -281,6 +281,17 @@
     - [GUI](/0041_Hypervisor_Docker_GUI)
     - [Reference](/0040_Hypervisor_Docker_Network)
     - [Reference](/0082_Hypervisor_Docker_Dockerfile)
+- [Pandas](/0285_Pandas)
+  - UseCase
+    - [传递函数，效果同上](/0284_Pandas_UseCase_DataFrame)
+    - [排序](/0279_Pandas_UseCase_sort)
+    - [list2csv](/0278_Pandas_UseCase_list2csv)
+    - [Create](/0283_Pandas_UseCase_Create)
+  - [DataFrame](/0286_Pandas_DataFrame)
+  - [Series](/0280_Pandas_Series)
+  - [Visualization](/0282_Pandas_Visualization)
+  - Issues
+    - [SettingWithCopyWarning](/0281_Pandas_Issues_SettingWithCopyWarning)
 - [Pages](/Github_Pages)
   - [Reference](/Github_Pages_Mirror)
   - geojson
@@ -293,16 +304,6 @@
     - [Reference](/Github_Pages_Readme_Stats)
   - [Reference](/Github_Pages_docsify)
   - [Reference](/Github_Pages_jekyll)
-- [Pandas](/0285_Pandas)
-  - UseCase
-    - [传递函数，效果同上](/0284_Pandas_UseCase_DataFrame)
-    - [排序](/0279_Pandas_UseCase_sort)
-    - [list2csv](/0278_Pandas_UseCase_list2csv)
-    - [Create](/0283_Pandas_UseCase_Create)
-  - [DataFrame](/0286_Pandas_DataFrame)
-  - [Series](/0280_Pandas_Series)
-  - Issues
-    - [SettingWithCopyWarning](/0281_Pandas_Issues_SettingWithCopyWarning)
 - Doc
   - [Markdown](/0158_Doc_Markdown)
     - [Table](/0162_Doc_Markdown_Table)
