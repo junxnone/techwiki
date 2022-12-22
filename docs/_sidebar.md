@@ -128,6 +128,7 @@
     - [pip](/0261_Programing_Python_pip)
     - [非空](/0267_Programing_Python_List)
     - [编译可执行文件](/0256_Programing_Python_BuildExe)
+    - [tqdm](/0264_Programing_Python_tqdm)
   - [CPP](/0179_Programing_CPP)
     - [switch](/0289_Programing_CPP_switch)
     - [STL Standard Template Library](/0181_Programing_CPP_STL)
