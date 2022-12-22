@@ -77,8 +77,10 @@
       - [API](/0200_OPT_PARA_OpenMP_API)
       - [Offload](/0204_OPT_PARA_OpenMP_Offload)
       - [UseCase](/0208_OPT_PARA_OpenMP_UseCase)
-    - [SYCL](/0194_OPT_PARA_SYCL)
     - [Reference](/0198_OPT_PARA_OpenCL)
+      - [Install](/0135_OPT_PARA_OpenCL_Install)
+    - [SYCL](/0194_OPT_PARA_SYCL)
+    - [DPCPP](/0193_OPT_PARA_DPCPP)
   - Tools
     - [Vtune](/0227_OPT_Tools_Vtune)
       - [CommandLine](/0296_OPT_Tools_Vtune_CommandLine)
