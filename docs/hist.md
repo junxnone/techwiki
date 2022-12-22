@@ -96,7 +96,7 @@
 - 2021-03-02   [Ubuntu Install Steam](/0004_Ubuntu_InstallSteam)
 - 2021-01-25   [Reference](/0198_OPT_PARA_OpenCL)
 - 2021-01-19   [POSIX VS SystemV](/0020_Linux_POSIX与SystemV)
-- 2021-01-13   [Reference](/0155_Tools_Jupyter_JupyterLab)
+- 2021-01-13   [JupyterLab](/0155_Tools_Jupyter_JupyterLab)
 - 2021-01-06   [RemoteDesktop](/Ubuntu_RemoteDesktop)
 - 2020-11-03   [Reference](/0085_Hypervisor_Docker_Volume)
 - 2020-10-28   [Reference](/0086_Hypervisor_Docker_Tools)

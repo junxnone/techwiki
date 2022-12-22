@@ -6,7 +6,7 @@
     - [Reference](/Linux_Tools_Vi_UseCase)
     - [Reference](/Linux_Tools_Vi_Plugins)
   - [Jupyter](/0143_Tools_Jupyter)
-    - [Reference](/0155_Tools_Jupyter_JupyterLab)
+    - [JupyterLab](/0155_Tools_Jupyter_JupyterLab)
   - [Download](/Linux_Tools_Download)
     - [Reference](/Linux_Tools_Download_magnetW)
   - [Reference](/Linux_Tools_kill)
