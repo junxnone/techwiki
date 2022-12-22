@@ -2,16 +2,18 @@
 Title | Tools Jupyter DockerImage
 -- | --
 Created @ | `2019-09-08T09:40:40Z`
-Last Modify @| `2022-12-22T06:16:45Z`
+Last Modify @| `2022-12-22T06:17:14Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/142)
 
 ---
-# Reference
+# Docker Image
+
+## Reference
 - [selecting docker images](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html)
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
 
-# Images
+## Images
 **N.B.**
 因为 NVIDIA license 原因，官方docker image 不支持 GPU
 
