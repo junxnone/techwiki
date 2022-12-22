@@ -76,12 +76,13 @@
   - [Reference](/Github_Pages_docsify)
   - [Reference](/Github_Pages_jekyll)
 - [硬件](/0211_Hardware)
+  - GPU
+    - [NVIDIA](/0219_Hardware_GPU_NVIDIA)
+    - [iGPU](/0212_Hardware_GPU_iGPU)
   - [CPU](/0276_Hardware_CPU)
     - [Intel](/0251_Hardware_CPU_Intel)
   - [Reference](/List_Hardware_info)
   - [Memory](/0215_Hardware_Memory)
-  - GPU
-    - [iGPU](/0212_Hardware_GPU_iGPU)
 - [Install](/Linux_Install)
 - [Reference](/OpenCL_Install)
   - [Reference](/Ubuntu_Install_GCC)
