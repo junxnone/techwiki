@@ -69,7 +69,7 @@
 - 2021-07-21   [GCC](/0170_Programing_Compiler_GCC)
 - 2021-06-01   [编译器](/0169_Programing_Compiler)
 - 2021-05-20   [OpenMP](/0199_OPT_PARA_OpenMP)
-- 2021-04-21   [UseCase](/0226_OPT_LIB_IPP)
+- 2021-04-21   [IPP Intel Integrated Performance Primitives](/0226_OPT_LIB_IPP)
 - 2021-03-04   [Tools](/Linux_Networks_Tools)
 - 2021-03-04   [Network](/Linux_Tools_Network)
 - 2021-03-02   [Ubuntu Install Steam](/0004_Ubuntu_InstallSteam)
