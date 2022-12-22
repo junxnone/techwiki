@@ -53,7 +53,7 @@
 - 2021-09-22   [List](/Markdown_List)
 - 2021-09-19   [Install](/Linux_Install)
 - 2021-09-19   [Install](/Install)
-- 2021-08-09   [Reference](/0201_OPT_PARA_OpenMP_BindCore)
+- 2021-08-09   [绑定CPU核](/0201_OPT_PARA_OpenMP_BindCore)
 - 2021-08-09   [NUMA](/0224_Hardware_NUMA)
 - 2021-08-07   [API](/0200_OPT_PARA_OpenMP_API)
 - 2021-08-02   [原理](/0214_Hardware_SIMD_原理)
