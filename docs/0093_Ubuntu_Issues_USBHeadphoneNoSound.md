@@ -1,8 +1,8 @@
 ---
-Title | Ubuntu USB headphone no sound
+Title | Ubuntu Issues USBHeadphoneNoSound
 -- | --
 Created @ | `2018-12-01T18:03:19Z`
-Last Modify @| `2022-12-22T07:48:50Z`
+Last Modify @| `2022-12-22T07:49:07Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/93)
 
