@@ -255,6 +255,7 @@
   - [PAM - Pluggable Authentication Module](/0108_Linux_PAM)
   - [POSIX VS SystemV](/0020_Linux_POSIX与SystemV)
   - [IncreaseSwap](/0291_Linux_IncreaseSwap)
+  - [Reference](/0056_Linux_bashrc)
 - Hypervisor
   - [Docker](/0039_Hypervisor_Docker)
     - [Issues](/0294_Hypervisor_Docker_Issues)
