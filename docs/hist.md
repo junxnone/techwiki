@@ -266,7 +266,7 @@
 - 2018-12-10   [Brief](/0058_Tools_Git_submodule)
 - 2018-12-07   [RTSP Server live555](/0164_live555)
 - 2018-12-07   [RTSP Server live555](/0164_Tools_live555)
-- 2018-11-30   [Install](/0045_Ubuntu_InstallDesktop)
+- 2018-11-30   [Server Install Desktop](/0045_Ubuntu_InstallDesktop)
 - 2018-11-29   [Reference](/0023_Programing_Shell)
 - 2018-11-29   [Reference](/Shell)
 - 2018-11-29   [awk](/Linux_awk)

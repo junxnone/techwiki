@@ -256,7 +256,7 @@
   - [Reference](/Github_Pages_docsify)
   - [Reference](/Github_Pages_jekyll)
 - Ubuntu
-  - [Install](/0045_Ubuntu_InstallDesktop)
+  - [Server Install Desktop](/0045_Ubuntu_InstallDesktop)
   - [Ubuntu Install Steam](/0004_Ubuntu_InstallSteam)
   - [Upgrade](/0089_Ubuntu_Upgrade)
   - Download
