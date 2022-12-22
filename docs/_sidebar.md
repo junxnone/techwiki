@@ -82,10 +82,11 @@
         - [Zero](/0231_OPT_PARA_DPCPP_Level_Zero)
       - [LevelZero](/0231_OPT_PARA_DPCPP_LevelZero)
       - [DEBUG](/0250_OPT_PARA_DPCPP_DEBUG)
-    - [Reference](/0198_OPT_PARA_OpenCL)
-      - [Install](/0135_OPT_PARA_OpenCL_Install)
     - [SYCL](/0194_OPT_PARA_SYCL)
       - [Projects](/0232_OPT_PARA_SYCL_Projects)
+      - [SPIR](/0230_OPT_PARA_SYCL_SPIR)
+    - [Reference](/0198_OPT_PARA_OpenCL)
+      - [Install](/0135_OPT_PARA_OpenCL_Install)
   - Tools
     - [Vtune](/0227_OPT_Tools_Vtune)
       - [CommandLine](/0296_OPT_Tools_Vtune_CommandLine)
