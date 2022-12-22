@@ -1,8 +1,8 @@
 ---
-Title | Download google drive files without browser
+Title | Ubuntu Download GoogleDriveFilesCMD
 -- | --
 Created @ | `2020-04-13T10:12:18Z`
-Last Modify @| `2022-12-22T08:12:07Z`
+Last Modify @| `2022-12-22T08:12:43Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/81)
 
