@@ -121,6 +121,7 @@
     - [time](/0266_Programing_Python_time)
     - [Slice](/0254_Programing_Python_Slice)
     - [Decorator](/0253_Programing_Python_Decorator)
+    - [logging](/0265_Programing_Python_logging)
     - [FormatString](/0255_Programing_Python_FormatString)
     - [assert](/0262_Programing_Python_assert)
     - [pip](/0261_Programing_Python_pip)
