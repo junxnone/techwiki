@@ -151,6 +151,8 @@
   - [Library](/0237_Programing_Library)
     - [Tools](/0236_Programing_Library_Tools)
   - [CPP](/0179_Programing_CPP)
+    - [Reference](/0178_Programing_CPP_Vector)
+  - [Reference](/0023_Programing_Shell)
   - [Python](/0228_Programing_Python)
 - Hypervisor
   - [Docker](/0039_Hypervisor_Docker)
