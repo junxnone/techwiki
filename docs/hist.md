@@ -1,7 +1,7 @@
 # Wiki History
 
-- 2022-12-15   [manim](/manim)
 - 2022-12-15   [manim](/0298_Tools_manim)
+- 2022-12-15   [manim](/manim)
 - 2022-09-09   [Line](/Vtune_Command_Line)
 - 2022-09-09   [CommandLine](/0296_OPT_Tools_Vtune_CommandLine)
 - 2022-08-25   [UI](/0295_Hypervisor_Docker_UI)
@@ -16,9 +16,10 @@
 - 2022-08-17   [IncreaseSwap](/0291_Linux_IncreaseSwap)
 - 2022-06-16   [for](/0290_Programing_Shell_for)
 - 2022-06-16   [for](/Shell_for)
-- 2022-05-27   [Switch](/CPP_Switch)
 - 2022-05-27   [switch](/0289_Programing_CPP_switch)
+- 2022-05-27   [Switch](/CPP_Switch)
 - 2022-05-26   [Compile](/AVX_Code_Compile)
+- 2022-05-26   [CodeCompile](/0288_Hardware_SIMD_AVX_CodeCompile)
 - 2022-05-24   [Failed](/NVIDIA_Driver_Failed)
 - 2022-05-02   [Linux](/Linux)
 - 2022-04-27   [CPU](/CPU)
