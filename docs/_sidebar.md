@@ -96,6 +96,7 @@
     - [if  判断](/0074_Programing_Shell_if)
     - [Reference](/0072_Programing_Shell_case)
     - [for](/0290_Programing_Shell_for)
+    - [ErrorCheck](/0077_Programing_Shell_ErrorCheck)
     - [Reference](/0070_Programing_Shell_comment)
     - [函数](/0075_Programing_Shell_Function)
     - [ARG](/0071_Programing_Shell_ARG)
