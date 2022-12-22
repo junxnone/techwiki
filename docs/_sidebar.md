@@ -210,6 +210,7 @@
     - [Install](/0066_Build_Cmake_Install)
     - [VAR](/0240_Build_Cmake_VAR)
     - [Debug](/0241_Build_Cmake_Debug)
+    - [Generators](/0242_Build_Cmake_Generators)
   - Jupyter
     - [Reference](/0118_Build_Jupyter_JupyterHub)
   - [Reference](/0080_Build_Make)
