@@ -2,12 +2,14 @@
 Title | Tools Git NoNewline
 -- | --
 Created @ | `2019-07-05T03:05:04Z`
-Last Modify @| `2022-12-22T06:50:58Z`
+Last Modify @| `2022-12-22T06:51:14Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/172)
 
 ---
-# Reference
+# No newline at end of file
+
+## Reference
 - [No Newline at End of File](https://thoughtbot.com/blog/no-newline-at-end-of-file)
 - [How to add a newline to the end of a file?](https://unix.stackexchange.com/questions/31947/how-to-add-a-newline-to-the-end-of-a-file)
 
@@ -16,7 +18,7 @@ Edit @| [here](https://github.com/junxnone/techwiki/issues/172)
 - **Issue** - `git diff \ No newline at end of file`
 - when use `git diff somefile`, it says ` \ No newline at end of file` in the end
 
-# Solution
+## Solution
 
 Target | command
 -- | --
