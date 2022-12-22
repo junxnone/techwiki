@@ -86,6 +86,7 @@
       - [Usease](/0208_OPT_PARA_OpenMP_Usease)
       - [VAR](/0209_OPT_PARA_OpenMP_VAR)
       - [绑定CPU核](/0201_OPT_PARA_OpenMP_BindCore)
+      - [Reference](/0203_OPT_PARA_OpenMP_SIMD)
       - [API](/0200_OPT_PARA_OpenMP_API)
       - [UseCase](/0208_OPT_PARA_OpenMP_UseCase)
   - Tools
