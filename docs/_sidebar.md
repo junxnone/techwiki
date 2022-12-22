@@ -259,6 +259,7 @@
   - [PAM - Pluggable Authentication Module](/0108_Linux_PAM)
   - [POSIX VS SystemV](/0020_Linux_POSIX与SystemV)
   - [IncreaseSwap](/0291_Linux_IncreaseSwap)
+  - [IPC](/0097_Linux_IPC)
 - [Install](/Linux_Install)
 - [Reference](/OpenCL_Install)
   - [Reference](/Ubuntu_Install_GCC)
