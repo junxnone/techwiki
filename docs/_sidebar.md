@@ -129,6 +129,7 @@
     - [Slice](/0254_Programing_Python_Slice)
     - [virtualenvwrapper](/0055_Programing_Python_virtualenvwrapper)
     - [Decorator](/0253_Programing_Python_Decorator)
+    - [Brief](/0046_Programing_Python_virtualenv)
     - [logging](/0265_Programing_Python_logging)
     - [FormatString](/0255_Programing_Python_FormatString)
     - [assert](/0262_Programing_Python_assert)
