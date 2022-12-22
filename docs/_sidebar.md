@@ -223,39 +223,11 @@
     - [Reference](/0118_Build_Jupyter_JupyterHub)
   - [Reference](/0080_Build_Make)
   - [pk-config](/0176_Build_pkgconfig)
-- Linux
-  - [IPC](/0097_Linux_IPC)
-    - [Reference](/0098_Linux_IPC_SharedMemory)
-    - [Reference](/0099_Linux_IPC_Semaphore)
-  - [Brief](/0186_Linux_Yocto)
-    - [设置静态IP](/0185_Linux_Yocto_SetStaticIP)
-  - [History](/0096_Linux_History)
-  - [PAM - Pluggable Authentication Module](/0108_Linux_PAM)
-  - [POSIX VS SystemV](/0020_Linux_POSIX与SystemV)
-  - [IncreaseSwap](/0291_Linux_IncreaseSwap)
-- Hypervisor
-  - [Docker](/0039_Hypervisor_Docker)
-    - [Issues](/0294_Hypervisor_Docker_Issues)
-    - [Reference](/0085_Hypervisor_Docker_Volume)
-    - [Reference](/0086_Hypervisor_Docker_Tools)
-    - [UI](/0295_Hypervisor_Docker_UI)
-    - [移动数据到新位置](/0087_Hypervisor_Docker_MoveData)
-    - [GUI](/0041_Hypervisor_Docker_GUI)
-    - [Reference](/0040_Hypervisor_Docker_Network)
-    - [Reference](/0082_Hypervisor_Docker_Dockerfile)
-- [Pages](/Github_Pages)
-  - [Reference](/Github_Pages_Mirror)
-  - geojson
-    - map
-  - timeline
-    - [Reference](/Github_Pages_timeline_markline)
-  - Baidu
-    - [Reference](/Github_Pages_Baidu_Map)
-  - Readme
-    - [Reference](/Github_Pages_Readme_Stats)
-  - [Reference](/Github_Pages_docsify)
-  - [Reference](/Github_Pages_jekyll)
 - Ubuntu
+  - USB
+    - headphone
+      - no
+        - [USB 耳机没声音](/0093_Ubuntu_USB_headphone_no_sound)
   - [Server Install Desktop](/0045_Ubuntu_InstallDesktop)
   - [Ubuntu Install Steam](/0004_Ubuntu_InstallSteam)
   - [Upgrade](/0089_Ubuntu_Upgrade)
@@ -268,7 +240,39 @@
   - [Reference](/0051_Ubuntu_ForgetPassword)
   - [Install Goolge Pinyin](/0010_Ubuntu_InstallGooglePinyin)
   - Issues
-    - [Issue Ubuntu 桌面不显示](/0052_Ubuntu_Issues_DesktopDisplay)
+    - [桌面不显示](/0052_Ubuntu_Issues_DesktopDisplay)
+- Hypervisor
+  - [Docker](/0039_Hypervisor_Docker)
+    - [Issues](/0294_Hypervisor_Docker_Issues)
+    - [Reference](/0085_Hypervisor_Docker_Volume)
+    - [Reference](/0086_Hypervisor_Docker_Tools)
+    - [UI](/0295_Hypervisor_Docker_UI)
+    - [移动数据到新位置](/0087_Hypervisor_Docker_MoveData)
+    - [GUI](/0041_Hypervisor_Docker_GUI)
+    - [Reference](/0040_Hypervisor_Docker_Network)
+    - [Reference](/0082_Hypervisor_Docker_Dockerfile)
+- Linux
+  - [IPC](/0097_Linux_IPC)
+    - [Reference](/0098_Linux_IPC_SharedMemory)
+    - [Reference](/0099_Linux_IPC_Semaphore)
+  - [Brief](/0186_Linux_Yocto)
+    - [设置静态IP](/0185_Linux_Yocto_SetStaticIP)
+  - [History](/0096_Linux_History)
+  - [PAM - Pluggable Authentication Module](/0108_Linux_PAM)
+  - [POSIX VS SystemV](/0020_Linux_POSIX与SystemV)
+  - [IncreaseSwap](/0291_Linux_IncreaseSwap)
+- [Pages](/Github_Pages)
+  - [Reference](/Github_Pages_Mirror)
+  - geojson
+    - map
+  - timeline
+    - [Reference](/Github_Pages_timeline_markline)
+  - Baidu
+    - [Reference](/Github_Pages_Baidu_Map)
+  - Readme
+    - [Reference](/Github_Pages_Readme_Stats)
+  - [Reference](/Github_Pages_docsify)
+  - [Reference](/Github_Pages_jekyll)
 - Doc
   - [Markdown](/0158_Doc_Markdown)
     - [Table](/0162_Doc_Markdown_Table)
@@ -292,6 +296,11 @@
     - [ShadowSocks](/0117_Networks_Proxy_shadowsocks)
     - [V2Ray](/0157_Networks_Proxy_V2Ray)
   - [Tools](/Linux_Networks_Tools)
+- [Task](/OpenMP_Task)
+  - Schedule
+    - [Reference](/Linux_Task_Schedule_Tools)
+  - manage
+    - [Reference](/Linux_Task_manage_tools)
 - [install](/cmake_install)
   - [files](/cmake_install_files)
   - google
@@ -299,120 +308,111 @@
 - [DataFrame](/pandas_DataFrame)
   - [传递函数，效果同上](/pandas_DataFrame_UseCase)
   - [Create](/pandas_DataFrame_Create)
-- [Task](/OpenMP_Task)
-  - Schedule
-    - [Reference](/Linux_Task_Schedule_Tools)
-  - manage
-    - [Reference](/Linux_Task_manage_tools)
-- [Reference](/Linux_Vi)
-  - [Reference](/Linux_Vi_UseCase)
+- [Linux File System](/0137_FileSystem)
+  - [Reference](/0017_FileSystem_Format)
+- Standard
+  - Template
+    - [Reference](/CPP_Standard_Template_Library)
+  - [Reference](/CPP_Standard_Library)
 - show
   - image
     - [Reference](/Jupyter_show_image_dynamic)
   - boot
     - [Reference](/Linux_show_boot_info)
-- Standard
-  - Template
-    - [Reference](/CPP_Standard_Template_Library)
-  - [Reference](/CPP_Standard_Library)
-- [Usecase](/OpenMP_Usecase)
-- [Reference](/Vi_Usecase)
-- [Optimization](/Performance_Optimization)
-  - [TMA](/Performance_Optimization_TMA)
 - [Reference](/Linux_find)
   - [Reference](/Cannot_find_bashrc)
+- Performance
+  - [性能优化](/0272_Performance_Optimization)
+  - [qperf](/Network_Performance_Tools)
+- [Usecase](/OpenMP_Usecase)
+- [Reference](/Vi_Usecase)
+- [Reference](/Socket_Function)
+- [Reference](/Shell_Function)
+- [Optimization](/Performance_Optimization)
+  - [TMA](/Performance_Optimization_TMA)
+- [Driver](/Linux_Driver)
+  - [Failed](/NVIDIA_Driver_Failed)
+- [Reference](/Linux_Vi)
+  - [Reference](/Linux_Vi_UseCase)
 - Docker
   - [GUI](/0041_Docker_GUI)
   - [compose](/0042_Docker_compose)
 - [Desktop](/Linux_Desktop)
   - Display
     - [Issue Ubuntu 桌面不显示](/Ubuntu_Desktop_Display_Issue)
-- [Linux File System](/0137_FileSystem)
-  - [Reference](/0017_FileSystem_Format)
 - File
   - Compare
     - [Tools](/Linux_File_Compare_Tools)
   - [Reference](/OS_File_System)
-- [Reference](/Socket_Function)
-- [Reference](/Shell_Function)
-- [Driver](/Linux_Driver)
-  - [Failed](/NVIDIA_Driver_Failed)
-- [sort](/pandas_sort)
-- [Brief](/Linux_sort)
 - [Reference](/Docker_Network)
   - Port
     - Tools
-- Performance
-  - [性能优化](/0272_Performance_Optimization)
-  - [qperf](/Network_Performance_Tools)
-- [Reference](/Vi_plugins)
-- [Reference](/tmux_plugins)
-- [Issues](/iGPU_Issues)
-- [Issues](/Docker_Issues)
-- [Optimizations](/Loop_Optimizations)
-- [Optimizations](/Memory_Optimizations)
-- [Package Information for pkg-config](/pkg_config)
-- [config](/Git_config)
+- [sort](/pandas_sort)
+- [Brief](/Linux_sort)
 - Bind
   - Socket
     - [Core](/Program_Bind_Socket_Core)
   - [Reference](/OpenMP_Bind_Core)
-- use
-  - local
-    - [UseCase](/Jupyter_use_local_package)
-- [Reference](/Parallel_Computing)
+- [Issues](/iGPU_Issues)
+- [Issues](/Docker_Issues)
+- [Reference](/Vi_plugins)
+- [Reference](/tmux_plugins)
+- [Optimizations](/Loop_Optimizations)
+- [Optimizations](/Memory_Optimizations)
+- [Package Information for pkg-config](/pkg_config)
+- [config](/Git_config)
+- [upgrade](/Ubuntu_upgrade)
 - Security
   - [PAM - Pluggable Authentication Module](/0108_Security_PAM)
 - [log](/update_log)
+- [list2csv](/pandas_list2csv)
 - [Reference](/Jupyter_Arch)
 - [yapf](/Python_yapf)
-- [upgrade](/Ubuntu_upgrade)
-- [list2csv](/pandas_list2csv)
+- [Reference](/Linux_magnetW)
+- [Reference](/Parallel_Computing)
+- [Reference](/Linux_IPC)
 - build
   - [使用 `cython` 生产 `so` 库](/Python_build_exe)
-- Change
-  - Kernel
-    - [Reference](/Ubuntu_Change_Kernel_Version)
-- [Reference](/Linux_magnetW)
 - move
   - data
     - to
       - new
         - storage
 - [comment line](/cmake_语法)
-- SSH
-  - [Reference](/Windows_SSH_Client)
 - Source
   - [Reference](/Open_Source_License)
+- SSH
+  - [Reference](/Windows_SSH_Client)
 - [UI](/Docker_UI)
-- [Reference](/CPP_Vector)
-- [Reference](/Linux_IPC)
+- use
+  - local
+    - [UseCase](/Jupyter_use_local_package)
+- Change
+  - Kernel
+    - [Reference](/Ubuntu_Change_Kernel_Version)
 - [generators](/cmake_generators)
+- [Reference](/CPP_Vector)
 - [API](/OpenMP_API)
 - [变量](/OpenMP_变量)
+- [RTSP Server live555](/0164_live555)
 - ssh
   - work
     - [Issue Description](/Ubuntu_ssh_work_unstable)
-- [RTSP Server live555](/0164_live555)
+- [UseCase](/GCC_UseCase)
 - docker
   - [Reference](/Jupyter_docker_image)
-- [UseCase](/GCC_UseCase)
 - exec
   - error
     - [check](/Shell_exec_error_check)
-- [计时](/CPP_计时)
 - Setup
   - [hostnamectl set-hostname serverx-xxx](/Linux_Setup_hostname)
+- [计时](/CPP_计时)
 - [UseCase](/IPP_Intel)
-- [Reference](/tmux_arch)
 - [Usecase](/Linux_jobs)
-- [Reference](/update_alternatives)
+- [Reference](/tmux_arch)
 - [awk](/Linux_awk)
-- Open
-  - Source
-    - [Open Source License](/0156_Open_Source_License)
-- json
-  - [Reference](/Ubuntu_json_tools)
+- [Brief](/Linux_chrt)
+- [Reference](/update_alternatives)
 - Memory
   - [内存优化](/0216_Memory_Optimizations)
 - [GPUs](/NVIDIA_GPUs)
@@ -428,7 +428,8 @@
 - openssh
   - [Install `openssh-server`](/Setup_openssh_server)
 - [Reference](/Linux_date)
-- [grep](/Linux_grep)
+- json
+  - [Reference](/Ubuntu_json_tools)
 - [Series](/pandas_Series)
 - [Reference](/Ubuntu_APT)
 - [logging](/Python_logging)
@@ -443,6 +444,7 @@
 - jupyter
   - [Reference](/_jupyter_Issues)
 - [原理](/SIMD_原理)
+- [grep](/Linux_grep)
 - [Reference](/Linux_ln)
 - [cpp](/jupyter_cpp)
 - users
@@ -455,7 +457,6 @@
 - server
   - Install
     - [Install](/Ubuntu_server_Install_desktop)
-- [Brief](/Linux_chrt)
 - [Directives](/OpenMP_Directives)
 - intel
   - gpu
@@ -474,8 +475,8 @@
 - [Reference](/Docker_Dockerfile)
 - [Projects](/SYCL_Projects)
 - [branch](/Git_branch)
-- cmd
-  - [Reference](/Linux_cmd_history)
+- [variables](/cmake_variables)
+- [putty](/0043_putty)
 - ulimit
 - [Studio](/Visual_Studio)
 - [Visualization](/pandas_Visualization)
@@ -488,9 +489,10 @@
         - [Reference](/Download_google_drive_files_without_browser)
 - Chrome
   - [[GitHub Hovercard](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk/related)](/Github_Chrome_extensions)
+- cmd
+  - [Reference](/Linux_cmd_history)
 - VS
   - [Reference](/POSIX_VS_SystemV)
-- [tqdm](/Python_tqdm)
 - [Image](/Markdown_Image)
 - [Reference](/Docker_compose)
 - Command
@@ -503,10 +505,11 @@
 - [atrun uid=1000 gid=1000](/Linux_at)
 - read
   - [Reference](/Shell_read_file)
-- [putty](/0043_putty)
+- [tqdm](/Python_tqdm)
 - [Reference](/Docker_Volume)
-- [usecase](/cmake_usecase)
-- [assert](/Python_assert)
+- [arguments](/Shell_arguments)
+- [Reference](/Gitlab_CICD)
+- [Reference](/Github_backup)
 - [Brief](/Git_submodule)
 - [Reference](/Linux_kill)
 - [MKL](/Intel_MKL)
@@ -518,9 +521,9 @@
   - Static
     - [Reference](/Yocto_Set_Static_IP)
 - [UseCase](/Git_tag)
-- [Reference](/Gitlab_CICD)
+- [assert](/Python_assert)
+- [RemoteDesktop](/Ubuntu_RemoteDesktop)
 - [Installation of basic build dependencies](/Ubuntu_shadowsocks)
-- [arguments](/Shell_arguments)
 - diff
   - no
     - newline
@@ -532,15 +535,16 @@
   - [Reference](/intel_telemetry_tool)
 - [pylint](/Python_pylint)
 - [Brief](/Linux_crontab)
-- [RemoteDesktop](/Ubuntu_RemoteDesktop)
 - [Reference](/Shell_case)
+- [usecase](/cmake_usecase)
 - Line
   - [Optimization](/Cache_Line_Optimization)
-- [variables](/cmake_variables)
 - [Brief](/Linux_ls)
 - [Reference](/OpenMP_SIMD)
 - [windows](/cmake_windows)
-- [Reference](/Github_backup)
+- Open
+  - Source
+    - [Open Source License](/0156_Open_Source_License)
 - [Offload](/OpenMP_Offload)
 - [Brief](/Shell_if)
 - [Brief](/Linux_image2string)
