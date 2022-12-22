@@ -239,6 +239,7 @@
   - [Reference](/0051_Ubuntu_ForgetPassword)
   - [开机自动挂载硬盘](/0013_Ubuntu_AutoMountDisk)
   - [Install Goolge Pinyin](/0010_Ubuntu_InstallGooglePinyin)
+  - [watch](/0054_Ubuntu_watch)
 - Linux
   - [IPC](/0097_Linux_IPC)
     - [Reference](/0098_Linux_IPC_SharedMemory)
