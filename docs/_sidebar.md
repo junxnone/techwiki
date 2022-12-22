@@ -42,7 +42,7 @@
       - [plugins](/0031_Tools_Remote_tmux_plugins)
       - [Arch](/0030_Tools_Remote_tmux_Arch)
     - ssh
-      - [Issue Description](/0112_Tools_Remote_ssh_WorkUnStable)
+      - [WorkUnStable](/0112_Tools_Remote_ssh_WorkUnStable)
   - [Gitlab](/0132_Tools_Gitlab)
     - [Reference](/0131_Tools_Gitlab_CICD)
   - [Download](/Linux_Tools_Download)
@@ -229,6 +229,7 @@
   - [pk-config](/0176_Build_pkgconfig)
 - Ubuntu
   - Issues
+    - [Reference](/0053_Ubuntu_Issues_FrontHeadPhoneNotWorking)
     - [USB 耳机没声音](/0093_Ubuntu_Issues_USBHeadphoneNoSound)
     - [桌面不显示](/0052_Ubuntu_Issues_DesktopDisplay)
     - [硬盘大于 2TB](/0119_Ubuntu_Issues_DiskLargerThan2TB)
