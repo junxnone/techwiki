@@ -2,11 +2,12 @@
 Title | Ubuntu Issues NVIDIAGPUDriver
 -- | --
 Created @ | `2022-05-24T02:51:47Z`
-Last Modify @| `2022-12-22T08:13:18Z`
+Last Modify @| `2022-12-22T08:13:43Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/287)
 
 ---
+# NVIDIA GPU Driver 问题
 
 ## Log
 
