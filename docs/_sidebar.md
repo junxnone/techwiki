@@ -88,6 +88,7 @@
       - [DEBUG](/0250_OPT_PARA_DPCPP_DEBUG)
     - [Reference](/0198_OPT_PARA_OpenCL)
       - [Install](/0135_OPT_PARA_OpenCL_Install)
+    - [NDRange](/0221_OPT_PARA_NDRange)
   - Tools
     - [Vtune](/0227_OPT_Tools_Vtune)
       - [CommandLine](/0296_OPT_Tools_Vtune_CommandLine)
