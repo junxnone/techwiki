@@ -118,6 +118,7 @@
 - Build
   - [Cmake](/0064_Build_Cmake)
     - [Windows](/0244_Build_Cmake_Windows)
+    - [cpack](/0190_Build_Cmake_cpack)
     - [Platforms](/0243_Build_Cmake_Platforms)
     - [comment line](/0192_Build_Cmake_语法)
     - [UseCase](/0065_Build_Cmake_UseCase)
