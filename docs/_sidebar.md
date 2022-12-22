@@ -77,11 +77,13 @@
       - [API](/0200_OPT_PARA_OpenMP_API)
       - [Offload](/0204_OPT_PARA_OpenMP_Offload)
       - [UseCase](/0208_OPT_PARA_OpenMP_UseCase)
-    - [Reference](/0198_OPT_PARA_OpenCL)
-      - [Install](/0135_OPT_PARA_OpenCL_Install)
     - [DPCPP](/0193_OPT_PARA_DPCPP)
       - Level
         - [Zero](/0231_OPT_PARA_DPCPP_Level_Zero)
+      - [LevelZero](/0231_OPT_PARA_DPCPP_LevelZero)
+      - [DEBUG](/0250_OPT_PARA_DPCPP_DEBUG)
+    - [Reference](/0198_OPT_PARA_OpenCL)
+      - [Install](/0135_OPT_PARA_OpenCL_Install)
     - [SYCL](/0194_OPT_PARA_SYCL)
   - Tools
     - [Vtune](/0227_OPT_Tools_Vtune)
