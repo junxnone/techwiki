@@ -113,6 +113,7 @@
     - [ICX Intel Compiler](/0196_Programing_Compiler_ICX)
   - [Library](/0237_Programing_Library)
     - [Tools](/0236_Programing_Library_Tools)
+  - [Socket](/0173_Programing_Socket)
 - [性能优化](/0272_OPT)
   - [PARA](/0207_OPT_PARA)
     - [OpenMP](/0199_OPT_PARA_OpenMP)
