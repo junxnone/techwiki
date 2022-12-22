@@ -85,6 +85,7 @@
     - [OpenMP](/0199_OPT_PARA_OpenMP)
       - [Usease](/0208_OPT_PARA_OpenMP_Usease)
       - [VAR](/0209_OPT_PARA_OpenMP_VAR)
+      - [Reference](/0201_OPT_PARA_OpenMP_BindCore)
       - [API](/0200_OPT_PARA_OpenMP_API)
       - [UseCase](/0208_OPT_PARA_OpenMP_UseCase)
   - Tools
