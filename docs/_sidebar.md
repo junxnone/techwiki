@@ -235,16 +235,17 @@
   - [Reference](/Ubuntu_Install_GCC)
   - [Reference](/Ubuntu_Install_Steam)
   - [Reference](/CentOS_Install_Desktop)
+- Doc
+  - [Markdown](/0158_Doc_Markdown)
+    - [Table](/0162_Doc_Markdown_Table)
+    - [Image](/0163_Doc_Markdown_Image)
+    - [text in gray](/0160_Doc_Markdown_Text)
+    - [List](/0161_Doc_Markdown_List)
 - [Networks](/Linux_Networks)
   - Proxy
     - [ShadowSocks](/0117_Networks_Proxy_shadowsocks)
     - [V2Ray](/0157_Networks_Proxy_V2Ray)
   - [Tools](/Linux_Networks_Tools)
-- Doc
-  - [Markdown](/0158_Doc_Markdown)
-    - [Table](/0162_Doc_Markdown_Table)
-    - [text in gray](/0160_Doc_Markdown_Text)
-    - [List](/0161_Doc_Markdown_List)
 - [install](/cmake_install)
   - [files](/cmake_install_files)
   - google
