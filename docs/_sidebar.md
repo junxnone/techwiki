@@ -115,6 +115,7 @@
 - Programing
   - [Python](/0228_Programing_Python)
     - [CodeAnalysis](/0260_Programing_Python_CodeAnalysis)
+      - [bandit](/0257_Programing_Python_CodeAnalysis_bandit)
     - [Slice](/0254_Programing_Python_Slice)
     - [Decorator](/0253_Programing_Python_Decorator)
     - [FormatString](/0255_Programing_Python_FormatString)
@@ -164,15 +165,6 @@
     - [Intel](/0251_Hardware_CPU_Intel)
   - [Reference](/List_Hardware_info)
   - [NUMA](/0224_Hardware_NUMA)
-- Hypervisor
-  - [Docker](/0039_Hypervisor_Docker)
-    - [Reference](/0085_Hypervisor_Docker_Volume)
-    - [Reference](/0086_Hypervisor_Docker_Tools)
-    - [UI](/0295_Hypervisor_Docker_UI)
-    - [移动数据到新位置](/0087_Hypervisor_Docker_MoveData)
-    - [GUI](/0041_Hypervisor_Docker_GUI)
-    - [Reference](/0040_Hypervisor_Docker_Network)
-    - [Reference](/0082_Hypervisor_Docker_Dockerfile)
 - [Pages](/Github_Pages)
   - [Reference](/Github_Pages_Mirror)
   - geojson
@@ -185,6 +177,15 @@
     - [Reference](/Github_Pages_Readme_Stats)
   - [Reference](/Github_Pages_docsify)
   - [Reference](/Github_Pages_jekyll)
+- Hypervisor
+  - [Docker](/0039_Hypervisor_Docker)
+    - [Reference](/0085_Hypervisor_Docker_Volume)
+    - [Reference](/0086_Hypervisor_Docker_Tools)
+    - [UI](/0295_Hypervisor_Docker_UI)
+    - [移动数据到新位置](/0087_Hypervisor_Docker_MoveData)
+    - [GUI](/0041_Hypervisor_Docker_GUI)
+    - [Reference](/0040_Hypervisor_Docker_Network)
+    - [Reference](/0082_Hypervisor_Docker_Dockerfile)
 - [Install](/Linux_Install)
 - [Reference](/OpenCL_Install)
   - [Reference](/Ubuntu_Install_GCC)
@@ -195,6 +196,10 @@
     - [ShadowSocks](/0117_Networks_Proxy_shadowsocks)
     - [V2Ray](/0157_Networks_Proxy_V2Ray)
   - [Tools](/Linux_Networks_Tools)
+- [install](/cmake_install)
+  - [files](/cmake_install_files)
+  - google
+    - [Reference](/Ubuntu_install_google_pinyin)
 - [DataFrame](/pandas_DataFrame)
   - [传递函数，效果同上](/pandas_DataFrame_UseCase)
   - [Create](/pandas_DataFrame_Create)
@@ -203,26 +208,22 @@
     - [Reference](/Linux_Task_Schedule_Tools)
   - manage
     - [Reference](/Linux_Task_manage_tools)
-- [install](/cmake_install)
-  - [files](/cmake_install_files)
-  - google
-    - [Reference](/Ubuntu_install_google_pinyin)
+- [Reference](/Docker_Network)
+  - Port
+    - Tools
+- Standard
+  - Template
+    - [Reference](/CPP_Standard_Template_Library)
+  - [Reference](/CPP_Standard_Library)
 - [Usecase](/OpenMP_Usecase)
 - [Reference](/Vi_Usecase)
 - [Reference](/Linux_find)
   - [Reference](/Cannot_find_bashrc)
-- [Reference](/Docker_Network)
-  - Port
-    - Tools
 - show
   - image
     - [Reference](/Jupyter_show_image_dynamic)
   - boot
     - [Reference](/Linux_show_boot_info)
-- Standard
-  - Template
-    - [Reference](/CPP_Standard_Template_Library)
-  - [Reference](/CPP_Standard_Library)
 - [Reference](/Vi_plugins)
 - [Reference](/tmux_plugins)
 - [Reference](/Socket_Function)
