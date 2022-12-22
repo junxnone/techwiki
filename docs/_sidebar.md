@@ -73,6 +73,7 @@
   - [CPU](/0276_Hardware_CPU)
     - [Intel](/0251_Hardware_CPU_Intel)
   - [Reference](/List_Hardware_info)
+  - [NUMA](/0224_Hardware_NUMA)
   - [Memory](/0215_Hardware_Memory)
 - [Pages](/Github_Pages)
   - [Reference](/Github_Pages_Mirror)
