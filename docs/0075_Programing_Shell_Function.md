@@ -2,15 +2,17 @@
 Title | Programing Shell Function
 -- | --
 Created @ | `2019-07-15T07:06:57Z`
-Last Modify @| `2022-12-22T06:40:55Z`
+Last Modify @| `2022-12-22T06:41:16Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/75)
 
 ---
-# Reference
+# 函数
+
+## Reference
 - [linux shell function - runnoob](https://www.runoob.com/linux/linux-shell-func.html)
 
-# Basic
+## Basic
 
 ```
 function parse_somethine(){
@@ -20,7 +22,7 @@ function parse_somethine(){
 parse_somethine $1 $2
 ```
 
-# 默认参数
+## 默认参数
 
 默认参数 | 说明
 -- | --
@@ -32,7 +34,7 @@ $@ | 与$*相同，但是使用时加引号，并在引号中返回每个参数�
 $- | 显示Shell使用的当前选项，与set命令功能相同。
 $? | 显示最后命令的退出状态。0表示没有错误，其他任何值表明有错误。
 
-# Examples
+## Examples
 
 ## copy 某处文件到指定处并以路径重命名文件
 
