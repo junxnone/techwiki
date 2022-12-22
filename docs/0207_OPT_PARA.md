@@ -1,0 +1,52 @@
+---
+Title | OPT PARA
+-- | --
+Created @ | `2021-11-05T09:03:54Z`
+Last Modify @| `2022-12-22T03:47:00Z`
+Labels | ``
+Edit @| [here](https://github.com/junxnone/techwiki/issues/207)
+
+---
+## Reference
+
+- [Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/training/tutorials/introduction-parallel-computing-tutorial)
+- [并行计算blogs](http://parallel.zhangjikai.com/)
+- [Optimize - Intel® oneAPI Programming Guide](https://www.intel.com/content/www/us/en/develop/documentation/oneapi-programming-guide/top/software-development-process/performance-tuning-cycle/optimize.html)
+- [Software optimization resources](https://www.agner.org/optimize/)
+
+
+## Brief
+
+- Parallel Programming Models
+  - Shared Memory (without threads)
+  - Threads
+  - Distributed Memory / Message Passing
+  - Data Parallel
+  - Hybrid
+  - Single Program Multiple Data (SPMD)
+  - Multiple Program Multiple Data (MPMD)
+
+## Optimization
+
+- 线程并行
+  - [[OpenMP]]
+  - [[SYCL]]
+  - [[DPCPP]]
+  - [[OpenCL]]
+- 向量化 - [[SIMD]]
+- High-Level Optimization
+  - 增加并行 - 保证 Hardware 高利用率
+  - 最小化 Kernel - 保持 Kernel  保存在 Instruction Cache
+  - Kernel Balance - 避免 长时间执行的 Kernel 成为瓶颈
+  - 避免执行时间长的函数
+- [Memory-related Optimizations](/Memory_Optimizations)
+- [Loop - related Optimizations](/Loop_Optimizations)
+
+
+
+## Tools
+- [[Vtune]]
+- [pmu tools](https://github.com/andikleen/pmu-tools)
+
+## Tips
+- [Program Bind Socket Core](/Program_Bind_Socket_Core)
