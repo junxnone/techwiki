@@ -68,8 +68,9 @@
     - [原理](/0214_Hardware_SIMD_原理)
     - [AVX](/0268_Hardware_SIMD_AVX)
   - GPU
-    - [NVIDIA](/0219_Hardware_GPU_NVIDIA)
     - [iGPU](/0212_Hardware_GPU_iGPU)
+      - [Tools](/0234_Hardware_GPU_iGPU_Tools)
+    - [NVIDIA](/0219_Hardware_GPU_NVIDIA)
   - [CPU](/0276_Hardware_CPU)
     - [Intel](/0251_Hardware_CPU_Intel)
   - [Reference](/List_Hardware_info)
