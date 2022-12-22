@@ -85,6 +85,7 @@
     - [Reference](/0198_OPT_PARA_OpenCL)
       - [Install](/0135_OPT_PARA_OpenCL_Install)
     - [SYCL](/0194_OPT_PARA_SYCL)
+      - [Projects](/0232_OPT_PARA_SYCL_Projects)
   - Tools
     - [Vtune](/0227_OPT_Tools_Vtune)
       - [CommandLine](/0296_OPT_Tools_Vtune_CommandLine)
