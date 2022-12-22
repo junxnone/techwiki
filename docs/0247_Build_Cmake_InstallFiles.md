@@ -2,11 +2,13 @@
 Title | Build Cmake InstallFiles
 -- | --
 Created @ | `2022-01-05T03:17:53Z`
-Last Modify @| `2022-12-22T06:04:00Z`
+Last Modify @| `2022-12-22T06:04:37Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/247)
 
 ---
+# 设置安装相关
+
 ## Reference
 - [Installing Files - Mastering CMake](https://cmake.org/cmake/help/book/mastering-cmake/chapter/Install.html)
 - [install command](https://cmake.org/cmake/help/latest/command/install.html#command:install)
