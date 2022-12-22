@@ -301,6 +301,14 @@
     - [List](/0161_Doc_Markdown_List)
     - [Reference](/0159_Doc_Markdown_GithubEmoji)
   - [YAML](/0229_Doc_YAML)
+- [Pandas](/0285_Pandas)
+  - UseCase
+    - [sort](/0279_Pandas_UseCase_sort)
+    - [list2csv](/0278_Pandas_UseCase_list2csv)
+  - [DataFrame](/0286_Pandas_DataFrame)
+  - [Series](/0280_Pandas_Series)
+  - Issues
+    - [SettingWithCopyWarning](/0281_Pandas_Issues_SettingWithCopyWarning)
 - [Install](/Linux_Install)
 - [Reference](/OpenCL_Install)
   - [Reference](/Ubuntu_Install_GCC)
@@ -312,13 +320,6 @@
   - [版本号定义](/0171_X_Version)
   - [Open Source License](/0156_X_OpenSourceLicense)
   - [CRLF](/0034_X_CRLF)
-- [Pandas](/0285_Pandas)
-  - [DataFrame](/0286_Pandas_DataFrame)
-  - [Series](/0280_Pandas_Series)
-  - UseCase
-    - [list2csv](/0278_Pandas_UseCase_list2csv)
-  - Issues
-    - [SettingWithCopyWarning](/0281_Pandas_Issues_SettingWithCopyWarning)
 - [Networks](/Linux_Networks)
   - Proxy
     - [ShadowSocks](/0117_Networks_Proxy_shadowsocks)
