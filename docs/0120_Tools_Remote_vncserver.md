@@ -1,8 +1,8 @@
 ---
-Title | vncserver
+Title | Tools Remote vncserver
 -- | --
 Created @ | `2019-01-14T05:35:17Z`
-Last Modify @| `2022-12-22T07:55:50Z`
+Last Modify @| `2022-12-22T07:56:13Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/120)
 
