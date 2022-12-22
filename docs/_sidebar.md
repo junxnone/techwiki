@@ -85,6 +85,10 @@
     - [ShadowSocks](/0117_Networks_Proxy_shadowsocks)
     - [V2Ray](/0157_Networks_Proxy_V2Ray)
   - [Tools](/Linux_Networks_Tools)
+- [硬件](/0211_Hardware)
+  - [CPU](/0276_Hardware_CPU)
+    - [Intel](/0251_Hardware_CPU_Intel)
+  - [Reference](/List_Hardware_info)
 - [DataFrame](/pandas_DataFrame)
   - [传递函数，效果同上](/pandas_DataFrame_UseCase)
   - [Create](/pandas_DataFrame_Create)
@@ -93,9 +97,6 @@
     - [Reference](/Linux_Task_Schedule_Tools)
   - manage
     - [Reference](/Linux_Task_manage_tools)
-- [硬件](/0211_Hardware)
-  - [Reference](/List_Hardware_info)
-  - [CPU](/0276_Hardware_CPU)
 - [install](/cmake_install)
   - [files](/cmake_install_files)
   - google
