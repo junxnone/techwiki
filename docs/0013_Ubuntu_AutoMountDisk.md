@@ -2,11 +2,13 @@
 Title | Ubuntu AutoMountDisk
 -- | --
 Created @ | `2018-12-02T09:42:08Z`
-Last Modify @| `2022-12-22T07:50:20Z`
+Last Modify @| `2022-12-22T07:50:33Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/13)
 
 ---
+# 开机自动挂载硬盘
+
 ## 使用 fdisk 对第二硬盘分区
 
 ```
