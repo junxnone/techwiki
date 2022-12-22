@@ -229,6 +229,9 @@
     - [桌面不显示](/0052_Ubuntu_Issues_DesktopDisplay)
   - [Server Install Desktop](/0045_Ubuntu_InstallDesktop)
   - [Ubuntu Install Steam](/0004_Ubuntu_InstallSteam)
+  - auto
+    - mount
+      - [<file system> <mount point> <type> <options> <dump> <pass>](/0013_Ubuntu_auto_mount_disk)
   - [Upgrade](/0089_Ubuntu_Upgrade)
   - Download
     - [Reference](/0036_Ubuntu_Download_aria2)
