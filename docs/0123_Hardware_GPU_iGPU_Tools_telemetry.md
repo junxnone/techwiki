@@ -2,15 +2,18 @@
 Title | Hardware GPU iGPU Tools telemetry
 -- | --
 Created @ | `2018-09-27T02:18:25Z`
-Last Modify @| `2022-12-22T07:57:48Z`
+Last Modify @| `2022-12-22T07:58:03Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/123)
 
 ---
-# Reference
+# intel-telemetry-tool
+
+
+## Reference
 - [intel-telemetry-tool](https://github.com/Xiaogang-Li/intel-telemetry-tool)
 
-# Brief
+## Brief
 - CPU/GPU evaluate calculation capability Tool Kit
 
 ## Build & Install
