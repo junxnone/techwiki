@@ -190,7 +190,7 @@
 - 2019-10-25   [UseCase](/0063_Tools_Git_tag)
 - 2019-10-14   [Linux File System](/0137_FileSystem)
 - 2019-10-12   [syncthing](/Linux_Tools_syncthing)
-- 2019-09-23   [Reference](/0010_Ubuntu_InstallGooglePinyin)
+- 2019-09-23   [Install Goolge Pinyin](/0010_Ubuntu_InstallGooglePinyin)
 - 2019-09-18   [Brief](/Linux_Tools_shuf)
 - 2019-09-17   [编译可执行文件](/0256_Programing_Python_BuildExe)
 - 2019-09-08   [Docker Image](/0142_Tools_Jupyter_DockerImage)

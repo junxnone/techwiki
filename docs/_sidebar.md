@@ -280,7 +280,7 @@
 - Ubuntu
   - [Ubuntu Install Steam](/0004_Ubuntu_InstallSteam)
   - [Upgrade](/0089_Ubuntu_Upgrade)
-  - [Reference](/0010_Ubuntu_InstallGooglePinyin)
+  - [Install Goolge Pinyin](/0010_Ubuntu_InstallGooglePinyin)
 - [DataFrame](/pandas_DataFrame)
   - [传递函数，效果同上](/pandas_DataFrame_UseCase)
   - [Create](/pandas_DataFrame_Create)
