@@ -28,7 +28,7 @@
 - 2022-01-18   [DEBUG](/DPCPP_DEBUG)
 - 2022-01-18   [DEBUG](/0250_OPT_PARA_DPCPP_DEBUG)
 - 2022-01-06   [命令行](/0249_Build_Cmake_CMD)
-- 2022-01-05   [InstallFiles](/0247_Build_Cmake_InstallFiles)
+- 2022-01-05   [设置安装相关](/0247_Build_Cmake_InstallFiles)
 - 2022-01-04   [UseCase](/0245_Programing_Compiler_GCC_UseCase)
 - 2022-01-02   [windows](/cmake_windows)
 - 2022-01-02   [Platforms](/0243_Build_Cmake_Platforms)
