@@ -255,15 +255,8 @@
     - [Reference](/Github_Pages_Readme_Stats)
   - [Reference](/Github_Pages_docsify)
   - [Reference](/Github_Pages_jekyll)
-- Doc
-  - [Markdown](/0158_Doc_Markdown)
-    - [Table](/0162_Doc_Markdown_Table)
-    - [Image](/0163_Doc_Markdown_Image)
-    - [text in gray](/0160_Doc_Markdown_Text)
-    - [List](/0161_Doc_Markdown_List)
-    - [Reference](/0159_Doc_Markdown_GithubEmoji)
-  - [YAML](/0229_Doc_YAML)
 - Ubuntu
+  - [Install](/0045_Ubuntu_InstallDesktop)
   - [Ubuntu Install Steam](/0004_Ubuntu_InstallSteam)
   - [Upgrade](/0089_Ubuntu_Upgrade)
   - Download
@@ -274,6 +267,14 @@
         - [thinclient_drives cannot access](/0124_Ubuntu_thinclient_drives_cannot_access)
   - [Reference](/0051_Ubuntu_ForgetPassword)
   - [Install Goolge Pinyin](/0010_Ubuntu_InstallGooglePinyin)
+- Doc
+  - [Markdown](/0158_Doc_Markdown)
+    - [Table](/0162_Doc_Markdown_Table)
+    - [Image](/0163_Doc_Markdown_Image)
+    - [text in gray](/0160_Doc_Markdown_Text)
+    - [List](/0161_Doc_Markdown_List)
+    - [Reference](/0159_Doc_Markdown_GithubEmoji)
+  - [YAML](/0229_Doc_YAML)
 - [Install](/Linux_Install)
 - [Reference](/OpenCL_Install)
   - [Reference](/Ubuntu_Install_GCC)
@@ -289,6 +290,10 @@
     - [ShadowSocks](/0117_Networks_Proxy_shadowsocks)
     - [V2Ray](/0157_Networks_Proxy_V2Ray)
   - [Tools](/Linux_Networks_Tools)
+- [install](/cmake_install)
+  - [files](/cmake_install_files)
+  - google
+    - [Reference](/Ubuntu_install_google_pinyin)
 - [DataFrame](/pandas_DataFrame)
   - [传递函数，效果同上](/pandas_DataFrame_UseCase)
   - [Create](/pandas_DataFrame_Create)
@@ -297,10 +302,8 @@
     - [Reference](/Linux_Task_Schedule_Tools)
   - manage
     - [Reference](/Linux_Task_manage_tools)
-- [install](/cmake_install)
-  - [files](/cmake_install_files)
-  - google
-    - [Reference](/Ubuntu_install_google_pinyin)
+- [Reference](/Linux_Vi)
+  - [Reference](/Linux_Vi_UseCase)
 - show
   - image
     - [Reference](/Jupyter_show_image_dynamic)
@@ -316,8 +319,6 @@
   - [TMA](/Performance_Optimization_TMA)
 - [Reference](/Linux_find)
   - [Reference](/Cannot_find_bashrc)
-- [Reference](/Linux_Vi)
-  - [Reference](/Linux_Vi_UseCase)
 - Docker
   - [GUI](/0041_Docker_GUI)
   - [compose](/0042_Docker_compose)
@@ -326,6 +327,10 @@
     - [Issue Ubuntu 桌面不显示](/Ubuntu_Desktop_Display_Issue)
 - [Linux File System](/0137_FileSystem)
   - [Reference](/0017_FileSystem_Format)
+- File
+  - Compare
+    - [Tools](/Linux_File_Compare_Tools)
+  - [Reference](/OS_File_System)
 - [Reference](/Socket_Function)
 - [Reference](/Shell_Function)
 - [Driver](/Linux_Driver)
@@ -338,33 +343,34 @@
 - Performance
   - [性能优化](/0272_Performance_Optimization)
   - [qperf](/Network_Performance_Tools)
-- File
-  - Compare
-    - [Tools](/Linux_File_Compare_Tools)
-  - [Reference](/OS_File_System)
+- [Reference](/Vi_plugins)
+- [Reference](/tmux_plugins)
 - [Issues](/iGPU_Issues)
 - [Issues](/Docker_Issues)
+- [Optimizations](/Loop_Optimizations)
+- [Optimizations](/Memory_Optimizations)
 - [Package Information for pkg-config](/pkg_config)
 - [config](/Git_config)
 - Bind
   - Socket
     - [Core](/Program_Bind_Socket_Core)
   - [Reference](/OpenMP_Bind_Core)
-- [Optimizations](/Loop_Optimizations)
-- [Optimizations](/Memory_Optimizations)
-- [Reference](/Vi_plugins)
-- [Reference](/tmux_plugins)
-- build
-  - [使用 `cython` 生产 `so` 库](/Python_build_exe)
+- use
+  - local
+    - [UseCase](/Jupyter_use_local_package)
+- [Reference](/Parallel_Computing)
 - Security
   - [PAM - Pluggable Authentication Module](/0108_Security_PAM)
 - [log](/update_log)
 - [Reference](/Jupyter_Arch)
 - [yapf](/Python_yapf)
 - [upgrade](/Ubuntu_upgrade)
-- [Reference](/Parallel_Computing)
 - [list2csv](/pandas_list2csv)
-- [Usecase](/Linux_jobs)
+- build
+  - [使用 `cython` 生产 `so` 库](/Python_build_exe)
+- Change
+  - Kernel
+    - [Reference](/Ubuntu_Change_Kernel_Version)
 - [Reference](/Linux_magnetW)
 - move
   - data
@@ -372,21 +378,14 @@
       - new
         - storage
 - [comment line](/cmake_语法)
-- [generators](/cmake_generators)
 - SSH
   - [Reference](/Windows_SSH_Client)
 - Source
   - [Reference](/Open_Source_License)
 - [UI](/Docker_UI)
-- Change
-  - Kernel
-    - [Reference](/Ubuntu_Change_Kernel_Version)
-- [Reference](/Linux_IPC)
 - [Reference](/CPP_Vector)
-- use
-  - local
-    - [UseCase](/Jupyter_use_local_package)
-- [Reference](/update_alternatives)
+- [Reference](/Linux_IPC)
+- [generators](/cmake_generators)
 - [API](/OpenMP_API)
 - [变量](/OpenMP_变量)
 - ssh
@@ -404,6 +403,8 @@
   - [hostnamectl set-hostname serverx-xxx](/Linux_Setup_hostname)
 - [UseCase](/IPP_Intel)
 - [Reference](/tmux_arch)
+- [Usecase](/Linux_jobs)
+- [Reference](/update_alternatives)
 - [awk](/Linux_awk)
 - Open
   - Source
