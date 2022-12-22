@@ -89,6 +89,7 @@
     - [Reference](/0198_OPT_PARA_OpenCL)
       - [Install](/0135_OPT_PARA_OpenCL_Install)
     - [NDRange](/0221_OPT_PARA_NDRange)
+    - [Reference](/0202_OPT_PARA_OpenMPI)
   - Tools
     - [Vtune](/0227_OPT_Tools_Vtune)
       - [CommandLine](/0296_OPT_Tools_Vtune_CommandLine)
