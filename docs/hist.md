@@ -255,7 +255,7 @@
 - 2019-02-28   [Reference](/Linux_Tools_json)
 - 2019-02-20   [Hardware 查看工具](/0007_Tools_HardwareInfo)
 - 2019-02-19   [添加用户 adduser vs useradd](/0130_Tools_添加账户)
-- 2019-02-19   [Reference](/0056_Linux_bashrc)
+- 2019-02-19   [bashrc](/0056_Linux_bashrc)
 - 2019-02-18   [移除 stage 文件](/0061_Tools_Git_RMStageFile)
 - 2019-02-03   [[GitHub Hovercard](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk/related)](/0154_Tools_Github_ChromeExtensions)
 - 2019-02-03   [Reference](/0183_Tools_Github_ChromeExtensions_Sourcegraph)
