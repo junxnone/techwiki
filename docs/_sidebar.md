@@ -74,11 +74,12 @@
   - [SIMD](/0213_Hardware_SIMD)
     - [原理](/0214_Hardware_SIMD_原理)
     - [AVX](/0268_Hardware_SIMD_AVX)
+  - [Memory](/0215_Hardware_Memory)
+    - [Cache](/0273_Hardware_Memory_Cache)
   - [CPU](/0276_Hardware_CPU)
     - [Intel](/0251_Hardware_CPU_Intel)
   - [Reference](/List_Hardware_info)
   - [NUMA](/0224_Hardware_NUMA)
-  - [Memory](/0215_Hardware_Memory)
 - [Pages](/Github_Pages)
   - [Reference](/Github_Pages_Mirror)
   - geojson
