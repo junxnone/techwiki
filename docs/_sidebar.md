@@ -272,6 +272,7 @@
     - drives
       - cannot
         - [thinclient_drives cannot access](/0124_Ubuntu_thinclient_drives_cannot_access)
+  - [Reference](/0051_Ubuntu_ForgetPassword)
   - [Install Goolge Pinyin](/0010_Ubuntu_InstallGooglePinyin)
 - [Install](/Linux_Install)
 - [Reference](/OpenCL_Install)
