@@ -2,12 +2,12 @@
 Title | Programing Python BuildExe
 -- | --
 Created @ | `2019-09-17T03:30:34Z`
-Last Modify @| `2022-12-22T06:32:38Z`
+Last Modify @| `2022-12-22T06:32:49Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/256)
 
 ---
-
+# 编译可执行文件
 
 ## Reference
 - [如何将Python脚本打包成可执行文件？](https://ningyu1.github.io/site/post/59-py2exe-pyinstaller/)
