@@ -22,6 +22,7 @@
     - [Docker Image](/0142_Tools_Jupyter_DockerImage)
   - Github
     - [[GitHub Hovercard](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk/related)](/0154_Tools_Github_ChromeExtensions)
+      - [Reference](/0183_Tools_Github_ChromeExtensions_Sourcegraph)
     - [Reference](/0134_Tools_Github_backup)
     - [Brief](/0145_Tools_Github_Token)
     - [Reference](/0136_Tools_Github_actions)
