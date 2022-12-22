@@ -2,11 +2,13 @@
 Title | Tools Github Pages BaiduMap Issues
 -- | --
 Created @ | `2021-02-13T03:29:16Z`
-Last Modify @| `2022-12-22T07:59:18Z`
+Last Modify @| `2022-12-22T07:59:53Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/153)
 
 ---
+# 部署到 Gitee
+
 ## Q?
 ### 引用资源 
 - 部署到 gitee 的路径问题，要使用 `/repo_name/path/` 路径 来访问资源
