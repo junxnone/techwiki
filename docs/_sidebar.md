@@ -5,6 +5,7 @@
   - [Jupyter](/0143_Tools_Jupyter)
     - [JupyterLab](/0155_Tools_Jupyter_JupyterLab)
     - [UseCase](/0138_Tools_Jupyter_UseLocalPackage)
+    - [Reference](/0141_Tools_Jupyter_Arch)
     - [CPP](/0189_Tools_Jupyter_CPP)
   - [Vi](/Linux_Tools_Vi)
     - [Reference](/Linux_Tools_Vi_UseCase)
