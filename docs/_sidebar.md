@@ -267,6 +267,8 @@
         - [thinclient_drives cannot access](/0124_Ubuntu_thinclient_drives_cannot_access)
   - [Reference](/0051_Ubuntu_ForgetPassword)
   - [Install Goolge Pinyin](/0010_Ubuntu_InstallGooglePinyin)
+  - Issues
+    - [Issue Ubuntu 桌面不显示](/0052_Ubuntu_Issues_DesktopDisplay)
 - Doc
   - [Markdown](/0158_Doc_Markdown)
     - [Table](/0162_Doc_Markdown_Table)
