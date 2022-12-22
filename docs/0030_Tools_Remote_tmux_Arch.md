@@ -1,8 +1,8 @@
 ---
-Title | tmux arch
+Title | Tools Remote tmux Arch
 -- | --
 Created @ | `2019-08-27T03:40:09Z`
-Last Modify @| `2022-12-22T07:36:56Z`
+Last Modify @| `2022-12-22T07:37:34Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/30)
 
