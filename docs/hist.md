@@ -45,7 +45,7 @@
 - 2021-08-02   [原理](/0214_Hardware_SIMD_原理)
 - 2021-08-02   [AVX](/0268_Hardware_SIMD_AVX)
 - 2021-08-02   [AVX](/AVX)
-- 2021-07-29   [ICX](/0196_Programing_Compiler_ICX)
+- 2021-07-29   [ICX Intel Compiler](/0196_Programing_Compiler_ICX)
 - 2021-07-27   [CPP](/CPP)
 - 2021-07-21   [GCC](/0170_Programing_Compiler_GCC)
 - 2021-06-01   [编译器](/0169_Programing_Compiler)
