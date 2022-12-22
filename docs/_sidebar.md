@@ -78,6 +78,7 @@
       - [Offload](/0204_OPT_PARA_OpenMP_Offload)
       - [UseCase](/0208_OPT_PARA_OpenMP_UseCase)
     - [SYCL](/0194_OPT_PARA_SYCL)
+    - [Reference](/0198_OPT_PARA_OpenCL)
   - Tools
     - [Vtune](/0227_OPT_Tools_Vtune)
       - [CommandLine](/0296_OPT_Tools_Vtune_CommandLine)
