@@ -99,14 +99,15 @@
       - [Install](/0135_OPT_PARA_OpenCL_Install)
     - [NDRange](/0221_OPT_PARA_NDRange)
     - [Reference](/0202_OPT_PARA_OpenMPI)
+  - LIB
+    - [OneAPI](/0197_OPT_LIB_OneAPI)
+    - [IPP Intel Integrated Performance Primitives](/0226_OPT_LIB_IPP)
   - Tools
     - [Vtune](/0227_OPT_Tools_Vtune)
       - [CommandLine](/0296_OPT_Tools_Vtune_CommandLine)
   - [BindSocketCore](/0223_OPT_BindSocketCore)
   - Memory
     - [CacheLine](/0275_OPT_Memory_CacheLine)
-  - LIB
-    - [IPP Intel Integrated Performance Primitives](/0226_OPT_LIB_IPP)
   - [TMA](/0274_OPT_TMA)
   - [Loop](/0235_OPT_Loop)
 - [硬件](/0211_Hardware)
