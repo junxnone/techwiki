@@ -112,21 +112,6 @@
     - [CacheLine](/0275_OPT_Memory_CacheLine)
   - [TMA](/0274_OPT_TMA)
   - [Loop](/0235_OPT_Loop)
-- [硬件](/0211_Hardware)
-  - GPU
-    - [iGPU](/0212_Hardware_GPU_iGPU)
-      - [Tools](/0234_Hardware_GPU_iGPU_Tools)
-      - [Issues](/0233_Hardware_GPU_iGPU_Issues)
-    - [NVIDIA](/0219_Hardware_GPU_NVIDIA)
-  - [SIMD](/0213_Hardware_SIMD)
-    - [原理](/0214_Hardware_SIMD_原理)
-    - [AVX](/0268_Hardware_SIMD_AVX)
-  - [Memory](/0215_Hardware_Memory)
-    - [Cache](/0273_Hardware_Memory_Cache)
-  - [CPU](/0276_Hardware_CPU)
-    - [Intel](/0251_Hardware_CPU_Intel)
-  - [Reference](/List_Hardware_info)
-  - [NUMA](/0224_Hardware_NUMA)
 - Build
   - [Cmake](/0064_Build_Cmake)
     - [Windows](/0244_Build_Cmake_Windows)
@@ -143,15 +128,31 @@
     - [Reference](/0118_Build_Jupyter_JupyterHub)
   - [Reference](/0080_Build_Make)
   - [pk-config](/0176_Build_pkgconfig)
+- [硬件](/0211_Hardware)
+  - GPU
+    - [iGPU](/0212_Hardware_GPU_iGPU)
+      - [Tools](/0234_Hardware_GPU_iGPU_Tools)
+      - [Issues](/0233_Hardware_GPU_iGPU_Issues)
+    - [NVIDIA](/0219_Hardware_GPU_NVIDIA)
+  - [SIMD](/0213_Hardware_SIMD)
+    - [原理](/0214_Hardware_SIMD_原理)
+    - [AVX](/0268_Hardware_SIMD_AVX)
+  - [Memory](/0215_Hardware_Memory)
+    - [Cache](/0273_Hardware_Memory_Cache)
+  - [CPU](/0276_Hardware_CPU)
+    - [Intel](/0251_Hardware_CPU_Intel)
+  - [Reference](/List_Hardware_info)
+  - [NUMA](/0224_Hardware_NUMA)
 - Programing
   - [编译器](/0169_Programing_Compiler)
     - [GCC](/0170_Programing_Compiler_GCC)
       - [UseCase](/0245_Programing_Compiler_GCC_UseCase)
     - [ICX Intel Compiler](/0196_Programing_Compiler_ICX)
+  - [CPP](/0179_Programing_CPP)
+    - [switch](/0289_Programing_CPP_switch)
+    - [Reference](/0178_Programing_CPP_Vector)
   - [Library](/0237_Programing_Library)
     - [Tools](/0236_Programing_Library_Tools)
-  - [CPP](/0179_Programing_CPP)
-    - [Reference](/0178_Programing_CPP_Vector)
   - [Reference](/0023_Programing_Shell)
   - [Python](/0228_Programing_Python)
 - Hypervisor
@@ -185,79 +186,74 @@
     - [ShadowSocks](/0117_Networks_Proxy_shadowsocks)
     - [V2Ray](/0157_Networks_Proxy_V2Ray)
   - [Tools](/Linux_Networks_Tools)
-- [install](/cmake_install)
-  - [files](/cmake_install_files)
-  - google
-    - [Reference](/Ubuntu_install_google_pinyin)
+- [DataFrame](/pandas_DataFrame)
+  - [传递函数，效果同上](/pandas_DataFrame_UseCase)
+  - [Create](/pandas_DataFrame_Create)
 - [Task](/OpenMP_Task)
   - Schedule
     - [Reference](/Linux_Task_Schedule_Tools)
   - manage
     - [Reference](/Linux_Task_manage_tools)
-- [DataFrame](/pandas_DataFrame)
-  - [传递函数，效果同上](/pandas_DataFrame_UseCase)
-  - [Create](/pandas_DataFrame_Create)
-- Linux
-  - [PAM - Pluggable Authentication Module](/0108_Linux_PAM)
-  - [POSIX VS SystemV](/0020_Linux_POSIX与SystemV)
-- [Optimization](/Performance_Optimization)
-  - [TMA](/Performance_Optimization_TMA)
-- [Reference](/Vi_plugins)
-- [Reference](/tmux_plugins)
-- [Reference](/Linux_Vi)
-  - [Reference](/Linux_Vi_UseCase)
-- [Reference](/Socket_Function)
-- [Reference](/Shell_Function)
+- [install](/cmake_install)
+  - [files](/cmake_install_files)
+  - google
+    - [Reference](/Ubuntu_install_google_pinyin)
+- [Usecase](/OpenMP_Usecase)
+- [Reference](/Vi_Usecase)
 - [Reference](/Linux_find)
   - [Reference](/Cannot_find_bashrc)
+- [Reference](/Docker_Network)
+  - Port
+    - Tools
 - show
   - image
     - [Reference](/Jupyter_show_image_dynamic)
   - boot
     - [Reference](/Linux_show_boot_info)
-- [Usecase](/OpenMP_Usecase)
-- [Reference](/Vi_Usecase)
-- Docker
-  - [GUI](/0041_Docker_GUI)
-  - [compose](/0042_Docker_compose)
-- [Reference](/Docker_Network)
-  - Port
-    - Tools
-- File
-  - Compare
-    - [Tools](/Linux_File_Compare_Tools)
-  - [Reference](/OS_File_System)
 - Standard
   - Template
     - [Reference](/CPP_Standard_Template_Library)
   - [Reference](/CPP_Standard_Library)
-- [Linux File System](/0137_FileSystem)
-  - [Reference](/0017_FileSystem_Format)
-- [Driver](/Linux_Driver)
-  - [Failed](/NVIDIA_Driver_Failed)
-- [Desktop](/Linux_Desktop)
-  - Display
-    - [Issue Ubuntu 桌面不显示](/Ubuntu_Desktop_Display_Issue)
-- [Package Information for pkg-config](/pkg_config)
-- [config](/Git_config)
+- [Reference](/Vi_plugins)
+- [Reference](/tmux_plugins)
+- [Reference](/Socket_Function)
+- [Reference](/Shell_Function)
+- [Optimization](/Performance_Optimization)
+  - [TMA](/Performance_Optimization_TMA)
+- Linux
+  - [PAM - Pluggable Authentication Module](/0108_Linux_PAM)
+  - [POSIX VS SystemV](/0020_Linux_POSIX与SystemV)
+- [Reference](/Linux_Vi)
+  - [Reference](/Linux_Vi_UseCase)
+- Docker
+  - [GUI](/0041_Docker_GUI)
+  - [compose](/0042_Docker_compose)
+- File
+  - Compare
+    - [Tools](/Linux_File_Compare_Tools)
+  - [Reference](/OS_File_System)
 - [Issues](/iGPU_Issues)
 - [Issues](/Docker_Issues)
+- [Optimizations](/Loop_Optimizations)
+- [Optimizations](/Memory_Optimizations)
+- Bind
+  - Socket
+    - [Core](/Program_Bind_Socket_Core)
+  - [Reference](/OpenMP_Bind_Core)
+- [Package Information for pkg-config](/pkg_config)
+- [config](/Git_config)
 - Performance
   - [性能优化](/0272_Performance_Optimization)
   - [qperf](/Network_Performance_Tools)
 - [sort](/pandas_sort)
 - [Brief](/Linux_sort)
-- Bind
-  - Socket
-    - [Core](/Program_Bind_Socket_Core)
-  - [Reference](/OpenMP_Bind_Core)
-- [Optimizations](/Loop_Optimizations)
-- [Optimizations](/Memory_Optimizations)
-- [Reference](/CPP_Vector)
-- [Reference](/Linux_IPC)
-- [comment line](/cmake_语法)
-- [upgrade](/Ubuntu_upgrade)
-- [yapf](/Python_yapf)
+- [Driver](/Linux_Driver)
+  - [Failed](/NVIDIA_Driver_Failed)
+- [Linux File System](/0137_FileSystem)
+  - [Reference](/0017_FileSystem_Format)
+- [Desktop](/Linux_Desktop)
+  - Display
+    - [Issue Ubuntu 桌面不显示](/Ubuntu_Desktop_Display_Issue)
 - move
   - data
     - to
@@ -265,11 +261,16 @@
         - storage
 - build
   - [使用 `cython` 生产 `so` 库](/Python_build_exe)
-- [Reference](/Parallel_Computing)
-- [log](/update_log)
-- [Reference](/Jupyter_Arch)
+- [yapf](/Python_yapf)
 - Security
   - [PAM - Pluggable Authentication Module](/0108_Security_PAM)
+- [Reference](/Parallel_Computing)
+- [comment line](/cmake_语法)
+- [log](/update_log)
+- [Reference](/Jupyter_Arch)
+- [Reference](/Linux_IPC)
+- [Reference](/CPP_Vector)
+- [upgrade](/Ubuntu_upgrade)
 - [Reference](/Github_backup)
 - [API](/OpenMP_API)
 - [generators](/cmake_generators)
