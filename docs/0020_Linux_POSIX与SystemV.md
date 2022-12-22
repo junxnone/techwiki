@@ -1,8 +1,8 @@
 ---
-Title | POSIX VS SystemV
+Title | Linux POSIX与SystemV
 -- | --
 Created @ | `2021-01-19T08:50:58Z`
-Last Modify @| `2022-12-22T03:30:20Z`
+Last Modify @| `2022-12-22T03:30:49Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/20)
 
