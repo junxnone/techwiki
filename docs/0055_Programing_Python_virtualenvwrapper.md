@@ -2,17 +2,17 @@
 Title | Programing Python virtualenvwrapper
 -- | --
 Created @ | `2019-02-19T10:21:28Z`
-Last Modify @| `2022-12-22T08:07:22Z`
+Last Modify @| `2022-12-22T08:07:38Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/55)
 
 ---
-# Reference
+## Reference
 - [Docs](https://virtualenvwrapper.readthedocs.io/en/latest/index.html)
 - [windows下安装Virtualenvwrapper](https://blog.csdn.net/a549416598/article/details/80881235)
 - [virtualenvwrapper-powershell](https://github.com/regisf/virtualenvwrapper-powershell)
 
-# Install
+## Install
 
 ```
 pip install virtualenvwrapper
@@ -42,7 +42,7 @@ Set-ExecutionPolicy RemoteSigned
 此时可以在 powershell 下 进入 虚拟环境目录执行 `activate.ps1`
 
 
-# UseCase
+## UseCase
 
 Usecase | cmd
 -- | --
