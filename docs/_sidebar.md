@@ -139,10 +139,11 @@
     - [GCC](/0170_Programing_Compiler_GCC)
       - [UseCase](/0245_Programing_Compiler_GCC_UseCase)
     - [ICX Intel Compiler](/0196_Programing_Compiler_ICX)
+  - [Reference](/0023_Programing_Shell)
+    - [for](/0290_Programing_Shell_for)
+    - [函数](/0075_Programing_Shell_Function)
   - [Library](/0237_Programing_Library)
     - [Tools](/0236_Programing_Library_Tools)
-  - [Reference](/0023_Programing_Shell)
-    - [函数](/0075_Programing_Shell_Function)
 - Build
   - [Cmake](/0064_Build_Cmake)
     - [Windows](/0244_Build_Cmake_Windows)
