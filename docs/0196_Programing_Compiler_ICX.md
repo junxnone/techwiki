@@ -2,11 +2,13 @@
 Title | Programing Compiler ICX
 -- | --
 Created @ | `2021-07-29T05:33:39Z`
-Last Modify @| `2022-12-22T03:36:18Z`
+Last Modify @| `2022-12-22T03:36:38Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/196)
 
 ---
+# ICX Intel Compiler
+
 ## Reference
 - [Classic Compiler - icc/icl](https://software.intel.com/content/www/us/en/develop/documentation/cpp-compiler-developer-guide-and-reference/top.html)
 - [DPC++/C++ Compiler - icx/icpx/dpcpp](https://software.intel.com/content/www/us/en/develop/documentation/oneapi-dpcpp-cpp-compiler-dev-guide-and-reference/top.html)
