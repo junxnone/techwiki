@@ -63,6 +63,16 @@
   - [rename](/Linux_Tools_rename)
   - [ffmpeg](/Linux_Tools_ffmpeg)
   - [Install `openssh-server`](/Linux_Tools_SSH)
+- [硬件](/0211_Hardware)
+  - [SIMD](/0213_Hardware_SIMD)
+    - [原理](/0214_Hardware_SIMD_原理)
+  - GPU
+    - [NVIDIA](/0219_Hardware_GPU_NVIDIA)
+    - [iGPU](/0212_Hardware_GPU_iGPU)
+  - [CPU](/0276_Hardware_CPU)
+    - [Intel](/0251_Hardware_CPU_Intel)
+  - [Reference](/List_Hardware_info)
+  - [Memory](/0215_Hardware_Memory)
 - [Pages](/Github_Pages)
   - [Reference](/Github_Pages_Mirror)
   - geojson
@@ -75,15 +85,6 @@
     - [Reference](/Github_Pages_Readme_Stats)
   - [Reference](/Github_Pages_docsify)
   - [Reference](/Github_Pages_jekyll)
-- [硬件](/0211_Hardware)
-  - GPU
-    - [NVIDIA](/0219_Hardware_GPU_NVIDIA)
-    - [iGPU](/0212_Hardware_GPU_iGPU)
-  - [CPU](/0276_Hardware_CPU)
-    - [Intel](/0251_Hardware_CPU_Intel)
-  - [Reference](/List_Hardware_info)
-  - [SIMD](/0213_Hardware_SIMD)
-  - [Memory](/0215_Hardware_Memory)
 - [Install](/Linux_Install)
 - [Reference](/OpenCL_Install)
   - [Reference](/Ubuntu_Install_GCC)
@@ -94,6 +95,10 @@
     - [ShadowSocks](/0117_Networks_Proxy_shadowsocks)
     - [V2Ray](/0157_Networks_Proxy_V2Ray)
   - [Tools](/Linux_Networks_Tools)
+- [install](/cmake_install)
+  - [files](/cmake_install_files)
+  - google
+    - [Reference](/Ubuntu_install_google_pinyin)
 - [DataFrame](/pandas_DataFrame)
   - [传递函数，效果同上](/pandas_DataFrame_UseCase)
   - [Create](/pandas_DataFrame_Create)
@@ -102,41 +107,37 @@
     - [Reference](/Linux_Task_Schedule_Tools)
   - manage
     - [Reference](/Linux_Task_manage_tools)
-- [install](/cmake_install)
-  - [files](/cmake_install_files)
-  - google
-    - [Reference](/Ubuntu_install_google_pinyin)
-- [Reference](/Socket_Function)
-- [Reference](/Shell_Function)
-- [Optimization](/Performance_Optimization)
-  - [TMA](/Performance_Optimization_TMA)
-- File
-  - Compare
-    - [Tools](/Linux_File_Compare_Tools)
-  - [Reference](/OS_File_System)
+- [Reference](/Linux_Vi)
+  - [Reference](/Linux_Vi_UseCase)
+- [Usecase](/OpenMP_Usecase)
+- [Reference](/Vi_Usecase)
+- [Reference](/Vi_plugins)
+- [Reference](/tmux_plugins)
+- [Reference](/Docker_Network)
+  - Port
+    - Tools
+- [Reference](/Linux_find)
+  - [Reference](/Cannot_find_bashrc)
 - show
   - image
     - [Reference](/Jupyter_show_image_dynamic)
   - boot
     - [Reference](/Linux_show_boot_info)
-- [Reference](/Linux_Vi)
-  - [Reference](/Linux_Vi_UseCase)
 - Standard
   - Template
     - [Reference](/CPP_Standard_Template_Library)
   - [Reference](/CPP_Standard_Library)
-- [Usecase](/OpenMP_Usecase)
-- [Reference](/Vi_Usecase)
 - [Desktop](/Linux_Desktop)
   - Display
     - [Issue Ubuntu 桌面不显示](/Ubuntu_Desktop_Display_Issue)
-- [Reference](/Linux_find)
-  - [Reference](/Cannot_find_bashrc)
-- [Reference](/Docker_Network)
-  - Port
-    - Tools
-- [Reference](/Vi_plugins)
-- [Reference](/tmux_plugins)
+- File
+  - Compare
+    - [Tools](/Linux_File_Compare_Tools)
+  - [Reference](/OS_File_System)
+- [Reference](/Socket_Function)
+- [Reference](/Shell_Function)
+- [Optimization](/Performance_Optimization)
+  - [TMA](/Performance_Optimization_TMA)
 - [sort](/pandas_sort)
 - [Brief](/Linux_sort)
 - [Issues](/iGPU_Issues)
