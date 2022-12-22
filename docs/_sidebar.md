@@ -5,7 +5,7 @@
   - Github
     - [Pages](/0146_Tools_Github_Pages)
       - [Reference](/0150_Tools_Github_Pages_BaiduMap)
-        - [Issues](/0153_Tools_Github_Pages_BaiduMap_Issues)
+        - [部署到 Gitee](/0153_Tools_Github_Pages_BaiduMap_Issues)
       - [README Stats](/0147_Tools_Github_Pages_ReadmeStats)
       - [docsify](/0206_Tools_Github_Pages_docsify)
       - [Reference](/0152_Tools_Github_Pages_jekyll)

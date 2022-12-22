@@ -125,7 +125,7 @@
 - 2021-03-04   [Network](/Linux_Tools_Network)
 - 2021-03-04   [Tools](/Linux_Networks_Tools)
 - 2021-03-02   [Ubuntu Install Steam](/0004_Ubuntu_InstallSteam)
-- 2021-02-13   [Issues](/0153_Tools_Github_Pages_BaiduMap_Issues)
+- 2021-02-13   [部署到 Gitee](/0153_Tools_Github_Pages_BaiduMap_Issues)
 - 2021-02-09   [Reference](/0150_Tools_Github_Pages_BaiduMap)
 - 2021-02-08   [README Stats](/0147_Tools_Github_Pages_ReadmeStats)
 - 2021-02-07   [Markline Timeline](/0148_Tools_Github_Pages_Markline)
