@@ -37,12 +37,14 @@
   - [Vi](/Linux_Tools_Vi)
     - [Reference](/Linux_Tools_Vi_UseCase)
     - [Reference](/Linux_Tools_Vi_Plugins)
-  - [Gitlab](/0132_Tools_Gitlab)
-    - [Reference](/0131_Tools_Gitlab_CICD)
   - Remote
     - tmux
       - [plugins](/0031_Tools_Remote_tmux_plugins)
       - [Arch](/0030_Tools_Remote_tmux_Arch)
+    - ssh
+      - [Issue Description](/0112_Tools_Remote_ssh_WorkUnStable)
+  - [Gitlab](/0132_Tools_Gitlab)
+    - [Reference](/0131_Tools_Gitlab_CICD)
   - [Download](/Linux_Tools_Download)
     - [Reference](/Linux_Tools_Download_magnetW)
   - [script](/Linux_Tools_script)
