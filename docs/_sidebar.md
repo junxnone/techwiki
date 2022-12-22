@@ -101,6 +101,7 @@
     - [Reference](/0202_OPT_PARA_OpenMPI)
   - LIB
     - [OneAPI](/0197_OPT_LIB_OneAPI)
+      - [oneDPL](/0238_OPT_LIB_OneAPI_oneDPL)
     - [IPP Intel Integrated Performance Primitives](/0226_OPT_LIB_IPP)
   - Tools
     - [Vtune](/0227_OPT_Tools_Vtune)
