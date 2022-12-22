@@ -125,8 +125,9 @@
     - [ICX Intel Compiler](/0196_Programing_Compiler_ICX)
   - [Library](/0237_Programing_Library)
     - [Tools](/0236_Programing_Library_Tools)
-  - [Reference](/0023_Programing_Shell)
   - [Python](/0228_Programing_Python)
+    - [非空](/0267_Programing_Python_List)
+  - [Reference](/0023_Programing_Shell)
 - Build
   - [Cmake](/0064_Build_Cmake)
     - [Windows](/0244_Build_Cmake_Windows)
