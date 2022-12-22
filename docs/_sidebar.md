@@ -198,6 +198,7 @@
   - GPU
     - [iGPU](/0212_Hardware_GPU_iGPU)
       - [Tools](/0234_Hardware_GPU_iGPU_Tools)
+        - [Reference](/0123_Hardware_GPU_iGPU_Tools_telemetry)
         - [xorgintelgpu](/0095_Hardware_GPU_iGPU_Tools_xorgintelgpu)
       - [Issues](/0233_Hardware_GPU_iGPU_Issues)
     - [NVIDIA](/0219_Hardware_GPU_NVIDIA)
