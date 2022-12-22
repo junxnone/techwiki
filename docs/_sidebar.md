@@ -4,8 +4,9 @@
 - [Tools](/Library_Tools)
   - Github
     - [Pages](/0146_Tools_Github_Pages)
-      - [README Stats](/0147_Tools_Github_Pages_ReadmeStats)
       - [Reference](/0150_Tools_Github_Pages_BaiduMap)
+        - [Issues](/0153_Tools_Github_Pages_BaiduMap_Issues)
+      - [README Stats](/0147_Tools_Github_Pages_ReadmeStats)
       - [docsify](/0206_Tools_Github_Pages_docsify)
       - [Reference](/0152_Tools_Github_Pages_jekyll)
       - [Reference](/0151_Tools_Github_Pages_Mirror)
