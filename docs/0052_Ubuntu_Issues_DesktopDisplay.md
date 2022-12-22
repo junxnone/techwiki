@@ -2,15 +2,17 @@
 Title | Ubuntu Issues DesktopDisplay
 -- | --
 Created @ | `2018-11-06T06:43:33Z`
-Last Modify @| `2022-12-22T07:47:47Z`
+Last Modify @| `2022-12-22T07:48:06Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/52)
 
 ---
+
+# 桌面不显示
+
 ## Reference
 - [ubuntu桌面不显示（不完整）UI界面](https://blog.csdn.net/m0_37962554/article/details/79336744)
 
-# Issue Ubuntu 桌面不显示
 
 ## Issue `1` description
 
