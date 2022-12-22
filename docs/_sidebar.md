@@ -101,6 +101,7 @@
     - [Reference](/0202_OPT_PARA_OpenMPI)
   - LIB
     - [OneAPI](/0197_OPT_LIB_OneAPI)
+      - [IntelMKL](/0225_OPT_LIB_OneAPI_IntelMKL)
       - [oneDPL](/0238_OPT_LIB_OneAPI_oneDPL)
     - [IPP Intel Integrated Performance Primitives](/0226_OPT_LIB_IPP)
   - Tools
@@ -170,6 +171,7 @@
     - [ICX Intel Compiler](/0196_Programing_Compiler_ICX)
   - [Library](/0237_Programing_Library)
     - [Tools](/0236_Programing_Library_Tools)
+  - [CPP](/0179_Programing_CPP)
 - [Install](/Linux_Install)
 - [Reference](/OpenCL_Install)
   - [Reference](/Ubuntu_Install_GCC)
