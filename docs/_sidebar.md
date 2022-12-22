@@ -269,7 +269,7 @@
   - manage
     - [Reference](/Linux_Task_manage_tools)
 - X
-  - [Reference](/0171_X_Version)
+  - [版本号定义](/0171_X_Version)
   - [CRLF](/0034_X_CRLF)
 - Standard
   - Template
