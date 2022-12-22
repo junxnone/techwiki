@@ -182,21 +182,6 @@
     - [CacheLine](/0275_OPT_Memory_CacheLine)
   - [TMA](/0274_OPT_TMA)
   - [Loop](/0235_OPT_Loop)
-- [硬件](/0211_Hardware)
-  - GPU
-    - [iGPU](/0212_Hardware_GPU_iGPU)
-      - [Tools](/0234_Hardware_GPU_iGPU_Tools)
-      - [Issues](/0233_Hardware_GPU_iGPU_Issues)
-    - [NVIDIA](/0219_Hardware_GPU_NVIDIA)
-  - [SIMD](/0213_Hardware_SIMD)
-    - [原理](/0214_Hardware_SIMD_原理)
-    - [AVX](/0268_Hardware_SIMD_AVX)
-  - [Memory](/0215_Hardware_Memory)
-    - [Cache](/0273_Hardware_Memory_Cache)
-  - [CPU](/0276_Hardware_CPU)
-    - [Intel](/0251_Hardware_CPU_Intel)
-  - [Reference](/List_Hardware_info)
-  - [NUMA](/0224_Hardware_NUMA)
 - Build
   - [Cmake](/0064_Build_Cmake)
     - [Windows](/0244_Build_Cmake_Windows)
@@ -213,6 +198,21 @@
     - [Reference](/0118_Build_Jupyter_JupyterHub)
   - [Reference](/0080_Build_Make)
   - [pk-config](/0176_Build_pkgconfig)
+- [硬件](/0211_Hardware)
+  - GPU
+    - [iGPU](/0212_Hardware_GPU_iGPU)
+      - [Tools](/0234_Hardware_GPU_iGPU_Tools)
+      - [Issues](/0233_Hardware_GPU_iGPU_Issues)
+    - [NVIDIA](/0219_Hardware_GPU_NVIDIA)
+  - [SIMD](/0213_Hardware_SIMD)
+    - [原理](/0214_Hardware_SIMD_原理)
+    - [AVX](/0268_Hardware_SIMD_AVX)
+  - [Memory](/0215_Hardware_Memory)
+    - [Cache](/0273_Hardware_Memory_Cache)
+  - [CPU](/0276_Hardware_CPU)
+    - [Intel](/0251_Hardware_CPU_Intel)
+  - [Reference](/List_Hardware_info)
+  - [NUMA](/0224_Hardware_NUMA)
 - [Pages](/Github_Pages)
   - [Reference](/Github_Pages_Mirror)
   - geojson
@@ -241,6 +241,12 @@
     - [text in gray](/0160_Doc_Markdown_Text)
     - [List](/0161_Doc_Markdown_List)
   - [YAML](/0229_Doc_YAML)
+- Linux
+  - [History](/0096_Linux_History)
+  - [PAM - Pluggable Authentication Module](/0108_Linux_PAM)
+  - [POSIX VS SystemV](/0020_Linux_POSIX与SystemV)
+  - [IncreaseSwap](/0291_Linux_IncreaseSwap)
+  - [Brief](/0186_Linux_Yocto)
 - [Install](/Linux_Install)
 - [Reference](/OpenCL_Install)
   - [Reference](/Ubuntu_Install_GCC)
@@ -251,15 +257,10 @@
     - [ShadowSocks](/0117_Networks_Proxy_shadowsocks)
     - [V2Ray](/0157_Networks_Proxy_V2Ray)
   - [Tools](/Linux_Networks_Tools)
-- Linux
-  - [PAM - Pluggable Authentication Module](/0108_Linux_PAM)
-  - [POSIX VS SystemV](/0020_Linux_POSIX与SystemV)
-  - [IncreaseSwap](/0291_Linux_IncreaseSwap)
-  - [Brief](/0186_Linux_Yocto)
-- [install](/cmake_install)
-  - [files](/cmake_install_files)
-  - google
-    - [Reference](/Ubuntu_install_google_pinyin)
+- X
+  - [版本号定义](/0171_X_Version)
+  - [Open Source License](/0156_X_OpenSourceLicense)
+  - [CRLF](/0034_X_CRLF)
 - [DataFrame](/pandas_DataFrame)
   - [传递函数，效果同上](/pandas_DataFrame_UseCase)
   - [Create](/pandas_DataFrame_Create)
@@ -268,52 +269,53 @@
     - [Reference](/Linux_Task_Schedule_Tools)
   - manage
     - [Reference](/Linux_Task_manage_tools)
-- [Reference](/Socket_Function)
-- [Reference](/Shell_Function)
-- X
-  - [版本号定义](/0171_X_Version)
-  - [CRLF](/0034_X_CRLF)
-- [Linux File System](/0137_FileSystem)
-  - [Reference](/0017_FileSystem_Format)
-- [Driver](/Linux_Driver)
-  - [Failed](/NVIDIA_Driver_Failed)
-- Docker
-  - [GUI](/0041_Docker_GUI)
-  - [compose](/0042_Docker_compose)
-- [Reference](/Linux_Vi)
-  - [Reference](/Linux_Vi_UseCase)
-- Standard
-  - Template
-    - [Reference](/CPP_Standard_Template_Library)
-  - [Reference](/CPP_Standard_Library)
-- [Desktop](/Linux_Desktop)
-  - Display
-    - [Issue Ubuntu 桌面不显示](/Ubuntu_Desktop_Display_Issue)
-- [Optimization](/Performance_Optimization)
-  - [TMA](/Performance_Optimization_TMA)
-- [sort](/pandas_sort)
-- [Brief](/Linux_sort)
-- Performance
-  - [性能优化](/0272_Performance_Optimization)
-  - [qperf](/Network_Performance_Tools)
+- [install](/cmake_install)
+  - [files](/cmake_install_files)
+  - google
+    - [Reference](/Ubuntu_install_google_pinyin)
 - show
   - image
     - [Reference](/Jupyter_show_image_dynamic)
   - boot
     - [Reference](/Linux_show_boot_info)
+- [Reference](/Socket_Function)
+- [Reference](/Shell_Function)
+- Standard
+  - Template
+    - [Reference](/CPP_Standard_Template_Library)
+  - [Reference](/CPP_Standard_Library)
+- [Reference](/Linux_Vi)
+  - [Reference](/Linux_Vi_UseCase)
+- Docker
+  - [GUI](/0041_Docker_GUI)
+  - [compose](/0042_Docker_compose)
+- [Desktop](/Linux_Desktop)
+  - Display
+    - [Issue Ubuntu 桌面不显示](/Ubuntu_Desktop_Display_Issue)
+- [Linux File System](/0137_FileSystem)
+  - [Reference](/0017_FileSystem_Format)
+- [Package Information for pkg-config](/pkg_config)
+- [config](/Git_config)
+- [Driver](/Linux_Driver)
+  - [Failed](/NVIDIA_Driver_Failed)
 - [Reference](/Docker_Network)
   - Port
     - Tools
-- [Issues](/iGPU_Issues)
-- [Issues](/Docker_Issues)
-- [Reference](/Vi_plugins)
-- [Reference](/tmux_plugins)
 - Bind
   - Socket
     - [Core](/Program_Bind_Socket_Core)
   - [Reference](/OpenMP_Bind_Core)
-- [Package Information for pkg-config](/pkg_config)
-- [config](/Git_config)
+- [sort](/pandas_sort)
+- [Brief](/Linux_sort)
+- Performance
+  - [性能优化](/0272_Performance_Optimization)
+  - [qperf](/Network_Performance_Tools)
+- [Reference](/Vi_plugins)
+- [Reference](/tmux_plugins)
+- [Issues](/iGPU_Issues)
+- [Issues](/Docker_Issues)
+- [Optimization](/Performance_Optimization)
+  - [TMA](/Performance_Optimization_TMA)
 - [Usecase](/OpenMP_Usecase)
 - [Reference](/Vi_Usecase)
 - [Reference](/Linux_find)
@@ -376,7 +378,7 @@
     - [UseCase](/Jupyter_use_local_package)
 - [Reference](/Parallel_Computing)
 - [Series](/pandas_Series)
-- [Reference](/Docker_GUI)
+- [Compiler](/Intel_Compiler)
 - forget
   - [Reference](/Ubuntu_forget_password)
 - [DEBUG](/DPCPP_DEBUG)
@@ -391,7 +393,6 @@
 - [CPU](/Intel_CPU)
 - [Brief](/Ubuntu_watch)
 - [Brief](/Python_virtualenv)
-- [platforms](/cmake_platforms)
 - auto
   - mount
     - [使用 fdisk 对第二硬盘分区](/Ubuntu_auto_mount_disk)
@@ -399,7 +400,8 @@
 - jupyter
   - [Reference](/_jupyter_Issues)
 - [Reference](/Linux_Semaphore)
-- [Compiler](/Intel_Compiler)
+- [platforms](/cmake_platforms)
+- [Reference](/Docker_GUI)
 - [sar](/Linux_sar)
 - intel
   - gpu
