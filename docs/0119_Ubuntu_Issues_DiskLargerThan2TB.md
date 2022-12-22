@@ -2,16 +2,18 @@
 Title | Ubuntu Issues DiskLargerThan2TB
 -- | --
 Created @ | `2019-04-30T08:32:25Z`
-Last Modify @| `2022-12-22T07:51:49Z`
+Last Modify @| `2022-12-22T07:52:12Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/119)
 
 ---
-# Reference
+# 硬盘大于 2TB
+
+## Reference
 - [Ubuntu挂载3T硬盘或大于2T磁盘](https://blog.csdn.net/zhengchaooo/article/details/79500075)
 
 
-# Brief
+## Brief
 - MBR分区表不支持容量大于2.2TB（2.2 × 1012字节）的分区
 -  使用 parted 建立 GPT 分区
 
@@ -69,7 +71,7 @@ sda      8:0    0   7.3T  0 disk
 
 ```
 
-# Format
+## Format
 
 ```
 mkfs.ext4 /dev/sda1
