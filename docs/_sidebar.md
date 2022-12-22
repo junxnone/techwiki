@@ -319,6 +319,7 @@
   - [Tools](/Linux_Networks_Tools)
 - [Pandas](/0285_Pandas)
   - [DataFrame](/0286_Pandas_DataFrame)
+  - [Series](/0280_Pandas_Series)
   - UseCase
     - [list2csv](/0278_Pandas_UseCase_list2csv)
 - [Desktop](/Linux_Desktop)
