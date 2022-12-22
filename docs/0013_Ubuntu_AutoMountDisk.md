@@ -1,8 +1,8 @@
 ---
-Title | Ubuntu auto mount disk
+Title | Ubuntu AutoMountDisk
 -- | --
 Created @ | `2018-12-02T09:42:08Z`
-Last Modify @| `2022-12-22T07:49:58Z`
+Last Modify @| `2022-12-22T07:50:20Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/13)
 
