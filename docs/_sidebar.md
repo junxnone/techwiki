@@ -151,6 +151,7 @@
 - Build
   - [Cmake](/0064_Build_Cmake)
     - [comment line](/0192_Build_Cmake_语法)
+    - [CMD](/0249_Build_Cmake_CMD)
     - [Install](/0066_Build_Cmake_Install)
     - [VAR](/0240_Build_Cmake_VAR)
 - [Networks](/Linux_Networks)
