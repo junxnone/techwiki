@@ -1,8 +1,8 @@
 ---
-Title | Jupyter show image dynamic
+Title | Tools Jupyter ShowImageDynamic
 -- | --
 Created @ | `2020-11-01T07:58:42Z`
-Last Modify @| `2022-12-22T06:18:40Z`
+Last Modify @| `2022-12-22T06:18:56Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/139)
 
