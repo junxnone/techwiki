@@ -123,10 +123,11 @@
     - [GCC](/0170_Programing_Compiler_GCC)
       - [UseCase](/0245_Programing_Compiler_GCC_UseCase)
     - [ICX Intel Compiler](/0196_Programing_Compiler_ICX)
+  - [Python](/0228_Programing_Python)
+    - [Slice](/0254_Programing_Python_Slice)
+    - [非空](/0267_Programing_Python_List)
   - [Library](/0237_Programing_Library)
     - [Tools](/0236_Programing_Library_Tools)
-  - [Python](/0228_Programing_Python)
-    - [非空](/0267_Programing_Python_List)
   - [Reference](/0023_Programing_Shell)
 - Build
   - [Cmake](/0064_Build_Cmake)
