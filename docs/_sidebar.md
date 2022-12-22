@@ -80,6 +80,17 @@
     - [Intel](/0251_Hardware_CPU_Intel)
   - [Reference](/List_Hardware_info)
   - [NUMA](/0224_Hardware_NUMA)
+- [性能优化](/0272_OPT)
+  - [PARA](/0207_OPT_PARA)
+    - [OpenMP](/0199_OPT_PARA_OpenMP)
+      - [API](/0200_OPT_PARA_OpenMP_API)
+  - Tools
+    - [Vtune](/0227_OPT_Tools_Vtune)
+      - [CommandLine](/0296_OPT_Tools_Vtune_CommandLine)
+  - Memory
+    - [CacheLine](/0275_OPT_Memory_CacheLine)
+  - [TMA](/0274_OPT_TMA)
+  - [Loop](/0235_OPT_Loop)
 - [Pages](/Github_Pages)
   - [Reference](/Github_Pages_Mirror)
   - geojson
@@ -92,16 +103,6 @@
     - [Reference](/Github_Pages_Readme_Stats)
   - [Reference](/Github_Pages_docsify)
   - [Reference](/Github_Pages_jekyll)
-- [性能优化](/0272_OPT)
-  - [PARA](/0207_OPT_PARA)
-    - [OpenMP](/0199_OPT_PARA_OpenMP)
-  - Tools
-    - [Vtune](/0227_OPT_Tools_Vtune)
-      - [CommandLine](/0296_OPT_Tools_Vtune_CommandLine)
-  - Memory
-    - [CacheLine](/0275_OPT_Memory_CacheLine)
-  - [TMA](/0274_OPT_TMA)
-  - [Loop](/0235_OPT_Loop)
 - Programing
   - [编译器](/0169_Programing_Compiler)
     - [GCC](/0170_Programing_Compiler_GCC)
