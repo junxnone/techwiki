@@ -144,7 +144,7 @@
     - [Reference](/0178_Programing_CPP_Vector)
   - [编译器](/0169_Programing_Compiler)
     - [GCC](/0170_Programing_Compiler_GCC)
-      - [Reference](/0012_Programing_Compiler_GCC_UbuntuInstall)
+      - [Ubuntu Install](/0012_Programing_Compiler_GCC_UbuntuInstall)
       - [UseCase](/0245_Programing_Compiler_GCC_UseCase)
     - [ICX Intel Compiler](/0196_Programing_Compiler_ICX)
   - [Library](/0237_Programing_Library)

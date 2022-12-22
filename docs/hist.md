@@ -152,7 +152,7 @@
 - 2020-06-03   [Reference](/Linux_Tools_updatealternatives)
 - 2020-06-03   [Reference](/Linux_Tools_APT)
 - 2020-06-03   [Reference](/Ubuntu_APT)
-- 2020-06-03   [Reference](/0012_Programing_Compiler_GCC_UbuntuInstall)
+- 2020-06-03   [Ubuntu Install](/0012_Programing_Compiler_GCC_UbuntuInstall)
 - 2020-05-26   [logging](/0265_Programing_Python_logging)
 - 2020-05-14   [Download](/Linux_Tools_Download)
 - 2020-05-04   [Reference](/0070_Programing_Shell_comment)
