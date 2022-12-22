@@ -148,6 +148,7 @@
   - [Docker](/0039_Hypervisor_Docker)
     - [GUI](/0041_Hypervisor_Docker_GUI)
     - [Reference](/0040_Hypervisor_Docker_Network)
+    - [Reference](/0082_Hypervisor_Docker_Dockerfile)
 - [Task](/OpenMP_Task)
   - Schedule
     - [Reference](/Linux_Task_Schedule_Tools)
