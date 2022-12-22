@@ -2,16 +2,18 @@
 Title | Tools Github Pages ReadmeStats
 -- | --
 Created @ | `2021-02-08T03:53:53Z`
-Last Modify @| `2022-12-22T07:00:49Z`
+Last Modify @| `2022-12-22T07:01:15Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/147)
 
 ---
-# Reference
+# README Stats
+
+## Reference
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#github-extra-pins)
 
 
-# Brief
+## Brief
 
 Name | Demo Show
 -- | -- 
@@ -26,7 +28,8 @@ Name | Code
 Stats Card | `![Junx's GitHub stats](https://github-readme-stats.vercel.app/api?username=junxnone&show_icons=true&theme=dark)`
 Languages Card |  `[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junxnone&langs_count=10&hide=javascript,html,CSS,SCSS&layout=compact&custom_title=Junx+Most+Used+Languages)](https://github.com/junxnone)`
 Extra Pins | `[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=junxnone&repo=template_ht_markline)](https://github.com/junxnone/template_ht_markline)`
-# Tags 
+
+## Tags 
 
 Type | Tags | Link
 -- | -- | --
