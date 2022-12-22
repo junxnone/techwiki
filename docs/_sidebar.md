@@ -11,6 +11,7 @@
     - [UseCase](/0063_Tools_Git_tag)
     - [移除 stage 文件](/0061_Tools_Git_RMStageFile)
     - [config](/0059_Tools_Git_config)
+    - [Reference](/0172_Tools_Git_NoNewline)
   - [Jupyter](/0143_Tools_Jupyter)
     - [JupyterLab](/0155_Tools_Jupyter_JupyterLab)
     - [UseCase](/0138_Tools_Jupyter_UseLocalPackage)
