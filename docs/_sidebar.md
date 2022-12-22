@@ -82,6 +82,7 @@
   - [CPU](/0276_Hardware_CPU)
     - [Intel](/0251_Hardware_CPU_Intel)
   - [Reference](/List_Hardware_info)
+  - [SIMD](/0213_Hardware_SIMD)
   - [Memory](/0215_Hardware_Memory)
 - [Install](/Linux_Install)
 - [Reference](/OpenCL_Install)
