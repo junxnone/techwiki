@@ -81,7 +81,7 @@
   - [Reference](/Linux_Tools_kill)
   - [syncthing](/Linux_Tools_syncthing)
   - [VisualStudio](/0222_Tools_VisualStudio)
-  - [Inference](/0165_Tools_OpenProject)
+  - [OpenProject 项目管理工具](/0165_Tools_OpenProject)
   - [Reference](/Linux_Tools_tr)
   - [Show Linux Boot Info](/0009_Tools_ShowBootInfo)
   - [hostname 管理](/0047_Tools_hostname)

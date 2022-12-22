@@ -220,7 +220,7 @@
 - 2019-07-19   [FormatString](/0255_Programing_Python_FormatString)
 - 2019-07-17   [Reference](/0151_Tools_Github_Pages_Mirror)
 - 2019-07-15   [函数](/0075_Programing_Shell_Function)
-- 2019-07-14   [Inference](/0165_Tools_OpenProject)
+- 2019-07-14   [OpenProject 项目管理工具](/0165_Tools_OpenProject)
 - 2019-07-12   [xargs](/Linux_Tools_xargs)
 - 2019-07-11   [rsync](/rsync)
 - 2019-07-11   [rsync](/Linux_Tools_rsync)
