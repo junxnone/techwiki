@@ -84,7 +84,9 @@
   - [PARA](/0207_OPT_PARA)
     - [OpenMP](/0199_OPT_PARA_OpenMP)
       - [Usease](/0208_OPT_PARA_OpenMP_Usease)
+      - [VAR](/0209_OPT_PARA_OpenMP_VAR)
       - [API](/0200_OPT_PARA_OpenMP_API)
+      - [UseCase](/0208_OPT_PARA_OpenMP_UseCase)
   - Tools
     - [Vtune](/0227_OPT_Tools_Vtune)
       - [CommandLine](/0296_OPT_Tools_Vtune_CommandLine)
