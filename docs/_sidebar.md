@@ -306,6 +306,7 @@
   - [Reference](/CentOS_Install_Desktop)
 - X
   - [PECOFF](/0248_X_PECOFF)
+  - [LAPACK](/0271_X_LAPACK)
   - [版本号定义](/0171_X_Version)
   - [Open Source License](/0156_X_OpenSourceLicense)
   - [CRLF](/0034_X_CRLF)
