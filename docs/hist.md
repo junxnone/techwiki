@@ -167,7 +167,7 @@
 - 2019-08-09   [Reference](/Linux_Tools_Download_magnetW)
 - 2019-08-06   [grep](/Linux_Tools_grep)
 - 2019-08-01   [Reference](/Linux_Tools_date)
-- 2019-07-25   [Brief](/0074_Programing_Shell_if)
+- 2019-07-25   [if  判断](/0074_Programing_Shell_if)
 - 2019-07-25   [Brief](/Linux_Tools_ls)
 - 2019-07-19   [tqdm](/0264_Programing_Python_tqdm)
 - 2019-07-19   [FormatString](/0255_Programing_Python_FormatString)
