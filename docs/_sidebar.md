@@ -121,6 +121,7 @@
     - [Reference](/0178_Programing_CPP_Vector)
   - [Python](/0228_Programing_Python)
     - [Slice](/0254_Programing_Python_Slice)
+    - [Decorator](/0253_Programing_Python_Decorator)
     - [FormatString](/0255_Programing_Python_FormatString)
     - [非空](/0267_Programing_Python_List)
   - [编译器](/0169_Programing_Compiler)
