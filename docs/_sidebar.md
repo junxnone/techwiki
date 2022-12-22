@@ -229,7 +229,7 @@
   - Issues
     - [USB 耳机没声音](/0093_Ubuntu_Issues_USBHeadphoneNoSound)
     - [桌面不显示](/0052_Ubuntu_Issues_DesktopDisplay)
-    - [Reference](/0119_Ubuntu_Issues_DiskLargerThan2TB)
+    - [硬盘大于 2TB](/0119_Ubuntu_Issues_DiskLargerThan2TB)
   - [Server Install Desktop](/0045_Ubuntu_InstallDesktop)
   - [Ubuntu Install Steam](/0004_Ubuntu_InstallSteam)
   - [Upgrade](/0089_Ubuntu_Upgrade)

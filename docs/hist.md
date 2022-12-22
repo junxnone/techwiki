@@ -236,7 +236,7 @@
 - 2019-05-11   [Reference](/0118_Build_Jupyter_JupyterHub)
 - 2019-05-09   [sar](/Linux_Tools_sar)
 - 2019-05-07   [jobs](/Linux_Tools_jobs)
-- 2019-04-30   [Reference](/0119_Ubuntu_Issues_DiskLargerThan2TB)
+- 2019-04-30   [硬盘大于 2TB](/0119_Ubuntu_Issues_DiskLargerThan2TB)
 - 2019-04-20   [opengrok](/0182_Tools_opengrok)
 - 2019-04-12   [Tools](/Linux_Tools)
 - 2019-04-12   [Tools](/Tools)
