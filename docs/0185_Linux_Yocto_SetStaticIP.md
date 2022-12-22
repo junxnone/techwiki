@@ -2,16 +2,17 @@
 Title | Linux Yocto SetStaticIP
 -- | --
 Created @ | `2018-10-26T06:35:10Z`
-Last Modify @| `2022-12-22T07:34:18Z`
+Last Modify @| `2022-12-22T07:34:36Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/185)
 
 ---
+# 设置静态IP
 
-# Reference
+## Reference
 - [systemd-networkd  - Wired adapter using a static IP](https://wiki.archlinux.org/index.php/Systemd-networkd#Wired_adapter_using_a_static_IP)
 
-# Brief
+## Brief
 - Yocto 使用 systemd-networkd 来管理网络
 
 
