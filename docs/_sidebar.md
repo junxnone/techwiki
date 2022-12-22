@@ -136,6 +136,13 @@
     - [GUI](/0041_Hypervisor_Docker_GUI)
     - [Reference](/0040_Hypervisor_Docker_Network)
     - [Reference](/0082_Hypervisor_Docker_Dockerfile)
+- Build
+  - [Cmake](/0064_Build_Cmake)
+    - [comment line](/0192_Build_Cmake_语法)
+    - [命令行](/0249_Build_Cmake_CMD)
+    - [Install](/0066_Build_Cmake_Install)
+    - [VAR](/0240_Build_Cmake_VAR)
+    - [Debug](/0241_Build_Cmake_Debug)
 - Programing
   - [编译器](/0169_Programing_Compiler)
     - [GCC](/0170_Programing_Compiler_GCC)
@@ -148,12 +155,6 @@
   - [Reference](/Ubuntu_Install_GCC)
   - [Reference](/Ubuntu_Install_Steam)
   - [Reference](/CentOS_Install_Desktop)
-- Build
-  - [Cmake](/0064_Build_Cmake)
-    - [comment line](/0192_Build_Cmake_语法)
-    - [CMD](/0249_Build_Cmake_CMD)
-    - [Install](/0066_Build_Cmake_Install)
-    - [VAR](/0240_Build_Cmake_VAR)
 - [Networks](/Linux_Networks)
   - Proxy
     - [ShadowSocks](/0117_Networks_Proxy_shadowsocks)
