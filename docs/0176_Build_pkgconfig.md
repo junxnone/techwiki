@@ -2,11 +2,14 @@
 Title | Build pkgconfig
 -- | --
 Created @ | `2021-10-13T03:36:37Z`
-Last Modify @| `2022-12-22T06:11:25Z`
+Last Modify @| `2022-12-22T06:11:40Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/176)
 
 ---
+# pk-config
+
+
 ## Reference
 - [Guide to pkg-config](https://people.freedesktop.org/~dbn/pkg-config-guide.html)
 - [code](https://gitlab.freedesktop.org/pkg-config/pkg-config)
