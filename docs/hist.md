@@ -20,7 +20,7 @@
 - 2022-05-27   [switch](/0289_Programing_CPP_switch)
 - 2022-05-26   [Compile](/AVX_Code_Compile)
 - 2022-05-26   [CodeCompile](/0288_Hardware_SIMD_AVX_CodeCompile)
-- 2022-05-24   [NVIDIAGPUDriver](/0287_Ubuntu_Issues_NVIDIAGPUDriver)
+- 2022-05-24   [NVIDIA GPU Driver 问题](/0287_Ubuntu_Issues_NVIDIAGPUDriver)
 - 2022-05-24   [Failed](/NVIDIA_Driver_Failed)
 - 2022-05-02   [Linux](/Linux)
 - 2022-04-27   [CPU](/CPU)
