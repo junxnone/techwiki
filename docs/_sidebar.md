@@ -141,6 +141,7 @@
     - [Platforms](/0243_Build_Cmake_Platforms)
     - [comment line](/0192_Build_Cmake_语法)
     - [命令行](/0249_Build_Cmake_CMD)
+    - [InstallFiles](/0247_Build_Cmake_InstallFiles)
     - [Install](/0066_Build_Cmake_Install)
     - [VAR](/0240_Build_Cmake_VAR)
     - [Debug](/0241_Build_Cmake_Debug)
