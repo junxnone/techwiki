@@ -124,6 +124,7 @@
     - [logging](/0265_Programing_Python_logging)
     - [FormatString](/0255_Programing_Python_FormatString)
     - [assert](/0262_Programing_Python_assert)
+    - [psutil](/0263_Programing_Python_psutil)
     - [pip](/0261_Programing_Python_pip)
     - [非空](/0267_Programing_Python_List)
     - [编译可执行文件](/0256_Programing_Python_BuildExe)
