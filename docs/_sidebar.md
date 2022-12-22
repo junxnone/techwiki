@@ -14,6 +14,7 @@
     - [proxy](/0057_Tools_Git_proxy)
     - [Brief](/0058_Tools_Git_submodule)
     - [branch](/0060_Tools_Git_branch)
+    - [UseCase](/0063_Tools_Git_tag)
     - [config](/0059_Tools_Git_config)
   - [Vi](/Linux_Tools_Vi)
     - [Reference](/Linux_Tools_Vi_UseCase)
