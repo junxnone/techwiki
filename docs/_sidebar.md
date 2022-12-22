@@ -148,6 +148,11 @@
   - [Reference](/Ubuntu_Install_GCC)
   - [Reference](/Ubuntu_Install_Steam)
   - [Reference](/CentOS_Install_Desktop)
+- Build
+  - [Cmake](/0064_Build_Cmake)
+    - [comment line](/0192_Build_Cmake_语法)
+    - [Install](/0066_Build_Cmake_Install)
+    - [VAR](/0240_Build_Cmake_VAR)
 - [Networks](/Linux_Networks)
   - Proxy
     - [ShadowSocks](/0117_Networks_Proxy_shadowsocks)
@@ -165,10 +170,6 @@
   - [files](/cmake_install_files)
   - google
     - [Reference](/Ubuntu_install_google_pinyin)
-- Build
-  - [Cmake](/0064_Build_Cmake)
-    - [comment line](/0192_Build_Cmake_语法)
-    - [Install](/0066_Build_Cmake_Install)
 - [Reference](/Docker_Network)
   - Port
     - Tools
