@@ -12,6 +12,7 @@
     - [Docker Image](/0142_Tools_Jupyter_DockerImage)
   - [Git](/0062_Tools_Git)
     - [proxy](/0057_Tools_Git_proxy)
+    - [archive](/0246_Tools_Git_archive)
     - [Brief](/0058_Tools_Git_submodule)
     - [branch](/0060_Tools_Git_branch)
     - [precommit](/0084_Tools_Git_precommit)
