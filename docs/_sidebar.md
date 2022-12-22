@@ -237,6 +237,7 @@
   - [Server Install Desktop](/0045_Ubuntu_InstallDesktop)
   - [Ubuntu Install Steam](/0004_Ubuntu_InstallSteam)
   - [Upgrade](/0089_Ubuntu_Upgrade)
+  - [Reference](/0094_Ubuntu_UserAdd)
   - Download
     - [Reference](/0036_Ubuntu_Download_aria2)
   - thinclient
