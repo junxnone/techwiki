@@ -267,6 +267,12 @@
   - [Reference](/Ubuntu_Install_GCC)
   - [Reference](/Ubuntu_Install_Steam)
   - [Reference](/CentOS_Install_Desktop)
+- Ubuntu
+  - [Ubuntu Install Steam](/0004_Ubuntu_InstallSteam)
+  - [Upgrade](/0089_Ubuntu_Upgrade)
+  - Download
+    - [Reference](/0036_Ubuntu_Download_aria2)
+  - [Install Goolge Pinyin](/0010_Ubuntu_InstallGooglePinyin)
 - X
   - [PECOFF](/0248_X_PECOFF)
   - [版本号定义](/0171_X_Version)
@@ -277,10 +283,6 @@
     - [ShadowSocks](/0117_Networks_Proxy_shadowsocks)
     - [V2Ray](/0157_Networks_Proxy_V2Ray)
   - [Tools](/Linux_Networks_Tools)
-- Ubuntu
-  - [Ubuntu Install Steam](/0004_Ubuntu_InstallSteam)
-  - [Upgrade](/0089_Ubuntu_Upgrade)
-  - [Install Goolge Pinyin](/0010_Ubuntu_InstallGooglePinyin)
 - [DataFrame](/pandas_DataFrame)
   - [传递函数，效果同上](/pandas_DataFrame_UseCase)
   - [Create](/pandas_DataFrame_Create)
