@@ -104,6 +104,12 @@
   - [Reference](/Ubuntu_Install_GCC)
   - [Reference](/Ubuntu_Install_Steam)
   - [Reference](/CentOS_Install_Desktop)
+- [性能优化](/0272_OPT)
+  - Memory
+    - [CacheLine](/0275_OPT_Memory_CacheLine)
+  - Tools
+    - [Vtune](/0227_OPT_Tools_Vtune)
+  - [Loop](/0235_OPT_Loop)
 - [Networks](/Linux_Networks)
   - Proxy
     - [ShadowSocks](/0117_Networks_Proxy_shadowsocks)
@@ -113,10 +119,6 @@
   - [files](/cmake_install_files)
   - google
     - [Reference](/Ubuntu_install_google_pinyin)
-- [性能优化](/0272_OPT)
-  - Memory
-    - [CacheLine](/0275_OPT_Memory_CacheLine)
-  - [Loop](/0235_OPT_Loop)
 - [DataFrame](/pandas_DataFrame)
   - [传递函数，效果同上](/pandas_DataFrame_UseCase)
   - [Create](/pandas_DataFrame_Create)
