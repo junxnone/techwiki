@@ -134,7 +134,7 @@
 - 2019-10-14   [Linux File System](/0137_FileSystem)
 - 2019-10-12   [syncthing](/Linux_Tools_syncthing)
 - 2019-09-18   [Brief](/Linux_Tools_shuf)
-- 2019-09-08   [Reference](/0142_Tools_Jupyter_DockerImage)
+- 2019-09-08   [Docker Image](/0142_Tools_Jupyter_DockerImage)
 - 2019-08-27   [PAM - Pluggable Authentication Module](/0108_Linux_PAM)
 - 2019-08-27   [PAM - Pluggable Authentication Module](/0108_Security_PAM)
 - 2019-08-22   [sed](/Linux_Tools_sed)
