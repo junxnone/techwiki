@@ -88,70 +88,71 @@
 - [DataFrame](/pandas_DataFrame)
   - [传递函数，效果同上](/pandas_DataFrame_UseCase)
   - [Create](/pandas_DataFrame_Create)
-- [install](/cmake_install)
-  - [files](/cmake_install_files)
-  - google
-    - [Reference](/Ubuntu_install_google_pinyin)
 - [Task](/OpenMP_Task)
   - Schedule
     - [Reference](/Linux_Task_Schedule_Tools)
   - manage
     - [Reference](/Linux_Task_manage_tools)
-- [Reference](/Vi_plugins)
-- [Reference](/tmux_plugins)
-- [Reference](/Docker_Network)
-  - Port
-    - Tools
-- [Reference](/Linux_find)
-  - [Reference](/Cannot_find_bashrc)
-- [Usecase](/OpenMP_Usecase)
-- [Reference](/Vi_Usecase)
-- [sort](/pandas_sort)
-- [Brief](/Linux_sort)
-- Standard
-  - Template
-    - [Reference](/CPP_Standard_Template_Library)
-  - [Reference](/CPP_Standard_Library)
+- [硬件](/0211_Hardware)
+  - [Reference](/List_Hardware_info)
+  - [CPU](/0276_Hardware_CPU)
+- [install](/cmake_install)
+  - [files](/cmake_install_files)
+  - google
+    - [Reference](/Ubuntu_install_google_pinyin)
+- [Reference](/Socket_Function)
+- [Reference](/Shell_Function)
+- [Optimization](/Performance_Optimization)
+  - [TMA](/Performance_Optimization_TMA)
+- File
+  - Compare
+    - [Tools](/Linux_File_Compare_Tools)
+  - [Reference](/OS_File_System)
 - show
   - image
     - [Reference](/Jupyter_show_image_dynamic)
   - boot
     - [Reference](/Linux_show_boot_info)
-- [Reference](/Socket_Function)
-- [Reference](/Shell_Function)
-- [Optimization](/Performance_Optimization)
-  - [TMA](/Performance_Optimization_TMA)
 - [Reference](/Linux_Vi)
   - [Reference](/Linux_Vi_UseCase)
+- Standard
+  - Template
+    - [Reference](/CPP_Standard_Template_Library)
+  - [Reference](/CPP_Standard_Library)
+- [Usecase](/OpenMP_Usecase)
+- [Reference](/Vi_Usecase)
 - [Desktop](/Linux_Desktop)
   - Display
     - [Issue Ubuntu 桌面不显示](/Ubuntu_Desktop_Display_Issue)
-- File
-  - Compare
-    - [Tools](/Linux_File_Compare_Tools)
-  - [Reference](/OS_File_System)
+- [Reference](/Linux_find)
+  - [Reference](/Cannot_find_bashrc)
+- [Reference](/Docker_Network)
+  - Port
+    - Tools
+- [Reference](/Vi_plugins)
+- [Reference](/tmux_plugins)
+- [sort](/pandas_sort)
+- [Brief](/Linux_sort)
 - [Issues](/iGPU_Issues)
 - [Issues](/Docker_Issues)
-- [Optimizations](/Loop_Optimizations)
-- [Optimizations](/Memory_Optimizations)
-- [硬件](/0211_Hardware)
-  - [Reference](/List_Hardware_info)
-- [Package Information for pkg-config](/pkg_config)
-- [config](/Git_config)
-- [Driver](/Linux_Driver)
-  - [Failed](/NVIDIA_Driver_Failed)
 - Bind
   - Socket
     - [Core](/Program_Bind_Socket_Core)
   - [Reference](/OpenMP_Bind_Core)
+- [Optimizations](/Loop_Optimizations)
+- [Optimizations](/Memory_Optimizations)
+- [Package Information for pkg-config](/pkg_config)
+- [config](/Git_config)
+- [Driver](/Linux_Driver)
+  - [Failed](/NVIDIA_Driver_Failed)
 - SSH
   - [Reference](/Windows_SSH_Client)
 - [Reference](/Linux_IPC)
 - Security
   - [PAM - Pluggable Authentication Module](/0108_Security_PAM)
 - [comment line](/cmake_语法)
-- [yapf](/Python_yapf)
 - [Reference](/Jupyter_Arch)
+- [yapf](/Python_yapf)
 - [log](/update_log)
 - move
   - data
