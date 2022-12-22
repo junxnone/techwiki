@@ -212,7 +212,7 @@
 - 2019-08-22   [sed](/Linux_Tools_sed)
 - 2019-08-22   [Reference](/Linux_Tools_tr)
 - 2019-08-15   [传递函数，效果同上](/pandas_DataFrame_UseCase)
-- 2019-08-15   [sort](/0279_Pandas_UseCase_sort)
+- 2019-08-15   [排序](/0279_Pandas_UseCase_sort)
 - 2019-08-14   [SettingWithCopyWarning](/0281_Pandas_Issues_SettingWithCopyWarning)
 - 2019-08-14   [Series](/0280_Pandas_Series)
 - 2019-08-14   [thinclient_drives cannot access](/0124_Ubuntu_thinclient_drives_cannot_access)

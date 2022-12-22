@@ -303,7 +303,7 @@
   - [YAML](/0229_Doc_YAML)
 - [Pandas](/0285_Pandas)
   - UseCase
-    - [sort](/0279_Pandas_UseCase_sort)
+    - [排序](/0279_Pandas_UseCase_sort)
     - [list2csv](/0278_Pandas_UseCase_list2csv)
   - [DataFrame](/0286_Pandas_DataFrame)
   - [Series](/0280_Pandas_Series)
