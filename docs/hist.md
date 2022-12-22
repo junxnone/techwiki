@@ -238,7 +238,7 @@
 - 2019-05-09   [sar](/Linux_Tools_sar)
 - 2019-05-07   [jobs](/Linux_Tools_jobs)
 - 2019-04-30   [硬盘大于 2TB](/0119_Ubuntu_Issues_DiskLargerThan2TB)
-- 2019-04-21   [Reference](/0053_Ubuntu_Issues_FrontHeadPhoneNotWorking)
+- 2019-04-21   [前置耳机不工作](/0053_Ubuntu_Issues_FrontHeadPhoneNotWorking)
 - 2019-04-20   [opengrok](/0182_Tools_opengrok)
 - 2019-04-12   [Tools](/Tools)
 - 2019-04-12   [Tools](/Linux_Tools)

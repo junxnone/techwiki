@@ -229,7 +229,7 @@
   - [pk-config](/0176_Build_pkgconfig)
 - Ubuntu
   - Issues
-    - [Reference](/0053_Ubuntu_Issues_FrontHeadPhoneNotWorking)
+    - [前置耳机不工作](/0053_Ubuntu_Issues_FrontHeadPhoneNotWorking)
     - [USB 耳机没声音](/0093_Ubuntu_Issues_USBHeadphoneNoSound)
     - [桌面不显示](/0052_Ubuntu_Issues_DesktopDisplay)
     - [硬盘大于 2TB](/0119_Ubuntu_Issues_DiskLargerThan2TB)
