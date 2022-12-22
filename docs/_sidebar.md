@@ -243,6 +243,7 @@
     - [Image](/0163_Doc_Markdown_Image)
     - [text in gray](/0160_Doc_Markdown_Text)
     - [List](/0161_Doc_Markdown_List)
+    - [Reference](/0159_Doc_Markdown_GithubEmoji)
   - [YAML](/0229_Doc_YAML)
 - [Install](/Linux_Install)
 - [Reference](/OpenCL_Install)
