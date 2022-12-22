@@ -122,6 +122,7 @@
     - [Decorator](/0253_Programing_Python_Decorator)
     - [FormatString](/0255_Programing_Python_FormatString)
     - [assert](/0262_Programing_Python_assert)
+    - [pip](/0261_Programing_Python_pip)
     - [非空](/0267_Programing_Python_List)
     - [编译可执行文件](/0256_Programing_Python_BuildExe)
   - [CPP](/0179_Programing_CPP)
