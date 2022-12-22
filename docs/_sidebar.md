@@ -118,6 +118,7 @@
       - [bandit](/0257_Programing_Python_CodeAnalysis_bandit)
       - [yapf](/0258_Programing_Python_CodeAnalysis_yapf)
       - [pylint](/0259_Programing_Python_CodeAnalysis_pylint)
+    - [time](/0266_Programing_Python_time)
     - [Slice](/0254_Programing_Python_Slice)
     - [Decorator](/0253_Programing_Python_Decorator)
     - [FormatString](/0255_Programing_Python_FormatString)
