@@ -2,15 +2,17 @@
 Title | X Version
 -- | --
 Created @ | `2020-08-04T08:23:25Z`
-Last Modify @| `2022-12-22T07:23:13Z`
+Last Modify @| `2022-12-22T07:23:36Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/171)
 
 ---
-# Reference
+# 版本号定义
+
+## Reference
 -  [Alpha、Beta、RC、Release版本的区别](https://blog.csdn.net/lilongsy/article/details/83094977)
 
-# Brief
+## Brief
 - Version - 版本号
   - Alpha
   - Beta
