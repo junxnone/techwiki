@@ -137,6 +137,7 @@
 - Hypervisor
   - [Docker](/0039_Hypervisor_Docker)
     - [Reference](/0085_Hypervisor_Docker_Volume)
+    - [Reference](/0086_Hypervisor_Docker_Tools)
     - [GUI](/0041_Hypervisor_Docker_GUI)
     - [Reference](/0040_Hypervisor_Docker_Network)
     - [Reference](/0082_Hypervisor_Docker_Dockerfile)
