@@ -2,15 +2,17 @@
 Title | Programing Compiler GCC UbuntuInstall
 -- | --
 Created @ | `2020-06-03T02:29:48Z`
-Last Modify @| `2022-12-22T07:38:22Z`
+Last Modify @| `2022-12-22T07:38:45Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/12)
 
 ---
-# Reference
-- [ ] [如何在Ubuntu 18.04上安装GCC编译器](https://www.linuxidc.com/Linux/2019-06/159059.htm)
+# Ubuntu Install
 
-# Brief
+## Reference
+- [如何在Ubuntu 18.04上安装GCC编译器](https://www.linuxidc.com/Linux/2019-06/159059.htm)
+
+## Brief
 - Install OS Default Gcc Tools
 - Install The Specified version GCC Tools
 
