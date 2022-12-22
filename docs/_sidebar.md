@@ -250,6 +250,11 @@
     - [ShadowSocks](/0117_Networks_Proxy_shadowsocks)
     - [V2Ray](/0157_Networks_Proxy_V2Ray)
   - [Tools](/Linux_Networks_Tools)
+- Linux
+  - [PAM - Pluggable Authentication Module](/0108_Linux_PAM)
+  - [POSIX VS SystemV](/0020_Linux_POSIX与SystemV)
+  - [IncreaseSwap](/0291_Linux_IncreaseSwap)
+  - [Brief](/0186_Linux_Yocto)
 - [install](/cmake_install)
   - [files](/cmake_install_files)
   - google
@@ -262,10 +267,6 @@
     - [Reference](/Linux_Task_Schedule_Tools)
   - manage
     - [Reference](/Linux_Task_manage_tools)
-- Linux
-  - [PAM - Pluggable Authentication Module](/0108_Linux_PAM)
-  - [POSIX VS SystemV](/0020_Linux_POSIX与SystemV)
-  - [IncreaseSwap](/0291_Linux_IncreaseSwap)
 - [Reference](/Linux_Vi)
   - [Reference](/Linux_Vi_UseCase)
 - show
