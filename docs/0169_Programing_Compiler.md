@@ -2,17 +2,20 @@
 Title | Programing Compiler
 -- | --
 Created @ | `2021-06-01T07:22:07Z`
-Last Modify @| `2022-12-22T03:34:15Z`
+Last Modify @| `2022-12-22T03:34:41Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/169)
 
 ---
-# Reference
+# 编译器
+
+## Reference
 - [GCC](https://gcc.gnu.org/)
 - [LLVM](https://llvm.org/)
 - [ICC](https://software.intel.com/content/www/us/en/develop/documentation/cpp-compiler-developer-guide-and-reference/top.html)
 
-# Brief
+## Brief
+
 - Compiler - 编译器 - `将编程语言解释为处理器可执行指令`
 
 
@@ -26,7 +29,7 @@ BCC | Borland C++ 退出历史？？？
 
 - **LLVM Project** is a collection of modular and reusable compiler and toolchain technologies
 
-# Steps
+## Steps
 
 Name | Inputs | Outputs | GCC | ICC
 -- | -- | -- | -- | -- 
@@ -36,7 +39,7 @@ Name | Inputs | Outputs | GCC | ICC
 链接器(Linker) | 库文件 + ↑ | 目标机器代码
 加载器(Loader) | 库文件 
 
-# Tools 
+## Tools 
 
 Name | Description
 -- | --
