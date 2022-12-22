@@ -317,6 +317,10 @@
     - [ShadowSocks](/0117_Networks_Proxy_shadowsocks)
     - [V2Ray](/0157_Networks_Proxy_V2Ray)
   - [Tools](/Linux_Networks_Tools)
+- [Pandas](/0285_Pandas)
+  - [DataFrame](/0286_Pandas_DataFrame)
+  - UseCase
+    - [list2csv](/0278_Pandas_UseCase_list2csv)
 - [Desktop](/Linux_Desktop)
   - [Reference](/0175_Desktop_CentOS)
   - Display
@@ -341,8 +345,6 @@
   - [Reference](/0017_FileSystem_Format)
 - [Reference](/Socket_Function)
 - [Reference](/Shell_Function)
-- [Pandas](/0285_Pandas)
-  - [DataFrame](/0286_Pandas_DataFrame)
 - Docker
   - [GUI](/0041_Docker_GUI)
   - [compose](/0042_Docker_compose)
