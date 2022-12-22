@@ -77,14 +77,15 @@
       - [API](/0200_OPT_PARA_OpenMP_API)
       - [Offload](/0204_OPT_PARA_OpenMP_Offload)
       - [UseCase](/0208_OPT_PARA_OpenMP_UseCase)
+    - [SYCL](/0194_OPT_PARA_SYCL)
+      - [Concepts](/0195_OPT_PARA_SYCL_Concepts)
+      - [Projects](/0232_OPT_PARA_SYCL_Projects)
+      - [SPIR](/0230_OPT_PARA_SYCL_SPIR)
     - [DPCPP](/0193_OPT_PARA_DPCPP)
       - Level
         - [Zero](/0231_OPT_PARA_DPCPP_Level_Zero)
       - [LevelZero](/0231_OPT_PARA_DPCPP_LevelZero)
       - [DEBUG](/0250_OPT_PARA_DPCPP_DEBUG)
-    - [SYCL](/0194_OPT_PARA_SYCL)
-      - [Projects](/0232_OPT_PARA_SYCL_Projects)
-      - [SPIR](/0230_OPT_PARA_SYCL_SPIR)
     - [Reference](/0198_OPT_PARA_OpenCL)
       - [Install](/0135_OPT_PARA_OpenCL_Install)
   - Tools
