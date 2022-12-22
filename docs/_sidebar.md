@@ -83,6 +83,8 @@
       - [CommandLine](/0296_OPT_Tools_Vtune_CommandLine)
   - Memory
     - [CacheLine](/0275_OPT_Memory_CacheLine)
+  - LIB
+    - [UseCase](/0226_OPT_LIB_IPP)
   - [TMA](/0274_OPT_TMA)
   - [Loop](/0235_OPT_Loop)
 - [硬件](/0211_Hardware)
