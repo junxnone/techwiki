@@ -272,7 +272,7 @@
 - 2018-11-22   [hostnamectl set-hostname serverx-xxx](/Linux_Setup_hostname)
 - 2018-10-29   [Reference](/0040_Hypervisor_Docker_Network)
 - 2018-10-26   [设置静态IP](/0185_Linux_Yocto_SetStaticIP)
-- 2018-10-22   [Reference](/0144_Tools_Jupyter_Issues)
+- 2018-10-22   [Issues](/0144_Tools_Jupyter_Issues)
 - 2018-10-17   [TextCompare](/Linux_Tools_TextCompare)
 - 2018-10-17   [CompareText](/Linux_Tools_CompareText)
 - 2018-10-16   [mediainfo](/Linux_Tools_mediainfo)

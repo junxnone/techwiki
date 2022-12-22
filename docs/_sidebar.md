@@ -26,7 +26,7 @@
     - [config](/0059_Tools_Git_config)
     - [No newline at end of file](/0172_Tools_Git_NoNewline)
   - [Jupyter](/0143_Tools_Jupyter)
-    - [Reference](/0144_Tools_Jupyter_Issues)
+    - [Issues](/0144_Tools_Jupyter_Issues)
     - [JupyterLab](/0155_Tools_Jupyter_JupyterLab)
     - [UseCase](/0138_Tools_Jupyter_UseLocalPackage)
     - [Reference](/0140_Tools_Jupyter_Extensions)
