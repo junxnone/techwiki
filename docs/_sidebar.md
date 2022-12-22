@@ -116,6 +116,7 @@
   - [Python](/0228_Programing_Python)
     - [CodeAnalysis](/0260_Programing_Python_CodeAnalysis)
       - [bandit](/0257_Programing_Python_CodeAnalysis_bandit)
+      - [pylint](/0259_Programing_Python_CodeAnalysis_pylint)
     - [Slice](/0254_Programing_Python_Slice)
     - [Decorator](/0253_Programing_Python_Decorator)
     - [FormatString](/0255_Programing_Python_FormatString)
