@@ -229,9 +229,6 @@
     - [桌面不显示](/0052_Ubuntu_Issues_DesktopDisplay)
   - [Server Install Desktop](/0045_Ubuntu_InstallDesktop)
   - [Ubuntu Install Steam](/0004_Ubuntu_InstallSteam)
-  - auto
-    - mount
-      - [<file system> <mount point> <type> <options> <dump> <pass>](/0013_Ubuntu_auto_mount_disk)
   - [Upgrade](/0089_Ubuntu_Upgrade)
   - Download
     - [Reference](/0036_Ubuntu_Download_aria2)
@@ -240,6 +237,7 @@
       - cannot
         - [thinclient_drives cannot access](/0124_Ubuntu_thinclient_drives_cannot_access)
   - [Reference](/0051_Ubuntu_ForgetPassword)
+  - [<file system> <mount point> <type> <options> <dump> <pass>](/0013_Ubuntu_AutoMountDisk)
   - [Install Goolge Pinyin](/0010_Ubuntu_InstallGooglePinyin)
 - Linux
   - [IPC](/0097_Linux_IPC)
