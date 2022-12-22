@@ -96,15 +96,16 @@
   - [Reference](/Ubuntu_Install_GCC)
   - [Reference](/Ubuntu_Install_Steam)
   - [Reference](/CentOS_Install_Desktop)
+- Programing
+  - [Library](/0237_Programing_Library)
+    - [Tools](/0236_Programing_Library_Tools)
+  - [编译器](/0169_Programing_Compiler)
+    - [GCC](/0170_Programing_Compiler_GCC)
 - [Networks](/Linux_Networks)
   - Proxy
     - [ShadowSocks](/0117_Networks_Proxy_shadowsocks)
     - [V2Ray](/0157_Networks_Proxy_V2Ray)
   - [Tools](/Linux_Networks_Tools)
-- Programing
-  - [Library](/0237_Programing_Library)
-    - [Tools](/0236_Programing_Library_Tools)
-  - [编译器](/0169_Programing_Compiler)
 - [install](/cmake_install)
   - [files](/cmake_install_files)
   - google
