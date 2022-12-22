@@ -2,19 +2,21 @@
 Title | OPT PARA OpenMP BindCore
 -- | --
 Created @ | `2021-08-09T10:13:27Z`
-Last Modify @| `2022-12-22T03:49:54Z`
+Last Modify @| `2022-12-22T03:50:27Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/techwiki/issues/201)
 
 ---
-# Reference
+# 绑定CPU核
+
+## Reference
 - [OpenMP Affinity - ](https://www.openmp.org/wp-content/uploads/openmp-examples-4.5.0.pdf)
 - [控制 OpenMP 4.0 中的线程关联性](https://docs.oracle.com/cd/E57201_01/html/E58572/gpdpg.html#scrolltoc)
 - [影响服务器内存性能的硬件知识](https://decodezp.github.io/2018/12/13/quickwords5-server-memory/)
 - [What is Scheduling in OpenMP](https://610yilingliu.github.io/2020/07/15/ScheduleinOpenMP/)
 - [OpenMP topic: Affinity](https://pages.tacc.utexas.edu/~eijkhout/pcse/html/omp-affinity.html)
 
-# Brief
+## Brief
 - OMP_PLACES - threads/cores/sockets - 指定 `Location Units`
 - proc_bind - `绑定方式`  - `OMP_PROC_BIND`
 - schedule - `调度方式`
@@ -68,7 +70,7 @@ runtime | 运行时根据 `OMP_SCHEDULE` 环境变量决定调用方法<br> `exp
 auto | 
 
 
-# UseCase
+## UseCase
 
 
 - `#pragma omp parallel for schedule(static, 3)`
